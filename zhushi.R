@@ -190,10 +190,13 @@ func <- function(ID, mulu) {
     }
   }
   
-  write.table(UniID,
-              file = mulu,
-              quote = FALSE,
-              row.names = FALSE)
+  write.table(
+    UniID,
+    file = mulu,
+    quote = FALSE,
+    row.names = FALSE,
+    sep = "\t"
+  )
 }
 
 

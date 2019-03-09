@@ -6,7 +6,7 @@ library(magrittr)
 library(stringr)
 
 UniID <-
-  readLines("C:/Users/Admin/Desktop/idps/script/output/UniIDofDieaseassociated.txt")
+  readLines("D:/idps/script/output/UniIDofDieaseassociated.txt")
 UniID <- strsplit(UniID, " ")[[1]]
 UniID
 
@@ -62,6 +62,6 @@ shoudongOutlier <-
   )
 Outlier <- rbind(Outlier, shoudongOutlier)
 write.table(Outlier,
-            file = "C:/Users/Admin/Desktop/idps/script/output/yichangzhi.txt",
+            file = "D:/idps/script/output/yichangzhi.txt",
             quote = FALSE,
             row.names = FALSE)

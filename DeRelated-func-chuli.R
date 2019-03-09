@@ -9,7 +9,7 @@ library(magrittr)
 ID <- NULL
 
 for (i in 1:15) {
-  URL <- paste("C:/Users/Admin/Desktop/1/dbPTM", i, ".html", sep = "")
+  URL <- paste("D:/idps/data/dbPTM/muluWeb/dbPTM", i, ".html", sep = "")
   page <- read_html(URL)
   table <-
     data.frame(html_table(
@@ -46,7 +46,7 @@ for (i in 88:length(ID)) {
 
 ID <- ID[-temp]
 #ID为存在的与疾病相关的蛋白uniprotID,共143个
-cat(ID, file = "C:/Users/Admin/Desktop/idps/script/output/UniIDofDieaseassociated.txt")
+cat(ID, file = "D:/idps/script/output/UniIDofDieaseassociated.txt")
 
 library(stringr)
 temp <- NULL
@@ -75,16 +75,16 @@ for (i in 1:length(ID)) {
 #
 #由于文件已经保存，可以直接从此处运行
 ID <-
-  readLines("C:/Users/Admin/Desktop/idps/script/output/UniIDofDieaseassociated.txt")
+  readLines("D:/idps/script/output/UniIDofDieaseassociated.txt")
 ID <- strsplit(ID, " ")[[1]]
 #疾病相关蛋白全部处理
 IDD <- ID
-source("C:/Users/Admin/Desktop/idps/script/zhushi.R")
-for (i in 142:length(IDD)) {
+source("D:/idps/script/zhushi.R")
+for (i in 1:length(IDD)) {
   lujing <-
-    paste("C:/Users/Admin/Desktop/idps/script/output/UniID/",
+    paste("D:/idps/script/output/UniID/",
           IDD[i],
-          ".data",
+          ".txt",
           sep = "")
   cat(i, "\t")
   func(IDD[i], lujing)
