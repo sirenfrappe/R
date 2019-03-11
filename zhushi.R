@@ -132,7 +132,8 @@ func <- function(ID, mulu) {
           if (UniID[pos1, 9] == 0) {
             UniID[pos1, 9] <- DaPS[i, 1]
           } else{
-            UniID[pos1, 9] <- paste(UniID[pos1, 9], DaPS[i, 1], sep = ",")
+     
+                   UniID[pos1, 9] <- paste(UniID[pos1, 9], DaPS[i, 1], sep = ",")
           }
           if (UniID[pos2, 9] == 0) {
             UniID[pos2, 9] <- DaPS[i, 1]
