@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+APOE_HUMANdbptm       MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQT	60
+APOE_HUMANmobidb      MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQT	60
+                      ************************************************************
+
+APOE_HUMANdbptm       LSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQA	120
+APOE_HUMANmobidb      LSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQA	120
+                      ************************************************************
+
+APOE_HUMANdbptm       RLGADMEDVCGRLVQYRGEVQAMLGQS---------------------------------	147
+APOE_HUMANmobidb      RLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVY	180
+                      ***************************                                 
+
+APOE_HUMANdbptm       --------------------------------VGSLAGQPLQERAQAWGERLRARMEEMG	175
+APOE_HUMANmobidb      QAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMG	240
+                                                      ****************************
+
+APOE_HUMANdbptm       SRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEK	235
+APOE_HUMANmobidb      SRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEK	300
+                      ************************************************************
+
+APOE_HUMANdbptm       VQAAVGTSAAPVPSDNH	252
+APOE_HUMANmobidb      VQAAVGTSAAPVPSDNH	317
+                      *****************

@@ -1,23 +1,39 @@
 #添加mobidb注释
 
 mobidbZhushi <- function(UniID, UniAC, outputfile) {
-  #设置工作目录
-  setwd("D:/idps/srcipt")
+  #此函数用来处理无评分的方法的数据（只含有regions）
+  regions <- function(region, i, tem) {
+    qidian <- region[[i]][[1]]
+    zhongian <- region[[i]][[2]]
+    stru <- region[[i]][[3]]
+    tem[qidian:zhongian, 1] <- stru
+    return(tem)
+  }
+  
+  
   #加载httr包，用于获取请求网页的得到的JSON文件
   library("httr")
   data <-
     content(GET(
       paste("http://mobidb.bio.unipd.it/ws/", UniAC, "/consensus", sep = "")
     ))
+  #判断链接是否成功，不成功返回两个节点的json结果
+  if (!is.null(data$code)) {
+    cat("consensus网页请求失败！\t")
+  }
   #sequ为mobidb数据库中对应的蛋白质序列
   sequ <-
     content(GET(
       paste("http://mobidb.bio.unipd.it/ws/", UniAC, "/uniprot", sep = "")
     ))$sequence
+  #同样进行判断
+  if (is.null(sequ)) {
+    cat("uniprot网页请求失败！\t")
+  }
   #读取处理DBPTM数据库数据得到的表格，命名为table
   table <-
     read.table(
-      paste("./output/UniID/", UniID, ".txt", sep = ""),
+      paste("D:/idps/script/output/UniID/", UniID, ".txt", sep = ""),
       sep = "\t",
       header = T,
       stringsAsFactors = F
@@ -29,19 +45,40 @@ mobidbZhushi <- function(UniID, UniAC, outputfile) {
     cat("两序列不相同！\n")
     stop()
   }
-  #只做了一个例子，暂时还没发现有序列不同的情况
-  #来自手动添加的mobidb数据
-  #disorder下只有一个元素
-  disorder.db <- data$mobidb_consensus$disorder$full[[1]][[1]]
-  #新建tem数据框用于存储regions数据
-  tem <- data.frame(matrix(NA, dim(table)[1], 1))
-  #循环赋值
-  for (i in 1:length(disorder.db)) {
-    tem <- regions(disorder.db, i, tem)
+  
+  #full，全部:disorder.full
+  #disorder下只有一个元素,因为方法只有一种:full
+  if (!is.null(data$mobidb_consensus$disorder$full)) {
+    disorder.full <- data$mobidb_consensus$disorder$full[[1]]
+    #新建tem数据框用于存储regions数据
+    tem <- data.frame(matrix(NA, dim(table)[1], 1))
+    #循环赋值
+    for (i in 1:length(disorder.full$regions)) {
+      tem <- regions(disorder.full$regions, i, tem)
+    }
+    #更改列名，合并。
+    colnames(tem) <- "disorder.full"
+    table <- cbind(table, tem)
   }
-  #更改列名，合并。
-  colnames(tem) <- "disorder.db"
-  table <- cbind(table, tem)
+  
+  #来自手动添加的mobidb数据
+  #disorder下只有一个元素,因为方法只有一种:full
+  if (!is.null(data$mobidb_consensus$disorder$db)) {
+    disorder.db <- data$mobidb_consensus$disorder$db[[1]]
+    #新建tem数据框用于存储regions数据
+    tem <- data.frame(matrix(NA, dim(table)[1], 1))
+    #循环赋值
+    for (i in 1:length(disorder.db$regions)) {
+      tem <- regions(disorder.db$regions, i, tem)
+    }
+    #更改列名，合并。
+    colnames(tem) <- "disorder.db"
+    table <- cbind(table, tem)
+  }
+  
+  
+  
+  
   #用于处理derived和predictors数据的函数，两种情况下的结构相似，但区别仍存在，不新建方程处理
   #disorder.derived为来自mobidb中derived数据
   disorder.derived <- data$mobidb_consensus$disorder$derived
@@ -54,7 +91,7 @@ mobidbZhushi <- function(UniID, UniAC, outputfile) {
       tem <- data.frame(matrix(NA, dim(table)[1], 1))
       #根据regions的段数进行循环添加数据进入table
       for (j in 1:length(disorder.derived[[i]][[1]])) {
-        tem <- regions(disorder.db = disorder.derived[[i]]$regions, j, tem)
+        tem <- regions(disorder.derived[[i]]$regions, j, tem)
       }
       #更改行名
       colnames(tem) <- "disorder.derived.full"
@@ -67,14 +104,14 @@ mobidbZhushi <- function(UniID, UniAC, outputfile) {
       #tem的列名，一列regions、一列scores
       colnames(tem) <-
         c(
-          paste("disorder.derived",method, "regions", sep = "."),
-          paste("disorder.derived",method, "scores", sep = ".")
+          paste("disorder.derived", method, "regions", sep = "."),
+          paste("disorder.derived", method, "scores", sep = ".")
         )
       #打分数据并入
       tem[, 2] <- as.character(disorder.derived[[i]]$scores_n)
       #打分结果并入
       for (j in 1:length(disorder.derived[[i]][[1]])) {
-        tem <- regions(disorder.db = disorder.derived[[i]]$regions, j, tem)
+        tem <- regions(disorder.derived[[i]]$regions, j, tem)
       }
       table <- cbind(table, tem)
     }
@@ -88,7 +125,7 @@ mobidbZhushi <- function(UniID, UniAC, outputfile) {
       tem <- data.frame(matrix(NA, dim(table)[1], 1))
       for (j in 1:length(disorder.predictiors[[i]][[1]])) {
         tem <-
-          regions(disorder.db = disorder.predictiors[[i]]$regions, j, tem)
+          regions(disorder.predictiors[[i]]$regions, j, tem)
       }
       colnames(tem) <- "disorder.predictiors.simple"
       table <- cbind(table, tem)
@@ -96,27 +133,20 @@ mobidbZhushi <- function(UniID, UniAC, outputfile) {
       tem <- data.frame(matrix(NA, dim(table)[1], 2))
       method <- disorder.predictiors[[i]]$method
       colnames(tem) <- c(
-        paste("disorder.predictors", method,"regions", sep = "."),
+        paste("disorder.predictors", method, "regions", sep = "."),
         paste("disorder.predictors", method, "secores", sep = ".")
       )
       tem[, 2] <- as.character(disorder.predictiors[[i]]$scores)
       for (j in 1:length(disorder.predictiors[[i]][[1]])) {
         tem <-
-          regions(disorder.db = disorder.predictiors[[i]]$regions, j, tem)
+          regions(disorder.predictiors[[i]]$regions, j, tem)
         
       }
       table <- cbind(table, tem)
       
     }
   }
-  #此函数用来处理无评分的方法的数据（只含有regions）
-  regions <- function(disorder.db, i, tem) {
-    qidian <- disorder.db[[i]][[1]]
-    zhongian <- disorder.db[[i]][[2]]
-    stru <- disorder.db[[i]][[3]]
-    tem[qidian:zhongian, 1] <- stru
-    return(tem)
-  }
+  
   
   write.table(
     table,
@@ -127,4 +157,6 @@ mobidbZhushi <- function(UniID, UniAC, outputfile) {
   )
   
 }
-mobidbZhushi("1A01_HUMAN","P30443","1A01_HUMAN(Mobidb).txt")
+#mobidbZhushi("TDG_HUMAN",
+#             "Q13569",
+ #            "D:/idps/script/output/mobidb/TDG_HUMAN(Mobidb).txt")
