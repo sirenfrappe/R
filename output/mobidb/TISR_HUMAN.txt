@@ -1,45 +1,45 @@
-location	residue	Modification	seq	secStruc	RelatedDisease	VariantPosition	ResidueChange	DaPSbySAP	disorder.predictors.simple
-1	M	0	0	0	0	0	0	0	D
-2	G	0	0	0	0	0	0	0	D
-3	M	0	0	0	0	0	0	0	D
-4	Y	0	0	0	0	0	0	0	D
-5	P	0	0	0	0	0	0	0	D
-6	P	0	0	0	0	0	0	0	D
-7	L	0	0	0	0	0	0	0	D
-8	L	0	0	0	0	0	0	0	D
-9	L	0	0	0	0	0	0	0	D
-10	K	0	0	0	0	0	0	0	D
-11	I	0	0	0	0	0	0	0	D
-12	Y	0	0	0	0	0	0	0	NA
-13	L	0	0	0	0	0	0	0	NA
-14	S	0	0	0	0	0	0	0	NA
-15	R	0	0	0	0	0	0	0	NA
-16	H	0	0	0	0	0	0	0	NA
-17	I	0	0	0	0	0	0	0	NA
-18	S	0	0	0	0	0	0	0	NA
-19	I	0	0	0	0	0	0	0	NA
-20	L	0	0	0	0	0	0	0	NA
-21	F	0	0	0	0	0	0	0	NA
-22	Y	0	0	0	0	0	0	0	NA
-23	L	0	0	0	0	0	0	0	NA
-24	K	0	0	0	0	0	0	0	NA
-25	I	0	0	0	0	0	0	0	NA
-26	L	0	0	0	0	0	0	0	NA
-27	Y	0	0	0	0	0	0	0	NA
-28	K	0	0	0	0	0	0	0	NA
-29	S	Phosphoserine	YLKILYKSGIIWLSW	HHHHHHHCCCHHHHH	Itch intensity from mosquito bite adjusted by bite size:mosquito bite reaction itch intensity measurement, mosquito bite reaction size measurement	35 (6)	0	0	NA
-30	G	0	0	0	0	0	0	0	NA
-31	I	0	0	0	0	0	0	0	NA
-32	I	0	0	0	0	0	0	0	NA
-33	W	0	0	0	0	0	0	0	NA
-34	L	0	0	0	0	0	0	0	NA
-35	S	0	0	0	0	0	C	29,37	NA
-36	W	0	0	0	0	0	0	0	NA
-37	Y	Phosphotyrosine	GIIWLSWYSFILLVL	CCHHHHHHHHHHHHC	Itch intensity from mosquito bite adjusted by bite size:mosquito bite reaction itch intensity measurement, mosquito bite reaction size measurement	35 (2)	0	0	D
-38	S	0	0	0	0	0	0	0	D
-39	F	0	0	0	0	0	0	0	D
-40	I	0	0	0	0	0	0	0	D
-41	L	0	0	0	0	0	0	0	D
-42	L	0	0	0	0	0	0	0	D
-43	V	0	0	0	0	0	0	0	D
-44	L	0	0	0	0	0	0	0	D
+location	residue	Modification	seq	secStruc	RelatedDisease	VariantPosition	ResidueChange	DaPSbySAP	mobidb.disorder.full.regions	mobidb.disorder.db.regions	mobidb.disorder.derived.bfactor.regions	mobidb.disorder.derived.bfactor.score	mobidb.disorder.derived.mobile.regions	mobidb.disorder.derived.mobile.score	mobidb.disorder.derived.missing_residues.regions	mobidb.disorder.derived.missing_residues.score	mobidb.disorder.derived.full.regions	mobidb.disorder.predictors.simple.regions	mobidb.disorder.predictors.mobidb-lite.regions	mobidb.disorder.predictors.mobidb-lite.score
+1	M	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+2	G	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+3	M	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+4	Y	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+5	P	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+6	P	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+7	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+8	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+9	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+10	K	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+11	I	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+12	Y	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+13	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+14	S	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+15	R	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+16	H	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+17	I	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+18	S	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+19	I	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+20	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+21	F	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+22	Y	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+23	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+24	K	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+25	I	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+26	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+27	Y	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+28	K	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+29	S	Phosphoserine	YLKILYKSGIIWLSW	HHHHHHHCCCHHHHH	Itch intensity from mosquito bite adjusted by bite size:mosquito bite reaction itch intensity measurement, mosquito bite reaction size measurement	35 (6)	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+30	G	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+31	I	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+32	I	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+33	W	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+34	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+35	S	0	0	0	0	0	C	29,37	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+36	W	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+37	Y	Phosphotyrosine	GIIWLSWYSFILLVL	CCHHHHHHHHHHHHC	Itch intensity from mosquito bite adjusted by bite size:mosquito bite reaction itch intensity measurement, mosquito bite reaction size measurement	35 (2)	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+38	S	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+39	F	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+40	I	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+41	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+42	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+43	V	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA
+44	L	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	D	NA	NA

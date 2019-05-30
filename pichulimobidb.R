@@ -1,6 +1,6 @@
 id <- read.table("D:/idps/data/dbPTM/uniprot-yourlist_M20190417216DA2B77BFBD2E6699CA9B6D1C41EB202F439B.tab",header = T,sep = "\t",stringsAsFactors = FALSE)[,1:2]
 source("D:/idps/script/mobifunc.R")
-for (i in 142:143) {
+for (i in 141:141) {
   mulu <- paste("D:/idps/script/output/mobidb/",id[i,1],".txt",sep = "")
   mobidbzhushi(id[i,1],id[i,2],mulu)
   cat(i,"\t")
@@ -8,23 +8,19 @@ for (i in 142:143) {
 #P16860 	P00747 	Q13569 	Q9Y4G6 	P02788 	Q14191 
 #6ge 
 
-#6 ABI3_HUMAN	Q9P2A4  
-#16 APOE_HUMAN	P02649
-#19 ATM_HUMAN	Q13315
-#46 FAS_HUMAN	P49327
+
+
 #91 NUCB2_HUMAN	P80303
-#99 PPR3B_HUMAN	Q86XI6
-#100 PRC2C_HUMAN	Q9Y520
 #141 WHRN_HUMAN	Q9P202
 
-#8个序列不相同
+#2个序列不相同
 
-pros <- c(6,16,19,46,91,99,100,141)
+pros <- c(91,141)
 for (i in pros) {
   dbptm <- read.table(paste("D:/idps/script/output/UniID/", id[i,1], ".txt", sep = ""),
                           sep = "\t",
                           header = T,
-                          stringsAsFactors = F)
+                          stringsAsFactors = F,quote = "")
   #dbptm中序列
   dbptm.seq <- paste(as.character(dbptm[,2]),collapse = "")
   #

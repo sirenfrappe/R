@@ -11,29 +11,22 @@ mobidbzhushi <- function(UniID,UniAC,outputfile){
     return(tem)
   }
   #无score的region数据,disorder.data指传入的json格式数据，len为序列长度，用于拼接的数据框，
-  region_noscore <- function(disorder.data,len,type){
+  region_noscore <- function(disorder.data,len){
     #新建tem数据框用于存储regions数据
     tem <- data.frame(matrix(NA, len, 1))
     #循环赋值
     for (i in 1:length(disorder.data$regions)) {
       tem <- regions(disorder.data$regions, i, tem)
     }
-    #更改列名，合并。
-    colnames(tem) <- paste("disorder.",type,".",disorder.data$method,sep = "")
-    table <- cbind(table, tem)
-    return(table)
+    
+    #返回tem
+    return(tem)
   }
   
   #有score的region数据
-  region_score <- function(disorder.data,len,type){
+  region_score <- function(disorder.data,len){
     #新建tem数据框用于存储regions数据，由于有评分，tem为两列
     tem <- data.frame(matrix(NA,len,2))
-    #tem的列名，一列regions、一列scores
-    colnames(tem) <-
-      c(
-        paste("disorder",type, disorder.data$method, "regions", sep = "."),
-        paste("disorder",type, disorder.data$method, "scores", sep = ".")
-      )
     #将打分数据添加进tem
     tem[,2] <- as.character(disorder.data$scores)
     #有的情况下regions全空
@@ -46,8 +39,8 @@ mobidbzhushi <- function(UniID,UniAC,outputfile){
       }
     }
    
-    table <- cbind(table,tem)
-    return(table)
+    #返回tem
+    return(tem)
   }
   
   #加载httr包，用于获取请求网页的得到的JSON文件
@@ -77,20 +70,33 @@ mobidbzhushi <- function(UniID,UniAC,outputfile){
       paste("D:/idps/script/output/UniID/", UniID, ".txt", sep = ""),
       sep = "\t",
       header = T,
-      stringsAsFactors = F
+      stringsAsFactors = F,
+      quote = ""
     )
   #sequDbptm是dbptm中相应蛋白的序列
   sequDbptm <- paste(as.character(table$residue), collapse = "")
   #判断mobidb数据库与dbPTM数据库中序列是否相同，
   if (sequ != sequDbptm) {
-    cat("seq not same\n")
+    cat(UniID,"seq not same\n")
     stop()
   }
+  
+  #每个蛋白在mobidb数据不一，新建统一格式空数据框并入原表，根据request请求返回内容填入内容
+  temp <- data.frame(matrix(NA,dim(table)[1],12))
+  colnames(temp) <- c("mobidb.disorder.full.regions","mobidb.disorder.db.regions",
+                     "mobidb.disorder.derived.bfactor.regions","mobidb.disorder.derived.bfactor.score",
+                     "mobidb.disorder.derived.mobile.regions","mobidb.disorder.derived.mobile.score",
+                     "mobidb.disorder.derived.missing_residues.regions","mobidb.disorder.derived.missing_residues.score",
+                     "mobidb.disorder.derived.full.regions",
+                     "mobidb.disorder.predictors.simple.regions",
+                     "mobidb.disorder.predictors.mobidb-lite.regions","mobidb.disorder.predictors.mobidb-lite.score")
+  table <- cbind(table,temp)
+
   
   #disorder.full,这部分内容不一定存在，所以需要提前判断。
   if(!is.null(data$mobidb_consensus$disorder$full)){
     disorder.full <- data$mobidb_consensus$disorder$full[[1]]
-    table <-  region_noscore(disorder.full,dim(table)[1],"full")
+    table[,10] <-  region_noscore(disorder.full,dim(table)[1])
   }
   
   
@@ -98,62 +104,45 @@ mobidbzhushi <- function(UniID,UniAC,outputfile){
   
   if(!is.null(data$mobidb_consensus$disorder$db)){
     disorder.db <- data$mobidb_consensus$disorder$db[[1]]
-    table <- region_noscore(disorder.db,dim(table)[1],"db")
+    table[,11] <- region_noscore(disorder.db,dim(table)[1])
   }
   
   
   #disorder.derived,这部分不一定存在，需要提前判断。
   if(!is.null(data$mobidb_consensus$disorder$derived)){
     disorder.derived <- data$mobidb_consensus$disorder$derived
-    table.list <-  lapply(disorder.derived,function(x){
-      if(length(x)==3){
-        region_score(x,dim(table)[1],"derived")
-      }else{
-        if(length(x)==2){
-          region_noscore(x,dim(table)[1],"derived")
-        }
-      }
-      
-    })
-    #得到的是list，需要处理一下,table.list长度为1~4不等
-    if(length(table.list)==1){
-      table <- table.list[[1]]
-    }
-    if(length(table.list)==2){
-      table <- merge(table.list[[1]],table.list[[2]])
-    }
-    if(length(table.list)==3){
-      table <- merge(merge(table.list[[1]],table.list[[2]]),table.list[[3]])
-    }
-    if(length(table.list)==4){
-      table <- merge(merge(merge(table.list[[1]],table.list[[2]]),table.list[[3]]),table.list[[4]])
+    for (i in 1:length(disorder.derived)) {
+      switch(disorder.derived[[i]]$method,
+             bfactor = {
+               table[,12:13] <- region_score(disorder.derived[[i]],dim(table)[1])
+             },
+             mobile = {
+               table[,14:15] <- region_score(disorder.derived[[i]],dim(table)[1])
+             },
+             missing_residues = {
+               table[,16:17] <- region_score(disorder.derived[[i]],dim(table)[1])
+             },
+             full = {
+               table[,18] <- region_noscore(disorder.derived[[i]],dim(table)[1])
+             })
     }
   }
-  #上面处理完的table会乱序
-  table <- table[order(table$location),]
+  
+ 
   #disorder.predictior,这部分不一定存在，需要判断
   if(!is.null(data$mobidb_consensus$disorder$predictors)){
     disorder.predictors <- data$mobidb_consensus$disorder$predictors
-    table.list <-  lapply(disorder.predictors,function(x){
-      if(length(x)==4){
-        region_score(x,dim(table)[1],"predictors")
-      }else{
-        if(length(x)==2){
-          region_noscore(x,dim(table)[1],"predictors")
-        }
-      }
-      
-    })
-    #得到的是list，需要处理一下
-    if(length(table.list)==1){
-      table <- table.list[[1]]
+    for (i in 1:length(disorder.predictors)) {
+      switch(disorder.predictors[[i]]$method,
+             "mobidb-lite" = {
+               table[,20:21] <- region_score(disorder.predictors[[i]],dim(table)[1])
+             },
+             simple = {
+               table[,19] <- region_noscore(disorder.predictors[[i]],dim(table)[1])
+             })
     }
-    if(length(table.list)==2){
-      table <- merge(table.list[[1]],table.list[[2]])
-    }
+    
   }
-  #上面处理完的table会乱序
-  table <- table[order(table$location),]
   
   
   write.table(
@@ -166,4 +155,4 @@ mobidbzhushi <- function(UniID,UniAC,outputfile){
   
 }
 
-#mobidbzhushi("TDG_HUMAN","Q13569","D:/idps/script/output/mobidb/TDG_HUMAN(Mobidb).txt")
+#mobidbzhushi("WHRN_HUMAN","Q9P202","D:/idps/script/output/mobidb/WHRN_HUMAN.txt")
