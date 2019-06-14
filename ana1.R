@@ -126,13 +126,36 @@ for (i in 1:143) {
   numofNA <- numofNA+dim(alldata.NA[i][[1]])[1]
 }
 
+#按打分值画图：
+
+library("plyr")
+alldata.factor <- factor(alldata[,22])
+alldata.factor.count <- count(alldata.factor)
+library(ggplot2)
+ggplot(alldata.factor.count,aes(x=alldata.factor.count$x,y=alldata.factor.count$freq))+
+  geom_point()+
+  geom_text(label=alldata.factor.count$freq,vjust=-0.5)+
+  theme(axis.text.x = element_text(angle = 30))+
+  xlab("mobidb score")+
+  ylab("counts")
 
 
+alldata.diease.factor.count <- count(factor(alldata.diease[,22]))
+ggplot(alldata.diease.factor.count,aes(x=alldata.diease.factor.count$x,y=alldata.diease.factor.count$freq))+
+  geom_point()+
+  geom_text(label=alldata.diease.factor.count$freq,vjust=-0.5)+
+  theme(axis.text.x = element_text(angle = 30))+
+  xlab("mobidb score")+
+  ylab("counts")
 
 
-
-
-
-
-
+#卡方检验
+num.data.normal.diso <- dim(subset(alldata,alldata$RelatedDisease == 0 & alldata$mobidb.disorder.predictors.mobidb.lite.score>0.74))[1]
+num.data.normal.stru <- dim(subset(alldata,alldata$RelatedDisease == 0 & alldata$mobidb.disorder.predictors.mobidb.lite.score<0.74))[1]
+num.data.dise.diso <- dim(subset(alldata,alldata$RelatedDisease != 0 & alldata$mobidb.disorder.predictors.mobidb.lite.score > 0.74))[1]
+num.data.dise.stru <- dim(subset(alldata,alldata$RelatedDisease != 0 & alldata$mobidb.disorder.predictors.mobidb.lite.score <0.74))[1]
+kafang.dataframe <- data.frame(stru=c(num.data.normal.stru,num.data.dise.stru),diso=c(num.data.normal.diso,num.data.dise.diso))
+rownames(kafang.dataframe) <- c("nor","dise")
+chisq.test(kafang.dataframe)
+#p = 0.9629
 
