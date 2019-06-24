@@ -134,3 +134,11 @@ bartlett.test(c(data.rate.DPTM[,1],data.rate.DPTM[,2])~factor(c(rep(1,143),rep(2
 # p-value < 2.2e-16
 wilcox.test(data.rate.DPTM[,1],data.rate.DPTM[,2],paired=TRUE)
 #p-value = 5.421e-07，差异性显著
+
+#疾病无序，非疾病无序比较
+shapiro.test(data.rate.DPTM[,2])
+shapiro.test(data.rate.NPTM[,2])
+#p<0.05
+bartlett.test(c(data.rate.DPTM[,2],data.rate.NPTM[,2])~factor(c(rep(1,143),rep(2,143))))
+#p-value = 0.01032
+wilcox.test(data.rate.DPTM[,2],data.rate.NPTM[,2],paired=TRUE)
