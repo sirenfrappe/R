@@ -62,6 +62,19 @@ bartlett.test(c(data.rate.normaldisease[,1],data.rate.normaldisease[,2])~factor(
 #远小于0.05，采用非参数检验
 wilcox.test(data.rate.normaldisease[,1],data.rate.normaldisease[,2],paired=TRUE)
 #p-value < 2.2e-16
+#boxplot
+
+library(ggplot2)
+meltdata <- melt(data.rate.normaldisease)
+ggplot(meltdata,aes(x=variable,y=value))+
+  geom_boxplot()+
+  geom_point()+
+  xlab("")+
+  ylab("")
+
+#####################
+#######################
+################################再细分两类：有序无序
 
 data.PTM <- lapply(data, function(x){
   subset(x,x$Modification!=0)
@@ -110,6 +123,16 @@ bartlett.test(c(data.rate.NPTM[,1],data.rate.NPTM[,2])~factor(c(rep(1,143),rep(2
 wilcox.test(data.rate.NPTM[,1],data.rate.NPTM[,2],paired=TRUE)
 #p-value = 6.57e-10，差异性显著
 
+library(ggplot2)
+meltdata <- melt(data.rate.NPTM)
+ggplot(meltdata,aes(x=variable,y=value))+
+  geom_boxplot()+
+  geom_point()+
+  xlab("")+
+  ylab("")
+
+
+
 #疾病相关
 data.rate.DPTM <- data.frame(matrix(NA,143,2))
 colnames(data.rate.DPTM) <- c("stru","diso")
@@ -135,6 +158,16 @@ bartlett.test(c(data.rate.DPTM[,1],data.rate.DPTM[,2])~factor(c(rep(1,143),rep(2
 wilcox.test(data.rate.DPTM[,1],data.rate.DPTM[,2],paired=TRUE)
 #p-value = 5.421e-07，差异性显著
 
+library(ggplot2)
+meltdata <- melt(data.rate.DPTM)
+ggplot(meltdata,aes(x=variable,y=value))+
+  geom_boxplot()+
+  geom_point()+
+  xlab("")+
+  ylab("")
+
+
+
 #疾病无序，非疾病无序比较
 shapiro.test(data.rate.DPTM[,2])
 shapiro.test(data.rate.NPTM[,2])
@@ -142,3 +175,13 @@ shapiro.test(data.rate.NPTM[,2])
 bartlett.test(c(data.rate.DPTM[,2],data.rate.NPTM[,2])~factor(c(rep(1,143),rep(2,143))))
 #p-value = 0.01032
 wilcox.test(data.rate.DPTM[,2],data.rate.NPTM[,2],paired=TRUE)
+
+library(ggplot2)
+meltdata <- melt(data.frame(disease_disorder=data.rate.DPTM[,2],normal_disorder=data.rate.NPTM[,2]))
+ggplot(meltdata,aes(x=variable,y=value))+
+  geom_boxplot()+
+  geom_point()+
+  xlab("")+
+  ylab("")
+
+
