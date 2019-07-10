@@ -1,0 +1,24 @@
+	²Ð»ù	PTM	¸½½üÍ»±ä	Í»±ä(¾É->ÐÂ)	ÊÇ·ñÎÞÐò	Ïà¹Ø¼²²¡
+BRCA2_HUMAN	3319	Phosphoserine			·ñ	"Breast cancer ,Lung cancer"
+	3323	Phosphothreonine	3326	K-*	·ñ	"Breast cancer ,Lung cancer"
+CHK2_HUMAN	153	N6-acetyllysine	157	I-T	·ñ	"Breast cancer ,Lung cancer"
+	164	Phosphoserine			·ñ	"Breast cancer ,Lung cancer"
+MN1_HUMAN	373	Phosphoserine	382	Q-H		Breast cancer
+MSHR_HUMAN	154	Phosphoserine	151;155;160	R-C;I-T;R-W		Non-melanoma skin cancer
+	157	Phosphothreonine	151;155;160	R-C;I-T;R-W		Non-melanoma skin cancer
+ADH1B_HUMAN	2	N-acetylserine	8	"I-P,R"	·ñ	"Esophageal cancer£¬Oral cavity and pharyngeal cancer,Oral cavity cancer"
+CDC20_HUMAN	485	Ubiquitinlysine	479	"R-Q,L"	ÊÇ	Asparaginase-induced acute pancreatitis in acute lymphoblastic leukemia (onset time)
+NEBU_HUMAN	1218	N6-acetyllysine	1213	V-I	·ñ	Asparaginase-induced acute pancreatitis in acute lymphoblastic leukemia (onset time)
+PDLI5_HUMAN	89	Sumoyllysine	92	P-L	·ñ	Asparaginase-induced acute pancreatitis in acute lymphoblastic leukemia (onset time)
+	97	N6-acetyllysine	92	P-L	·ñ	Asparaginase-induced acute pancreatitis in acute lymphoblastic leukemia (onset time)
+LRRK2_HUMAN	2023	Phosphotyrosine	2019	G-S	·ñ	Parkinson's disease
+ABI3_HUMAN	210	Phosphoserine	203;209	S-F;F-F(?)		Alzheimer's disease (late onset)
+	213	Phosphoserine	203;209	S-F;F-F(?)		Alzheimer's disease (late onset)
+	216	Phosphoserine	209	F-F(?)		Alzheimer's disease (late onset)
+APOE_HUMAN	147	Phosphoserine	156	A-R	·ñ	Alzheimer's disease (late onset)£¬Alzheimer's disease biomarkers£¬Cerebrospinal AB1-42 levels in Alzheimer's disease dementia
+	212	O-linked Glycosylation	202	L-C	·ñ	Alzheimer's disease (late onset)
+ATM_HUMAN	2310	Phosphoserine	2307	"L-V,F"	·ñ	Alzheimer's disease (late onset)
+PRC2C_HUMAN	2707	Phosphotyrosine				Alzheimer's disease (cognitive decline)
+	2709	Phosphotyrosine	2717	T-A		Alzheimer's disease (cognitive decline)
+	2710	Phosphotyrosine	2717	T-A		Alzheimer's disease (cognitive decline)
+PPR3B_HUMAN	57	N-acetyllysine	48	G-E	·ñ	Alzheimer's disease

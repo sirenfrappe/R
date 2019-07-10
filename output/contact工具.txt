@@ -1,0 +1,9 @@
+	文章	被引用次数	发表杂志	通讯作者	发表时间	限制	web/本地	网页	CASP预测排名	
+RaptorX-Contact	Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model	206	PLoS Comput Biol.	Jinbo Xu	2017.1.5	"长度限制 [26,800]，每个账号限制500个蛋白"	只有web	http://raptorx.uchicago.edu/ContactMap/	预测结果最好，CASP12、13排名均进入前3	
+MULTICOM	Protein tertiary structure modeling driven by deep learning and contact distance prediction in CASP13	3	Proteins	Jie Hou	2019.4.15	未发现	只有web	http://sysbio.rnet.missouri.edu/multicom_cluster/contact.html	CASP11、12 排名前十，CASP13 排名26	
+deepcontact	Enhancing Evolutionary Couplings with Deep Convolutional Neural Networks.	22	Cell systems	?Jian Peng	2018.1.24	未发现	本地	https://github.com/largelymfs/deepcontact	CASP13排名17	
+deepFold	Learning structural motif representations for efficient protein structure search	2	"Bioinformatics (Oxford, England)"	?Jian Peng	2018.9.8	未发现	本地	https://github.com/largelymfs/DeepFold	CASP12排名第3	
+DeepConPred2	A deep learning framework for improving long-range residue-residue contact prediction using a hierarchical strategy.	12	"Bioinformatics (Oxford, England)"	Haipeng Gong	2017.9.1	未发现	本地/web打不开	https://github.com/THU-gonglab/DeepConPred2/tree/master/DeepConPred2		
+NeBcon	NeBcon: protein contact map prediction using neural network training coupled with na?ve Bayes classifiers	20	Bioinformatics	?Yang Zhang	2017.3.28	"长度限制：[20, 1000]"	本地，web	https://zhanglab.ccmb.med.umich.edu/NeBcon/	CASP12排名第二	
+pfeature	没找到					未发现	本地/web打不开	https://github.com/raghavagps/Pfeature	CASP12排名17	
+MetaPSICOV	MetaPSICOV: combining coevolution methods for accurate prediction of contacts and long range hydrogen bonding in proteins	192	"Bioinformatics (Oxford, England)"	David T. Jones	2014.11.26	未发现	本地，web	http://bioinf.cs.ucl.ac.uk/MetaPSICOV/	CASP12排名第四	
