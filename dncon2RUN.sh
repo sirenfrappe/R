@@ -1,8 +1,4 @@
 #!/bin/bash
-~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/AFAM_HUMAN.fasta ~/DNCON2/output/AFAM_HUMAN/ > ~/DNCON2/log/AFAM_HUMAN.log
-wait
-~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/ALAT1_HUMAN.fasta ~/DNCON2/output/ALAT1_HUMAN/ > ~/DNCON2/log/ALAT1_HUMAN.log
-wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/APC4_HUMAN.fasta ~/DNCON2/output/APC4_HUMAN/ > ~/DNCON2/log/APC4_HUMAN.log
 wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/ARHGH_HUMAN.fasta ~/DNCON2/output/ARHGH_HUMAN/ > ~/DNCON2/log/ARHGH_HUMAN.log
@@ -21,13 +17,7 @@ wait
 wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/CFAH_HUMAN.fasta ~/DNCON2/output/CFAH_HUMAN/ > ~/DNCON2/log/CFAH_HUMAN.log
 wait
-~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/CLM1_HUMAN.fasta ~/DNCON2/output/CLM1_HUMAN/ > ~/DNCON2/log/CLM1_HUMAN.log
-wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/COBL1_HUMAN.fasta ~/DNCON2/output/COBL1_HUMAN/ > ~/DNCON2/log/COBL1_HUMAN.log
-wait
-~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/CP2A6_HUMAN.fasta ~/DNCON2/output/CP2A6_HUMAN/ > ~/DNCON2/log/CP2A6_HUMAN.log
-wait
-~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/CP51A_HUMAN.fasta ~/DNCON2/output/CP51A_HUMAN/ > ~/DNCON2/log/CP51A_HUMAN.log
 wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/CQ053_HUMAN.fasta ~/DNCON2/output/CQ053_HUMAN/ > ~/DNCON2/log/CQ053_HUMAN.log
 wait
@@ -72,8 +62,6 @@ wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/ICAM3_HUMAN.fasta ~/DNCON2/output/ICAM3_HUMAN/ > ~/DNCON2/log/ICAM3_HUMAN.log
 wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/IKBE_HUMAN.fasta ~/DNCON2/output/IKBE_HUMAN/ > ~/DNCON2/log/IKBE_HUMAN.log
-wait
-~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/IL7RA_HUMAN.fasta ~/DNCON2/output/IL7RA_HUMAN/ > ~/DNCON2/log/IL7RA_HUMAN.log
 wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/INGR2_HUMAN.fasta ~/DNCON2/output/INGR2_HUMAN/ > ~/DNCON2/log/INGR2_HUMAN.log
 wait
@@ -158,6 +146,8 @@ wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/THRB_HUMAN.fasta ~/DNCON2/output/THRB_HUMAN/ > ~/DNCON2/log/THRB_HUMAN.log
 wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/TIE2_HUMAN.fasta ~/DNCON2/output/TIE2_HUMAN/ > ~/DNCON2/log/TIE2_HUMAN.log
+wait
+~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/TISR_HUMAN.fasta ~/DNCON2/output/TISR_HUMAN/ > ~/DNCON2/log/TISR_HUMAN.log
 wait
 ~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/TLN2_HUMAN.fasta ~/DNCON2/output/TLN2_HUMAN/ > ~/DNCON2/log/TLN2_HUMAN.log
 wait
