@@ -10,15 +10,16 @@ id <-
     header = T,
     sep = "\t",
     stringsAsFactors = FALSE
-  )[, 1:2]
-colnames(id) <- c("ID", "AC")
+  )[,c(1,8)]
+colnames(id) <- c("ID", "length")
 id <- as_tibble(id)
 doneName <- tibble(ID = filename)
 
 
 
 undone <- id %>%
-  anti_join(doneName)
+  anti_join(doneName) %>% 
+  arrange(length)
 
 for (i in 1:dim(undone)[1]) {
   str1 <- str_c("~/DNCON2/DNCON2/dncon2-v1.0.sh ~/DNCON2/protein/",undone[i,1],".fasta ~/DNCON2/output/",undone[i,1],"/ > ~/DNCON2/log/",undone[i,1],".log")

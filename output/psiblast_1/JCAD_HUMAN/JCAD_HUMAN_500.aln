@@ -1,0 +1,693 @@
+CLUSTAL 2.1 multiple sequence alignment (MView)
+
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 MYSVEDLLISHGYKLSRDPPASREDNPKGRQAARTGTRAGQGLQNGHEDGPAALAHRKTS 60
+1:gi|296206389|ref|XP_002750185.1                                                                                           MYSVEDLLISHGYKPSRDLPAPREDNPKGRQAARTGTRAGQGLQNGHEDASAALAHRRTP 60
+2:gi|355782715|gb|EHH64636.1                                                                                                MYSVEDLLISHGYKPSRDLPAPREDNPKGRQAARTGTRAGQGLQNGHEDGPAALAHRKTS 60
+3:gi|344277920|ref|XP_003410745.1                                                                                           MYSVEDLLISHGYKLSRNLPAPREDSNEGHQPEVTRARAGRSLLNGYENDSAAFAPSKKS 60
+4:gi|338721532|ref|XP_001915624.2                                                                                           MYSVEDLLISHGYKLSRNLPAPHEDNYEGHQQARRGARAGHGLLNGCEDGPAAFPHSGKS 60
+5:gi|301768563|ref|XP_002919699.1                                                                                           MYSVEDLLISHGYKVSRSIPAPTEDEREGRRQARSRARAGQGLLNGCDDGPAALPPSKPS 60
+6:gi|73948916|ref|XP_535151.2                                                                                               MYSVEDLLISHGYKLSRRVPAPPEEEREGRRQARARGRAARGLLNGCDHGPAALPHSRPP 60
+7:gi|348565947|ref|XP_003468764.1                                                                                           MYSVEDLLISHGYRPSRDLPGPRGTKADGHAQARTRPRGSQGLQNGCEDGATTLAPSRPA 60
+8:gi|355734986|gb|AES11514.1                                                                                                MYSVEDLLISHGYKVSRSIPAPPGDERKGRRQARSHTRAGQDLPNGCDAGRAALPRSKPS 60
+9:gi|334348802|ref|XP_003342111.1                                                                                           MYSVEDLLISHGHKLSSNPLVPHKDRYDGYQHGSSERRAGHGTLNGFEAAPPAFVCNKKS 60
+10:gi|351713845|gb|EHB16764.1                                                                                               MYSVEDLLISHGYKPARDLPGQRGAKADGHPQAKTRPRGSQGLQNGCEDGIAALAPSRQA 60
+11:gi|354485805|ref|XP_003505072.1                                                                                          MYSVEDLLISHGYKPARDVPAAREDKSEGCRPTRTRTRAGQDLLNGYEDGPTAHAHSRKS 60
+12:gi|126506316|ref|NP_001075432.1                                                                                          MYSVEDLLISHGYKPARDAAAPCEDKSERCRSTRTGPRAGQGLLNGYKDGATAHTHSRTS 60
+13:gi|293342780|ref|XP_001056659.2                                                                                          MYSVEDLLISHGYKPARDAPVPREDKSERCRSRRTGPQAGQGLLNGYKDGPTAHAHSRTA 60
+14:gi|350589501|ref|XP_003130754.3                                                                                          MYSVEDLLVSHGYKLSRSFPAPQEEDGEGRQQTRTRVRAGPGLPNGCEDGPASLPRGPAS 60
+15:gi|326921604|ref|XP_003207047.1                                                                                          MFSVEDLLISHGYKLSKNPPASYENRYDGYRHEAAGNRSGQRTLNGFEADPRAAYCKKps 60
+16:gi|126723084|ref|NP_001075943.1                                                                                          MYSVEDLLISHGYKLSRKLPAPHEDDGERRQPARTTVPAGPGLLNGCDDGPAALPRGKAS 60
+17:gi|345324168|ref|XP_001507721.2                                                                                          MFSVEDLLISHGYKSSRKPPAPYEGRCDGYRHEITEDRTGHGTVNGHEADTRAFVDIKKS 60
+18:gi|224044729|ref|XP_002189062.1                                                                                          MFSVEDLLISHGYKLSKNPSVSYENRYDGYRHEITGNRSAQRplNGIEAESRAGAYSKKP 60
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          MYSVEDLLISHGYKvsNNVPVSHSSSPqdSRCEIAEKRKGHSGVNGYedHVYSGGGIRQA 60
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          MFSVEDLLVSHGYKVSKNSSSSYQPRSEGYQQDPTDSRTGNGMVNGYQADPEVFAVDPYP 60
+23:gi|47213006|emb|CAF95398.1                                                                                               ------------------------------------------------------------
+24:gi|348520046|ref|XP_003447540.1                                                                                          MYSVEDLLISHGYKLPKSDptPYDKRPADCQRELVDNRAGRGTLNGYEADRGaiYSSRQA 60
+25:gi|326665235|ref|XP_003197996.1                                                                                          MYSVEDLLISHGYKlnRNNECRRENVVENRPAAAGGggGAEGSTGVYRPAPvaYPENNNN 60
+26:gi|327274528|ref|XP_003222029.1                                                                                          MFSVEDLLISHGYKLSKNSTNLYENRSDGFQHEVTDRRVSHGPLNGFPTNSAAFANSKKK 60
+27:gi|149032574|gb|EDL87452.1                                                                                               MYSVEDLLISHGYKPARDAPVPREDKSERCRSRRTGPQAGQGLLNGYKDGPTAHAHSRTA 60
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 AGKGHVSDSESRRSTPRGHGEPQSTSASRTSEAGFCNQPPSAWSSHPPTGNDQAYRRRGR 120
+1:gi|296206389|ref|XP_002750185.1                                                                                           AGKGHVSDSENRRSTPRGHGEPQSASASRTSDAGCYNHPASARSshPSTGNDQAQRRRGR 120
+2:gi|355782715|gb|EHH64636.1                                                                                                AGKGHVSDSESRRSTPRGPGEPQSTSASRTSEVGFYNQPTSARSSHPLTGNAQAYRRRGR 120
+3:gi|344277920|ref|XP_003410745.1                                                                                           LGRGCLGSSESCCGTPRSYREPQSSSAFRASEAGFYNQPPLARSSQLQTGNSQawRRRGQ 120
+4:gi|338721532|ref|XP_001915624.2                                                                                           LGKGHVSDSENSHRIPRGHGQTQSASASRTSEARFYHPPVPAWSSQPQTGHNRAYQGR-Q 119
+5:gi|301768563|ref|XP_002919699.1                                                                                           QGKGPASTSENSHHAPRARGEPQSALAPRASELGFYHQPVLRWSSQPQTAHDHawRRRGQ 120
+6:gi|73948916|ref|XP_535151.2                                                                                               LGKGHASTSETSHRAPRAHGEPQSACAPRTPELGFYDQPVLRWSSQPQTAHDHawRRRGQ 120
+7:gi|348565947|ref|XP_003468764.1                                                                                           LATSPVSTPEGHRGAPRHHVEPHRTSASGAAEAGFYNQAASVRSSQSQIGTDQACWRRGQ 120
+8:gi|355734986|gb|AES11514.1                                                                                                QGKGHTSTSENSHRTPRAHGEPQSASAPRASELGFCHQPVLRGSSQPQPAPHHTYRRrgE 120
+9:gi|334348802|ref|XP_003342111.1                                                                                           LGKGYLSDNENSGAVPGSHREPPNSSAFHHSEEGFYNQPPLAWSSQPKTD-LVSWRRKGQ 119
+10:gi|351713845|gb|EHB16764.1                                                                                               PGPGPVSAPEGHQGVPRHHVEHHRTSASRAPEAGFYKQPALAWSSQAQIGNDQVCRRRGQ 120
+11:gi|354485805|ref|XP_003505072.1                                                                                          LGTGHVSSSESRSSKPRGHGERQNSSASRTPEAG------LAWSSQPHPGRDHTYRSRGR 114
+12:gi|126506316|ref|NP_001075432.1                                                                                          LGTGHVSNSENRISRPRGHREHQSTS--RTPEARFLNQPSLAWSSQPQSGRDDIYWSRGR 118
+13:gi|293342780|ref|XP_001056659.2                                                                                          LGTGHVSNSEKHSSKPRGHQEYQSSS-SRTPEAGFLSQPSLAWSSQPQSGRDHIYWSRGQ 119
+14:gi|350589501|ref|XP_003130754.3                                                                                          PGPGRLSDSESHRRGLRVHGEPPSTAAARIAEPGFYHQPVLAWSSQPLTGRSHAYWRRRE 120
+15:gi|326921604|ref|XP_003207047.1                                                                                          SSTESSHGSQGRQAGPGYHHDLQGLSTFHTSEGGVYDRPQLAWSSQPKSDKDLawRRRGQ 120
+16:gi|126723084|ref|NP_001075943.1                                                                                          PGTGLLSDPESRRLGPRGHGepSTAAAARISEAGFYHQPVLAWSSQPLTGRSHAYWRRRE 120
+17:gi|345324168|ref|XP_001507721.2                                                                                          LGREYLSDGESRRRNPEKHKNLQGSPAVWASEEGFCDQAPLGWSSRPKTDKDLawRRKGQ 120
+18:gi|224044729|ref|XP_002189062.1                                                                                          LVkeSSHGSQGRQAGPGYHHDLQGLSTFHTSEGglVVTPDKVLYKHgpAGQEELCVHTGA 120
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          PARGFPGDAENRVRKQRTqgDGRLPEDSLTTDSGFF-EAHRGIHSQPRSEQDvyWRRRGQ 119
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          LAKGFYGDSDkrQLSSTGHPRGqcLEACHTSETGLSDRPQNERAHWAKADKdqYWRRRGQ 120
+23:gi|47213006|emb|CAF95398.1                                                                                               ------------------------------------------------------------
+24:gi|348520046|ref|XP_003447540.1                                                                                          LVKGYPsdIESGDRNQRRkgDTQPLGDSLATDSGFYDVPSLTYSesHDERDISYWRRRGQ 120
+25:gi|326665235|ref|XP_003197996.1                                                                                          INEGH-ERIQRRLEVPVAfgDLQPLGDSLATDSGFYDAPSLTFSEHPDERDISFWRRRGQ 119
+26:gi|327274528|ref|XP_003222029.1                                                                                          TgkSALNDNEsrQPVSVYHQDVPASTNIYAPEARFYDQSQLNWSSCPKTEKDLawRRRGQ 120
+27:gi|149032574|gb|EDL87452.1                                                                                               LGTGHVSNSEKHSSKPRGHQEYQSSS-SRTPEAGC------------------------- 94
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 QEARSQKPREHENLEARGMAQAHSLPVHVREGPWEVGGRSEHVMKKPVWEEELRMSGPAK 180
+1:gi|296206389|ref|XP_002750185.1                                                                                           PAARSQKPKGREDLEARGMAQAHSLPVHMREGPWEVGGRSEHVMKKAVWDEELRMSAPAK 180
+2:gi|355782715|gb|EHH64636.1                                                                                                QEARSQKPREHENLEARGMAQAHSLPVHMREGPWEVGGRSEHVMKKPVWEEELRMSGPAK 180
+3:gi|344277920|ref|XP_003410745.1                                                                                           EYSGLPGPSDREDLEVRGLAQAHSQPGHLRESPWDVGARTENVTKKAVLEEELRMSGAAK 180
+4:gi|338721532|ref|XP_001915624.2                                                                                           EVSGLLGPRDREDLEVRGMAQAHSLPIHVREGPWEVGRRTENVMKKAVWEE-LRMAGPAE 178
+5:gi|301768563|ref|XP_002919699.1                                                                                           EVSGLLGPRDREDLEVRGMAQAHSLPVHTREGPWEVGGRTENVMKKAVWEEELRMAGPAK 180
+6:gi|73948916|ref|XP_535151.2                                                                                               EVGGFLGPRDREDLEGRGMAQAHSLPVHMREGPWEVGGRTENVMKKAVWEEELRMAAPAK 180
+7:gi|348565947|ref|XP_003468764.1                                                                                           KATSLLGPQDPDDLEVRGVAQACGLPAHMREGPWDVGVRTEYVMKKAVWEEEPRMSGPDK 180
+8:gi|355734986|gb|AES11514.1                                                                                                EGSGVLGPRDREDLEDRGMAQAHSLPVPMRESPWEVGGRTENVTKKAVWEEELRVAGPAK 180
+9:gi|334348802|ref|XP_003342111.1                                                                                           DFSVLLDYTDRGNLETRRMAEPHGVNRNVREGQLEVGLRTENTMRRAVLEDSWKISGDPK 179
+10:gi|351713845|gb|EHB16764.1                                                                                               KASSSLGPRDRDEPEGRGVAQARSLPVHMREGPWDVRGRTEHVMKKAVWEEEPRMSGPAK 180
+11:gi|354485805|ref|XP_003505072.1                                                                                          QESslLGPRDREEVEIRGMAQAHSLPIHVRESPWEVAGRTEHVIKKAVWEEELRMPAAVK 174
+12:gi|126506316|ref|NP_001075432.1                                                                                          QesGSLCPRDWKELESRGMAQAYSLPVHVRENLWEVAGRTEHVMKNAIWEEELRM----- 173
+13:gi|293342780|ref|XP_001056659.2                                                                                          QesGSLCPRDQEEVEVRRMAQAHSLPIHVRESPWEVARRTEHVMKNALWEAELRMPTPAK 179
+14:gi|350589501|ref|XP_003130754.3                                                                                          QEA--------------GPRAAEDLPLHAREGPWEVGGRTEHVMKKATWEEELGSAGPAK 166
+15:gi|326921604|ref|XP_003207047.1                                                                                          DFSVLLGYSQKGGAEMQGLAAAHGAPRHPKDAQLKVGLSTEYV-RRSGLPESCEGPGDCK 179
+16:gi|126723084|ref|NP_001075943.1                                                                                          QEARE---------DPGGRGPVPSLPTHPREGPWEVGGRSEHVMKKAVWEDELGMAGPAR 171
+17:gi|345324168|ref|XP_001507721.2                                                                                          DFTVLLGYTDKGDLETAGMSQPRGGNRNVREGQWQVGTRreMGMQKSVLEESWKMPEDAK 180
+18:gi|224044729|ref|XP_002189062.1                                                                                          RPLFCSYLreQRNGARAGLEASPRAPRHPKENQLKVGTGAGYV-RRSGLQESCEVPSDCK 179
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          DFSVLLDYADFRDPRGSGGGGVANKPEGMQRRPESALSTEEhaREREMALHQWRIAAERK 179
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          DFSLLLgeKLRSSTDSEGKPRCNIFDKNTREAAKDVVEAMETVRGNTVY-DNWKPSLEEQ 179
+23:gi|47213006|emb|CAF95398.1                                                                                               ------------------------------------------------------------
+24:gi|348520046|ref|XP_003447540.1                                                                                          DFSILLDYADGRELRASAGAWRPQALITAEEY------RAERQAQQ-LWEdqLRVTGERK 173
+25:gi|326665235|ref|XP_003197996.1                                                                                          DFSALLDYADPRELRVsgLWRGPVLAVewEEGPW---------IREPIdpETLRVTGERK 170
+26:gi|327274528|ref|XP_003222029.1                                                                                          DFSALLGNTGKEDSETKGMAVPCALYGHDKKDVYD-PTRVERV----------------- 162
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 WQNVSLESWNQPRKLGRQMSDGDGERLFQDLYPFIQGEHVLNSQNKGKSRSLPRVLSPES 240
+1:gi|296206389|ref|XP_002750185.1                                                                                           WQNVSLESWSQPRKLGRQMSDGDGERLFQDLYPFIQGEHVLNSQNKGKSRSLPKVLSPES 240
+2:gi|355782715|gb|EHH64636.1                                                                                                WQNVSLESWNQPRKLGRQMSDGDGERLFKDLYPFIQGEHVLNSQNKGKSRSLPRVLSPES 240
+3:gi|344277920|ref|XP_003410745.1                                                                                           WQNVSLESWNQPRKLGRQMSDGGGEKLFQDLYPLIPGEHALNPQNKGKSQLLPRVLSPES 240
+4:gi|338721532|ref|XP_001915624.2                                                                                           WQNVSLESWNQPRKLGRQMSDGDGEKLFQDLYPFVQGEHVLNSQSKGKSQSLPRVLCPES 238
+5:gi|301768563|ref|XP_002919699.1                                                                                           WQNISLESWNQPRKLGRQMSDGDGEKMFQDLYPFMQGEQALNSQSKGKSQSLPRVLSPES 240
+6:gi|73948916|ref|XP_535151.2                                                                                               WQTISLESWHQPRKLGRQMSDGDGERLFQDLYPFMQGEQVLNSQSKGKSQSLPRVLSPEG 240
+7:gi|348565947|ref|XP_003468764.1                                                                                           WQNVSLESWNQPRKLGRQMSDGDREKLFQDLYPFTQGEHALTSQNKKKSQSLPRVLSPES 240
+8:gi|355734986|gb|AES11514.1                                                                                                WQNISLESWNQPRKLGRQMSDGDGERLFQDLYPFLQGERALSSQSKGKSQSLPRVLSPES 240
+9:gi|334348802|ref|XP_003342111.1                                                                                           WQNANFENWNQPRRLGRQMSDGDGEKLLQDLYPFTKGDSTLNSQNKGKSQSLPRVLSPET 239
+10:gi|351713845|gb|EHB16764.1                                                                                               WQNVSLESWNQPRKLGRQMSDGGGEKLFQDLYPFIQGEHALTSQNKKKSQSLPRVLSPES 240
+11:gi|354485805|ref|XP_003505072.1                                                                                          LQNVNLESWKQPRKLGRQVSDGDREKMFRDLYQFVQGEHMLTSQNKKKSQSLPRVLSPKS 234
+12:gi|126506316|ref|NP_001075432.1                                                                                          -QDMSLESWKKPRELGRQASDGDGRKrfEGLYPFVHGEH--TSQNRKKSQSLPRALSPKS 230
+13:gi|293342780|ref|XP_001056659.2                                                                                          WQDMTLESWKQPRKLGRQASDGDGQKrfEDLYQFVHGEHMLTSQNRKKSQSLPRALSPKS 239
+14:gi|350589501|ref|XP_003130754.3                                                                                          WQHPSLGSWNQPRKLERQMSDGVREQLFQDLYPFMLGEHVLTSQSKGKSRSLPRVLSPES 226
+15:gi|326921604|ref|XP_003207047.1                                                                                          WQNMRTECWNQPKKVGRQMSDGDREKLLQELYSLTLGDDVLGSHNKGKSQSLPRVLLQES 239
+16:gi|126723084|ref|NP_001075943.1                                                                                          WQDVSVRSWNQPPRLGRQMSDGVGEKLFQDLYPFMLGEHGLTSQSKGKSQSLPRVLSPES 231
+17:gi|345324168|ref|XP_001507721.2                                                                                          WQNLSVESWSQPGKLGRQMSDGDGQRLLGELYLVTQGENALSSQNKGKSQSLPRVLSPEV 240
+18:gi|224044729|ref|XP_002189062.1                                                                                          WQSLEVESWSQPKRVGRQMSEGDREKLLQELYSLTLGDNVLSTHSRGKSQSLPRVLSPES 239
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          YQSLGTEEWRPMTSMSRQPSENE---VAHDQRRPRTAEGAVPPRTKNKSQSLPRMQS-ES 235
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          WGKINKFVMKATKTSERTMSESSGEKLLQDFISFNQVDNTVGCPNKLKSLSLPKGLSPDS 239
+23:gi|47213006|emb|CAF95398.1                                                                                               ------------------------------------------------------------
+24:gi|348520046|ref|XP_003447540.1                                                                                          CQSLGTEEWRPAVGLGRQLSDGDGERWAQDHYRLRTPEGFFHPRTKAKSQSLPRVLSPEG 233
+25:gi|326665235|ref|XP_003197996.1                                                                                          CQSLGTEEWRPAVGLGRQLSDGEAEHwlEQQHRLRPAEGNVSATVRAKSQSLPRVLSPED 230
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 LSCTEIPIPLNERHSPKMPPYPPTCAPNLDSTRNSEKSGCSAPFPRPKFGRPLKPPSYSS 300
+1:gi|296206389|ref|XP_002750185.1                                                                                           LGCTEIPIPLHDRHSPKMPPYPPTCAPNLDSSRNSEKVGCSAPFPRPKFGRPLKPPSYGS 300
+2:gi|355782715|gb|EHH64636.1                                                                                                LSCTEIPIPFNERHSPKMPPYPPTCTPNLDSTRNSEKGGCSAPFPRPKFGRPLKPPSYSS 300
+3:gi|344277920|ref|XP_003410745.1                                                                                           LSCVEMPISLNDRhiPKMPLYPPNCAPNLETTRNTKKGVFIVPLPQPKFGRPLKPPSYEL 300
+4:gi|338721532|ref|XP_001915624.2                                                                                           LSCMEIPLPLNDRhvPKMPSYPPNCAPHLEPTRNSEKGGSSVPLLRPKFGRPLKPPSYDS 298
+5:gi|301768563|ref|XP_002919699.1                                                                                           LSCMDIPIPLNDGhvPKMPFHPPNCAPNLESTRNPEKSGSSVPLPRPKFGRPLKPPSYDS 300
+6:gi|73948916|ref|XP_535151.2                                                                                               LSCMEIPIPLNDGhvPKMPFYPPNCAPNLESTRNLEKSGSSAPLPRPKFGRPLKPPSYDS 300
+7:gi|348565947|ref|XP_003468764.1                                                                                           LSYKEIPIPLDDGhiPKVPPYAPNCAPHSELVRNPEKAGSSAPFPRPKFGRPIR-PLYGS 299
+8:gi|355734986|gb|AES11514.1                                                                                                LSCMDIPIPLNDGhaPKMPFYPPNCAPNLESTRNPEKSASSAPLPRPKFGRPLKPPSYDT 300
+9:gi|334348802|ref|XP_003342111.1                                                                                           LRCVEMPIGINEChdPKMLFYPTNSPSNLEYLRNPEKGDPYIPLQKPKYGRPLKPPSYEL 299
+10:gi|351713845|gb|EHB16764.1                                                                                               LSYVEVPIALNVGhvPKVPPCPPSGAPHLESTKTSEKAGTSAPFPRPKFGRPLKPPSYSS 300
+11:gi|354485805|ref|XP_003505072.1                                                                                          LSFTEISVPLHDGhiPKVPPYPPSCPPPLEPTRNLEKASSSGPFPRPKFGKPLKTPCYSS 294
+12:gi|126506316|ref|NP_001075432.1                                                                                          LNFTEIPVPLHDGhvPKVPPYPPSFPSPSEPMRNLEKASSSGPFPRPKFGKPLKTPCYSS 290
+13:gi|293342780|ref|XP_001056659.2                                                                                          LNFTEIPVPLHDGhvPKVPPYPPSCPPPLEPTRNLEKTSSSGPFPRPKFGKPLKTPCHGS 299
+14:gi|350589501|ref|XP_003130754.3                                                                                          LSCMEIPIPLSDGhvPKVLRHPPKSAHDLEATRNPEKG----PFPRPKFGRPLKPTAHDS 282
+15:gi|326921604|ref|XP_003207047.1                                                                                          MRCVEMPSLTNSNnvSKAPSYP-SHRLTAESAKHHEMGGHFLPLVKPKYGRPLKPPSYEL 298
+16:gi|126723084|ref|NP_001075943.1                                                                                          LSCMEVPIPLSDGhvPKVPLQPPNCASNLESTRNPKKAGTSAPLPQPRFGRPLKPPSYGS 291
+17:gi|345324168|ref|XP_001507721.2                                                                                          LRFGEVPA------------YPQSNSSHLEFSKPPERGIPLIPLTKPKYGRPIKPPSYEL 288
+18:gi|224044729|ref|XP_002189062.1                                                                                          MRCVEMPSLTNSNnvTKTPSYPPN-RLSVEPAKHHGTGGSFLPLVKPKYGRPLKPPSYEL 298
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          LQYFSIpfKLNGHHI-RDPHGRHIDGEN--RQRWTDRSGasAPLSKPRFSRPLRPPSYEA 292
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          INHISLPAVKGENYALKED------KTQVQSNCGTNSDSDGNSSSKQKYSRPSKPPSYEV 293
+23:gi|47213006|emb|CAF95398.1                                                                                               ------------------------------------------------------------
+24:gi|348520046|ref|XP_003447540.1                                                                                          SDRRElsLPDRQRISSTvgPYSRYIYGGGRDrrSIGPSSHVALLPKPRFSRPLKPPSYEI 293
+25:gi|326665235|ref|XP_003197996.1                                                                                          PHYGELP-------QTSAPNQPPTQRSNSSasGQTQSHGPSAVVPKPRFSRPVKPPSYET 283
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 HQQSRGGADSSDSQDSQQMDAYVPRHELCLSDPGLEPPVYVPPPSYRSPPQNIPNPYLED 360
+1:gi|296206389|ref|XP_002750185.1                                                                                           HQQSRGGADSSDSQDSQQIDAYVPRHELCLSDPGLEPPVYVPPPSYRSPPQNIPNPYLED 360
+2:gi|355782715|gb|EHH64636.1                                                                                                HQQSRGGADSSDSQDSQQMDAYVPRHELCLSDPGLEPPVYVPPPSYRSPPQNIPNPYLED 360
+3:gi|344277920|ref|XP_003410745.1                                                                                           HQQSRGGVENSEYQDGQPIDdyVPRQEHCGLDSSLEPPVYVPPPSYHSPSPHITNPYLED 360
+4:gi|338721532|ref|XP_001915624.2                                                                                           HQHSRGGVENSDYPDSQQTDLCVprQELCAPDSGLEPPVYVPPPSYRSPPQHIANPYVED 358
+5:gi|301768563|ref|XP_002919699.1                                                                                           HQHSRAGVENSDSPDSQRADLCvpRLELCASDSGLEPPVYVPPPSYRSPPQPITNPYVEE 360
+6:gi|73948916|ref|XP_535151.2                                                                                               HQNSRVGMESSDSPDGQQADLcePRLELCASDSGLEPPVYVPPPSYRSPLQHITNPYGDD 360
+7:gi|348565947|ref|XP_003468764.1                                                                                           HPQPRGGERSSLQDSQQVDLHSspTHEPSVPDCGLEPPVYVPPPSYRSPPQHIPNPYLED 359
+8:gi|355734986|gb|AES11514.1                                                                                                HQHTRAAVEQSDSADSQQADLCipRLEPGASDSGLEPPVYVPPPSYRSPPQHISNPYGDD 360
+9:gi|334348802|ref|XP_003342111.1                                                                                           HRQTRGGVETSRYQENYQKDsnEPRQDLYNPDPNLEPPMYVPPPSYRSPPHQNTNPHFLN 359
+10:gi|351713845|gb|EHB16764.1                                                                                               HSQPRGGERGSPQDGSCFPRTSDPGHEPSAPDCGLEPPVYVPPPSYRSPPLHIPNPYLED 360
+11:gi|354485805|ref|XP_003505072.1                                                                                          HPQPRREDGFQDHQHRDPHGSydSRHELGVLDTGLEPPVYVPPPSYRSPPQHIPNPYLED 354
+12:gi|126506316|ref|NP_001075432.1                                                                                          HSQPRGEGGFQDHQHRDPRGSydPSHELGMLDPGLEPPVYVPPPSYRSPPQHIPNPYLED 350
+13:gi|293342780|ref|XP_001056659.2                                                                                          QPQPRGEGGFQDHQHRDPRGCHPTrhELGMLDTGLEPPVYVPPPSYRSPPQHIPNPYLED 359
+14:gi|350589501|ref|XP_003130754.3                                                                                          HQHSRPGEQNSSYADGQQPDPCvtRQELCGPDPGLEPPVYVPPPSYRSPLQHTSSPCVED 342
+15:gi|326921604|ref|XP_003207047.1                                                                                          QRQSRTVETGCQDHYQKNEPIsePRQDACVHDPGLEPPVYVPPPSYKSPPHHTVSPHPFS 358
+16:gi|126723084|ref|NP_001075943.1                                                                                          QPHSKAGAENGSYTDSRQLDpnSARQDLYGPDPGLEPPVYVPPPSYKSPPQPAAHPCPEE 351
+17:gi|345324168|ref|XP_001507721.2                                                                                          HRQNRVAVEASGHQDHHQKDPPVtrQDLPPQDSGLEPPVYIPPPSYKSPPQPNSHPRFSN 348
+18:gi|224044729|ref|XP_002189062.1                                                                                          QRQTRAPAETVGFQDHYQKEEPvpRQDAGIPESGLEPPVYVPPPSYKSPPHQHVTPHSPS 358
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          HQQMRGSAEMLTGELAPRARDRTprQEYFVQELGGSGAEPPGYIPPPSYRRQPvrTYPIS 352
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          htWGVVDANEGSDHQQKDELHSVArqESCSQDSGLEPPNYIPPPSYKSPPLQHATNQSFN 353
+23:gi|47213006|emb|CAF95398.1                                                                                               ------------------------------------------------------------
+24:gi|348520046|ref|XP_003447540.1                                                                                          H----------------------------------------------------------- 294
+25:gi|326665235|ref|XP_003197996.1                                                                                          H----------------------------------------------------------- 284
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 TVPINVCGGHSQQQSPTEKAGASGQPPSGPPGTGNEYGVSPRLPQGLPAHPRPVTAYDGF 420
+1:gi|296206389|ref|XP_002750185.1                                                                                           TAPVNVCGGHSQQQSPTEKAGASGQPPLRPAGTGNEYGASPRSPQGLPTHPRPVTAYDGF 420
+2:gi|355782715|gb|EHH64636.1                                                                                                TAPINVCGDHSQQQSPTEKAGASGQPPSGPPGTGSEYGASVRSPQGLPAHPRPVTAYDGF 420
+3:gi|344277920|ref|XP_003410745.1                                                                                           AAPRLVCGGRSQQYPPTEKTSASCQRSAGSLGAGNEYGANPRSPHGLPQHPCPTTAHDSF 420
+4:gi|338721532|ref|XP_001915624.2                                                                                           AAPRPVCGGRRQQEHLTEKAGASCQLPSGSLGTGNEYGASPRSPRGLHPQPRPTAALDGS 418
+5:gi|301768563|ref|XP_002919699.1                                                                                           AAPRPVCGGPRQQQLAMELAGASCQLPAGPLGAGNESGASPRSPRGVPQQPRPTTAYDSS 420
+6:gi|73948916|ref|XP_535151.2                                                                                               AAPRPVCAGPRQQQHPAEVPSAGGQPPSRPLGTGTEYGASPRSPRAFPLQPRPTTAYDSS 420
+7:gi|348565947|ref|XP_003468764.1                                                                                           SVPSYVSGEHGSQHQPTEKPGARGPLPPGLLRTRNECDAGPASPQSLPPHPRSVTTHEGS 419
+8:gi|355734986|gb|AES11514.1                                                                                                PAPRPVCGGPRQQLAPMELASSGCQVPPSSPRAGSTYGVGPRSPRSSPRPPRPTTTYDSS 420
+9:gi|334348802|ref|XP_003342111.1                                                                                           EVPHFQCGGhqQQPLPPEKPIAGHYSSASSYRSGNQYGASICPPQGLPGPLQHTDACDTS 419
+10:gi|351713845|gb|EHB16764.1                                                                                               TMPKHMSGGHSPQHHPIEKPRASGPLPPGLLRTGNEYGVSSGSPQSLRPHPRPVATYEGS 420
+11:gi|354485805|ref|XP_003505072.1                                                                                          PVPRHMSSSQSQQQQLPEKAEAGSAVPSGSLAARNLYDTmsCPPPGPPPHPYPVATHGAS 414
+12:gi|126506316|ref|NP_001075432.1                                                                                          PVPRHVSSNQSQQQVP-EKPETSCPLPSGSLAARDLYDAMPgpPQGLPPQPYPIATHGGS 409
+13:gi|293342780|ref|XP_001056659.2                                                                                          PIPRHVSSSQSQQQQLPEKPEADCLLPSGSLAARDLYNAMPGSPPPGPPPHPyiATHGDS 419
+14:gi|350589501|ref|XP_003130754.3                                                                                          ASPGLEGGGRRVQQHRMEKAAASHQLPTGSPAAGSECSASPRSPRGLPQQLHPSIAYDGS 402
+15:gi|326921604|ref|XP_003207047.1                                                                                          EVPNNATYASSDQQDTAERAVACQRPAVXPAVNSVEMGGAPclPPGKQSHSRHPADFLRS 418
+16:gi|126723084|ref|NP_001075943.1                                                                                          AVSRHEGRGRRVPQHPMERPAAGGQPLSGSRGAGSEWGASPCSPVGVPPQPHHTTAYDGS 411
+17:gi|345324168|ref|XP_001507721.2                                                                                          EVPHHSLGSRVPQQHSGERTNPSRQQPSSGScaGDGFSADPHPLRGNPSHLQHVNAPDGS 408
+18:gi|224044729|ref|XP_002189062.1                                                                                          EVPNTNTCASSDPQGPAERVVPCQRPAINNFEVGGDLCKDNHFPYGKQSHSRRPADHLRS 418
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          MANHQYRGDPYMQSSAMTEVQEWFIRQTGMAWPDHYRDGRRSMPCRRQAYPGYSEERMGN 412
+21:gi|47225119|emb|CAF98746.1                                                                                               ---------------------------------------------------------GGG 3
+22:gi|301622104|ref|XP_002940380.1                                                                                          KVP--------------------------------------------------------- 356
+23:gi|47213006|emb|CAF95398.1                                                                                               ------------------------------------------------------------
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 VQYIPFDDPRLRHFKLAQPQGFCEDIKLDDKSYNSSPVTAQEPAHGGMQPDGAIWNPQSL 480
+1:gi|296206389|ref|XP_002750185.1                                                                                           VQYIPFDDPRLRHFKLAQPQGFCEDKKLDDKSYNSSPVTAQEPAHGGMQADGATWNPQSL 480
+2:gi|355782715|gb|EHH64636.1                                                                                                VQYIPFDDPRLRHFKLAQPQGFCEDIKLDDKSYNSSPVTAQEPAHGGMQPDGAIWNPQSL 480
+3:gi|344277920|ref|XP_003410745.1                                                                                           VQYIPFDDPRIRHIKLTHPQGFCEETNLYEKLYSTGPTAPQEPAHGKIQPRGAFLNVQSM 480
+4:gi|338721532|ref|XP_001915624.2                                                                                           VLYIPFDDPRIRHIKLAQPQGFCEETKLDERLYSSRPVTPPEPARGNTRHGGANFNPQSL 478
+5:gi|301768563|ref|XP_002919699.1                                                                                           VLYIPFDDPRIRHFKLAHPQGFCQETKVDEKSYSSSPGPAGAPAPGHSQHDGAVFSPQSV 480
+6:gi|73948916|ref|XP_535151.2                                                                                               VLYIPFDDPRIRHFKLAQPQGFHPETQAAEMLYSSSPGTAPAPAHGNSQQDGAVLSPRSV 480
+7:gi|348565947|ref|XP_003468764.1                                                                                           VQYIPFDDPRIRHIKLAQPLGFCEEVKPGDRNYDARPVPAPEPAQERRHHDSAILNVQSL 479
+8:gi|355734986|gb|AES11514.1                                                                                                VLYIPFDDPRIRHFKLSHPQGFCQETKVEEKSYSSSPSAVPTPASGRSQHDGAILSSQMV 480
+9:gi|334348802|ref|XP_003342111.1                                                                                           VQYIPFSDPRIRHIQVTHHQDLSKDAKLLEILCNTGSSVCQGLARVQEQDGGAFFHPESL 479
+10:gi|351713845|gb|EHB16764.1                                                                                               VQYIPFDDPRIRHIKLAQPLGFGEEVKSDDRPYDACPVPAPEPAQGKRHRDGAVLNAQSL 480
+11:gi|354485805|ref|XP_003505072.1                                                                                          IQYIPFDDPRIRHIKLAHPPEFYEKTKLDDRAYNAG-ITTQEPALEKRHYDGALLSPQGP 473
+12:gi|126506316|ref|NP_001075432.1                                                                                          IQYIPFDDPRIRHIKLAQPPEFYEEAKLDDTSYNPGLLTTQEPAIGKRQYDDAPSVPRGP 469
+13:gi|293342780|ref|XP_001056659.2                                                                                          IQYIPFDDPRIRHIKLAQPPEFYEEARLEDTSYNSGFIATQEPALGKRQYNDALSAPRGP 479
+14:gi|350589501|ref|XP_003130754.3                                                                                          IVYIPFDDPRIRHLKLARPQGFWEEMKLDSQPCRSGPVPAPEPEHGSGQRGGAVRSPQGL 462
+15:gi|326921604|ref|XP_003207047.1                                                                                          VQYIPFDDPRIRHIKIAPPEGLQDNIKYIENAHSPSSGTSQE-RDLEVQYNSAFLDASHL 477
+16:gi|126723084|ref|NP_001075943.1                                                                                          ILIIPFDDPRIRHIKLPRPHGFWEDVKLD------GAVPAPDPRS--LQQEGAVWGP--- 460
+17:gi|345324168|ref|XP_001507721.2                                                                                          VQYIPFDDPRIRHIQLAYSQRLPEDTRPFGNSGRAVATAFLEPPLQEAQPDGA-----PP 463
+18:gi|224044729|ref|XP_002189062.1                                                                                          VQYIPFDDPRIRHIKIAPLEGLQGNPNHTENACSPSSGALQE-RNLEVQYNSAFVDASNL 477
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          VQYIPFDDPRVRHISGAGIDgsLTDADKIRNIRNEIPV--------------------NL 452
+21:gi|47225119|emb|CAF98746.1                                                                                               IQYIPFDDPRIRHLSSALGGNSLTDADKIRHICNELpvAASEPSS-----INSAFLPPPL 58
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               ------EDPKVKQISGGPSG---SSLKDSEKLRNINKETPSAKILGQSTNDSAFPSQQG- 50
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 IPPSGDERGLVLADSSPRWLWGQPPGDGENSGLPNQRDRCVARGQWPDVRGSQHGHTGRQ 540
+1:gi|296206389|ref|XP_002750185.1                                                                                           IPPSGDERGPVLANPSPRWLWGQLPGDGENSALPNQRDRCVARGQWPDMRGSQHGHAGRQ 540
+2:gi|355782715|gb|EHH64636.1                                                                                                ITLSGDQRGPVLASPSPRWLWGQLPGDGENSGLPDQRGRCVARGQWPDVRGSQHGHTGRQ 540
+3:gi|344277920|ref|XP_003410745.1                                                                                           TPVAGKEWAPSISDPGPQWLLGRLPRGGEPSDIADQRDNCAVRGEQPDMKGTQHGHSEGH 540
+4:gi|338721532|ref|XP_001915624.2                                                                                           KPLPGGERGLHFADPSPRLLWGQLPRDGENGGFHDPRDHCTARGQRPDVQGDQHRYAEGQ 538
+5:gi|301768563|ref|XP_002919699.1                                                                                           MTPPGSVRGSTTTDASPRWLWGHLPRDAENGGFSNQREHSAVRGQWPAAGGSRHGHTEGP 540
+6:gi|73948916|ref|XP_535151.2                                                                                               RTPPGNASSSAPASPGPRWLWGHLPGDAENGSFPDQRDHGAVRGQWPAVGGSPRGHPEGP 540
+7:gi|348565947|ref|XP_003468764.1                                                                                           TPPLGTERRPTLVDPGPQWLWDQLLGDGKNAGVPDQREHCIVRGQQAPGEGGQHGHAGGY 539
+8:gi|355734986|gb|AES11514.1                                                                                                TALPGSVSGstPAEPSPQWPWGQLPRDVENGGFPDHRDHGATRGPWPAVGCGQRGHTEGP 540
+9:gi|334348802|ref|XP_003342111.1                                                                                           VPPTKSKHDPTTYASSLGWLQTAPPPDREICALPDQRDNCVLSEQQPDKESSGQQGAQGR 539
+10:gi|351713845|gb|EHB16764.1                                                                                               TPTLGTGTGPAFVDPGPWWLWGQLPGDGEYASFPYQ------RGQPAPGEGGQHGHAGSH 534
+11:gi|354485805|ref|XP_003505072.1                                                                                          ALPSGNEQGSAFAHSSPRWLRRHIPMDVEHEGFSSQIEQRVMRGLGTDVRDSQ---AESL 530
+12:gi|126506316|ref|NP_001075432.1                                                                                          TPSPVNEQSSAFVHSSPRWLQGQLPLGIGPGGFHGQTEHHVMGGLTTNVTDIK---AEGH 526
+13:gi|293342780|ref|XP_001056659.2                                                                                          ILPPVNERGSAFAHSSPQWLQGQLPMASEPGGFPGQTEHHGMRGLTADVRDSK---VESH 536
+14:gi|350589501|ref|XP_003130754.3                                                                                          MGPSGKERGPAPADPSPPWLWGQLPRDGENGGLPDPRDHCVvhRQWPDTR----GHAESR 518
+15:gi|326921604|ref|XP_003207047.1                                                                                          AGSVKGERTSDSSTHSSRWL-APSVRDQENCALLDQRDSCSTANHSPCNEASTEYTKGKL 536
+16:gi|126723084|ref|NP_001075943.1                                                                                          ---SGKERGPAPADPSPSWLWGQPPRNGENGSSPDQRDPcvTQRKQPDVSGSPQEYPESL 517
+17:gi|345324168|ref|XP_001507721.2                                                                                          SPMPGSERGLRNSAPSHRRLmaTPPRGSESRALPDQRDSCGLREQRP-WRGPNQESVRGQ 522
+18:gi|224044729|ref|XP_002189062.1                                                                                          SSSAKGERTSDSSTHSNRWL-APSMRDQENCALPDQRDNCRATNHSPRNEASPEYMKGK- 535
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          IPEKSNDSALPFtdRTDPNKSNISNSINEDSMHKESLKETECSNTVPDQNCNRHPVTHgq 512
+21:gi|47225119|emb|CAF98746.1                                                                                               APSNQTSSGNLDNDSN---RWHSDLHNETVDNFPAIDQNCNNRfqAPITRLSShgPILDQ 115
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               SALSSDSRKVTLNDnsIRWC---------NRGINKKSESAAaqSRSQFLPSSILGKPPPP 101
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 VSSPYSQGESTCETQTKLKKFQTGTRTKKSSKKKMNETIFCLVSIPVKSESHLPDRDMDN 600
+1:gi|296206389|ref|XP_002750185.1                                                                                           VSLLYSQGESTCETQTKLKKFEAGSRTKKSSKKKMNETIFCLVSIPVKSESHLPDRDMDN 600
+2:gi|355782715|gb|EHH64636.1                                                                                                VSSPYSQGESTCETQTKLKKFQTGTRTKKSSKTKMNETIFCLVSIPVKSESHLPDRDMDN 600
+3:gi|344277920|ref|XP_003410745.1                                                                                           ASSPNPQGESTCETITKLKKFETGLQTKKSSKKKKNETVFCLVSIPVKSESHLPEIDTNN 600
+4:gi|338721532|ref|XP_001915624.2                                                                                           VSFQDPQGESTCDARTKLKMFETGIQTKKSSKKKMSETIFCLVSIPVKSESHLPDIDTNN 598
+5:gi|301768563|ref|XP_002919699.1                                                                                           APSPSPQGESTCETRTKLKKLGTGTQSKESSRKKMNETIFCLVSIPVKSESHLPDTDTNN 600
+6:gi|73948916|ref|XP_535151.2                                                                                               APSPGPQGESTCETRTTLKKFETGIQTKKSSKKKMNETIFCLVSIPVKSESHLPDIDTNN 600
+7:gi|348565947|ref|XP_003468764.1                                                                                           VSSPDPQgeRTCETHTKLRMFETGMQTKKSSKKKTNETIFCLVSIPVKSESHLPEIDTNN 599
+8:gi|355734986|gb|AES11514.1                                                                                                ASSPSPQGESTWETRTKLKKFETGIQTKKSSKKKMNETIFCLVSIPVKSESHLPDTDTNN 600
+9:gi|334348802|ref|XP_003342111.1                                                                                           VSSQTPQWENTCETVTKLKTFQTGISTKKSSKKKVNETVFCLVSVPVKSGPHLPDTDRNN 599
+10:gi|351713845|gb|EHB16764.1                                                                                               VFSPDPqsERTCETQTKLRMFATGMQTKKSSKRKPNETVFCLVSIPVKSESHLPAIDRNN 594
+11:gi|354485805|ref|XP_003505072.1                                                                                          ASSPQPQSEGTCKTYTKLKKFETGIQTKKSSKKKTNATIFCLVSVPVKSESLLSDTDTNN 590
+12:gi|126506316|ref|NP_001075432.1                                                                                          ASSPQPQSEGTCKTYTKLRKFETGVQSKKSSKKKSNATIFCLVSIPVKSESLVLATDTNN 586
+13:gi|293342780|ref|XP_001056659.2                                                                                          ASSPQPQSEGTCRTHTKLRKFETGIQSRKSSKK-SNATIFCLVSVPVKSESLVPDTDTNN 595
+14:gi|350589501|ref|XP_003130754.3                                                                                          AASASPQSESACETHTQLRKFETGVQTKKSSKKKLSETIFCLVSIPVKSESQLPDIDTNS 578
+15:gi|326921604|ref|XP_003207047.1                                                                                          LVR-NSHMDSTCETITKVKKFetGMQSKKSSKKKMNETIFCLVSIPVKSETNLPDTDRNN 595
+16:gi|126723084|ref|NP_001075943.1                                                                                          VSSPSPQGESSCEMQTQLRKFEAGLQPKRSSKKKTSETIFCLVSIPVKSESQLPGTDTNN 577
+17:gi|345324168|ref|XP_001507721.2                                                                                          VPS---QGDGTCETVAKLKKFELGtqNKKSAKKKTNETIFCLVSIPVPSEPHLPDTDRNN 579
+18:gi|224044729|ref|XP_002189062.1                                                                                          LSVRNSHMDNTCETVTKVKKFetGMQSKKSSKKKMNETIFCLVSIPVKSESNLPDTDRNN 595
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          MTTQQNSSLGLIETVTQVKKFEAKteNKKNSKKKLKETMFCLVSVPISMQANRSVSDPNN 572
+21:gi|47225119|emb|CAF98746.1                                                                                               VFA---------ETITQVKKidSGTENNSNTKRRVSETIFCLVSVPVHTPTNvpAADQNN 166
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               PCKPASQGAS--ETVTDTKKVepDKDKSKNLKKRLSETIFCLVSVPVTPQLSGIIRDQNN 159
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 NDLKPSADQKNGSDKSPALQEQSLLSMSSTDLELQALTGSMGGRTEFQKQDLGEPEEDRQ 660
+1:gi|296206389|ref|XP_002750185.1                                                                                           NDLKPSADQKNGSDKSPALQEQSLLSMSSTDLELQALTGSMAGRTEFQKQDLGEPEEDRQ 660
+2:gi|355782715|gb|EHH64636.1                                                                                                NDLKPSADQKNGSDKSPALQEQSLLSMSSTDLELQALTGSMGGRTEFQKQDLGEPEEDRQ 660
+3:gi|344277920|ref|XP_003410745.1                                                                                           NDLKQSADKKNGLDKSPALQEQSLLSMSSTDLELQALTGSMASRTDLEKQGLGEAEEDKQ 660
+4:gi|338721532|ref|XP_001915624.2                                                                                           NDLKQSADKKNGLDKSAALQEQSPLSTSSTDLELQALTGSVPGRTELRKQGLGGPEDDKQ 658
+5:gi|301768563|ref|XP_002919699.1                                                                                           NDLKQSTHKKNGLDKSTVLQEQSLLSMSSTDLELQALTGSMAGRTEFQKQDLGEPEEGKQ 660
+6:gi|73948916|ref|XP_535151.2                                                                                               NDLKQSSDKKNRLDKSPALQEQSLLSMSSTDLELQALTGSMVGRTEFQKQDLGEPEEGKQ 660
+7:gi|348565947|ref|XP_003468764.1                                                                                           NDLKQSADKKPGIDKSLALQEQSLLSMSSTDLELQALTGSMAGKTEFPKQDQEEPEGDKQ 659
+8:gi|355734986|gb|AES11514.1                                                                                                NDLKQGTEKKNGLDKNAALQEQSLLSLSSTDLELQALTGSMAGRTEFQKQDLGEPEEGKQ 660
+9:gi|334348802|ref|XP_003342111.1                                                                                           NDLKLRADKKNG-DKSGALQEQSLLSMSSTDLELQALTGSMASKTELQKQEPGGPQMYKQ 658
+10:gi|351713845|gb|EHB16764.1                                                                                               NDLKQSADQKPGADKSLALQEQSLLSLSSSDLELQALTGSMAGQTEFPKQGLGVP-GDRH 653
+11:gi|354485805|ref|XP_003505072.1                                                                                          NDLNLEADKTHGLCQGTALEEQSLLSMSSTDLELQALMGSMAWRRTPPRQGLEEP-EDGQ 649
+12:gi|126506316|ref|NP_001075432.1                                                                                          NDFKLVADKTRGLCQGSALQEQSLLSMSSTDLELQALMGSMAWRRTSPRQGLRE-SEDGQ 645
+13:gi|293342780|ref|XP_001056659.2                                                                                          NDLKLGADKNHGLYQGPALEEQSLLSMSSTDLELQALMGSMAWRRTSPRQVLGE-SEDGQ 654
+14:gi|350589501|ref|XP_003130754.3                                                                                          NDLKQGTDKKNGLDKNAALQVHSLLSLPSTDLELQTLPGSQAGRMGLPKPDPGGPGGDKH 638
+15:gi|326921604|ref|XP_003207047.1                                                                                          N-ITQSPD-KNGFDNNGALQEQSLLSMSSTDLELQALTGSMTNKNELQKQELWRPEEFKQ 653
+16:gi|126723084|ref|NP_001075943.1                                                                                          NDLKQSA----------SLQEQSVLSLSSTDLELQALTGSMATRTELPRPDPGGPGRGRQ 627
+17:gi|345324168|ref|XP_001507721.2                                                                                          NDLKQSVDLENGFDKSGVLQEQRLLSLSSTDLELQALTGSIASMTRFQKQELGRPAEYKQ 639
+18:gi|224044729|ref|XP_002189062.1                                                                                          N-ITHSPD-KNRFGNNGALQEQSLLSMSSTDLELQALTGSMTNKNELQKQELWRPEEFKQ 653
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          NQKVISSQENTGVQQD----NQNMLKASSKETHIQSNSSP----------SFRNPPLKKE 618
+21:gi|47225119|emb|CAF98746.1                                                                                               NETIptADtaVGLKESLNVRSKSVNEMPVKSHYSRFHTSSTSSLRNYKRAPLR-----KE 221
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               NNEkpDPADSPSDNKTGHLTNQSLQSTSSAEAELQALTGSIASSKafKKVPCRPPK---- 215
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 TNDLSFIHLTKHRELKHSGSWPGHRYRDQQTQTSFSEEPQSSQLLPGAKLGGPSRAALSP 720
+1:gi|296206389|ref|XP_002750185.1                                                                                           TNDLRFIHLTKHRELKHSGSWPGHRYRDQQTQTSFSEEPQSSQLLPGAKLEGSSQAPPSP 720
+2:gi|355782715|gb|EHH64636.1                                                                                                TNDLSFIHLTKHRELKHSGSWPGHRYRDQQTQTSFSEEPQSSQLLPGAKPGGPSCAALSP 720
+3:gi|344277920|ref|XP_003410745.1                                                                                           TNDLRFVHPTGHRALKYAGSWPGHQFRDQQTQTSFTEESKNSHLLPSAKPGGSTEAALTP 720
+4:gi|338721532|ref|XP_001915624.2                                                                                           TNDLRFIHPTKHRELKDSGLWPGHQYRDQQTQTSFAEESRSLQPLPAEKLGGPPDAVLTP 718
+5:gi|301768563|ref|XP_002919699.1                                                                                           TNDLRFIHPTKHRELKYSGSWPGHQYRDQQTQTTFTEDTKSPQPLPAEKAGGSPKAVLTP 720
+6:gi|73948916|ref|XP_535151.2                                                                                               TNDLRFLHPTKHRELKYSGSWPGHQYRDQQTQTTFTEDSKSPLPLPCEKPGGSPKAVLTP 720
+7:gi|348565947|ref|XP_003468764.1                                                                                           TDDFRFIHLAKHRALKYSGSWPGNQYRDQQTQTSFPEESKSSQLLPASMLGELSDTAPMP 719
+8:gi|355734986|gb|AES11514.1                                                                                                TDDLRFIPPAKHRELKYSGSWPGHQYRDQQTQTTFTEDSKSPRHPPAEKPGGSPKAVLTP 720
+9:gi|334348802|ref|XP_003342111.1                                                                                           TNDLRFIHPMKHRELRYSGSWPGDQYRDQQTQTTITQDSQISEFLPAKKMEDQPNVlpTP 718
+10:gi|351713845|gb|EHB16764.1                                                                                               ADELRFIHLAEHRALQYSGSWPGHQYRDQQTQTSFPEDSKSSQLLPAARLGDLSDTAPDP 713
+11:gi|354485805|ref|XP_003505072.1                                                                                          TGDLRILHLTKPRELQLSGSWPGHQYRDQQTQTSFPEDSKSSNLPLATQPEESSNTALTP 709
+12:gi|126506316|ref|NP_001075432.1                                                                                          IDDPRILHLIKPKELQASSPWPGHQYRDQQTQTSFHEDSKSSQLLPATKPGEASNVAPTP 705
+13:gi|293342780|ref|XP_001056659.2                                                                                          TDDPRTLHLIKPRELRASGSWPGHQYRDQQTQTSFPEDSKSSQLLPATKPGEASNAALTP 714
+14:gi|350589501|ref|XP_003130754.3                                                                                          TNGLRFTHPAKHSElpCPGWWPGHQYRDQQTQTSFTEEPQSPQPLPEGNVAGSPHAPLTP 698
+15:gi|326921604|ref|XP_003207047.1                                                                                          MNDLRFIQPAKHRELKYSGSWPGDQYKDQQTQTSFSEEPKNPQIFHGTKPGQPsnKSLSP 713
+16:gi|126723084|ref|NP_001075943.1                                                                                          ADDLRFPSPAKHRALAWPGPWPGHHFRDQQTQTSFAHEPQSLQPLPGERPGGSPDPVLPP 687
+17:gi|345324168|ref|XP_001507721.2                                                                                          TDDLSDSRATKHRELRYSGSWPGDQYRDQQTQTNFPEEPPNTQPPPDAKPGGTSNGLPTS 699
+18:gi|224044729|ref|XP_002189062.1                                                                                          MNDLRFIQPTKHRELKYSGSWPGDQYKDQQTQTSFSEEPESPEFFHGTKPGKpsSKPLSP 713
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          ITDTRSLDPSQDSEVFYAGSWPGDQYRNQETQTG---SPEVSRNTHSSANDHPSPFTIT- 674
+21:gi|47225119|emb|CAF98746.1                                                                                               IIDAWILQANDDKQICCAGSWPGNQYRNQETQT-----------------GSPLTVLKSP 264
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               --------INHYKEMKLLGTWPANQYRDQETQTSPEAEKPASENTEAQDPGAPSS----- 262
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 KCSDPAASEAQTHTAFPTGDHKQRPSARNLKGHRSLSPSSNSAFSRTSLSVDQAPTPKAG 780
+1:gi|296206389|ref|XP_002750185.1                                                                                           KGLDPAASEAQTHTAFPYGDHKQRPGARNLKGHRSLSPSSNSAFSRTSLSVDQAPVPKAG 780
+2:gi|355782715|gb|EHH64636.1                                                                                                KRSDPAASEAQAHTAFPSGDHKQRPSARNLKGHRSLSPSSNSAFSRTSLSVDQAPMPKAG 780
+3:gi|344277920|ref|XP_003410745.1                                                                                           HCLDPTAAGAPTQTALAPSDQKQKSSVHYLKGQTCLSPSTNSAFSRMSSAVNQAPAPKAC 780
+4:gi|338721532|ref|XP_001915624.2                                                                                           KCVDPAvsKPQGHLALAPSDQNQRPNARPPKAQVSLSPSSNSAFSRTSSSLNQAPLPRAG 778
+5:gi|301768563|ref|XP_002919699.1                                                                                           RFSDPVASKPHVPVALASSDQNQRPKAPPLKGQMSLSPSNNSAFSRTTSCIHQAPAPKAG 780
+6:gi|73948916|ref|XP_535151.2                                                                                               RFSDPIASEAHLPGVLASSHQSQRPHAHHLKGQMSLSPSSNSAFSKTSSCISHAPVLKAG 780
+7:gi|348565947|ref|XP_003468764.1                                                                                           ERLEATGS--HRHVPFGSSDQKQKAYAPNLKGQTSLNPSSNSAFSRTSPTTSQAPVLKAG 777
+8:gi|355734986|gb|AES11514.1                                                                                                RFSEPMASDAHVPVALASRDQNQGPKAPALKGQISLSPSSNSAFSRTMSCTYQAPALKAV 780
+9:gi|334348802|ref|XP_003342111.1                                                                                           KLAEPSALETLKPTVSLPNDWKLRTDTCNLKGQMYFSPSSNSAFSKTASSMIQGPISKAC 778
+10:gi|351713845|gb|EHB16764.1                                                                                               KCLDPTASDLPVHVALGSSDPNWKACAPHPKGQMSLSPSSHSAFSRTSPSATQAPVPKAG 773
+11:gi|354485805|ref|XP_003505072.1                                                                                          TCPEPTASEAHLHAALASSDQNQKPSGPHLRGQMSLSPSRNSAFSRTSPAIDQASMPKGA 769
+12:gi|126506316|ref|NP_001075432.1                                                                                          TCPDTTASEVCLHTALAFSDQNQKPSVPHLQGQTSLSPSRNSAFSRTSSAINQASMSKGT 765
+13:gi|293342780|ref|XP_001056659.2                                                                                          TCPDDTASEVHLHAALASSDPSQKPSVPHLRGQMSLSPSRNSAFSRTSSTINQTSMPKGA 774
+14:gi|350589501|ref|XP_003130754.3                                                                                          GCLDPAPQEVQIHVALASSDQNQRPGAHPLKGQGSLSPSSNSAFSRSSSAINPAPVPRAG 758
+15:gi|326921604|ref|XP_003207047.1                                                                                          kcMISAAGSKQTGSL--SDDRGCIQGAYGIKGQMYLSQSSNSAFSRTATSVPQASSPKGH 771
+16:gi|126723084|ref|NP_001075943.1                                                                                          RCLDPAPFEVQMHMALASSDPNQRPGAHSPKSQGSLSPSSNSAFSGSSWPRNQGPVPRAS 747
+17:gi|345324168|ref|XP_001507721.2                                                                                          TALAPSTFDKQRQWGLPLSDRKWRPQGSNPKGQGYLTPSSNSAFLSTSPPAAPGPAPKAY 759
+18:gi|224044729|ref|XP_002189062.1                                                                                          KLPgsTSTMGAKQTGSPSDEGGCRQSSYSMKGQTHLSQSSNSAFSRTAASVLQSPSPKAH 773
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          --NNEGETNCSAN------------YGYPMIGQKDLNHSSNSAFSRtgISVRSPHFPRS- 719
+21:gi|47225119|emb|CAF98746.1                                                                                               ESQSPPAGQEPVPREGDLSAESCSPYGYPMAGQKNLQLSSNSAFSRLGLSPTQLSLTEEA 324
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               EVPPDKSGAVGTAFSFP------------IKGVKSLKLSSNSAFSLTSTFINQ--LNKST 308
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 RSQPCVDVHGLGAHPGPKREVVKGEPTGPCNSKQLFGQFLLKPVSRRPWDLISQLESFNK 840
+1:gi|296206389|ref|XP_002750185.1                                                                                           RSQPFVDVHRLGGHPEPKREVVKGEPTGPCNSKQLFGQFLLKPVSRRPWDLISQLESFNK 840
+2:gi|355782715|gb|EHH64636.1                                                                                                RSQPCVDVHGLGAHPGPKREVVKGEPTGPCNSKQLFGQFLLKPVSRRPWDLISQLESFNK 840
+3:gi|344277920|ref|XP_003410745.1                                                                                           HSQPHVDVHGRRASPVPKDKVVKGEPTSPCNSQQLFGQFLLKPVSRRPWDLISQLENFNK 840
+4:gi|338721532|ref|XP_001915624.2                                                                                           PSQPCGDQ--------PRGEVVKGETTGPCNSQQLFGQFLLKPVSRRPWDLISQLESFNK 830
+5:gi|301768563|ref|XP_002919699.1                                                                                           PGRACVDGQGRGSSPGPRGEVVKGETTGPCNSRQLFGQFLLKPVSRRPWDLISQLESFNK 840
+6:gi|73948916|ref|XP_535151.2                                                                                               PTQPCVDGRGRNASPVPRGEVVKGETTGPCNSQQLFGQFLLKPVSRRPWDLISQLESFNK 840
+7:gi|348565947|ref|XP_003468764.1                                                                                           QPHPCLDVRGQGASPVPKPEVVKGEPtgPCNSKQLFGQFLLKPVSRRPWDLISQLESFNK 837
+8:gi|355734986|gb|AES11514.1                                                                                                PGQ--ADVDGRGPSPRPRGEVVKGATTGPCNSKQPFGQFLLKPVSRRPWDLISQLESFNK 838
+9:gi|334348802|ref|XP_003342111.1                                                                                           QSQpsADINERDTKPVFKGQIVKGESNAPCNSKELFGQFLLKPVSRRPWDVISQLESFNK 838
+10:gi|351713845|gb|EHB16764.1                                                                                               QTQPCMDVRGQGASPVPKPEVVKGEStgPCNSKQLFGQFLLKPVSRRPWDLISQLESFNK 833
+11:gi|354485805|ref|XP_003505072.1                                                                                          PGQPP------RASPVSKPEVVKGEsaGQCNSTQLFGQFLLKPVSRRPWDLISQLESFNK 823
+12:gi|126506316|ref|NP_001075432.1                                                                                          SDQLP------GANPVPKPEVVKGEstGQCNSTQLFGQFLLKPVSRRPWDLISQLESFNK 819
+13:gi|293342780|ref|XP_001056659.2                                                                                          SGQLP------SANPVPKPEVVKGEStgQCNSTQLFGQFLLKPVSRRPWDLISQLESFNK 828
+14:gi|350589501|ref|XP_003130754.3                                                                                          LGQLCMDSPARGASPVPRGEVVKGETTGPCNSKQLFGQFLLKPVSRRPWDLISQLESFNK 818
+15:gi|326921604|ref|XP_003207047.1                                                                                          QSQ-TLPAQEREAGVLPKADVVKGGAGAPCNSKELFGQFLLKPVSRRPWDAISELESFNK 830
+16:gi|126723084|ref|NP_001075943.1                                                                                          LGQQGSDGPGRRASPVSRGEVIKGETTGPCNSRQLFGQFLLKPVSRRPWDLISQLESFNK 807
+17:gi|345324168|ref|XP_001507721.2                                                                                          QTQpcGDTRDRTTGPGPKREVVKGEEHPACSSKELFGQFLLKPVSRRPWDAISQLESFNK 819
+18:gi|224044729|ref|XP_002189062.1                                                                                          QSQP-VPVQEREMAFFSKGDVVKGEPGGPCNSTEPFGQFLLKPVSRRPWDAISELESFNK 832
+19:gi|28837713|gb|AAH47548.1                                                                                                ------------------------------------------------------------
+20:gi|326672391|ref|XP_001341226.3                                                                                          ----------VSLPSSPDHQPLLRKSKQSSESQELFGQFLLKPVNRRKWDAIGELESFNK 769
+21:gi|47225119|emb|CAF98746.1                                                                                               PSSPSKSKNQRDPQLLSPKRASSNSLEGA--EQVAFGQFLLKPVTRRPHDAIGELESINK 382
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               AQQPAVSPSGNTEEPKP----------AAGSGKEALEQLLLKPASQRPWDAVKELETIKK 358
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 ELQEEEESSSSSSSSSSSSEESEAEPQQENRAHCRQEDVGFRGNSPEMRVEPQPRMWVPE 900
+1:gi|296206389|ref|XP_002750185.1                                                                                           ELQEEEESSSSSSSSSSSGEESEAEPPQEN--------VGFRGNSPEVTVEPQPRMWVPE 892
+2:gi|355782715|gb|EHH64636.1                                                                                                ELQ--EEEESSSSSSSSSSEESEAEPQQENRAHCTQEDVGFRRNSLEMRAEPQPRVWVPE 898
+3:gi|344277920|ref|XP_003410745.1                                                                                           ELQEQKESSHSSSEGSSEESEAEG--QQDDCTDSRRENSAFAGYSQAVRGEQWPRMLLPE 898
+4:gi|338721532|ref|XP_001915624.2                                                                                           ELqeESGHSSSGSSSGSSSEHSDPEWLPAGPAGAAPGSSAFREDSWEMRVEEPPRRSSRE 890
+5:gi|301768563|ref|XP_002919699.1                                                                                           ELQ--EEEECGQSGSDSRSEDSDTEWPCEGYADATGKNWGWREDSGAWRAEDPRKRLALE 898
+6:gi|73948916|ref|XP_535151.2                                                                                               ELQ--EEEESSHSGSGRSSEDSDTEWQCEGHVDTTAKSRGLGEAGQVQRAEAALGRLAPE 898
+7:gi|348565947|ref|XP_003468764.1                                                                                           ELQ---EGEDSPDGSSGSSGEENEIERQEDYVDSRPRNWGFYEDS-EKSVKPPPRELVLE 893
+8:gi|355734986|gb|AES11514.1                                                                                                ELQEEEDSGQSSSDSRSEDSD--TEWPCEVHADVPGKTWGFGEDSRAWRAEEPRRRPMLD 896
+9:gi|334348802|ref|XP_003342111.1                                                                                           EL--------QEQEESSSNSSIDGETAEREQQMQEDAEADADADADEIRVELQPRTLVPE 890
+10:gi|351713845|gb|EHB16764.1                                                                                               ELQ--EEEDSPDGSSGSSSEENEIEQRQEDCVGSRPRSWGFHEDSCDGRGEQQPRRLVLE 891
+11:gi|354485805|ref|XP_003505072.1                                                                                          ELQ---EDEESLGANGGSSNESSEVEEPQNCADSRAKGRGHHESGQKRRAEQQPAVLAPE 880
+12:gi|126506316|ref|NP_001075432.1                                                                                          ELQ------EEEESHGGSGSEDSEAEQPEDCADSRTKSWALQGT----RTAQQPAGLALE 869
+13:gi|293342780|ref|XP_001056659.2                                                                                          ELQ---EEEESHGVSSGGDSEDSEAEQPEDCADSSAKTRGH----QETRREQRPAELALG 881
+14:gi|350589501|ref|XP_003130754.3                                                                                          ELQ---EEEESSPSSDGSSEGSDSELPREAPAGPTPKRPGFLED----RVKEAPRRPVPE 871
+15:gi|326921604|ref|XP_003207047.1                                                                                          ELQ------GQEESMSSEEDLESAGASPQSCALPQRRSP--RNGNQEPKRGGKLETVVPE 882
+16:gi|126723084|ref|NP_001075943.1                                                                                          ELQEEEGSSGSSSDGSGSEDSDTELPW----GSCARPAPQLPGLLKD---------IVPE 854
+17:gi|345324168|ref|XP_001507721.2                                                                                          ELqsSGSSSRRNSSSSNGESVERERKEPKDGTYTRRGTVLPDGPRQEARAGQPPRMVGAG 879
+18:gi|224044729|ref|XP_002189062.1                                                                                          ELQ-----GQEESTSSEEDLESAAAPLQAGAFMQRRESRNEK-SSQEPKHGGKSEMVVPE 886
+19:gi|28837713|gb|AAH47548.1                                                                                                -----------------------AEPQQENRAHCRQEDVGFRGNSPEMRVEPQPRMWVPE 37
+20:gi|326672391|ref|XP_001341226.3                                                                                          EIQ--------------------------------------------------------- 772
+21:gi|47225119|emb|CAF98746.1                                                                                               EME--------------------------------------------------------- 385
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               EVQDQQQHQDSKQPSVDKCIEDLNEAYKDILELGTASNKVTNGSVQIP---ERIKIRLTS 415
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 SPVCRSGRGESKSESWSEELQPGHPRAWPPSPGRFRVEEGGGAPFCSADGSTSAEKRHLE 960
+1:gi|296206389|ref|XP_002750185.1                                                                                           SPVCRSGRGESKSESWSDEWGPGHPRAWPLSPGRCRVEDGGGAPFWSADESMSAQKRHPE 952
+2:gi|355782715|gb|EHH64636.1                                                                                                SPVCRSGRGKSKSESWSEELQPGHPRAWPPSPGRFCMEDSGGAPLWSADGSMSAEKRHLE 958
+3:gi|344277920|ref|XP_003410745.1                                                                                           EPVLRSGRVKSRSKSCSEEQK-----AAPPSQGVLQAEDSRGELFRSADGNWITGKRNQE 953
+4:gi|338721532|ref|XP_001915624.2                                                                                           DPVLRSGGVKSASERWSEEGKRGHLCARLPSLGPLQVGVSRGEALLSADGSLMTEKGNQE 950
+5:gi|301768563|ref|XP_002919699.1                                                                                           EPGAQPGRVKSKSESWSEEQKPSRPRAPPQspGPTTTVGGGAEDYPWAHGSLVTQEGHQD 958
+6:gi|73948916|ref|XP_535151.2                                                                                               EPGPRSGRVKSKSESWSEEQKLGRPHVPPWSLGPVTVVGGRAAASLSPRTSPVTENRDQE 958
+7:gi|348565947|ref|XP_003468764.1                                                                                           HPERWSGRVKSKSESWSEELKAGHLSTCPQSPDFSKVKDSRSDPFGSADGSLVTENRKQE 953
+8:gi|355734986|gb|AES11514.1                                                                                                EPGARTGRMKSKSESWSDEQKPSWSPAPPLSPGPATVGGGRGAASLWVHRSLGAEEGHQE 956
+9:gi|334348802|ref|XP_003342111.1                                                                                           IPVFKSARVKSESETWSVEPTSDFTYDYSQPEIPLQGRESKDASVKSTDENAITETRNQE 950
+10:gi|351713845|gb|EHB16764.1                                                                                               DRGGWWGRVERGCETWSREPGAGHPLAHPPSPGFSQVEDGRGQPFGSAGGSLVTETREWA 951
+11:gi|354485805|ref|XP_003505072.1                                                                                          ESGLHQGRLKNESGSWSEEPKPGHPCAHPQSLSQSQEEDSRGILVPKTDGRLVAEQQSQE 940
+12:gi|126506316|ref|NP_001075432.1                                                                                          N-VASPDRRLNDSQSWNEEPKPGHSSVHPQSLGPSQEEGSRGVPVQWADGSLTAEQKSQE 928
+13:gi|293342780|ref|XP_001056659.2                                                                                          EAGPPGGRL-GESQSRSKEPKPGHPCARSQALGPSQEEDSRGVPVQWGHGNLSAEQKSQE 940
+14:gi|350589501|ref|XP_003130754.3                                                                                          APGLRSGRVKSKSESWSEELK-------PLSPCPVWAEDHAGAAWLSPRGSVISEQGALG 924
+15:gi|326921604|ref|XP_003207047.1                                                                                          VPVFKSGRVKSKSESWSTGTEHGTEMGCVGSQCSSQ-PGGSNEGVRSADGSLITERRTVE 941
+16:gi|126723084|ref|NP_001075943.1                                                                                          DPRTRPGRVKSKSESWSEEGRPRSPRPW--------QAEGRGSVWLSPPGSWIAEDGDRE 906
+17:gi|345324168|ref|XP_001507721.2                                                                                          GPVFKPGRVKSKSESWSVELKPDhpNTHPPSQNPLQAKDSRSVSGRPEDGSGVTERRTQE 939
+18:gi|224044729|ref|XP_002189062.1                                                                                          VPVFRSGRVKSKSESWSMGTEHGSEPRCVGSQGFSK-PGGSSKGVRPADESLIA-----E 940
+19:gi|28837713|gb|AAH47548.1                                                                                                SPVCRSGRGESKSESWSEELQPGHPRAWPPSPGRFRVEEGGGAPFCSADGSTSAEKGHLE 97
+20:gi|326672391|ref|XP_001341226.3                                                                                          ------------------------------------------------------------
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               QPLNKPSSLRRSAVSWSVDPEYrsAFSRPATKSVTFSKQLREELPVPPRETGFREYRVVA 475
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 VSNGMDELAGSPFPVTRMSSRSSDAKPLPASYPAEPREPQESPKITSAFSSVKPSEAVPR 1020
+1:gi|296206389|ref|XP_002750185.1                                                                                           VSNGMDGPAGSPVPVTRMSSRSSDAKPVPLSYPAEPREPQGSQKFTSAFSSVKPSEAVPR 1012
+2:gi|355782715|gb|EHH64636.1                                                                                                VSNGMDELAGRPFPVMRM-SRSSDAKPLPPSYPAEPREPQESQKITSAFSSVKPSEAVPR 1017
+3:gi|344277920|ref|XP_003410745.1                                                                                           VGTRKSQLAVSPGPVKRMMarLNDTKPAPLLYPAELRKPLESQKVTSDTSFVKLSTVVTP 1013
+4:gi|338721532|ref|XP_001915624.2                                                                                           LKNRIDELALSPGPAKRTSSRLSDTKPASPCDPAELREPQESQKLSSVLNPVGLSKAVPP 1010
+5:gi|301768563|ref|XP_002919699.1                                                                                           VEQRMNKLAVSPGPVHrmSSRSSDANPVPSSHAAELRPPQGSQDLPNASLSGELSTPTPR 1018
+6:gi|73948916|ref|XP_535151.2                                                                                               AEHRMNQPAVSLGPVNAvsSKSSDTKPVLSSEPAELRQPGESQELPGMSISGGPGAAAPR 1018
+7:gi|348565947|ref|XP_003468764.1                                                                                           IVNGLDELIARPGPVKRVVsrQSDTKPVSPSWLAEPKEPAQREKLTDAFTSVQLREEAPL 1013
+8:gi|355734986|gb|AES11514.1                                                                                                VEHRANKLADSPGPLHgtSSRSSDPKPVPSSDPAELRPPQGGEELPAVSISAGLSAAAPR 1016
+9:gi|334348802|ref|XP_003342111.1                                                                                           MENRRNQLTVSPGPVKrmSSNFIKTHPNSSSYLTDIKESQENRQYSNGVDSVTPSQRIHP 1010
+10:gi|351713845|gb|EHB16764.1                                                                                               MVNGTdpPGGPGPGRRGASSRASDTRPVPPAWLAAPREPAESERLTdaLGSVWQSGVVPP 1011
+11:gi|354485805|ref|XP_003505072.1                                                                                          APNGVFEQDISISPRSRMAA--SDTKTAPFFYLAELRGSQELTKVNHALGSVQLGRESPP 998
+12:gi|126506316|ref|NP_001075432.1                                                                                          DLNGMCERDFSPRPVSRIAP--IDTKAAPLYCLSEPRGSQELTKFGDAVGSVQLGRETPT 986
+13:gi|293342780|ref|XP_001056659.2                                                                                          ALNGMCERDISPRPVSRIAP--VDTQAASLFCLAEPRGSQELTKVNDALGSVELGRETPI 998
+14:gi|350589501|ref|XP_003130754.3                                                                                          VQDGVTEPAVNLRPGKpmSSGLSEARPVPRHDPAAPREPPQSQELPDGPSAVQSSGASPP 984
+15:gi|326921604|ref|XP_003207047.1                                                                                          AKNRANSQPVRTAPIKRFLSSSPS-----SSYHGNPFNnqEMSEDQNYLDFVKLSKGAAP 996
+16:gi|126723084|ref|NP_001075943.1                                                                                          VEDRVAQLAVSPRPVKriSSGLNDAKPEPPPDPAEQREPLPSQELPGSRGAVELSAAGPP 966
+17:gi|345324168|ref|XP_001507721.2                                                                                          IEKNPNRHPGSPGQEKriSTRLCPAFATPPLYRstGRKVQE-TRCVDVLKFVRPSKVTTp 998
+18:gi|224044729|ref|XP_002189062.1                                                                                          MGMGEPKSRTSKQPVHEHSVKRVLSSSPSSSCHSNPFNnqEMSEDQNYLDFVKLSKGATP 1000
+19:gi|28837713|gb|AAH47548.1                                                                                                VSNGMDELAGSPFPVTRMSSRSSDAKPLPASYPAEPREPQESPKITSAFSSVKPSEAVPR 157
+20:gi|326672391|ref|XP_001341226.3                                                                                          ------------------------------------------------------------
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               HVSRRRSNDGRtlPDEPIETPLSDFSPTTHTTAAEvrQpqDASTLTSPPDYEDICQTLRQ 535
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 KFDSGGERGAGLPLSLSNKNRGLSAPDLRSVGLTPGQEQGASELEGSLGEASTIEIPPGE 1080
+1:gi|296206389|ref|XP_002750185.1                                                                                           QVDSGGERGAGLPLPLSNKNRGLSAPDLRSVGLTPGQEQGASELEGSLGEASVVEIPPGE 1072
+2:gi|355782715|gb|EHH64636.1                                                                                                KGDSGGERSIGLPLSLSNKNRGLSAPDLRSVGLTPGQEQGASELVGSLGEASTIEIPPGE 1077
+3:gi|344277920|ref|XP_003410745.1                                                                                           EAESGDERETVFPLSLVNKNRGLSAPDLRSMGLHTGQEQSANKSDGSFEKASAIEIPPNE 1073
+4:gi|338721532|ref|XP_001915624.2                                                                                           EAESREERGAVVSLSLASKPRGLSAPDLRSVGLTLAQGQSADELEGALGEASAIEIPPNE 1070
+5:gi|301768563|ref|XP_002919699.1                                                                                           TTGAGGERSPLLPLSLASKPRGLSAPDLRSVGLLPAQEQSAHKLDGSLGEASAIEIPPNE 1078
+6:gi|73948916|ref|XP_535151.2                                                                                               KAGGGGEQGPRLPLFLASKARGLSAPDLRSVGLLPAPERSAEKSDGSLGEASAIEIPPNE 1078
+7:gi|348565947|ref|XP_003468764.1                                                                                           EVGLAEERGTGVPLTLTNKSRGLSAPDLRSVGLIMRPEPSTSELDRPLGESTAAEIPPSE 1073
+8:gi|355734986|gb|AES11514.1                                                                                                KAGAGGERSLPPQLSLASKPRGLSAPDLRSVGLPPTREQSAQKLDGFLGEASAIEIPPNE 1076
+9:gi|334348802|ref|XP_003342111.1                                                                                           MSDGAQERESLVHVSFGNKNQGLFEPEEK---LDMGPQHSTNKLDDVSEKLGATEIPPNE 1067
+10:gi|351713845|gb|EHB16764.1                                                                                               ELPGAEEGATEAPLTLTSKGRGLSEPDLRSIGLMMRPEPSASKLDRPLGEGRAAVIppNE 1071
+11:gi|354485805|ref|XP_003505072.1                                                                                          KVDSGDERDTESLLPLAEKYRGLSTPDLQSLGLMLGQEQSAYKSE-PLGIENAGEVLPSE 1057
+12:gi|126506316|ref|NP_001075432.1                                                                                          QVGNGGDTEVlvLLPLADKYRGHSTPDFRSLELTLGQEQNAYKLE-CLDLENTVEVLPSE 1045
+13:gi|293342780|ref|XP_001056659.2                                                                                          RVDNGGDTEVlvLPPLADRCRGLSTPNFPSLELTLGQEQRAYKSECQ-GLDNTVEVLPSE 1057
+14:gi|350589501|ref|XP_003130754.3                                                                                          EASSGEQGSTGVSPFLASKPRGLSAPDLRSVGLTLAQEQRASEPAGPPTGATAVEIPLGE 1044
+15:gi|326921604|ref|XP_003207047.1                                                                                          QNDTKFERGSVVRLSLTKRNQGCSEPDLRAVGLDTASGRGASNSDYSSNE-NSVEIPVNE 1055
+16:gi|126723084|ref|NP_001075943.1                                                                                          RAGGGEQGSTRAPLSLAGKSRGLSAPDLRSVGLTLVQEHSTSQLAGSPGDANAIEIPPNE 1026
+17:gi|345324168|ref|XP_001507721.2                                                                                          rSDTAEERGSVVRLFVANKNQGTSEPDLRTVGLSSGLNHTASQLDDFLENLSAIEIPQHE 1058
+18:gi|224044729|ref|XP_002189062.1                                                                                          TNDRVLERGSVVRLSLTNRNQRCSEPDLRSVGLDVDPEPGANNSDHSS-DANAVEIPMNE 1059
+19:gi|28837713|gb|AAH47548.1                                                                                                KFDSGGERGAGLPLSLSNKNRGLSAPDLRSVGLTPGQEQGASELEGSLGEASTIEIPPGE 217
+20:gi|326672391|ref|XP_001341226.3                                                                                          ------------------------------------------------------------
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               SRDPADGSKGAAGALKANDGEALnsADlrELENQMRQghEENSSDSSTNQNGS---PPQH 592
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 SLQARAARILGIEVAVESLLPGIRRAGQNQPAEPDASACTPESPQEELLSRPAPADVPRV 1140
+1:gi|296206389|ref|XP_002750185.1                                                                                           SLQARAARILGIEVAVESLLPGTQRAGQNQPAEPDASACTPESPQEESPTGPEPAAVPRV 1132
+2:gi|355782715|gb|EHH64636.1                                                                                                SLQARAARILGIEVAVESLLPGTQRVAQNQPAEPDASAYTPESPQEELPSRPAPADVPRV 1137
+3:gi|344277920|ref|XP_003410745.1                                                                                           SLQERAERILGIEVAVDSLLRASGRGGHNRCPVSDDSAFRPDSPREELLTSSAQPDGPAA 1133
+4:gi|338721532|ref|XP_001915624.2                                                                                           SLQARAARILGIEVAVESLLPSARGTGQSLPPKPDEGAHRPAXPGEESVSSPARADGPTV 1130
+5:gi|301768563|ref|XP_002919699.1                                                                                           SLQARAARILGIEVAVESLLPGARRTGQNQHPEPDGSARGPEAPREGSESSSAQPDDPPA 1138
+6:gi|73948916|ref|XP_535151.2                                                                                               SLQARAARILGIEVAVESLLPGAQRTGQNEHPEPDGSVCGPEAPRKEAASSSAQPDDPAV 1138
+7:gi|348565947|ref|XP_003468764.1                                                                                           SLQARAARILGIEVAMESLLPGTRTAGLSQSPEPDASTCSLEPLREESSPSSAMSFGPTA 1133
+8:gi|355734986|gb|AES11514.1                                                                                                SLQARAARILGIEVAVESLLPGTRRTGQNQYPEPDGRALGPEAPREESVSSSVPPDDPSL 1136
+9:gi|334348802|ref|XP_003342111.1                                                                                           PLQTRAARILGIEVAVESLISTDMGIRTNLSPIPDESTLKADLPATEASCNLIQSNDPTS 1127
+10:gi|351713845|gb|EHB16764.1                                                                                               SLQARAARILGIEVAMESLLPGTGTAGPSQSTEPDTSVCSLEPPRE--------GPLPSV 1123
+11:gi|354485805|ref|XP_003505072.1                                                                                          SLQERAERILGIEVAVESLLPGAKKGGQSQLPEPDASACSPESSRKDSWPSLAPSGGPTV 1117
+12:gi|126506316|ref|NP_001075432.1                                                                                          SLQERAERILGIEVAVESLLPSARRTEQSQLPEPDASACNPSSSREDSSHSLALPVGPKV 1105
+13:gi|293342780|ref|XP_001056659.2                                                                                          SLQERAERILGIEVAVESLLPGARRTEQSQLPKPGTSACSPRSSREDSQPSSASPEDPTV 1117
+14:gi|350589501|ref|XP_003130754.3                                                                                          SLQARAARILGIEVAVESLLPGTRRTGLSQHPEPGGGACQPESPGQESGSGPAQPDDLTS 1104
+15:gi|326921604|ref|XP_003207047.1                                                                                          SLQARAARILGIEIAVESLLPDD-HVGPQPGTRPASNAHDLGSSAESTVSG-----KEGK 1109
+16:gi|126723084|ref|NP_001075943.1                                                                                          SLEARAARILGIEVAVESLLPGAQRAGQRRHPEPDGSALRPESPRQEAAASLAQPNESTA 1086
+17:gi|345324168|ref|XP_001507721.2                                                                                          SLQVRAARILGIEVAVESLIPGHRRTGPSQPPGRGGSASDVERPVVSVSSHAARADAVRP 1118
+18:gi|224044729|ref|XP_002189062.1                                                                                          SLQARAARILGIDIAVESLLP-----DDHVGAHPGTSPSNGAQDFESSMKGSTVSNKEGK 1114
+19:gi|28837713|gb|AAH47548.1                                                                                                SLRARAARILGIEVAVESLLPGIRRAGQNQPAEPDASACTPESPQEELLSRPAPADVPRV 277
+20:gi|326672391|ref|XP_001341226.3                                                                                          ------------------------------------------------------------
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               -------------VALES--PEGATSEEPNKPSPTASGSKPKDAQADSVDTLCTGDCppA 637
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 STDAFYGRRKCGWTKSPLFVGDRDSARRAPQAFEHSDVDGVVTSTDPVPEPEPSPLESKF 1200
+1:gi|296206389|ref|XP_002750185.1                                                                                           STDSFYGRRKCGWTKSPLFVGDRDSAKRAPQAFEDSDVDGVVTSTAPVPEPEPSPSESEF 1192
+2:gi|355782715|gb|EHH64636.1                                                                                                STDAFYGRRKCGWTKSPLFVGDRDSARRAPQAFEHSDVDGVVTSTDPVPEPEPSPLESKF 1197
+3:gi|344277920|ref|XP_003410745.1                                                                                           SKDAFYGRRKCGWTKSPLFVGERDVTRQTPHAYAHSGLEGAITCDALSPEPQPSPLDPES 1193
+4:gi|338721532|ref|XP_001915624.2                                                                                           STDAFYGRRKCGWTKSPLFVGERDSARRAPGLLSTQVXMGPFPSNALDPEPRPSPQEFTS 1190
+5:gi|301768563|ref|XP_002919699.1                                                                                           SMDAFYGRRKCGWTESPLFVGERDSARRPPPAAEHSRVDRTVPSKAPSPEPQPSPQESQS 1198
+6:gi|73948916|ref|XP_535151.2                                                                                               STDAFYGRRKCGWTESPLFVGERDGARRVAPTSEHVSVDRTVPSKVPSPEPQPRPQEFTS 1198
+7:gi|348565947|ref|XP_003468764.1                                                                                           TTDAFYGRRRCGWTHSPLFVGER-----APQASEHSAVDRVPTSQDTSPEPQLGPLESKP 1188
+8:gi|355734986|gb|AES11514.1                                                                                                STDAFYGRRKCGWTKSPLFVGERDSARWAPLASEYSTVDRTVPSEAPSPEPQPSPQESQP 1196
+9:gi|334348802|ref|XP_003342111.1                                                                                           SQSAFDSRRKCGWTESPLFVGERDtmHRIPEDSEmpDVDR-EDITNSLVPESEPKSPSML 1186
+10:gi|351713845|gb|EHB16764.1                                                                                               TADASYGRRKCGWTQSPLFVGER-----APQAPGHSAVGR----DLASPEPQLGSLESRS 1174
+11:gi|354485805|ref|XP_003505072.1                                                                                          TTDAFYGRRKCGWTASPLFVGER-----APQASVCSDVDG----------FPASQATSPE 1162
+12:gi|126506316|ref|NP_001075432.1                                                                                          ATDAFYGRRKCGWTESPLFVGER-----APQASICSDVDG----------FPTSQATSPE 1150
+13:gi|293342780|ref|XP_001056659.2                                                                                          ATDAFYGRRKCGWTESPLFVGER-----APQAAVCSDVDG-----------FPTSQATSP 1161
+14:gi|350589501|ref|XP_003130754.3                                                                                          PADAFYGRRKCGWTKSPLFVGERDSAWQAPQASEPSGMSS----PSKAPEPQPSPLESQP 1160
+15:gi|326921604|ref|XP_003207047.1                                                                                          KDNSYESRRKCGWTESALFVGERDQS-LYPDECQTTHQEG----------------STKM 1152
+16:gi|126723084|ref|NP_001075943.1                                                                                          PADAFYGRRKCGWTKSPLFVGERDSTRQVPRASEPADVDG--AVPTKAPETPPSPLESQP 1144
+17:gi|345324168|ref|XP_001507721.2                                                                                          PRDAHDSRRKCGWTESPLFVGERDTCsrVNHASGHPDPSR---DTSPHPHVPEAEPLSPV 1175
+18:gi|224044729|ref|XP_002189062.1                                                                                          KEDSYEGRRKCGWTESALFvgGRSLCPVECQA-THQEASAKPL----------------V 1157
+19:gi|28837713|gb|AAH47548.1                                                                                                STDAFYGRRKCGWTKSPLFVGDRDSARRAPQAFEHSDVDGVVTSTDPVPEPEPSPLESKF 337
+20:gi|326672391|ref|XP_001341226.3                                                                                          ------------------------------------------------------------
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               DAPAAEERSAAGAPTDAGLAEKMDCKQEVEETTRPGETQGQEKKQLSFPEHRLGSWTHLG 697
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 FEQKDVETKPPFRSTLFHFVERTPSVAGSEKRLRSPSKVIESLQEKLASPPRRADPDRLM 1260
+1:gi|296206389|ref|XP_002750185.1                                                                                           FEQKDVEAKPPFRSTLFHFVEGTPSVAGSEKRLRSPSKVIESLQEKLASPPRKADADRMM 1252
+2:gi|355782715|gb|EHH64636.1                                                                                                FEQKDVETKPPFRSTLFHFVERTPSVAGSEKRLRSPSKVIESLQEKLASPPRRADPDRLM 1257
+3:gi|344277920|ref|XP_003410745.1                                                                                           LGQKDSETKPPFRSTLFHFIERSPSVAGSEKRCRNTSKVIESLQEKLASPPRRADPDRLM 1253
+4:gi|338721532|ref|XP_001915624.2                                                                                           SLTRTCH-KPPFRSTLFMFIERTPSVAGSEKRLRSTSKVIESLQEKLASPPRRADTDRLM 1249
+5:gi|301768563|ref|XP_002919699.1                                                                                           FNPKDMGTKSPFRSTLFHFIERTPNVSGSEKRLRSTSKVIESLQEKLASPPRRADPDRLM 1258
+6:gi|73948916|ref|XP_535151.2                                                                                               CDHRDTETKPPFRSTLFHFIERTPSVAGAEKRLRSTSKVIESLQEKLASPPRRADPDRLM 1258
+7:gi|348565947|ref|XP_003468764.1                                                                                           LEQNLVEPKPPFKSTLFHVIERTPSVSGLEKRLRSPSKVIESLQEKLASPPRRADPDRLM 1248
+8:gi|355734986|gb|AES11514.1                                                                                                FNHKDVGTRPPFRSTLFHFVERTPSVPGSEKRLRSTSKVIESLQEKLASPARRADPDRLM 1256
+9:gi|334348802|ref|XP_003342111.1                                                                                           HNQKDIKATQHYKSTLFHYLERASPGMGSEKKFRSTSKVIETIQEKLVSPPTKTAVDRLM 1246
+10:gi|351713845|gb|EHB16764.1                                                                                               SEQKDAGPNPPFRTTLFHVIERTPSMLGLEKRLRGPSKVIESLQEKLASSPRRADPDRLM 1234
+11:gi|354485805|ref|XP_003505072.1                                                                                          PGTKDEEAKPPFKSTLFHFMEKTTGTMGSEKRLRSPSKVIESLQEKLVSPPRRMDSDRLV 1222
+12:gi|126506316|ref|NP_001075432.1                                                                                          PGKKDEEAKAPFKSTLFHFMEKSTNVVGPEKRLRNPSKVVENLQEKLVSPPKKADSVHLI 1210
+13:gi|293342780|ref|XP_001056659.2                                                                                          EPEKKKEAKPPFKSTLFHFMEKSTNVVGPEKRLRNSSNVIESSQGKLVSLPKRADSARLV 1221
+14:gi|350589501|ref|XP_003130754.3                                                                                          FHHRDMETKPPFRSTLFHFIERTPSVAASEKRLRSTSKVIESLQEKLASPPRRADPDRLL 1220
+15:gi|326921604|ref|XP_003207047.1                                                                                          LVKEQTFEQppSKGGDQNLVSKPAVCQHSEKRVRNTSKVIETLQGKLTSPPSRTAMDRLV 1212
+16:gi|126723084|ref|NP_001075943.1                                                                                          FLPKDVETKPPFRSTLFHFIERTPNLAFSEKKLRNTSRVIESLQEKLVSPPRKADPDRLT 1204
+17:gi|345324168|ref|XP_001507721.2                                                                                          LDQKELKANQLCRSSLLHVVERTTWLPGAEKRFRSASKVIETLQGKLASPPSRMVMDRLV 1235
+18:gi|224044729|ref|XP_002189062.1                                                                                          TEQVLEHPVSPSQGEDRNLVCKSAAYQHSEKRVRSTSKVIETLQGKLTSPPSRTAMDRLV 1217
+19:gi|28837713|gb|AAH47548.1                                                                                                FEQKDVETKPPFRSTLFHFVERTPSVAGSEKRLRSPSKVIESLQEKLASPPRRADPDRLM 397
+20:gi|326672391|ref|XP_001341226.3                                                                                          ------------------------------------------------------------
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               RDHTGLPEFPPDRLPLsnLDRRLSLSLEGERRGRGTLHRLEMLQNKLAISPGRVAVERLA 757
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 RMKEVSSVSRMRVLSFRNADSQEDAEELKATTRGQAGLPGGLVSPGSGDRAQRLGHSLSV 1320
+1:gi|296206389|ref|XP_002750185.1                                                                                           RMKEVSSVSRMRFLSSRNADYVEEAEELKATTRGQAGLPGGPVSPGGRDQAWRGGHSLSI 1312
+2:gi|355782715|gb|EHH64636.1                                                                                                RMKEVSSVSRMRFLSFRNANSQEEAEELKATTRGQAGLPGGLVSPGSGDQAQRVGHSLSI 1317
+3:gi|344277920|ref|XP_003410745.1                                                                                           RMREVNSVSRMRLLSSRSTDSTEEAEELKAEG-GQGEQPRGFASLNGGDLPRRAAP---I 1309
+4:gi|338721532|ref|XP_001915624.2                                                                                           RMKEVSSVSRMRLLSSRSGDSVEDAEELKA-ERGLGAQPGGLVTLNAGDMARKAEPSLSV 1308
+5:gi|301768563|ref|XP_002919699.1                                                                                           RMKEVSSVSRMRLLSSRSADTMEEAEGLKA-ERGPGEPPGGPVSLNAGDMARKAGHPLSV 1317
+6:gi|73948916|ref|XP_535151.2                                                                                               RMKEVSSVSRMRLLSSRSADSVEEAEDLKAERVPPGGPVSPNAGDL------RVGHPLPV 1312
+7:gi|348565947|ref|XP_003468764.1                                                                                           RMKEVSSVSRMRSLSCRSTESSEEAEELKA-ERGQAWQPGGPMALSRGDRAWRVGHPPSI 1307
+8:gi|355734986|gb|AES11514.1                                                                                                RMKEVNSVSRMRLLSSRSADSVDEAGDLKAERGSRVPPGGPV--------SLKAGNSPPV 1308
+9:gi|334348802|ref|XP_003342111.1                                                                                           RMKEVDSISRIRRLSAKSSDSVEETEEEKNQRRLEG-QSRSFGTYNGSDPGHKIENAGIV 1305
+10:gi|351713845|gb|EHB16764.1                                                                                               RMKEVSSVSRMRSLSFRSADPTTEAEEAKAAG-GQA-----LQPLSRGDRAWRAGPPPAL 1288
+11:gi|354485805|ref|XP_003505072.1                                                                                          RMREINSLSRMRCLSSKSADSMEEPDHLKATK----------------NQAWQAGHLSSV 1266
+12:gi|126506316|ref|NP_001075432.1                                                                                          RMREVNSLSQMRCLSSKSADSVEEPDPLK-VIKSSAWLSEGLTSLGGKDEAWQAGHLPSV 1269
+13:gi|293342780|ref|XP_001056659.2                                                                                          RMREVNSLSQMRCLSSKSADSMEEPDPLK-VIKSSAWPSEGLTSPSGKDQAWQAEYLPSV 1280
+14:gi|350589501|ref|XP_003130754.3                                                                                          RMKEVSSVSRLRLLTSRGMDSAE-EAEEPKAERGPGARLGCLAG---------TGYKLSD 1270
+15:gi|326921604|ref|XP_003207047.1                                                                                          RMKEVDSVSRMRRLSIKSADSGEEVDEEKLLKVYE-------------ERGSKLATSGTV 1259
+16:gi|126723084|ref|NP_001075943.1                                                                                          RMKEVSSVSRMRLLTSRAADSAEEP----KAERGPGAWLGGLV-------APSAGHKLSD 1253
+17:gi|345324168|ref|XP_001507721.2                                                                                          RMKEVDSVSRMRRLSSKSTDSGDEAEEGKP-PRGQGEQRGSHGLPSGPDLAPKLGPEGAV 1294
+18:gi|224044729|ref|XP_002189062.1                                                                                          RMKEVDSVSRMRRLSIKSADSGEEVDEEKLLKVPE-------------ERGSKLASSGAV 1264
+19:gi|28837713|gb|AAH47548.1                                                                                                RMKEVSSVSRMRVLSFRNADSQEDAEELKATTRGQAGLPGGLVSPGSGDRAQRLGHSLSV 457
+20:gi|326672391|ref|XP_001341226.3                                                                                          ------------------------------------------------------------
+21:gi|47225119|emb|CAF98746.1                                                                                               ------------------------------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          ------------------------------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               RMREVDIMYRMRRLSIRSTDSGEGDGEAEAPEEP-------------------------- 791
+24:gi|348520046|ref|XP_003447540.1                                                                                          ------------------------------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ------------------------------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ------------------------------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ------------------------------------------------------------
+                                                                                                                                                                                        
+
+0:sp|Q9P266|JCAD_HUMAN Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3 SKDSISREEKEHPAAQKEKSMDQDFWCPDSYDPSRVERV 1359
+1:gi|296206389|ref|XP_002750185.1                                                                                           SEDSVSKEEKEHPAAQKEKSLDEDFWCPDSYDPSRVERV 1351
+2:gi|355782715|gb|EHH64636.1                                                                                                SKGSISREEKEHPAAQKEKSVDQDFWCP----------- 1345
+3:gi|344277920|ref|XP_003410745.1                                                                                           PKGIILLEDNGHLAAQsrKKGDQDFWCPDSYDPSRVERV 1348
+4:gi|338721532|ref|XP_001915624.2                                                                                           SKGVPSLEENGCPAAQREQDVDQDFWCPDSYDPSRVERV 1347
+5:gi|301768563|ref|XP_002919699.1                                                                                           SGGAPSLEEDGPPSAQREktVRQDFWCPDSYDPSRVERV 1356
+6:gi|73948916|ref|XP_535151.2                                                                                               SKGAPSLEEDGHPAAQREKTVQQDFWCPDSYDPSRVERV 1351
+7:gi|348565947|ref|XP_003468764.1                                                                                           PKGIVTWEENGHVASQKEKSTSQDFWCPDSYDPSRVERV 1346
+8:gi|355734986|gb|AES11514.1                                                                                                SSGGSPLEEDGHPSAQREKDVLQDFWCPDSYDPSRVERV 1347
+9:gi|334348802|ref|XP_003342111.1                                                                                           SKKITSLEENWHLIKHSekNTDQEFFCLDTYDPSRVERV 1344
+10:gi|351713845|gb|EHB16764.1                                                                                               SEGLITWEENGTVAAPRERSEAQHFWCPDSYDPSRVERV 1327
+11:gi|354485805|ref|XP_003505072.1                                                                                          SQDAIPREENGHPEVPRRKMSDQDLWCAESYDPSRVERV 1305
+12:gi|126506316|ref|NP_001075432.1                                                                                          SQN-----ENGHPEVPRDKMSDQDLWCADSYDPSRVERV 1303
+13:gi|293342780|ref|XP_001056659.2                                                                                          SQN-----ENGHPEVIREKMSDQDLWCADSYDPSRVERV 1314
+14:gi|350589501|ref|XP_003130754.3                                                                                          PKGALSLEE-GHLAAGREENGGQDFWCPDSYDPSRVERV 1308
+15:gi|326921604|ref|XP_003207047.1                                                                                          SKRVVSLNENGYLGGMDKKKIDRDFSL-DTYDPTKVEKV 1297
+16:gi|126723084|ref|NP_001075943.1                                                                                          PQGALSLEADGHPAARRE-NGGRDFWCPDSYDPSRVERV 1291
+17:gi|345324168|ref|XP_001507721.2                                                                                          STRVLTLGKNGPLTA------------------------ 1309
+18:gi|224044729|ref|XP_002189062.1                                                                                          SKRVISLSENGCLAGMDKKKIDRDF-------------- 1289
+19:gi|28837713|gb|AAH47548.1                                                                                                SKDSISREEKEHPAAQKEKSMDQDFWCRDSYDPSRVERV 496
+20:gi|326672391|ref|XP_001341226.3                                                                                          ---------------------------------------
+21:gi|47225119|emb|CAF98746.1                                                                                               ---------------------------------------
+22:gi|301622104|ref|XP_002940380.1                                                                                          ---------------------------------------
+23:gi|47213006|emb|CAF95398.1                                                                                               ---------------------------------------
+24:gi|348520046|ref|XP_003447540.1                                                                                          ---------------------------------------
+25:gi|326665235|ref|XP_003197996.1                                                                                          ---------------------------------------
+26:gi|327274528|ref|XP_003222029.1                                                                                          ---------------------------------------
+27:gi|149032574|gb|EDL87452.1                                                                                               ---------------------------------------
+                                                                                                                                                                   
+

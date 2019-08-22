@@ -1,0 +1,1136 @@
+CLUSTAL 2.1 multiple sequence alignment (MView)
+
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 ICEVSKVASHLEVNCDKRNLTALPPDLPKDTTILHLSENLLYTFSLATLMPYTRLTQLNL 60
+1:gi|146272050|emb|CAM97225.1                                                                           ICEVSKVASHLEVNCDKRNLTALPPDLPKDTTILHLSENLLYTFSLATLMPYTRLTQLNL 60
+2:gi|304434468|dbj|BAJ15417.1                                                                           ICEVSKVASHLEVNCDKRNLTALPPDLPKDTTILHLSENLLYTFSLATLMPYTRLTQLNL 60
+3:gi|297271666|ref|XP_001117767.2                                                                       ICEVSKVASHLEVNCDKSNLRALPPDLPKDMTILHLGENVLYTFSLASLVPFTRLTQLYL 60
+4:gi|355568123|gb|EHH24404.1                                                                            ICEVSKVASHLEVNCDKSNLRALPPDLPKDTTILHLGENLLYTFSLASLVPFTRLTQLYL 60
+5:gi|212727030|gb|ACJ38405.1                                                                            ICEVSKVASHLEVNCDKSNLRALPPDLPKDTTILHLGENLLYTFSLASLVPFTRLTQLYL 60
+6:gi|296202296|ref|XP_002748337.1                                                                       -CEVSKVASHLEVNCDKRNLRVLPPDLPKDATILHLSENLLYSFSMASLVPFTHLTQLYL 59
+7:gi|281343331|gb|EFB18915.1                                                                            VCEVSQVTSQVEVNCDNRGLRAVPPGLPEDTAILHLGKNPLGTFSTASVGSLAQLAQLHL 60
+8:gi|351710638|gb|EHB13557.1                                                                            ICeiEVVGNLVSVNCESMNLKGLPTDLRADTAILHLGKNVLVTFFMKPLVPFTHLTQLYL 60
+9:gi|50978762|ref|NP_001003083.1                                                                        ICEVSKVTSQVEVNCDNKGLKALPPGLPGDTAILHLAENPLGAFSTALLGPLTRLAQLHL 60
+10:gi|291405213|ref|XP_002719050.1                                                                      -CEVSEVASQVEVNCDQRKLKALPPGLPANMTILRLGENPLVTFSMDALVSFSRLVQLYL 59
+11:gi|78100448|gb|ABB21047.1                                                                            ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLELDYNKLSSLLSKAFQSFTKLTFLSL 57
+12:gi|284010625|dbj|BAI66792.1                                                                          ---CSCNNNKNSVDCSYKKLTAIPSNIPADTKKLELDYNKLSSLPNTAFHNLNKLTFLDL 57
+13:gi|284010683|dbj|BAI66821.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLDLKYNKLSSLPNTAFHNLNKLTFLDL 57
+14:gi|284010759|dbj|BAI66859.1                                                                          ---CSCNNNKNSVDCSYKKLTAIPSNIPLETTQLYLNLNSLSKLSPTVFHRLTKLRLLYL 57
+15:gi|284010547|dbj|BAI66753.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLLLGSNKLSSLPRMAFHGLNKLTNLDL 57
+16:gi|284010557|dbj|BAI66758.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLELDYNKLSSLPPKAFHHLSKLTYLSL 57
+17:gi|284010755|dbj|BAI66857.1                                                                          ---CSCNNNKNSVDCSGKMLTAIPINIPVDTDRLLLGRNKLSSLPRMAFHGLNKLTILSL 57
+18:gi|284010525|dbj|BAI66742.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPTDTENLKLDYNKLSSLLSKAFQSFTKLTFLSL 57
+19:gi|78100438|gb|ABB21042.1                                                                            ---CSCNNNKNSVDCSSKRLTAMPINIPVDTDRLDLNYNKLSSLPPKAFHHLSKLTYLSL 57
+20:gi|81175463|gb|ABB59069.1                                                                            ---CTCNDQTKNVDCSSKGLTAIPSNIPVDTNRLVLQGNKLSSLPHTAFHRLNKLTFLDL 57
+21:gi|284010691|dbj|BAI66825.1                                                                          ---CSCNNNKNSVDCSNKKLTAIPINIPTDTENLKLDYNKLSSLPGMAFHGLKELTYLNL 57
+22:gi|2331240|gb|AAC53320.1                                                                             -CSISKVTSLLEVNCENKKLTALPADLPADTGILHLGENQLGTFSTASLVHFTHLTYLYL 59
+23:gi|284010713|dbj|BAI66836.1                                                                          ---CSCNNNKNSVDCADKKLTAIPSNIPPDTTQLRLHQNSLSKLSPTAFHNLKELTYLNL 57
+24:gi|284010809|dbj|BAI66884.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLLLGSNKLSSLPGMAFHGLNKLTYLNL 57
+25:gi|284010801|dbj|BAI66880.1                                                                          ---CSCNNNKNSVDCSYKKLTAIPSNIPADTKKLELDYNKLSSLPRMAFHGLKELTYLDL 57
+26:gi|284010785|dbj|BAI66872.1                                                                          ---CSCNNNKNSVDCSYKKLTAMPINIPVDTDRLDLQSNKLSSLPNMAFHGLQSLTYLSL 57
+27:gi|284010701|dbj|BAI66830.1                                                                          ---CSCNNNKNSVDCSSKMLTAIPSNIPVETTELRLNFNSLSKLSPTVFHRLTKLRLLYL 57
+28:gi|78100426|gb|ABB21036.1                                                                            ---CSCNNNKNSVDCSYKKLTAMPINIPVDTDRLLLGRNKLSSLPGTAFHNLKELTYLNL 57
+29:gi|78100697|gb|ABB21169.1                                                                            ---CTCNDQTKNVDCSSKGLTAIPSNIPTDTDRLELDYNKLSSLPSKAFHHLSKLTYLTL 57
+30:gi|78100458|gb|ABB21052.1                                                                            ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLELDYNKLSSLLSKAFQSFTKLTFLSL 57
+31:gi|284010685|dbj|BAI66822.1                                                                          ---CSCNNNKNSVDCSNKKLTAIPSNIPADTKKLVLNYNKLRELEPTAFHGLKELTYLDL 57
+32:gi|284010797|dbj|BAI66878.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPINIPTDTENLKLNYNKLRELEPTAFHGLKELTYLDL 57
+33:gi|284010599|dbj|BAI66779.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVETTELRLQFNSLSKLSPTAFHHLSKLTYLSL 57
+34:gi|119911833|ref|XP_581184.3                                                                         ICEVGNKDSQVEVNCENKGLKAPPPDLPADTAILHLGENPLGTFSMASVLNLSQLTELFL 60
+35:gi|78100552|gb|ABB21098.1                                                                            ---CTCNDQTKNVDCSSKGLTAIPSNIPVDTDRLVLNYNKLRELEPKAFHNLKELTYLNL 57
+36:gi|157820841|ref|NP_001103124.1                                                                      -CDVSKVTSLLEVNCEDKKLKKLPTDLPADTGILHLSKNQLGTFSTSYLVHFTHLTHLYL 59
+37:gi|78100432|gb|ABB21039.1                                                                            ---CSCNNNKNSVDCSSKKLTAIPSNIPADTKKLDLQSNKLSSLPSKAFHRLTKLRLLYL 57
+38:gi|78100512|gb|ABB21079.1                                                                            ---CSCNNNKNSVDCSGKMLTAIPSNIPPDTTQLRLHQNSLSKLSPTAFHNLKELTYLDL 57
+39:gi|284010813|dbj|BAI66886.1                                                                          ---CSCNNNKNSVDCADKKLTAMPINIPVDTDRLLLGRNKLSSLPNTAFHNLKELTYLNL 57
+40:gi|81175453|gb|ABB59064.1                                                                            ---CSCNNNKNSVDCSYKKLTAIPSNIPADTKKLVLNYNKLSKLSPTAFHSLSKLTYLSL 57
+41:gi|284010549|dbj|BAI66754.1                                                                          ---CSCNNNKNSVDCSSKRLTAMPINIPVDTDRLVLQGNKLSSLPRMAFHGLNKLTILNL 57
+42:gi|284010717|dbj|BAI66838.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVDTENLKLDYNKLSSLPRMAFHGMKELTYLGL 57
+43:gi|284010645|dbj|BAI66802.1                                                                          ---CSCNNNKNSVDCSSKRLTAMPINIPVDTDRLLLGSNKLSSLPGMAFHGLNKLTYLNL 57
+44:gi|311268241|ref|XP_003131967.1                                                                      ICEVTKVASQVEMNCENKTLKAPPPDLEAETTNLHLGENPLGTFSTSSLVYLPRLTQLHL 60
+45:gi|126570666|gb|ABO21267.1                                                                           ---CTCNEGKKEVNCQYKGLKAVPSEIPADTEKLDLQSTGLTTLSDTAFHGLRELTWLNL 57
+46:gi|284010715|dbj|BAI66837.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPPDTTQLRLHQNSLSKLSPKAFHHLSKLTYLSL 57
+47:gi|284010529|dbj|BAI66744.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPINIPTDTENLKLDYNKLSSLPGMAFHGLQSLTFLDL 57
+48:gi|284010777|dbj|BAI66868.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVDTDRLELHMNKLSSLPSKAFHSLSKLTYLSL 57
+49:gi|284010611|dbj|BAI66785.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPTDTDRLVLNYNKLRELEPTAFHGLKELTYLDL 57
+50:gi|78100703|gb|ABB21172.1                                                                            ---CTCNDQTKNVDCSSKGLTAIPINIPADTDRLQLHMNKLSSLPSKAFQSFTKLTFLSL 57
+51:gi|284010627|dbj|BAI66793.1                                                                          ---CSCNNNKNSVDCSSKMLTAIPINIPTDTENLKLDYNKLSSLPGMAFHNLKELTYLNL 57
+52:gi|348560878|ref|XP_003466240.1                                                                      ------------VNCENMNLNMLPADLPADTATLHLGRNPLVTFSLESLVPLTQLTQLYL 48
+53:gi|284010605|dbj|BAI66782.1                                                                          ---CSCNNNKNSVDCSYKKLTAMPINIPVDTDRLVLQGNKLSSLPNTAFHNLNKLTFLDL 57
+54:gi|344290101|ref|XP_003416777.1                                                                      ICNVSEVDSKALVNCQKRGLKVLPPDLPTDTAILYLDENPLATFSTASVVNLTHLIQLHL 60
+55:gi|284010661|dbj|BAI66810.1                                                                          ---CSCNNNKNSVDCSSKRLTAMPINIPVDTDRLVLQGNKLSSLPRMAFHGLQSLTYLSL 57
+56:gi|284010555|dbj|BAI66757.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVETTELRLEFNSLSKLSPTAFHSLSKLTYLSL 57
+57:gi|284010721|dbj|BAI66840.1                                                                          ---CSCNNNKNSVDCSIQRLTAIPSNIPTDTENLKLGRNKLSSLSAKAFHRLSKLTYLSL 57
+58:gi|78100687|gb|ABB21164.1                                                                            ---CTCNDQTKNVDCSSKGLTAIPINIPADTDRLDLQSNKLSSLPRTAFHGLNKLTYLNL 57
+59:gi|284010689|dbj|BAI66824.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVETTELRLGLNSLSKLSPTVFHRLTKLRLLYL 57
+60:gi|284010601|dbj|BAI66780.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVETTELRLEFNSLSKLSPTVFHRLTKLRLLYL 57
+61:gi|284010635|dbj|BAI66797.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVETTELRLEFNSLSKLSPTAFHGMKELTYLGL 57
+62:gi|70955601|gb|AAZ16362.1                                                                            -CPSRCSCSGTEVNCYNKGLTSFPSGIPSRTTVLYLDGNKLQSIPSGVFDKLTQLTHLEL 59
+63:gi|78100578|gb|ABB21111.1                                                                            ---CTCNDNTKSVDCSSKGLTAIPSNIPVETTELRLNFNSLSKLSPKAFHHLSKLTYLSL 57
+64:gi|78100572|gb|ABB21108.1                                                                            ---CTCNDNTKSVDCSSKGLTAIPSNIPTDTDRLELDYNKLSSLPNKAFHNLNKLTFLSL 57
+65:gi|78100684|gb|ABB21163.1                                                                            ---CTCNDQTKNVDCSSKELTAIPINIPADTDRLLLGSNKLSSLSAKAFHSLSSLTFLDL 57
+66:gi|284010743|dbj|BAI66851.1                                                                          ---CSCNNNKNSVDCSYKKLTAMPINIPTDTENLKLDYNKLSSLSAKAFHHLSKLTYLSL 57
+67:gi|126570333|gb|ABO21143.1                                                                           ---CTCNEGKKEVNCQSKDLTSVPPGIPADTTNLNFQYNSLVQLSSNAFQGLTKLTFLAL 57
+68:gi|284010539|dbj|BAI66749.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPINIPTDTENLKLNYNKLRELEPTAFHGMKELTYLGL 57
+69:gi|78100408|gb|ABB21027.1                                                                            ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLVLNYNKLRELEPKAFHHLSKLTYLSL 57
+70:gi|284010565|dbj|BAI66762.1                                                                          ---CSCNNNKNSVDCSSKRLTAMPINIPVDTDRLDLQSNKLSSLPRMAFHGLNKLTILNL 57
+71:gi|126570576|gb|ABO21230.1                                                                           ---CTCNEGKKEVNCQSKGLQAIPSGIPADTEKLDLRSTGLATLSDTAFRGLTKLTWLNL 57
+72:gi|78100689|gb|ABB21165.1                                                                            ---CTCNDQTKNVDCSYKELTAIPSNIPTDTDRLDLRGNKLSSLPPKAFHHLSKLPYLSF 57
+73:gi|284010655|dbj|BAI66807.1                                                                          ---CSCNNNKNSVDCSYKKLTAMPINIPVDTDRLELHMNKLSSLPRMAFHSLSKLTYLSL 57
+74:gi|126570440|gb|ABO21185.1                                                                           ---CTCNEGKKEVNCQSKGLQAVPPGIPADTKSLDLKYNAFKQLPFNAFQGLTKLTFLNL 57
+75:gi|284010613|dbj|BAI66786.1                                                                          ---CSCNNNKNSVDCSYKKLTAIPINIPTDTENLVLNYNKLRELEPTAFHNLKELTYLNL 57
+76:gi|284010657|dbj|BAI66808.1                                                                          ---CSCNNNKNSVDCSGKMLTAIPSNIPVDTDRLLLGRNKLSSLSAKAFHNLKELTYLNL 57
+77:gi|299856771|pdb|3M18|A                                                                              ---CTCNEGKKEVDCQGKSLDSVPSGIPADTEKLDLQSTGLATLSDATFRGLTKLTWLNL 57
+78:gi|284010553|dbj|BAI66756.1                                                                          ---CSCNNNKNSVDCSSKKLTAIPINIPTDTENLKLDYNKLSSLLSKAFQSFTKLTFLSL 57
+79:gi|284010699|dbj|BAI66829.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLDLKYNKLSSLPNMAFHGLQSLTYLSL 57
+80:gi|284010523|dbj|BAI66741.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVETTELNLQFNSLSKLSPTAFHHLSKLTYLSL 57
+81:gi|78100518|gb|ABB21082.1                                                                            ---CSCNNNKNSVDCSYKKLTAIPSNIPADTKKLELGYNKLSKLSPKAFHHLSKLTYLSL 57
+82:gi|78100592|gb|ABB21118.1                                                                            ---CTCNDNTKSVDCSGKMLTAIPSNIPTDTDRLVLQGNKLSSLPRTAFHGLNKLTNLNL 57
+83:gi|126570750|gb|ABO21309.1                                                                           ---CTCNEGKKEVDCQGKSLDSVPSGIPADTEKLDLQSTGLATLSDTAFRGLTKLTWLNV 57
+84:gi|78100707|gb|ABB21174.1                                                                            ---CTCNDKTKSVDCSSKGLTAIPSNIPTDTDRPELDYNKLSNLPHTAFHGMKELTYLGL 57
+85:gi|78100418|gb|ABB21032.1                                                                            ---CSCNNNKNSVDCSSKRLTAIPINIPTDTENLKLNYNKLRELEPTAFHN--------- 48
+86:gi|126570464|gb|ABO21193.1                                                                           ---CTCNEGKKEVNCQSKGLQAVPPGIPADTKSLDLKYNAFTQLSSNAFQGLTKLTWLAL 57
+87:gi|284010579|dbj|BAI66769.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVDTDRLVLNYNKLSSLPRMAFHGLNKLTNLDL 57
+88:gi|284010723|dbj|BAI66841.1                                                                          ---CSCNNNKNSVDCSNKKLTAIPSNIPADTKKLELDYNKLSSLPNTAFHSLSSLTYLSL 57
+89:gi|78100714|gb|ABB21177.1                                                                            ---CTCNDKTKSVDCSSKELTAIPSNIPTDTDRLVLQGNKLSSLPRTAFHGLNKLTYLDL 57
+90:gi|284010513|dbj|BAI66736.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPADTKKLVLNYNKLRELEPKAFH---------- 47
+91:gi|78100444|gb|ABB21045.1                                                                            ---CSCNNNKNSVDCSYKKLTAIPSNIPADTKKLDLNYNKLRELEPTAFHGLNKLTFLSL 57
+92:gi|284010609|dbj|BAI66784.1                                                                          ---CSCNNNKNSVDCSYKKLTAIPSNIPADTKKLVLNYNKLRELEPTAFHSLS------- 50
+93:gi|78100635|gb|ABB21139.1                                                                            ---CTCNDQTKNVDCSYKELTAIPSNIPTDTDRLLLGSNKLSSLSAKAFHSLSSLTFLDL 57
+94:gi|50086941|gb|AAT70351.1                                                                            -CPSQCSCSGTHVNCERKRLTSVPAGIPTTTKILRLYINQITKLEPGVFDSLTALTFLNL 59
+95:gi|284010815|dbj|BAI66887.1                                                                          ---CSCNNNKNSVDCSNKKLTAIPINIPTDTENLKLNYNKLRELEPTAFHGMK------- 50
+96:gi|78100652|gb|ABB21147.1                                                                            ---CTCNDQTKNVDCSSKGLTAIPSNIPLETTQLRLNLNSLSKLSPTAFHNLKELTYLNL 57
+97:gi|78100724|gb|ABB21182.1                                                                            ---CTCNDKTKSVDCSNIKLTAIPSNIPTDTDRLVLQGNKLSSLPRTAFHGLSSLTFLSL 57
+98:gi|126570372|gb|ABO21156.1                                                                           ---CTCNEGKKEVNCQSKDLTSVPSGIPADTEKLDLQSTGLATLSDTAFRGLTKLTWLNL 57
+99:gi|284010519|dbj|BAI66739.1                                                                          ---CSCNNNKNSVDCSSKRLTAIPSNIPVETTELRLNFNSLSKLSPTAFHHLSKLTYLSL 57
+100:gi|78100456|gb|ABB21051.1                                                                           ---CSCNNNKNSVDCSSKMLTAIPSNIPVETTELRLGLNSLSKLSPKAFHHLSKLTYLSL 57
+                                                                                                                    ::*    *   *  :        :  . :  :    .           
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 DRCELTKLQVDGTLPVLGTLDLSHNQLQSLPLLGQTLPALTVLDVSFNRLTSLPLGALRG 120
+1:gi|146272050|emb|CAM97225.1                                                                           DRCELTKLQVDGTLPVLGTLDLSHNQLQSLPLLGQTLPALTVLDVSFNRLTSLPLGALRG 120
+2:gi|304434468|dbj|BAJ15417.1                                                                           DRCELTKLQVDGTLPVLGTLDLSHNQLQSLPLLGQTLPALTVLDVSFNRLTSLPLGALRG 120
+3:gi|297271666|ref|XP_001117767.2                                                                       DKCELTKLQVDGTLPVLGTLDLSHNKLQSLPLLGQSLPALTILDVSFNQLTSLPLGALHG 120
+4:gi|355568123|gb|EHH24404.1                                                                            DKCELTKLQVDGTLPVLGTLDLSHNKLQSLPLLGQSLPALTILDVSFNQLTSLPLGALHG 120
+5:gi|212727030|gb|ACJ38405.1                                                                            DKCELTKLQVDGTLPVLGTLDLSHNKLQSLPLLGQSLPALTILDVSFNQLTSLPLGALHG 120
+6:gi|296202296|ref|XP_002748337.1                                                                       DQCELTKLQVDGMLPLLGTLDLSHNKLQRLPFLGQALPALTILDVSFNQLTSLSPGAFHG 119
+7:gi|281343331|gb|EFB18915.1                                                                            RQSQLISLKLAGSLPRLETLDLSHNKLRSLPALGQALPALTTLDVSYNELTSLSPGALDG 120
+8:gi|351710638|gb|EHB13557.1                                                                            DHTELTSLQTDAILPSLKTLDISHNKLKTLPSLGLAVPALNTLDVSFNQLTLLSPDALAG 120
+9:gi|50978762|ref|NP_001003083.1                                                                        RQSQLTQLQVDGMLPRLETLDVSHNRLKSLPSLGRALPALTTLDASFNELVALSPGTLDG 120
+10:gi|291405213|ref|XP_002719050.1                                                                      HQSQLTSLQVKGTLPLLDQLILSHNKLKTLPPLGPALPALTTLDVSYNQLASLSAGALDG 119
+11:gi|78100448|gb|ABB21047.1                                                                            NNNQLQTLpvFDQLVELDELYLQYNDLKSLpgIFDKLTKLTDLRLSSNKLQRLPDGVFDH 117
+12:gi|284010625|dbj|BAI66792.1                                                                          ESNQLQTLpvFDQLKNLETLWLSENQLQSLPgiFDKLTKLTILYLHNNKLQSLPDGVFDK 117
+13:gi|284010683|dbj|BAI66821.1                                                                          GYNQLQTLpvFDQLVTLEMLRVNDNQLQSLsgVFDKLTSLTYLNLNTNQLQSLPSGVFDK 117
+14:gi|284010759|dbj|BAI66859.1                                                                          NDNQLQALpvFDQLVNLTDLRLNRNQLQSLpgVFDQLVELGELHLNYNKLKSLPPGIFDK 117
+15:gi|284010547|dbj|BAI66753.1                                                                          QWNKLQTLpvFDQLVTLEMLRVNDNQLQSLpgVFDKLTSLTELYLYTNKLQSLPHGVFDK 117
+16:gi|284010557|dbj|BAI66758.1                                                                          STNQLQTLpvFDQLVNLTDLRLYQNQLTSLpgIFDKLTKLTRLDLDRNQLQSLPNGVFDK 117
+17:gi|284010755|dbj|BAI66857.1                                                                          DNNQLQTLpvFDQLVTLEMLRVNDNQLKSLpgVFDHLTKLTILGLGYNELQSLPKGVFDK 117
+18:gi|284010525|dbj|BAI66742.1                                                                          NNNQLQTLpvFDQLVTLEMLRVNDNQLQSLpgVFDKLTQLQKLWLYNNDLKSLPSGIFDK 117
+19:gi|78100438|gb|ABB21042.1                                                                            STNQLQTLpvFDHLVALGTLHLNNNKLQSVpgVFDKLTQLKELALDTNQLQSLPKGVFDK 117
+20:gi|81175463|gb|ABB59069.1                                                                            RYNKLQTLpvFNHLVELDRLDLNYNQLKSLpgVFDHLTKLTILWLNQNKLQSLPHGVFDK 117
+21:gi|284010691|dbj|BAI66825.1                                                                          DTNKLQTLpiFKELKNLETLWVTDNKLQSLpgVFDQLVNLAELRLDRNQLKSLPSGIFDK 117
+22:gi|2331240|gb|AAC53320.1                                                                             DRCELTSLQTNGKLIKLENLDLSHNNLKSLPSLGWALPALTTLDVSFNKLGSLSPGVLDG 119
+23:gi|284010713|dbj|BAI66836.1                                                                          DTNQLQTLpvFDHLVALGTLHLNNNQLQSLsgVFEKLTQLTHLALNENQLQSLPNGVFDK 117
+24:gi|284010809|dbj|BAI66884.1                                                                          NYNELQTLpvFDHLVALGTLNLNNNKLQSIpgVFDKLTQLKELYLYKNKLQSPPPGVFDH 117
+25:gi|284010801|dbj|BAI66880.1                                                                          GGNQLQTLPvfDHLVNLDKLYLNKNQLQSLpgVFDKLTKLTVLGLGPNQLQSLPNGVFDK 117
+26:gi|284010785|dbj|BAI66872.1                                                                          SYNDLKTLpiFKELKNLETLWVTDNKLQALpgVFDHLVSLDKLVLSDNQLKSLPSGIFDK 117
+27:gi|284010701|dbj|BAI66830.1                                                                          NDNQLQALpvFDQLVNLTDLRLRQNQLESLpgIFDKLTKITYLDLDNNKLQRLPNGVFDK 117
+28:gi|78100426|gb|ABB21036.1                                                                            DTNQLQTLpvFDSLTKLTYLSLSENKLQSLpgVFDKLTELKTLRLDNNQLHSLPEGVFDK 117
+29:gi|78100697|gb|ABB21169.1                                                                            STNQLQALpvFDQLKNLETLWLSQNQLQALpgVFDQLVNLADLRLYQNQLTSLPEGVFDK 117
+30:gi|78100458|gb|ABB21052.1                                                                            NNNQLLTLpvFDELKNLETLWIQQNQLQTLpgVFDHLVNLDKLYLYQNQLESLPQGIFDK 117
+31:gi|284010685|dbj|BAI66822.1                                                                          DGNQLQALpvFDQLVELDELYLNRNDLKSLpgIFDKLTKLTDLRLNSNKLQSLPHGVFDK 117
+32:gi|284010797|dbj|BAI66878.1                                                                          DGNKLQTLpvFDKLTKLTILWLNSNKLHSLpgVFDKLTKLTKLSLSQNQLQSLPPGIFDK 117
+33:gi|284010599|dbj|BAI66779.1                                                                          GENKLQTLpvFDHLVALGTLNLNRNQLESLpgIFDKLTKLSILQLSYNKLQSLPHGVFDK 117
+34:gi|119911833|ref|XP_581184.3                                                                         GKSQLTSLQADAKLPRLEVLNLAHNKLRSLPKLGRALPVLSILDVSFNELTSLPSDTLHG 120
+35:gi|78100552|gb|ABB21098.1                                                                            DTNQLQTLpvFDELKNLETLWIQQNQLQALpgVFDQLVELDELYLSKNQLKSLPPRVFDS 117
+36:gi|157820841|ref|NP_001103124.1                                                                      SRCELTSLQAHEKLLKLETLDLSHNHLQSLPSLGRALPALTTLDVSFNKLGSLSPGALEG 119
+37:gi|78100432|gb|ABB21039.1                                                                            NDNKLQTLpiFKELKNLETLWVTDNKLQALpgVFDQLVNLAELRLDRNQLKSLPPRVFDS 117
+38:gi|78100512|gb|ABB21079.1                                                                            DGNKLQTLpvFNHLVELDRLDLNYNQLQSLpgVFEKLTQLKELYLQYNDLKSLPEGVFDK 117
+39:gi|284010813|dbj|BAI66886.1                                                                          DTNQLQTLpvFDHLVALGTLNLNNNQLQSLpgVFDKLTSLTLLALNQNQLQSIPDGVFDK 117
+40:gi|81175453|gb|ABB59064.1                                                                            TGNKLQTLpvFDHLVALGTLNLNNNQLESLpgIFDKLTKLSILQLNSNKLHSLPEGVFDK 117
+41:gi|284010549|dbj|BAI66754.1                                                                          WGNQLQTLPvfDHLVNLDKLYLNQNQLQSLpgVFDTLTSLTHLALNENQLQSLPVAVFDH 117
+42:gi|284010717|dbj|BAI66838.1                                                                          EGNKLQTLPifDKLTKLTRLDLDRNQLQSLpgVFDKLTELRTLEMSNNQLQSLPDGVFDK 117
+43:gi|284010645|dbj|BAI66802.1                                                                          NYNELPTLpvFDQLVNLAELRLDRNQLKSLPsiFDSLTKLTILWLNDNQLQRLPEGVFDK 117
+44:gi|311268241|ref|XP_003131967.1                                                                      GKCQLTRLQVDGKLPRLETLRLAHNKLKSLPSLGQALPALVTLDVSFNELASLSPGVLDG 120
+45:gi|126570666|gb|ABO21267.1                                                                           ENNQLQTlgVFDDLTELGTLGLANNQLSALpgVFDHLTQLDKLYLGGNQITSLPPGVFDS 117
+46:gi|284010715|dbj|BAI66837.1                                                                          GENQLQTLpvFDHLVELDELYLNQNQLQSLpgVFDKLTKLTRLNLYNNQLQSLPNGVFDK 117
+47:gi|284010529|dbj|BAI66744.1                                                                          SYNQLQTLpvFDHLVALGTLNLNNNQLQSLpgVFDKLTQLKDLRLYQNQLQSLPIGVFDQ 117
+48:gi|284010777|dbj|BAI66868.1                                                                          TGNKLQTLpvFDQLVELDRLELGRNQLKSLPsiFDSLTKLTWLTLSENKLQSLPHGVFDK 117
+49:gi|284010611|dbj|BAI66785.1                                                                          DGNKLQTLpvFDHLVALDILGLNNNQLQSLpgVFDQLKNLETLWLSENQLKSLPSGIFDK 117
+50:gi|78100703|gb|ABB21172.1                                                                            NNNQLQTLpvFDQLKNLETLWLSQNQLTSLpgIFDKLTKLTRLDLDRNQLQRLPNGVFDK 117
+51:gi|284010627|dbj|BAI66793.1                                                                          NYNELQAlgVFDQLVELGELHLTSNKLKSLprVFDSLTKLTYLSLRNNQLQSLPHGVFDK 117
+52:gi|348560878|ref|XP_003466240.1                                                                      DHTELTSLEVDAHLPSLKTLDISHNKLQSLPFLGRALPALSTLDVSFNQLTALPPDAFDD 108
+53:gi|284010605|dbj|BAI66782.1                                                                          GYNELPTLpvFDQLVELDRLELGRNQLKSLpgIFDKLTKLTDLRLTSNKLKSLPPRVFDS 117
+54:gi|344290101|ref|XP_003416777.1                                                                      EHCQLANLQTDGILSQLKMLDLSHNQLKSLPPLGRALPVLISLDVSFNQL-ALFSGALDG 119
+55:gi|284010661|dbj|BAI66810.1                                                                          SYNDLKTLpvFDELKNLETLWIQQNQLQSLpgVFDELTQLKELYLWGNKLQSLPDGVFDK 117
+56:gi|284010555|dbj|BAI66757.1                                                                          TGNQLQTLpiFKELKNLETLWVTDNQLQTLpgVFDHLVNLDKLYLHQNQLTSLPPGIFDK 117
+57:gi|284010721|dbj|BAI66840.1                                                                          DNNQLKSLpvFDKLTNLKELHLQNNQLQRLpgVFDKLTLLEKLYLYNNQLKRVPEGAFDK 117
+58:gi|78100687|gb|ABB21164.1                                                                            QWNKLQTLpvFDELKNLETLRIQQNQLKSLpgIFDKLTKLTDLRLSSNKLQSLPEGVFDK 117
+59:gi|284010689|dbj|BAI66824.1                                                                          NDNQLQALpvFDQLVELGELHLTSNKLKSLpgIFDKLTKITNLDLNSNKLQSLPHGVFDK 117
+60:gi|284010601|dbj|BAI66780.1                                                                          NDNQLQTLpvFDQLKNLETLWLSENQLQSLpgVFDQLVNLTDLRLNRNQLESLPKGVFDK 117
+61:gi|284010635|dbj|BAI66797.1                                                                          EGNRLQTLpvFDQLVNLNKLYLHENKLQSLpgVFDKLTSLTLLSLHTNQLKSLPPGVFDS 117
+62:gi|70955601|gb|AAZ16362.1                                                                            DRNQLKFLpiFDKLTKLSHLELYSNQLQSLpgVFDKLTQLTTLYLSTNQLQSLPSGVFDK 119
+63:gi|78100578|gb|ABB21111.1                                                                            GENQLKSLpiFDKLTKLTDLTLSENKLQSLpgVFDKLTELKTLYLNNNQLQRLPEGVFDK 117
+64:gi|78100572|gb|ABB21108.1                                                                            GTNQLQTLpvFDHLVELDELHLNYNQLKSLpgIFDKLTKITYLDLQNNKLQSLPHGVFDK 117
+65:gi|78100684|gb|ABB21163.1                                                                            SYNQLQTLPvfDHLVNLDKLYLGQNQLRSLpgVFDSLTKLTYLTLSENQLQSLPHGVFDQ 117
+66:gi|284010743|dbj|BAI66851.1                                                                          STNQLQTLpvFDQLNNLKTLDLQQNQLKSlpGIFDKLTKLTDLQLYQNKLQSLPHGVFDK 117
+67:gi|126570333|gb|ABO21143.1                                                                           DQNQLQSlgLFDHLPELGTLGLAYNRLESLpgVFDRLTQLDKLYLGTNQLTSLPPRVFDS 117
+68:gi|284010539|dbj|BAI66749.1                                                                          EGNRLQTLpvFDHLVNLNELRLGTNQLESLpgIFDKLTKITNLDLSGNKLQSLPHGVFDK 117
+69:gi|78100408|gb|ABB21027.1                                                                            DNNQLQTLpvFDQLNNLKTLDLYQNQLTSlpGIFDKLTKLTDLQLYQNKLQSLPNGVFDK 117
+70:gi|284010565|dbj|BAI66762.1                                                                          QFNKLQAlgVFDQLVELGELHLQYNNLKSLpgIFDKLSKLTTLELLYNQLQSLPHGVFDK 117
+71:gi|126570576|gb|ABO21230.1                                                                           QYNQLQTLPafDQLAELKQLYLQTNQLKSLPalFDRLTSLEKLYLNYNQLKSLPPRVFDS 117
+72:gi|78100689|gb|ABB21165.1                                                                            DNNQLQTLpvFDQLRNLETLWLRENQLQTLpgVFDHLVNLDKLYLNKNQLKSLPPGIFDK 117
+73:gi|284010655|dbj|BAI66807.1                                                                          TGNKLQTLpvFDQLVTLEMLRVNDNKLQSLpgVFDQLKNLETLWLSENQLESLPSGIFDK 117
+74:gi|126570440|gb|ABO21185.1                                                                           EDNQLQAlgVFNPLAELKTLGLNGNALTTLpgVFDNLRKLTWLNLQYNQLQSIPAGVFDK 117
+75:gi|284010613|dbj|BAI66786.1                                                                          ESNQLQTLpvFDQLVNLNKLYLHENKLTSLpgIFDKLTKLTLLWLHQNQLQSLPNGVFDK 117
+76:gi|284010657|dbj|BAI66808.1                                                                          DNNQLQTlgVFDQLVELDELYLTNNNLESLPsiFDSLTKLTWLSLDNNKLQSLPDGVFDK 117
+77:gi|299856771|pdb|3M18|A                                                                              DYNQLQTlgVFDDLTELGTLGLANNQLASLpgVFDHLTQLDKLYLGGNQLKSLPSGVFDR 117
+78:gi|284010553|dbj|BAI66756.1                                                                          NNNKLQTLpvFDQLVNLNKLYLQENKLESLprVFDSLTKLTYLSLSYNELQRLPDGVFDN 117
+79:gi|284010699|dbj|BAI66829.1                                                                          SYNDLKTLpiFDKLTQLTLLRLHYNQLQSLpgVFEKLTQLKELYLHQNKLQSLPNGVFDK 117
+80:gi|284010523|dbj|BAI66741.1                                                                          STNQLQSLpvFDHLVSLDKLVLTSNDLKSLpgIFDKLTKMTNLDLNDNKLQSLPHGVFDK 117
+81:gi|78100518|gb|ABB21082.1                                                                            DYNQLQALpvFDQLVNLTDLRLNRNQLTSLpgIFDKLTKLTILWLNVNKLQSLPHGVFDK 117
+82:gi|78100592|gb|ABB21118.1                                                                            WGNQLQTLpvFDHLVALDRLHLNNNQLTSLpgIFDQLTKLTRLDLDRNQLKSLPDGVFDK 117
+83:gi|126570750|gb|ABO21309.1                                                                           QYNQLQTLpvFNLLTELKTLGLNSNALTVLpgVFDRLINLDKLYLNMNQLKSLRPRVFDR 117
+84:gi|78100707|gb|ABB21174.1                                                                            EGNKLQTLpvFDQLKNLETLWLRENQLQSLpgVFDHLVNLDRLQLDYNQLTSLPPKIFDS 117
+85:gi|78100418|gb|ABB21032.1                                                                            -------------LKELTYLNLDTNQLQSLpgVFDELKNLETLWIQQNQLQSLPVGVFDH 95
+86:gi|126570464|gb|ABO21193.1                                                                           DGNQLQTLPvfDQLTELGTLVLLNNQLKSLprVFDSLTKLTTLSLSTNQLQSIPAGLFDK 117
+87:gi|284010579|dbj|BAI66769.1                                                                          QWNKLQTLpvFDQLVELDELYLNKNQLKSLpkIFDKLTKLTLLYLYENKLQSLPHGVFDK 117
+88:gi|284010723|dbj|BAI66841.1                                                                          FNNKLQTLpvFDQLVELDRLELGRNQLESLpgIFDKLTKLSILQLSENKLQSLPHGVFDK 117
+89:gi|78100714|gb|ABB21177.1                                                                            DYNQLQTLpvFNQLNDLKTLNLLQNQLKSLpgIFDKLTKLTDLQLYQNKLQSLPHGVFDK 117
+90:gi|284010513|dbj|BAI66736.1                                                                          ------------HLSKLTYLSLSTNQLQSLpgVFDHLVALGTLNLNNNQLQSLPNGVFDK 95
+91:gi|78100444|gb|ABB21045.1                                                                            GNNQLQTLpvFDHLVALGTLNLNNNQLKSlpKIFDSLTKLKELNLDNNKLQSLPEGVFDK 117
+92:gi|284010609|dbj|BAI66784.1                                                                          ---------------KLTYLSLTGNKLQALpgVFDQLVNLTDLRLNRNQLTSLPPGIFDK 95
+93:gi|78100635|gb|ABB21139.1                                                                            SYNQLQTLpvFDELKNLENLRIQQNQLQALpgVFDHLVSLDKLVLSDNQLKYLPPKVFDS 117
+94:gi|50086941|gb|AAT70351.1                                                                            GNNQLTALpvFDHLVNLQKLWLNSNQLTSLpgVFDKLTQLKELGLDQNQLKSISAGMFDR 119
+95:gi|284010815|dbj|BAI66887.1                                                                          ---------------ELTYLGLEGNKLQTLpgVFDQLVNLTDLRLHQNQLTSLPKGVFDK 95
+96:gi|78100652|gb|ABB21147.1                                                                            DTNQLQTLpvFDELKNLENLRIQQNQLQTLpgVFDHLVNLDKLYLTSNKLKSLPPRVFDS 117
+97:gi|78100724|gb|ABB21182.1                                                                            FDNELQTLpvFDELKNLETLWLAQNQLQALpgVFNHLVELDRLDLNYNQLTSLPPGIFDK 117
+98:gi|126570372|gb|ABO21156.1                                                                           QYNQLQTLpvFNPLTELKTLGLQNNQIGALpgVFDRLTSLEKLYLTYNQLKSLPPRVFDS 117
+99:gi|284010519|dbj|BAI66739.1                                                                          STNQLQTLpvFDHLVNLDYLGLSTNELKSlpGIFDKLTKLTRLDLDNNQLQRLPEGVFDK 117
+100:gi|78100456|gb|ABB21051.1                                                                           DNNQLQSLpvFDQLVELGELHLNYNKLKSLpkIFDKLTKLTLLYLDQNKLQSLPHGVFDK 117
+                                                                                                                        *  * :  * :  :. :   :  :  *    * :       :  
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 LGELQELYLKGNELKTLPPGLLTPTPKLEKLSLANNNLTELPAGLLNGLENLDTLLLQEN 180
+1:gi|146272050|emb|CAM97225.1                                                                           LGELQELYLKGNELKTLPPGLLTPTPKLEKLSLANNNLTELPAGLLNGLENLDTLLLQEN 180
+2:gi|304434468|dbj|BAJ15417.1                                                                           LGELQELYLKGNELKTLPPGLLMPTPKLEKLSLANNNLTELPAGLLNGLENLDTLLLQEN 180
+3:gi|297271666|ref|XP_001117767.2                                                                       LGKLQELYLKGNELKTLPPGLLTPTPKLEKLSLANNHLTQLPAGLLDGLGNLDTLLLQEN 180
+4:gi|355568123|gb|EHH24404.1                                                                            LGKLQELYLKGNELKTLPPGLLTPTPKLEKLSLANNHLTQLPAGLLDGLGNLDTLLLQEN 180
+5:gi|212727030|gb|ACJ38405.1                                                                            LGKLQELYLKGNELKTLPPGLLTPTPKLEKLSLANNHLTQLPAGLLDGLGNLDTLLLQEN 180
+6:gi|296202296|ref|XP_002748337.1                                                                       LGHLQELYLKGNELKTLPAGLLMPTPKLEKLSLANNNLTELPPRLLNGLENLDTLLLQEN 179
+7:gi|281343331|gb|EFB18915.1                                                                            LSGLQELYLRGNKLKTLPPGLLAPVPQLRKLNLADNKLSELPPGLLDGLGELDTLYLQGN 180
+8:gi|351710638|gb|EHB13557.1                                                                            LSQLHELSLQGNKLKTLPPGLLASTSQLKKLNLANNQLNELPPGLLNGLEELDTLFLQSN 180
+9:gi|50978762|ref|NP_001003083.1                                                                        LSHLHELYLRGNKLKTLPPRLLAPTAQLRKLNLADNRLTELPPGFLEGLGELDTLYLQGN 180
+10:gi|291405213|ref|XP_002719050.1                                                                      LSQLRELCLQGNKLKALPPGLLAPMRQLRKLNLAENQLHELPPQLLAGLGYLNTLYLHRN 179
+11:gi|78100448|gb|ABB21047.1                                                                            LTKLTILWLNNNKLQSLPNGVFHNLPLLKELYLSYNELHSLPEGVFDKLAELKTLDLQIN 177
+12:gi|284010625|dbj|BAI66792.1                                                                          LTQLTILHLY------------------------NNKLQALPDGLFDKLTELKTLYLRNN 153
+13:gi|284010683|dbj|BAI66821.1                                                                          LTQLQKLWLHYNQLQSLPDGVFEKLTQLKELYLHQNKLQSFLSGVFDKLTKLTRLELGSN 177
+14:gi|284010759|dbj|BAI66859.1                                                                          LTKLTRLDLDRNQLKSLPPKIFDKLTKLTLLYLNVNKLQSLPNGVFHNLPLLKELYLSNN 177
+15:gi|284010547|dbj|BAI66753.1                                                                          LTELKTLSLYNNQLKRVPEGAFDKLTELKTLRLDNNQLKRVPEGAFDKLTELKTLRLDNN 177
+16:gi|284010557|dbj|BAI66758.1                                                                          LTSLTHLALNQN------------------------KLQSLPHGVFDKLTQLKTLELFNN 153
+17:gi|284010755|dbj|BAI66857.1                                                                          LTSLKELRLFNNQLKRVPEGVFDKLTNLKELWLRNNKLHSLPEGVFDKLAELKTLDLRYN 177
+18:gi|284010525|dbj|BAI66742.1                                                                          LTNLKELWLRNNKLQSLPNGVFDKLTQLTKLYLSYNQLQSLPNGVFDNLAKLTRLDLQNN 177
+19:gi|78100438|gb|ABB21042.1                                                                            LTQLTRLDLYTNQ------------------------LQSLPHGVFDKLTELKELSLQNN 153
+20:gi|81175463|gb|ABB59069.1                                                                            LTELKTLYLQINQLERLPNGVFDKLSQLQKLYLQENQLQSLPKGVFDKLTELKTLDLQTN 177
+21:gi|284010691|dbj|BAI66825.1                                                                          LTKLTDLRLNSN------------------------KLHSLPEGVFDKLAELKTLYLSYN 153
+22:gi|2331240|gb|AAC53320.1                                                                             LSQLQELYLQNNDLKSLPPGLLLPTTKLKKLNLANNKLRELPSGLLDGLEDLDTLYLQRN 179
+23:gi|284010713|dbj|BAI66836.1                                                                          LTQLTTLYLRNNQ------------------------LQSVPHGVFDNLAKLTRLELQRN 153
+24:gi|284010809|dbj|BAI66884.1                                                                          LTKLTILGL------------------------GESQLQSLPHGVFDKLTELKELSLNNN 153
+25:gi|284010801|dbj|BAI66880.1                                                                          LTQLTILHLY------------------------NNKLQSLPNGVFDKLTELKTLSLLNN 153
+26:gi|284010785|dbj|BAI66872.1                                                                          LTKLTDLRLNSNKLHSLPEGVFDKLTEXRTLEMRNNQLPRVPDGVFDKLTQLKTLDLQTN 177
+27:gi|284010701|dbj|BAI66830.1                                                                          LTQLTILYLH------------------------NNKLQSIPDGVFDKLTELRTLEMSNN 153
+28:gi|78100426|gb|ABB21036.1                                                                            LTKITYLDLDNNKLQSLPNGVFHNLPLLKELYLRENQLQRLPKGVFDKLTELRTLEMRNN 177
+29:gi|78100697|gb|ABB21169.1                                                                            PTKLTRLDLDYNQLKSLPSGVFDKLTLLEKLYLQNNQLQRLPEGVFDKLTDLKTLNLQIN 177
+30:gi|78100458|gb|ABB21052.1                                                                            LTKLTILWLNTN------------------------KLHSLPEGVFDKLTQLKTLQMTSN 153
+31:gi|284010685|dbj|BAI66822.1                                                                          LTELKTLSLNNNQ------------------------LQRLPHGVFDKLTELKELYLQIN 153
+32:gi|284010797|dbj|BAI66878.1                                                                          LTKLTDLQLFQNKLQSLPHGVFDKLTELKELSLFNNQLQRLPEGVFDKLTNLKELWLQIN 177
+33:gi|284010599|dbj|BAI66779.1                                                                          LTNLKELWLR------------------------NNKLQSLPEGVFDKLTQLKTLQMTSN 153
+34:gi|119911833|ref|XP_581184.3                                                                         LSRLQELYLRGNQLRTLPPELLVPTPHLKKLSLAENDLQELPPELLKGLEELDTLYLQKN 180
+35:gi|78100552|gb|ABB21098.1                                                                            LTKLTYLSLGYNELQRLPDGVFDKLTLLEKLYLYNNQLQSLPKGVFDKLTELKTLEMRNN 177
+36:gi|157820841|ref|NP_001103124.1                                                                      LGQLEELYLQNNDLKSLPPGLLMPTTKLLKLSLANNKLRELPPGLLDGLEDLDTLYLQGN 179
+37:gi|78100432|gb|ABB21039.1                                                                            LTKLTYLSLGYNELQSLPKGVFDKLTSLKELRLYNNQLKRVPEGAFDKLTELKTLKLDNN 177
+38:gi|78100512|gb|ABB21079.1                                                                            LTKLTRLDLDYNQ------------------------LKYLPSGVFDKLTLLEKLYLENN 153
+39:gi|284010813|dbj|BAI66886.1                                                                          LTQLTKlyLNKNQLKSLPPKIFDKLTKLTLLYLDQNKLQSLPHGVFDKLTELKTLSLYDN 177
+40:gi|81175453|gb|ABB59064.1                                                                            LAELKTLDLQYNQ------------------------LERLPNGVFDKLTQLGTLYLDDN 153
+41:gi|284010549|dbj|BAI66754.1                                                                          LTKLTILWLN------------------------NNKLQSLPHGVFDKLTELKTLYLRSN 153
+42:gi|284010717|dbj|BAI66838.1                                                                          LSQLQKLYLHENQLQRLPNGVFDKLTSLNDLRLHNNQLHSLPEGVFDKLTELKTLTLNNN 177
+43:gi|284010645|dbj|BAI66802.1                                                                          LTQLTKLSLSENQLKSLPPKIFDKLTKLTLLYLDTNKLQSLPNGVFDKLTELKTLTLSNN 177
+44:gi|311268241|ref|XP_003131967.1                                                                      LSHLQELYLRGNRLKTLPPGLLAPTPKLKKLNLAENQLKELPPGLLDGLEEPDTLYLQGN 180
+45:gi|126570666|gb|ABO21267.1                                                                           LTKLTRLDLDQNQ------------------------LQSIPKGVFDRLTNLQELRLYNN 153
+46:gi|284010715|dbj|BAI66837.1                                                                          LtkLTRLDLQNNQLPRVPEGVFDKLTQLQKLWLDNNKLQSLPDGVFDKLTELKTLYLSNN 177
+47:gi|284010529|dbj|BAI66744.1                                                                          LVNLAELRLYRNQ------------------------LTSLPPGIFDKLTQLTLLWLHRN 153
+48:gi|284010777|dbj|BAI66868.1                                                                          LTELKTLTL------------------------SNNQLKRIPEGAFDKLTELKTLRLDDN 153
+49:gi|284010611|dbj|BAI66785.1                                                                          LTKLTDLRLNVNKLQSLPKGVFDKLTQLTTLYLHQNQLQSLPNGVFDKLTQLTKLYLHYN 177
+50:gi|78100703|gb|ABB21172.1                                                                            LTSLNDLRLQYNQLQRLPKGVFDKLTSLKELRLDNNQLQSLPHGVFDKLTELKTLSLQNN 177
+51:gi|284010627|dbj|BAI66793.1                                                                          LTELKTLSLNVNQ------------------------LKRVPEGAFDKLTELKELSLSNN 153
+52:gi|348560878|ref|XP_003466240.1                                                                      LSQLHELYLQDNKLRTLPPRLLASTSQLKKLNLANNGLAEVPPGLLNELEDLDTLFLQNN 168
+53:gi|284010605|dbj|BAI66782.1                                                                          LTKLTWLSLGYN------------------------KLHSLPEGVFDKLAELKTLHLLNN 153
+54:gi|344290101|ref|XP_003416777.1                                                                      LSQLQELYLRGNHLKALPPGLLASTPRVKKLNLANNELDELPPGLLNGLDDLDTLYLQEN 179
+55:gi|284010661|dbj|BAI66810.1                                                                          LTSLTLLALNQNQ------------------------LQSLPPRVFDSLTKLTYLSLQTN 153
+56:gi|284010555|dbj|BAI66757.1                                                                          LTKLTDLQLFQN------------------------KLHSLPEGVFDKLAELKTLDLQNN 153
+57:gi|284010721|dbj|BAI66840.1                                                                          LTELRTLDLQYNQLERLPNGVFDHLTKLTILGLGENQLHSLPEGVFDKLAELKTLTLYNN 177
+58:gi|78100687|gb|ABB21164.1                                                                            LTKLTRLDLDYNQ------------------------LKSLPSGVFDKLTELKDLSLQNN 153
+59:gi|284010689|dbj|BAI66824.1                                                                          LTNLNKLWLQYNQ------------------------LERLPNGVFDHLTKLTILWLNNN 153
+60:gi|284010601|dbj|BAI66780.1                                                                          LTKLTRLDLDYNQ------------------------LKSLPSGVFDKLTLLEKLYLNSN 153
+61:gi|284010635|dbj|BAI66797.1                                                                          LTKLTYLTLSQN------------------------KLQRLPDGVFDKLTLLEKLYLENN 153
+62:gi|70955601|gb|AAZ16362.1                                                                            LTQLKELWLGANQLQSLPSGVFDKLTSLTKLYLYSNQLQSLPSGVFDKLTKLKDLALHTN 179
+63:gi|78100578|gb|ABB21111.1                                                                            LTKLTRLDLDYNQ------------------------LQRLPEGVFDNLAKLTRLELNIN 153
+64:gi|78100572|gb|ABB21108.1                                                                            LTELKTLYLNNNQ------------------------LQSLPKGVFDKLTELKELSLQIN 153
+65:gi|78100684|gb|ABB21163.1                                                                            LNDLKTLDLQQNQLKSLPPKIFDKLTKLTLLYLYNNQLQSLPKGVFDKLTELKTLELGSN 177
+66:gi|284010743|dbj|BAI66851.1                                                                          LTELKELSLNNN------------------------------------------------ 129
+67:gi|126570333|gb|ABO21143.1                                                                           LSKLTYLSVGQNQ------------------------LQSIPHGAFDHLTKLEDLRLNEN 153
+68:gi|284010539|dbj|BAI66749.1                                                                          LAELKTLDLQTNQ------------------------LKRVPEGAFDKLTELKTLRLDNN 153
+69:gi|78100408|gb|ABB21027.1                                                                            LTELKTLYLRIN------------------------------------------------ 129
+70:gi|284010565|dbj|BAI66762.1                                                                          LTQLTHLVLHTNQ------------------------LQSLPPRVFDKLAELKTLDLQTN 153
+71:gi|126570576|gb|ABO21230.1                                                                           LSKLTWLSLDANQ------------------------LQSIPAGAFDKLTRLEKLYLSEN 153
+72:gi|78100689|gb|ABB21165.1                                                                            LTKLTDLQLNQN------------------------KLQSLPHGVFDKLTELKDLSLQTN 153
+73:gi|284010655|dbj|BAI66807.1                                                                          LTKLTDLRLNSN------------------------KLQSLPDGVFDKLTQLKDLRLYQN 153
+74:gi|126570440|gb|ABO21185.1                                                                           LTNLDRLDLDTNQ------------------------LQSIPNGAFDKLVNLDKLYPNDN 153
+75:gi|284010613|dbj|BAI66786.1                                                                          LTQLTTLYLHQNQ------------------------LQSLPNGVFDKLTQLTYLELFNN 153
+76:gi|284010657|dbj|BAI66808.1                                                                          LXKITYLDLQYNQ------------------------LQSLPNGVFHNLPLLKELYLSYN 153
+77:gi|299856771|pdb|3M18|A                                                                              LTKLKELRLNTNQ------------------------LQSIPAGAFDKLTNLQTLSLSTN 153
+78:gi|284010553|dbj|BAI66756.1                                                                          LAKLTRLELNNNQ------------------------LQSLPEGVFDKLTQLKTLQMTSN 153
+79:gi|284010699|dbj|BAI66829.1                                                                          LTQLKELWLGINQLQSLPSGIFDKLTKLTDLRLNDNELQSLPHGVFDKLTELKELSLqdN 177
+80:gi|284010523|dbj|BAI66741.1                                                                          LTNLKELWLQTN------------------------------------------------ 129
+81:gi|78100518|gb|ABB21082.1                                                                            LTELKTLYLQNNQ----------------------------------------------- 130
+82:gi|78100592|gb|ABB21118.1                                                                            LTKLTDLTL------------------------SENKLQSLPHGVFDKLTELKTLSLRNN 153
+83:gi|126570750|gb|ABO21309.1                                                                           LTKLTYLSL------------------------SENQLQSIPEKVFDKLTQLQQLYLDRN 153
+84:gi|78100707|gb|ABB21174.1                                                                            LTKLTWLTLNQN------------------------KLQSLPHGVFDKLTQLKTLQMTSN 153
+85:gi|78100418|gb|ABB21032.1                                                                            LVNLDKLHLQYNDLKSLPQGIFDKLTKLSILQLSDNKLQSLPNGVFDNLAKLTRLELNIN 155
+86:gi|126570464|gb|ABO21193.1                                                                           LTNLQTLDLQVNQ------------------------LQSIPEGIFNKLASLQTLYLSNN 153
+87:gi|284010579|dbj|BAI66769.1                                                                          LTELKELSLQYNQ------------------------LKRVPEGAFDKLTELKTLRLDNN 153
+88:gi|284010723|dbj|BAI66841.1                                                                          LTELKTLYLYNNQ------------------------LKRVPEGVFDKLAELKTLDLRIN 153
+89:gi|78100714|gb|ABB21177.1                                                                            LTNLNKLWLQNNQ------------------------LQSLPHGVFDKLTELKELSLSNN 153
+90:gi|284010513|dbj|BAI66736.1                                                                          LTQLTTLYLHQNKLQSLPDGVFDKLTSLTLXSLRTNQLKRVPEGAFDKLTELKTLRLDNN 155
+91:gi|78100444|gb|ABB21045.1                                                                            LTQLKTLQMTSNQ----------------------------------------------- 130
+92:gi|284010609|dbj|BAI66784.1                                                                          LTKLTRLDLDRNQLESLPQGIFDKLTKLTDLRLSSNKLQSLPNGVFDKLTQLGTLYLNDN 155
+93:gi|78100635|gb|ABB21139.1                                                                            LTKITYLGL------------------------GNNKLQRLPNGVFDKLTSLNGLHLLNN 153
+94:gi|50086941|gb|AAT70351.1                                                                            V--LQELHLSSKQLTDLPEGGFERLVNLKELHLYRNQMKALPAGLFDELTQLTLLELQNN 177
+95:gi|284010815|dbj|BAI66887.1                                                                          LTKLTRLDLDYNQ------------------------LQSLPHGVFDNLAKLTRLDLQIN 131
+96:gi|78100652|gb|ABB21147.1                                                                            LTKLTYLSLRENQ------------------------LQRLPEGVFDKLTNLKELWLRNN 153
+97:gi|78100724|gb|ABB21182.1                                                                            LTKLTRLDLDRNQ------------------------LERLPNGVFDKLTQLGTLYLSTN 153
+98:gi|126570372|gb|ABO21156.1                                                                           LTKLTYLTLSQNQ------------------------LQSIPEGAFDKLTNLQTLELRNN 153
+99:gi|284010519|dbj|BAI66739.1                                                                          LTELKTLHLLNN------------------------------------------------ 129
+100:gi|78100456|gb|ABB21051.1                                                                           LTKLTDLRLNVN------------------------KLQSLPNGVFHNLPLLKELHLLNN 153
+                                                                                                           :  * :                                                   
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 SLYTIPKGFFGSHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKQGVDVKAMTSN 240
+1:gi|146272050|emb|CAM97225.1                                                                           SLYTIPKGFFGSHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKQGVDVKAMTSN 240
+2:gi|304434468|dbj|BAJ15417.1                                                                           SLYTIPKGFFGSHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKQGVDVKAMTSN 240
+3:gi|297271666|ref|XP_001117767.2                                                                       SLYTIPKGFFGFHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKQGVDVKAMTSN 240
+4:gi|355568123|gb|EHH24404.1                                                                            SLYTIPKGFFGFHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKEGVDVKAMTSN 240
+5:gi|212727030|gb|ACJ38405.1                                                                            SLYTIPKGFFGFHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKEGVDVKAMTSN 240
+6:gi|296202296|ref|XP_002748337.1                                                                       LLRTIPKGFFGDHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKQGVDVKAMTSN 239
+7:gi|281343331|gb|EFB18915.1                                                                            WLRTVPKGFFGDHLLPFAFLHNNPWSCDCEILYFARWLQDNENNVYLWKEGVDVKATTPN 240
+8:gi|351710638|gb|EHB13557.1                                                                            WLCTIPKGFFGNLLLPFVFLHSNLWHCDCEILYFRRWLQDNKNNVYLWKEGEDVKAMTPN 240
+9:gi|50978762|ref|NP_001003083.1                                                                        WLRTVPKGFFGDLLLPFTFLHGNPWSCDCEILYLARWLRDNSNNVYLWKEGVEAKATTPN 240
+10:gi|291405213|ref|XP_002719050.1                                                                      WLRNIPNGFFGNLLLPYVFLHDNPWICDCDILYLRNWLEKNP-NAYLWEAGVDVKSMTRD 238
+11:gi|78100448|gb|ABB21047.1                                                                            QLKSVPEEAFDNlnIKDLRLEENPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 237
+12:gi|284010625|dbj|BAI66792.1                                                                          QLRSVPNRAFDSLsiKTLWLDTNPWDCScdILYLSKWIRenVSNIEAAECAVGNKaiTEK 213
+13:gi|284010683|dbj|BAI66821.1                                                                          QLRRVPEGAFDSlsLSDITLNSNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 237
+14:gi|284010759|dbj|BAI66859.1                                                                          QLRRVPEGAFNSlkLTWIQLEKNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 237
+15:gi|284010547|dbj|BAI66753.1                                                                          QLRRVPEGAFNSlkLTRLQLQSNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 237
+16:gi|284010557|dbj|BAI66758.1                                                                          QLRRVPDGAFDSlkLNRITLDTNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+17:gi|284010755|dbj|BAI66857.1                                                                          QLRNVPHGAFDSlsLNILHLTNNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 237
+18:gi|284010525|dbj|BAI66742.1                                                                          QLPRVPEGVFDslNLNTLDLSINPWDCScdILYLSKWIRenVSNIEAAECAVGNKaiTEK 237
+19:gi|78100438|gb|ABB21042.1                                                                            QLRSVPEEAFDSlkLTWIQLTNNPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 213
+20:gi|81175463|gb|ABB59069.1                                                                            QLRSVPEGIFDSlsLSTVRLYNNPWDCScdILYLSKWIREKEGKVNGIESAtaVLEITEE 237
+21:gi|284010691|dbj|BAI66825.1                                                                          QLRRVPDGAFDSLsiKTLRLDTNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+22:gi|2331240|gb|AAC53320.1                                                                             WLRTIPKGFFGTLLLPFVFLHANSWYCDCEILYFRHWLQENANNVYLWKQGVDVKDTTPN 239
+23:gi|284010713|dbj|BAI66836.1                                                                          QLRSVPEGAFNSlkLALLQLEENPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+24:gi|284010809|dbj|BAI66884.1                                                                          QLRSVPKEAFDNlnIKDLRLEENPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+25:gi|284010801|dbj|BAI66880.1                                                                          QLRRVPDGAFDSlsLSDITLNDNPWDCScdILYLAKWLATNLERHAGANCDQSSKaiTEK 213
+26:gi|284010785|dbj|BAI66872.1                                                                          QLRSVPEGAFESlsLNNITLDTNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 237
+27:gi|284010701|dbj|BAI66830.1                                                                          QLKSVPEEAFDSlkLKMLQLQENPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 213
+28:gi|78100426|gb|ABB21036.1                                                                            QLRSVPEGAFESlsLNNIMLQSNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 237
+29:gi|78100697|gb|ABB21169.1                                                                            QLRRVPEGAFDSlkISEVQLQENPWDCScdILYLSNWIREkvSNIEAAECDGGTKaiTEE 237
+30:gi|78100458|gb|ABB21052.1                                                                            QLRSVPNRAFDSLsiKTLWLQSNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 213
+31:gi|284010685|dbj|BAI66822.1                                                                          QLRRVPEGAFDSlsLSDITLNSNPWDCScdILYLAKWLATNLERHAGANCDQSSKaiTEK 213
+32:gi|284010797|dbj|BAI66878.1                                                                          QLRRVPEGAFdlSSLSKLELDTNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 237
+33:gi|284010599|dbj|BAI66779.1                                                                          QLRSVPEGAFESlsLNNIMLDPNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+34:gi|119911833|ref|XP_581184.3                                                                         RLRTIPTDFFGMLLLPYAFFHNNSWSCDCGILYFSRWLQDNPSNVYVWEEDVDIKAMTPD 240
+35:gi|78100552|gb|ABB21098.1                                                                            QLRRVPEGAFDYLslSLVSLNDNPWDCScdILYLSKWIREkvSNIEAAGCEEGGKaiTEE 237
+36:gi|157820841|ref|NP_001103124.1                                                                      WLSTIPKGFFGSLLLPFVFLHANTWYCDCEILYFRNWLQENPNRVYLWKEGVDVKAMTAN 239
+37:gi|78100432|gb|ABB21039.1                                                                            QLKRVPEGAFDSlkLKMLQLQENPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 237
+38:gi|78100512|gb|ABB21079.1                                                                            QLRSVPKGAFdlSSLSLVTLDTNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+39:gi|284010813|dbj|BAI66886.1                                                                          QLRSVPKGAFDSlsLNILYLNDNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 237
+40:gi|81175453|gb|ABB59064.1                                                                            QLRSVPKEAFDNlnIKDLRLEENPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 213
+41:gi|284010549|dbj|BAI66754.1                                                                          QLRNVPHGAFDSlsISNVQLYDNPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 213
+42:gi|284010717|dbj|BAI66838.1                                                                          QLKRVPEGAFNSlkLTRLQLTNNPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 237
+43:gi|284010645|dbj|BAI66802.1                                                                          QLRSVPKGAFdlSSLSLVTLYDNPWDCScdILYLSKWIRenVSNIEAAECAVGNKaiTEK 237
+44:gi|311268241|ref|XP_003131967.1                                                                      WLRTIPEGFFGSHLLPFAFLHDNPWLCDCAILYFTRWLQTN--NVYEWKEGVDVKVMTPN 238
+45:gi|126570666|gb|ABO21267.1                                                                           QLQSVPHGAFDRlkLQTITLYSNAWDCscEILYLSQWIQKHRDKVKYGSGGtnPDGVTCS 213
+46:gi|284010715|dbj|BAI66837.1                                                                          QLRKVPEGIFdlSSLSTLRLDTNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 237
+47:gi|284010529|dbj|BAI66744.1                                                                          QLRSVPEGAFdlSSLSKLELYNNIWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+48:gi|284010777|dbj|BAI66868.1                                                                          QLRSVPKEAFDNlnIKDLRXEENPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+49:gi|284010611|dbj|BAI66785.1                                                                          QLKSLPEGVFDslNLNTLDLSINPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 237
+50:gi|78100703|gb|ABB21172.1                                                                            QLRRVPDGAFDysKLNRITLNDNPWDCScdILYLAKWLATNLERHAGANCDQSSKaiTEE 237
+51:gi|284010627|dbj|BAI66793.1                                                                          QLKRVPDGAFDSLsiKTLWLQSNPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 213
+52:gi|348560878|ref|XP_003466240.1                                                                      SLQTIPKGFFGDLFLPFAFLHSNLWHCDCEILYFRHWLNDNPNNVYLWKEGENDKAMTPS 228
+53:gi|284010605|dbj|BAI66782.1                                                                          QLRSVPEGAFNSlkLTRLQLEENPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 213
+54:gi|344290101|ref|XP_003416777.1                                                                      CLRTIPKDFFGDSILPFAFLHSNPWVCNCEILYFRNWLRDNEQNVYLWKEGMEVKAMTPN 239
+55:gi|284010661|dbj|BAI66810.1                                                                          QLRSVPEGAFDSlsLNILYLTNNPWDCScdILYLRDWIDDNKDKVTGAQDakAVLEITEK 213
+56:gi|284010555|dbj|BAI66757.1                                                                          QLKRVPEGAFNSlkLTRLQLEENPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 213
+57:gi|284010721|dbj|BAI66840.1                                                                          QLKSVPKGAFdlSSLSLVTLQSNPWDCScdILYLAKWLATNLERHAGANCDQSSKaiTEK 237
+58:gi|78100687|gb|ABB21164.1                                                                            QLQRVPDGAFDYLsiKTLWLDPNPWDCScdILYLSNWIREkvSNIEAAECDGGTKaiTEE 213
+59:gi|284010689|dbj|BAI66824.1                                                                          QLKRVPEEAFDSlkLKMLQLQENPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 213
+60:gi|284010601|dbj|BAI66780.1                                                                          QLKRVPEGAFNSlkLTRLQLQENPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 213
+61:gi|284010635|dbj|BAI66797.1                                                                          QLRSVPEEAFDSlkLKMLQLQENPWDCScdILYLSKWIRenVSNIEAAECAVGNKaiTEK 213
+62:gi|70955601|gb|AAZ16362.1                                                                            QLKSVPDGIFDRlsLQYIYLYSNPWHCScgIRYLSEWINKNSGIIRVQGSF--------D 231
+63:gi|78100578|gb|ABB21111.1                                                                            QLRRVPEGAFDFlsLSDVTLNDNPWDCScdILYLSNWIREKEGKVNGIESAtaVLDVTEE 213
+64:gi|78100572|gb|ABB21108.1                                                                            QLRRVPEGAFDFlsISNVQLYGNPWDCTceHLYMAKWLKKKQdgVDTAGCGEGGKavTEE 213
+65:gi|78100684|gb|ABB21163.1                                                                            QLKRVPEGAFDFlkINLLQLQSNPWDCTcdILYMAKWLKKKQdgVDTAGCEEGGKaiTEE 237
+66:gi|284010743|dbj|BAI66851.1                                                                          QLKRVPEEAFDSlkLKMLQLHTNPWDCScdILYLRNWIRenVSNIEAAECAVDNKaiTEK 189
+67:gi|126570333|gb|ABO21143.1                                                                           KLQSVPHGAFDRLKLQSIFLYGNAWDCscEILYLSQWIRENQGKVKSdsNIADPDGVTCS 213
+68:gi|284010539|dbj|BAI66749.1                                                                          QLRSVPNRAFDSLsiKTLWLNDNPWDCScdILYLAKWLATNLERHAGANCDQSSKaiTEK 213
+69:gi|78100408|gb|ABB21027.1                                                                            QLRSVPNRAFDSLsiKTLWLDTNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 189
+70:gi|284010565|dbj|BAI66762.1                                                                          QLRRVPEGAFdlSSLSKLELYNNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 213
+71:gi|126570576|gb|ABO21230.1                                                                           KLQSVPHGAFDRlkLQTIRLTSNQWDCscEILYLSQWIRENSAKVKNGAGneDPDGVTCS 213
+72:gi|78100689|gb|ABB21165.1                                                                            QLRSVPEGAFESlsLNNIMLDPNPWDCScdILYLSNWIREkvSNIEAAECDGGTKaiTEE 213
+73:gi|284010655|dbj|BAI66807.1                                                                          QLRNVPHGAFdlSSLSKLELYNNIWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 213
+74:gi|126570440|gb|ABO21185.1                                                                           RLQSVPHGAFDRlkLQTIFLLSNAWDCscEILYLSGWIRNNADKVKNGNAnvDPDGVTCS 213
+75:gi|284010613|dbj|BAI66786.1                                                                          QLKRVPEGAFNSlkLTRLQLDTNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 213
+76:gi|284010657|dbj|BAI66808.1                                                                          QLRNVPHGAFdlSSLSLVTLYDNPWDCTCniIYMAKWLKKKAdgVDTAECAVGNKaiTEK 213
+77:gi|299856771|pdb|3M18|A                                                                              QLQSVPHGAFDRlkLQTITLFGNQFDCscETLYLSQWIRENSNKVKDGTghESPDGVTCS 213
+78:gi|284010553|dbj|BAI66756.1                                                                          QLRSVPKEAFDNlnIKDLQLEKNPWDCScdILYLSKWIREKEGTVNGIESavDNKaiTEK 213
+79:gi|284010699|dbj|BAI66829.1                                                                          QLRRVPEGAFDSlsISNVQLTNNPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 237
+80:gi|284010523|dbj|BAI66741.1                                                                          QLRSVPEEAFDSlkLKMLQLQENPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 189
+81:gi|78100518|gb|ABB21082.1                                                                            -LPRVPEGVFDslNLNTLDLDTNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 189
+82:gi|78100592|gb|ABB21118.1                                                                            QLRSVPNGAFDYLsiKTLWLDPNPWDCScdILYMAKWLKKKQdgVDTAGCEEGGKavTEE 213
+83:gi|126570750|gb|ABO21309.1                                                                           RLQSVPHGAFDRlkLQTITLYSNPWDCscEILYLSQWIRDNSDKVKSGNVneDPDGVTCS 213
+84:gi|78100707|gb|ABB21174.1                                                                            QLKSVPEGAFDKlnIKDLRLEENPWDCScdILYLSNWIREkvSNIEAXECDGGTKaiTEE 213
+85:gi|78100418|gb|ABB21032.1                                                                            QLRSVPNRAFDSLsiKTLWLDTNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 215
+86:gi|126570464|gb|ABO21193.1                                                                           QLQSVPHGAFDRlkLQTITLYSNQFDCscEVLYLSEFINANSDKVKRFTGgtDPDGVTCS 213
+87:gi|284010579|dbj|BAI66769.1                                                                          QLRSVPKGAFdlSSLSLVTLHTNPWDCScdILYLSKWIRenVSNIEAAECAVGNKaiTEK 213
+88:gi|284010723|dbj|BAI66841.1                                                                          QLRSVPQGVFDSLsxKTLWLQSNPWDCScdILYLRDWIDDNKDKVTGAQDakAVLDITEK 213
+89:gi|78100714|gb|ABB21177.1                                                                            QLKRVPEGAFDFlkLKMLQLQENPWDCScdILYLSNWIREkvSNIEAAECDGGTKAvaEE 213
+90:gi|284010513|dbj|BAI66736.1                                                                          QLRSVPKEAFDNlnIKDLRLYDNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 215
+91:gi|78100444|gb|ABB21045.1                                                                            -LRNVPHGAFDSLsiKTLWLNDNPWDCScdILYLRDWIDDNKDKVTGAQDakAVLDITEK 189
+92:gi|284010609|dbj|BAI66784.1                                                                          QLRSVPKEAFDNlnIKDLRLEENPWDCScdILYLRNWIRenVSNIEAAECAVDNKaiTEK 215
+93:gi|78100635|gb|ABB21139.1                                                                            QLRRVPEGAFDYlsLSLVTLQSNPWDCScdILYLSNWIREkvSNIEAAECDGGTKaiTEE 213
+94:gi|50086941|gb|AAT70351.1                                                                            QLKSIPRGAFDNLklTHIYLFNNPWDCEcdILYLKNWIVQHASIVNPGNYGG-------- 229
+95:gi|284010815|dbj|BAI66887.1                                                                          QLRRVPEGAFNSlkLTWIQLTNNPWDCScdILYLRNWIRenVSNIEAAECAVGNKaiTEK 191
+96:gi|78100652|gb|ABB21147.1                                                                            QLQRVPDGVFDslNLNTLDLSINPWDCScdILYLSNWIREkvSNIEAAECDGGTKaiTEE 213
+97:gi|78100724|gb|ABB21182.1                                                                            QLKRVPEGAFDFlkLKMLQLQENPWDCTcdILYMAKWLKKKQdgVDTAGCEEGGKaiTEE 213
+98:gi|126570372|gb|ABO21156.1                                                                           ELQSVPHGAFDRlkLQTITLYSNQFDCscEILYLSQWIRGNSAKVksSGQIEDPDGVTCS 213
+99:gi|284010519|dbj|BAI66739.1                                                                          QLRRVPEGAFNSlkLTRLQLEENPWDCScdILYLRNWIRenVSNIEAAGCEKGGKaiTEK 189
+100:gi|78100456|gb|ABB21051.1                                                                           QLQSVPRGTFDSlsLNILYLNNNPWDCTCniIYMAKWLKKKAdgVDTAGCEKGGKaiTEK 213
+                                                                                                         *  :*   *            * : * *   *:  ::  :                   
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 VASVQCDNSDKFPVYKYPGKGCPTLGDEGDTDLYDYYPEEDTEGDKVRATRTVVKFPTKA 300
+1:gi|146272050|emb|CAM97225.1                                                                           VASVQCDNSDKFPVYKYPGKGCPTLGDEGDTDLYDYYPEEDTEGDKVRATRTVVKFPTKA 300
+2:gi|304434468|dbj|BAJ15417.1                                                                           VASVQCDNSDKFPVYKYPGKGCPTLGDEGDTDLYDYYPEEDTEGDKVRATRTVVKFPTKA 300
+3:gi|297271666|ref|XP_001117767.2                                                                       VASVQCDNSDKTPVYKYPGKGCPTLGDEDDPGLYDDYTDEDAEGDAVRATRTVVKFSTKA 300
+4:gi|355568123|gb|EHH24404.1                                                                            VASVQCDNSDKTPVYRYPGKGCPTLGDEDDPGLYDDYTDEDTEGDEVRATRTVVKFSTKA 300
+5:gi|212727030|gb|ACJ38405.1                                                                            VASVQCDNSDKTPVYRYPGKGCPTLGDEDDPGLYDDYTDEDTEGDEVRATRTVVKFSTKA 300
+6:gi|296202296|ref|XP_002748337.1                                                                       VTSVQCDNSEKISIYKYPGKECPTLGDGDDKDLYDDYTEEDTENDKVRATRTVVKFPTKA 299
+7:gi|281343331|gb|EFB18915.1                                                                            VDSVRCVNVANTPVHTYQGKGCPSLGD-GDYLGYDDYGEE--EAGKVTATRAVVRFstRA 297
+8:gi|351710638|gb|EHB13557.1                                                                            VDSVLCVNLGNIPIYTYPGKDCPTIGDSDDT-GYDDY-DMTPEDGMVPATRVVVKFstKA 298
+9:gi|50978762|ref|NP_001003083.1                                                                        VDSVRCVNWKNVPVHTYQGKDCPSPMDGGDMDYDNYDDEDEkpGVEAPATRAVVSFstKA 300
+10:gi|291405213|ref|XP_002719050.1                                                                      LDSVRCGNLHNTPVHAYPGKGCPPVIIADDYD--DFYPDekSAGDVLPATRVVDEFstEA 296
+11:gi|78100448|gb|ABB21047.1                                                                            DAASDCVSPNTT------------------------------------------------ 249
+12:gi|284010625|dbj|BAI66792.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+13:gi|284010683|dbj|BAI66821.1                                                                          DAASDCVSPNTT------------------------------------------------ 249
+14:gi|284010759|dbj|BAI66859.1                                                                          DAASDCVSPNTT------------------------------------------------ 249
+15:gi|284010547|dbj|BAI66753.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+16:gi|284010557|dbj|BAI66758.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+17:gi|284010755|dbj|BAI66857.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+18:gi|284010525|dbj|BAI66742.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+19:gi|78100438|gb|ABB21042.1                                                                            DAASDCVSPNTT------------------------------------------------ 225
+20:gi|81175463|gb|ABB59069.1                                                                            EAAEDCVYPN-------------------------------------------------- 247
+21:gi|284010691|dbj|BAI66825.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+22:gi|2331240|gb|AAC53320.1                                                                             VASVRCANLDNAPVYSYPGKGCPTSSGDTDYDDYDDIPD-------VPATRTEVKFstKV 292
+23:gi|284010713|dbj|BAI66836.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+24:gi|284010809|dbj|BAI66884.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+25:gi|284010801|dbj|BAI66880.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+26:gi|284010785|dbj|BAI66872.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+27:gi|284010701|dbj|BAI66830.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+28:gi|78100426|gb|ABB21036.1                                                                            DAASDCVSPN-------------------------------------------------- 247
+29:gi|78100697|gb|ABB21169.1                                                                            EAAEDCVYPN-------------------------------------------------- 247
+30:gi|78100458|gb|ABB21052.1                                                                            DAASDCVSPN-------------------------------------------------- 223
+31:gi|284010685|dbj|BAI66822.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+32:gi|284010797|dbj|BAI66878.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+33:gi|284010599|dbj|BAI66779.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+34:gi|119911833|ref|XP_581184.3                                                                         VKSVRCVNMNGMYVYNFLGDSCNIPGDRDNLD-YDEY--EDKDEQEVPVVNTVSSLSS-- 295
+35:gi|78100552|gb|ABB21098.1                                                                            EAAEDCVYPN-------------------------------------------------- 247
+36:gi|157820841|ref|NP_001103124.1                                                                      VASVRCANLGNAPVYSYPGKGCPTNEGDIDYDDYAD----------TPTTRTEVKFstKA 289
+37:gi|78100432|gb|ABB21039.1                                                                            DAASDCVSPNTT------------------------------------------------ 249
+38:gi|78100512|gb|ABB21079.1                                                                            DAASDCVSPN-------------------------------------------------- 223
+39:gi|284010813|dbj|BAI66886.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+40:gi|81175453|gb|ABB59064.1                                                                            DAASDCVSPNTT------------------------------------------------ 225
+41:gi|284010549|dbj|BAI66754.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+42:gi|284010717|dbj|BAI66838.1                                                                          DAASDCVSPNTT------------------------------------------------ 249
+43:gi|284010645|dbj|BAI66802.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+44:gi|311268241|ref|XP_003131967.1                                                                      VRSVRCSNSDPAevYTYKGEGCPTLSPEDSLD-YDVYDDEVPAAKAAPASTSSRH--TWA 295
+45:gi|126570666|gb|ABO21267.1                                                                           DGKVVRTVTNETLKYECP------------------------------------------ 231
+46:gi|284010715|dbj|BAI66837.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+47:gi|284010529|dbj|BAI66744.1                                                                          DAASDCVSXNTT------------------------------------------------ 225
+48:gi|284010777|dbj|BAI66868.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+49:gi|284010611|dbj|BAI66785.1                                                                          DAASDCVSPN-------------------------------------------------- 247
+50:gi|78100703|gb|ABB21172.1                                                                            EAAEDCVYPN-------------------------------------------------- 247
+51:gi|284010627|dbj|BAI66793.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+52:gi|348560878|ref|XP_003466240.1                                                                      VSSVQCANLANVPVYTYPGKECSALGDSDDISYD---DYDTDPEIYVPSQKTVVKFstQA 285
+53:gi|284010605|dbj|BAI66782.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+54:gi|344290101|ref|XP_003416777.1                                                                      VASVQCANLSDVPVYTYEGKGCATLGDD--SDYDNYDDEEYQNVDKVPATTAVVRLstEA 297
+55:gi|284010661|dbj|BAI66810.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+56:gi|284010555|dbj|BAI66757.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+57:gi|284010721|dbj|BAI66840.1                                                                          DAASDCVSPNTT------------------------------------------------ 249
+58:gi|78100687|gb|ABB21164.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+59:gi|284010689|dbj|BAI66824.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+60:gi|284010601|dbj|BAI66780.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+61:gi|284010635|dbj|BAI66797.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+62:gi|70955601|gb|AAZ16362.1                                                                            ADSAKCSGSGK------------------------------------------------- 242
+63:gi|78100578|gb|ABB21111.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+64:gi|78100572|gb|ABB21108.1                                                                            EAAEDCVYPNN------------------------------------------------- 224
+65:gi|78100684|gb|ABB21163.1                                                                            EAAEDCVYPN-------------------------------------------------- 247
+66:gi|284010743|dbj|BAI66851.1                                                                          DAASDCVSPN-------------------------------------------------- 199
+67:gi|126570333|gb|ABO21143.1                                                                           DGKVVRTVTNETLKYECP------------------------------------------ 231
+68:gi|284010539|dbj|BAI66749.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+69:gi|78100408|gb|ABB21027.1                                                                            DAASDCVSPNTT------------------------------------------------ 201
+70:gi|284010565|dbj|BAI66762.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+71:gi|126570576|gb|ABO21230.1                                                                           DGKVVRTVTNETLKYECP------------------------------------------ 231
+72:gi|78100689|gb|ABB21165.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+73:gi|284010655|dbj|BAI66807.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+74:gi|126570440|gb|ABO21185.1                                                                           DGKVVRTVTNETPKYECP------------------------------------------ 231
+75:gi|284010613|dbj|BAI66786.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+76:gi|284010657|dbj|BAI66808.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+77:gi|299856771|pdb|3M18|A                                                                              DGKVVRTVTNETLKYECP------------------------------------------ 231
+78:gi|284010553|dbj|BAI66756.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+79:gi|284010699|dbj|BAI66829.1                                                                          DAASDCVSPNTT------------------------------------------------ 249
+80:gi|284010523|dbj|BAI66741.1                                                                          DAASDCVSXNTT------------------------------------------------ 201
+81:gi|78100518|gb|ABB21082.1                                                                            DAASDCVSPN-------------------------------------------------- 199
+82:gi|78100592|gb|ABB21118.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+83:gi|126570750|gb|ABO21309.1                                                                           DGKVVRTVTNETLKYECP------------------------------------------ 231
+84:gi|78100707|gb|ABB21174.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+85:gi|78100418|gb|ABB21032.1                                                                            DAASDCVSPNTT------------------------------------------------ 227
+86:gi|126570464|gb|ABO21193.1                                                                           DGKVVRTVTNETLKYECP------------------------------------------ 231
+87:gi|284010579|dbj|BAI66769.1                                                                          DAASDCVSPNTT------------------------------------------------ 225
+88:gi|284010723|dbj|BAI66841.1                                                                          DAASDCVSPN-------------------------------------------------- 223
+89:gi|78100714|gb|ABB21177.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+90:gi|284010513|dbj|BAI66736.1                                                                          DAASDCVSPN-------------------------------------------------- 225
+91:gi|78100444|gb|ABB21045.1                                                                            DAASDCVSPN-------------------------------------------------- 199
+92:gi|284010609|dbj|BAI66784.1                                                                          DAASDCVSPNTT------------------------------------------------ 227
+93:gi|78100635|gb|ABB21139.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+94:gi|50086941|gb|AAT70351.1                                                                            VDNVKCSGTN-TPV---------------------------------------------- 242
+95:gi|284010815|dbj|BAI66887.1                                                                          DAASDCVSPNTT------------------------------------------------ 203
+96:gi|78100652|gb|ABB21147.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+97:gi|78100724|gb|ABB21182.1                                                                            EAAEDCVYPN-------------------------------------------------- 223
+98:gi|126570372|gb|ABO21156.1                                                                           DGKVVRTVTNETLKYECP------------------------------------------ 231
+99:gi|284010519|dbj|BAI66739.1                                                                          DAASDCVSPNTT------------------------------------------------ 201
+100:gi|78100456|gb|ABB21051.1                                                                           DAASDCVSPN-------------------------------------------------- 223
+                                                                                                                                                                    
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 HTTPWGLFYSWSTASLDSQMPSSLHPTQESTKEQTTFPPRWTPNFTLHMESITFSKTPKS 360
+1:gi|146272050|emb|CAM97225.1                                                                           HTTPWGLFYSWSTASLDSQMPSSLHPTQESTKEQTTFPPRWTPNFTLHMESITFSKTPKS 360
+2:gi|304434468|dbj|BAJ15417.1                                                                           HTTPWGLFYSWSTASLDSQMPSSLHPTQESTKEQTTFPPRWTPNFTLHMESITFSKTPKS 360
+3:gi|297271666|ref|XP_001117767.2                                                                       HTTPWGLFHSWSAASLDGQTPSSLHPTQESTKEQTTFPPRWTPDFTLHMGS--------- 351
+4:gi|355568123|gb|EHH24404.1                                                                            HTTPWGLFHSWSAASLDGQTPSSLHPTQESTKEQTTFPPRRTPDFTLHMGS--------- 351
+5:gi|212727030|gb|ACJ38405.1                                                                            HTTPWGLFHSWSAASLDGQTPSSLHPTQESTKEQTTFPPRRTPDFTLHMGS--------- 351
+6:gi|296202296|ref|XP_002748337.1                                                                       HTTHRDLFYSWSTASLDSQM-TSLHPTQESTKKQTTYPPRWTLDFTTFSKT--------- 349
+7:gi|281343331|gb|EFB18915.1                                                                            HTTHWAPLHPASTASLDQT--SHLSPTVESTETQSTFSTAPE------------------ 337
+8:gi|351710638|gb|EHB13557.1                                                                            HTTHWGLLHSEATSPLDKQMP------HESTEKQTTFPPTWIQGSSTFLMTM-------- 344
+9:gi|50978762|ref|NP_001003083.1                                                                        HTTHWGLLYP-TFAYPDHQMAY-LSSTLELTEKQTMFPSTL------------------- 339
+10:gi|291405213|ref|XP_002719050.1                                                                      HTDQGVLLHSQSSAAMWGQM-SSLPPTQESTKKHITFTVRRVFHFSTAPGA--------- 346
+11:gi|78100448|gb|ABB21047.1                                                                            ------------------------------------------------------------
+12:gi|284010625|dbj|BAI66792.1                                                                          ------------------------------------------------------------
+13:gi|284010683|dbj|BAI66821.1                                                                          ------------------------------------------------------------
+14:gi|284010759|dbj|BAI66859.1                                                                          ------------------------------------------------------------
+15:gi|284010547|dbj|BAI66753.1                                                                          ------------------------------------------------------------
+16:gi|284010557|dbj|BAI66758.1                                                                          ------------------------------------------------------------
+17:gi|284010755|dbj|BAI66857.1                                                                          ------------------------------------------------------------
+18:gi|284010525|dbj|BAI66742.1                                                                          ------------------------------------------------------------
+19:gi|78100438|gb|ABB21042.1                                                                            ------------------------------------------------------------
+20:gi|81175463|gb|ABB59069.1                                                                            ------------------------------------------------------------
+21:gi|284010691|dbj|BAI66825.1                                                                          ------------------------------------------------------------
+22:gi|2331240|gb|AAC53320.1                                                                             HTTHWSLLAAAPSTSQDSQM-ISLPPTHKPTKKQSTFIHTQSPGFTTLPETM-------- 343
+23:gi|284010713|dbj|BAI66836.1                                                                          ------------------------------------------------------------
+24:gi|284010809|dbj|BAI66884.1                                                                          ------------------------------------------------------------
+25:gi|284010801|dbj|BAI66880.1                                                                          ------------------------------------------------------------
+26:gi|284010785|dbj|BAI66872.1                                                                          ------------------------------------------------------------
+27:gi|284010701|dbj|BAI66830.1                                                                          ------------------------------------------------------------
+28:gi|78100426|gb|ABB21036.1                                                                            ------------------------------------------------------------
+29:gi|78100697|gb|ABB21169.1                                                                            ------------------------------------------------------------
+30:gi|78100458|gb|ABB21052.1                                                                            ------------------------------------------------------------
+31:gi|284010685|dbj|BAI66822.1                                                                          ------------------------------------------------------------
+32:gi|284010797|dbj|BAI66878.1                                                                          ------------------------------------------------------------
+33:gi|284010599|dbj|BAI66779.1                                                                          ------------------------------------------------------------
+34:gi|119911833|ref|XP_581184.3                                                                         HTTHWDLLYLTSPTSPGSQV-SSLPPVKKLTTTPITI----------------------- 331
+35:gi|78100552|gb|ABB21098.1                                                                            ------------------------------------------------------------
+36:gi|157820841|ref|NP_001103124.1                                                                      HTTYWGLFYSESSTSPDSQM-TSLPPIHEPTKKQPTFAHTEIPGFTTLPDTM-------- 340
+37:gi|78100432|gb|ABB21039.1                                                                            ------------------------------------------------------------
+38:gi|78100512|gb|ABB21079.1                                                                            ------------------------------------------------------------
+39:gi|284010813|dbj|BAI66886.1                                                                          ------------------------------------------------------------
+40:gi|81175453|gb|ABB59064.1                                                                            ------------------------------------------------------------
+41:gi|284010549|dbj|BAI66754.1                                                                          ------------------------------------------------------------
+42:gi|284010717|dbj|BAI66838.1                                                                          ------------------------------------------------------------
+43:gi|284010645|dbj|BAI66802.1                                                                          ------------------------------------------------------------
+44:gi|311268241|ref|XP_003131967.1                                                                      PTTSWGLLYSAPTTPLHNHTPYS-----PSTEEEATAP---------------------- 328
+45:gi|126570666|gb|ABO21267.1                                                                           ------------------------------------------------------------
+46:gi|284010715|dbj|BAI66837.1                                                                          ------------------------------------------------------------
+47:gi|284010529|dbj|BAI66744.1                                                                          ------------------------------------------------------------
+48:gi|284010777|dbj|BAI66868.1                                                                          ------------------------------------------------------------
+49:gi|284010611|dbj|BAI66785.1                                                                          ------------------------------------------------------------
+50:gi|78100703|gb|ABB21172.1                                                                            ------------------------------------------------------------
+51:gi|284010627|dbj|BAI66793.1                                                                          ------------------------------------------------------------
+52:gi|348560878|ref|XP_003466240.1                                                                      HTAYLGLLHSESISPLDRQTP------QESTKKQTTSPPTWIPDSSTFL----------- 328
+53:gi|284010605|dbj|BAI66782.1                                                                          ------------------------------------------------------------
+54:gi|344290101|ref|XP_003416777.1                                                                      HT--------ESTASSESITFSEIptTTAATPEMTTMPTSPEPT---------------- 333
+55:gi|284010661|dbj|BAI66810.1                                                                          ------------------------------------------------------------
+56:gi|284010555|dbj|BAI66757.1                                                                          ------------------------------------------------------------
+57:gi|284010721|dbj|BAI66840.1                                                                          ------------------------------------------------------------
+58:gi|78100687|gb|ABB21164.1                                                                            ------------------------------------------------------------
+59:gi|284010689|dbj|BAI66824.1                                                                          ------------------------------------------------------------
+60:gi|284010601|dbj|BAI66780.1                                                                          ------------------------------------------------------------
+61:gi|284010635|dbj|BAI66797.1                                                                          ------------------------------------------------------------
+62:gi|70955601|gb|AAZ16362.1                                                                            ------------------------------------------------------------
+63:gi|78100578|gb|ABB21111.1                                                                            ------------------------------------------------------------
+64:gi|78100572|gb|ABB21108.1                                                                            ------------------------------------------------------------
+65:gi|78100684|gb|ABB21163.1                                                                            ------------------------------------------------------------
+66:gi|284010743|dbj|BAI66851.1                                                                          ------------------------------------------------------------
+67:gi|126570333|gb|ABO21143.1                                                                           ------------------------------------------------------------
+68:gi|284010539|dbj|BAI66749.1                                                                          ------------------------------------------------------------
+69:gi|78100408|gb|ABB21027.1                                                                            ------------------------------------------------------------
+70:gi|284010565|dbj|BAI66762.1                                                                          ------------------------------------------------------------
+71:gi|126570576|gb|ABO21230.1                                                                           ------------------------------------------------------------
+72:gi|78100689|gb|ABB21165.1                                                                            ------------------------------------------------------------
+73:gi|284010655|dbj|BAI66807.1                                                                          ------------------------------------------------------------
+74:gi|126570440|gb|ABO21185.1                                                                           ------------------------------------------------------------
+75:gi|284010613|dbj|BAI66786.1                                                                          ------------------------------------------------------------
+76:gi|284010657|dbj|BAI66808.1                                                                          ------------------------------------------------------------
+77:gi|299856771|pdb|3M18|A                                                                              ------------------------------------------------------------
+78:gi|284010553|dbj|BAI66756.1                                                                          ------------------------------------------------------------
+79:gi|284010699|dbj|BAI66829.1                                                                          ------------------------------------------------------------
+80:gi|284010523|dbj|BAI66741.1                                                                          ------------------------------------------------------------
+81:gi|78100518|gb|ABB21082.1                                                                            ------------------------------------------------------------
+82:gi|78100592|gb|ABB21118.1                                                                            ------------------------------------------------------------
+83:gi|126570750|gb|ABO21309.1                                                                           ------------------------------------------------------------
+84:gi|78100707|gb|ABB21174.1                                                                            ------------------------------------------------------------
+85:gi|78100418|gb|ABB21032.1                                                                            ------------------------------------------------------------
+86:gi|126570464|gb|ABO21193.1                                                                           ------------------------------------------------------------
+87:gi|284010579|dbj|BAI66769.1                                                                          ------------------------------------------------------------
+88:gi|284010723|dbj|BAI66841.1                                                                          ------------------------------------------------------------
+89:gi|78100714|gb|ABB21177.1                                                                            ------------------------------------------------------------
+90:gi|284010513|dbj|BAI66736.1                                                                          ------------------------------------------------------------
+91:gi|78100444|gb|ABB21045.1                                                                            ------------------------------------------------------------
+92:gi|284010609|dbj|BAI66784.1                                                                          ------------------------------------------------------------
+93:gi|78100635|gb|ABB21139.1                                                                            ------------------------------------------------------------
+94:gi|50086941|gb|AAT70351.1                                                                            ------------------------------------------------------------
+95:gi|284010815|dbj|BAI66887.1                                                                          ------------------------------------------------------------
+96:gi|78100652|gb|ABB21147.1                                                                            ------------------------------------------------------------
+97:gi|78100724|gb|ABB21182.1                                                                            ------------------------------------------------------------
+98:gi|126570372|gb|ABO21156.1                                                                           ------------------------------------------------------------
+99:gi|284010519|dbj|BAI66739.1                                                                          ------------------------------------------------------------
+100:gi|78100456|gb|ABB21051.1                                                                           ------------------------------------------------------------
+                                                                                                                                                                    
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 TTEPTPSPTTSEPVPEPAPNMTTLEPTPSPTTPEPTSEPAPSPTTPEPTSEPAPSPTTPE 420
+1:gi|146272050|emb|CAM97225.1                                                                           TTEPTPSPTTSEPVPEPAPNMTT-------------LEPTPSPTTPEPTSEPAPSPTTPE 407
+2:gi|304434468|dbj|BAJ15417.1                                                                           TTEPTPSPTTSEPVPEPAPNMTTLEPTPSPTTPEPTSEPAPSPTTPEPTSEPAPSPTTPE 420
+3:gi|297271666|ref|XP_001117767.2                                                                       ------------------------------------------------------------
+4:gi|355568123|gb|EHH24404.1                                                                            ------------------------------------------------------------
+5:gi|212727030|gb|ACJ38405.1                                                                            ------------------------------------------------------------
+6:gi|296202296|ref|XP_002748337.1                                                                       ------------------------------------------------------------
+7:gi|281343331|gb|EFB18915.1                                                                            ------------------------------------------------------------
+8:gi|351710638|gb|EHB13557.1                                                                            ------------------------------------------------------------
+9:gi|50978762|ref|NP_001003083.1                                                                        ------------------------------------------------------------
+10:gi|291405213|ref|XP_002719050.1                                                                      ------------------------------------------------------------
+11:gi|78100448|gb|ABB21047.1                                                                            ------------------------------------------------------------
+12:gi|284010625|dbj|BAI66792.1                                                                          ------------------------------------------------------------
+13:gi|284010683|dbj|BAI66821.1                                                                          ------------------------------------------------------------
+14:gi|284010759|dbj|BAI66859.1                                                                          ------------------------------------------------------------
+15:gi|284010547|dbj|BAI66753.1                                                                          ------------------------------------------------------------
+16:gi|284010557|dbj|BAI66758.1                                                                          ------------------------------------------------------------
+17:gi|284010755|dbj|BAI66857.1                                                                          ------------------------------------------------------------
+18:gi|284010525|dbj|BAI66742.1                                                                          ------------------------------------------------------------
+19:gi|78100438|gb|ABB21042.1                                                                            ------------------------------------------------------------
+20:gi|81175463|gb|ABB59069.1                                                                            ------------------------------------------------------------
+21:gi|284010691|dbj|BAI66825.1                                                                          ------------------------------------------------------------
+22:gi|2331240|gb|AAC53320.1                                                                             ------------------------------------------------------------
+23:gi|284010713|dbj|BAI66836.1                                                                          ------------------------------------------------------------
+24:gi|284010809|dbj|BAI66884.1                                                                          ------------------------------------------------------------
+25:gi|284010801|dbj|BAI66880.1                                                                          ------------------------------------------------------------
+26:gi|284010785|dbj|BAI66872.1                                                                          ------------------------------------------------------------
+27:gi|284010701|dbj|BAI66830.1                                                                          ------------------------------------------------------------
+28:gi|78100426|gb|ABB21036.1                                                                            ------------------------------------------------------------
+29:gi|78100697|gb|ABB21169.1                                                                            ------------------------------------------------------------
+30:gi|78100458|gb|ABB21052.1                                                                            ------------------------------------------------------------
+31:gi|284010685|dbj|BAI66822.1                                                                          ------------------------------------------------------------
+32:gi|284010797|dbj|BAI66878.1                                                                          ------------------------------------------------------------
+33:gi|284010599|dbj|BAI66779.1                                                                          ------------------------------------------------------------
+34:gi|119911833|ref|XP_581184.3                                                                         ------------------------------------------------------------
+35:gi|78100552|gb|ABB21098.1                                                                            ------------------------------------------------------------
+36:gi|157820841|ref|NP_001103124.1                                                                      ------------------------------------------------------------
+37:gi|78100432|gb|ABB21039.1                                                                            ------------------------------------------------------------
+38:gi|78100512|gb|ABB21079.1                                                                            ------------------------------------------------------------
+39:gi|284010813|dbj|BAI66886.1                                                                          ------------------------------------------------------------
+40:gi|81175453|gb|ABB59064.1                                                                            ------------------------------------------------------------
+41:gi|284010549|dbj|BAI66754.1                                                                          ------------------------------------------------------------
+42:gi|284010717|dbj|BAI66838.1                                                                          ------------------------------------------------------------
+43:gi|284010645|dbj|BAI66802.1                                                                          ------------------------------------------------------------
+44:gi|311268241|ref|XP_003131967.1                                                                      ------------------------------------------------------------
+45:gi|126570666|gb|ABO21267.1                                                                           ------------------------------------------------------------
+46:gi|284010715|dbj|BAI66837.1                                                                          ------------------------------------------------------------
+47:gi|284010529|dbj|BAI66744.1                                                                          ------------------------------------------------------------
+48:gi|284010777|dbj|BAI66868.1                                                                          ------------------------------------------------------------
+49:gi|284010611|dbj|BAI66785.1                                                                          ------------------------------------------------------------
+50:gi|78100703|gb|ABB21172.1                                                                            ------------------------------------------------------------
+51:gi|284010627|dbj|BAI66793.1                                                                          ------------------------------------------------------------
+52:gi|348560878|ref|XP_003466240.1                                                                      ------------------------------------------------------------
+53:gi|284010605|dbj|BAI66782.1                                                                          ------------------------------------------------------------
+54:gi|344290101|ref|XP_003416777.1                                                                      ------------------------------------------------------------
+55:gi|284010661|dbj|BAI66810.1                                                                          ------------------------------------------------------------
+56:gi|284010555|dbj|BAI66757.1                                                                          ------------------------------------------------------------
+57:gi|284010721|dbj|BAI66840.1                                                                          ------------------------------------------------------------
+58:gi|78100687|gb|ABB21164.1                                                                            ------------------------------------------------------------
+59:gi|284010689|dbj|BAI66824.1                                                                          ------------------------------------------------------------
+60:gi|284010601|dbj|BAI66780.1                                                                          ------------------------------------------------------------
+61:gi|284010635|dbj|BAI66797.1                                                                          ------------------------------------------------------------
+62:gi|70955601|gb|AAZ16362.1                                                                            ------------------------------------------------------------
+63:gi|78100578|gb|ABB21111.1                                                                            ------------------------------------------------------------
+64:gi|78100572|gb|ABB21108.1                                                                            ------------------------------------------------------------
+65:gi|78100684|gb|ABB21163.1                                                                            ------------------------------------------------------------
+66:gi|284010743|dbj|BAI66851.1                                                                          ------------------------------------------------------------
+67:gi|126570333|gb|ABO21143.1                                                                           ------------------------------------------------------------
+68:gi|284010539|dbj|BAI66749.1                                                                          ------------------------------------------------------------
+69:gi|78100408|gb|ABB21027.1                                                                            ------------------------------------------------------------
+70:gi|284010565|dbj|BAI66762.1                                                                          ------------------------------------------------------------
+71:gi|126570576|gb|ABO21230.1                                                                           ------------------------------------------------------------
+72:gi|78100689|gb|ABB21165.1                                                                            ------------------------------------------------------------
+73:gi|284010655|dbj|BAI66807.1                                                                          ------------------------------------------------------------
+74:gi|126570440|gb|ABO21185.1                                                                           ------------------------------------------------------------
+75:gi|284010613|dbj|BAI66786.1                                                                          ------------------------------------------------------------
+76:gi|284010657|dbj|BAI66808.1                                                                          ------------------------------------------------------------
+77:gi|299856771|pdb|3M18|A                                                                              ------------------------------------------------------------
+78:gi|284010553|dbj|BAI66756.1                                                                          ------------------------------------------------------------
+79:gi|284010699|dbj|BAI66829.1                                                                          ------------------------------------------------------------
+80:gi|284010523|dbj|BAI66741.1                                                                          ------------------------------------------------------------
+81:gi|78100518|gb|ABB21082.1                                                                            ------------------------------------------------------------
+82:gi|78100592|gb|ABB21118.1                                                                            ------------------------------------------------------------
+83:gi|126570750|gb|ABO21309.1                                                                           ------------------------------------------------------------
+84:gi|78100707|gb|ABB21174.1                                                                            ------------------------------------------------------------
+85:gi|78100418|gb|ABB21032.1                                                                            ------------------------------------------------------------
+86:gi|126570464|gb|ABO21193.1                                                                           ------------------------------------------------------------
+87:gi|284010579|dbj|BAI66769.1                                                                          ------------------------------------------------------------
+88:gi|284010723|dbj|BAI66841.1                                                                          ------------------------------------------------------------
+89:gi|78100714|gb|ABB21177.1                                                                            ------------------------------------------------------------
+90:gi|284010513|dbj|BAI66736.1                                                                          ------------------------------------------------------------
+91:gi|78100444|gb|ABB21045.1                                                                            ------------------------------------------------------------
+92:gi|284010609|dbj|BAI66784.1                                                                          ------------------------------------------------------------
+93:gi|78100635|gb|ABB21139.1                                                                            ------------------------------------------------------------
+94:gi|50086941|gb|AAT70351.1                                                                            ------------------------------------------------------------
+95:gi|284010815|dbj|BAI66887.1                                                                          ------------------------------------------------------------
+96:gi|78100652|gb|ABB21147.1                                                                            ------------------------------------------------------------
+97:gi|78100724|gb|ABB21182.1                                                                            ------------------------------------------------------------
+98:gi|126570372|gb|ABO21156.1                                                                           ------------------------------------------------------------
+99:gi|284010519|dbj|BAI66739.1                                                                          ------------------------------------------------------------
+100:gi|78100456|gb|ABB21051.1                                                                           ------------------------------------------------------------
+                                                                                                                                                                    
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 PTSEPAPSPTTPEPTPIPTIATSPTILVSATSLITPKSTFLTTTKPVSLLESTKKTIPEL 480
+1:gi|146272050|emb|CAM97225.1                                                                           PTSEPAPSPTTPEPTPIPTIATSPTILVSATSLITPKSTFLTTTKPVSLLESTKKTIPEL 467
+2:gi|304434468|dbj|BAJ15417.1                                                                           PTSEPAPSPTTPEPTSEPAPSPTTPEPTPIPTIATSpsTFLTTTKPVSLLESTKKTIPEL 480
+3:gi|297271666|ref|XP_001117767.2                                                                       ------------------------------------------------------------
+4:gi|355568123|gb|EHH24404.1                                                                            ------------------------------------------------------------
+5:gi|212727030|gb|ACJ38405.1                                                                            ------------------------------------------------------------
+6:gi|296202296|ref|XP_002748337.1                                                                       ------------------------------------------------------------
+7:gi|281343331|gb|EFB18915.1                                                                            ------------------------------------------------------------
+8:gi|351710638|gb|EHB13557.1                                                                            ------------------------------------------------------------
+9:gi|50978762|ref|NP_001003083.1                                                                        ------------------------------------------------------------
+10:gi|291405213|ref|XP_002719050.1                                                                      ------------------------------------------------------------
+11:gi|78100448|gb|ABB21047.1                                                                            ------------------------------------------------------------
+12:gi|284010625|dbj|BAI66792.1                                                                          ------------------------------------------------------------
+13:gi|284010683|dbj|BAI66821.1                                                                          ------------------------------------------------------------
+14:gi|284010759|dbj|BAI66859.1                                                                          ------------------------------------------------------------
+15:gi|284010547|dbj|BAI66753.1                                                                          ------------------------------------------------------------
+16:gi|284010557|dbj|BAI66758.1                                                                          ------------------------------------------------------------
+17:gi|284010755|dbj|BAI66857.1                                                                          ------------------------------------------------------------
+18:gi|284010525|dbj|BAI66742.1                                                                          ------------------------------------------------------------
+19:gi|78100438|gb|ABB21042.1                                                                            ------------------------------------------------------------
+20:gi|81175463|gb|ABB59069.1                                                                            ------------------------------------------------------------
+21:gi|284010691|dbj|BAI66825.1                                                                          ------------------------------------------------------------
+22:gi|2331240|gb|AAC53320.1                                                                             ------------------------------------------------------------
+23:gi|284010713|dbj|BAI66836.1                                                                          ------------------------------------------------------------
+24:gi|284010809|dbj|BAI66884.1                                                                          ------------------------------------------------------------
+25:gi|284010801|dbj|BAI66880.1                                                                          ------------------------------------------------------------
+26:gi|284010785|dbj|BAI66872.1                                                                          ------------------------------------------------------------
+27:gi|284010701|dbj|BAI66830.1                                                                          ------------------------------------------------------------
+28:gi|78100426|gb|ABB21036.1                                                                            ------------------------------------------------------------
+29:gi|78100697|gb|ABB21169.1                                                                            ------------------------------------------------------------
+30:gi|78100458|gb|ABB21052.1                                                                            ------------------------------------------------------------
+31:gi|284010685|dbj|BAI66822.1                                                                          ------------------------------------------------------------
+32:gi|284010797|dbj|BAI66878.1                                                                          ------------------------------------------------------------
+33:gi|284010599|dbj|BAI66779.1                                                                          ------------------------------------------------------------
+34:gi|119911833|ref|XP_581184.3                                                                         ------------------------------------------------------------
+35:gi|78100552|gb|ABB21098.1                                                                            ------------------------------------------------------------
+36:gi|157820841|ref|NP_001103124.1                                                                      ------------------------------------------------------------
+37:gi|78100432|gb|ABB21039.1                                                                            ------------------------------------------------------------
+38:gi|78100512|gb|ABB21079.1                                                                            ------------------------------------------------------------
+39:gi|284010813|dbj|BAI66886.1                                                                          ------------------------------------------------------------
+40:gi|81175453|gb|ABB59064.1                                                                            ------------------------------------------------------------
+41:gi|284010549|dbj|BAI66754.1                                                                          ------------------------------------------------------------
+42:gi|284010717|dbj|BAI66838.1                                                                          ------------------------------------------------------------
+43:gi|284010645|dbj|BAI66802.1                                                                          ------------------------------------------------------------
+44:gi|311268241|ref|XP_003131967.1                                                                      ------------------------------------------------------------
+45:gi|126570666|gb|ABO21267.1                                                                           ------------------------------------------------------------
+46:gi|284010715|dbj|BAI66837.1                                                                          ------------------------------------------------------------
+47:gi|284010529|dbj|BAI66744.1                                                                          ------------------------------------------------------------
+48:gi|284010777|dbj|BAI66868.1                                                                          ------------------------------------------------------------
+49:gi|284010611|dbj|BAI66785.1                                                                          ------------------------------------------------------------
+50:gi|78100703|gb|ABB21172.1                                                                            ------------------------------------------------------------
+51:gi|284010627|dbj|BAI66793.1                                                                          ------------------------------------------------------------
+52:gi|348560878|ref|XP_003466240.1                                                                      ------------------------------------------------------------
+53:gi|284010605|dbj|BAI66782.1                                                                          ------------------------------------------------------------
+54:gi|344290101|ref|XP_003416777.1                                                                      ------------------------------------------------------------
+55:gi|284010661|dbj|BAI66810.1                                                                          ------------------------------------------------------------
+56:gi|284010555|dbj|BAI66757.1                                                                          ------------------------------------------------------------
+57:gi|284010721|dbj|BAI66840.1                                                                          ------------------------------------------------------------
+58:gi|78100687|gb|ABB21164.1                                                                            ------------------------------------------------------------
+59:gi|284010689|dbj|BAI66824.1                                                                          ------------------------------------------------------------
+60:gi|284010601|dbj|BAI66780.1                                                                          ------------------------------------------------------------
+61:gi|284010635|dbj|BAI66797.1                                                                          ------------------------------------------------------------
+62:gi|70955601|gb|AAZ16362.1                                                                            ------------------------------------------------------------
+63:gi|78100578|gb|ABB21111.1                                                                            ------------------------------------------------------------
+64:gi|78100572|gb|ABB21108.1                                                                            ------------------------------------------------------------
+65:gi|78100684|gb|ABB21163.1                                                                            ------------------------------------------------------------
+66:gi|284010743|dbj|BAI66851.1                                                                          ------------------------------------------------------------
+67:gi|126570333|gb|ABO21143.1                                                                           ------------------------------------------------------------
+68:gi|284010539|dbj|BAI66749.1                                                                          ------------------------------------------------------------
+69:gi|78100408|gb|ABB21027.1                                                                            ------------------------------------------------------------
+70:gi|284010565|dbj|BAI66762.1                                                                          ------------------------------------------------------------
+71:gi|126570576|gb|ABO21230.1                                                                           ------------------------------------------------------------
+72:gi|78100689|gb|ABB21165.1                                                                            ------------------------------------------------------------
+73:gi|284010655|dbj|BAI66807.1                                                                          ------------------------------------------------------------
+74:gi|126570440|gb|ABO21185.1                                                                           ------------------------------------------------------------
+75:gi|284010613|dbj|BAI66786.1                                                                          ------------------------------------------------------------
+76:gi|284010657|dbj|BAI66808.1                                                                          ------------------------------------------------------------
+77:gi|299856771|pdb|3M18|A                                                                              ------------------------------------------------------------
+78:gi|284010553|dbj|BAI66756.1                                                                          ------------------------------------------------------------
+79:gi|284010699|dbj|BAI66829.1                                                                          ------------------------------------------------------------
+80:gi|284010523|dbj|BAI66741.1                                                                          ------------------------------------------------------------
+81:gi|78100518|gb|ABB21082.1                                                                            ------------------------------------------------------------
+82:gi|78100592|gb|ABB21118.1                                                                            ------------------------------------------------------------
+83:gi|126570750|gb|ABO21309.1                                                                           ------------------------------------------------------------
+84:gi|78100707|gb|ABB21174.1                                                                            ------------------------------------------------------------
+85:gi|78100418|gb|ABB21032.1                                                                            ------------------------------------------------------------
+86:gi|126570464|gb|ABO21193.1                                                                           ------------------------------------------------------------
+87:gi|284010579|dbj|BAI66769.1                                                                          ------------------------------------------------------------
+88:gi|284010723|dbj|BAI66841.1                                                                          ------------------------------------------------------------
+89:gi|78100714|gb|ABB21177.1                                                                            ------------------------------------------------------------
+90:gi|284010513|dbj|BAI66736.1                                                                          ------------------------------------------------------------
+91:gi|78100444|gb|ABB21045.1                                                                            ------------------------------------------------------------
+92:gi|284010609|dbj|BAI66784.1                                                                          ------------------------------------------------------------
+93:gi|78100635|gb|ABB21139.1                                                                            ------------------------------------------------------------
+94:gi|50086941|gb|AAT70351.1                                                                            ------------------------------------------------------------
+95:gi|284010815|dbj|BAI66887.1                                                                          ------------------------------------------------------------
+96:gi|78100652|gb|ABB21147.1                                                                            ------------------------------------------------------------
+97:gi|78100724|gb|ABB21182.1                                                                            ------------------------------------------------------------
+98:gi|126570372|gb|ABO21156.1                                                                           ------------------------------------------------------------
+99:gi|284010519|dbj|BAI66739.1                                                                          ------------------------------------------------------------
+100:gi|78100456|gb|ABB21051.1                                                                           ------------------------------------------------------------
+                                                                                                                                                                    
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 DQPPKLRGVLQGHLESSRNDPFLHPDFCCLLPLGFYVLGLFWLLFASVVLILLLSWVGHV 540
+1:gi|146272050|emb|CAM97225.1                                                                           DQPPKLRGVLQGHLESSRNDPFLHPDFCCLLPLGFYVLGLFWLLFASVVLILLLSWVGHV 527
+2:gi|304434468|dbj|BAJ15417.1                                                                           DQPPKLRGVLQGHLESSRNDPFLHPDFCCLLPLGFYVLGLFWLLFASVVLILLLSWVGHV 540
+3:gi|297271666|ref|XP_001117767.2                                                                       ------------------------------------------------------------
+4:gi|355568123|gb|EHH24404.1                                                                            ------------------------------------------------------------
+5:gi|212727030|gb|ACJ38405.1                                                                            ------------------------------------------------------------
+6:gi|296202296|ref|XP_002748337.1                                                                       ------------------------------------------------------------
+7:gi|281343331|gb|EFB18915.1                                                                            ------------------------------------------------------------
+8:gi|351710638|gb|EHB13557.1                                                                            ------------------------------------------------------------
+9:gi|50978762|ref|NP_001003083.1                                                                        ------------------------------------------------------------
+10:gi|291405213|ref|XP_002719050.1                                                                      ------------------------------------------------------------
+11:gi|78100448|gb|ABB21047.1                                                                            ------------------------------------------------------------
+12:gi|284010625|dbj|BAI66792.1                                                                          ------------------------------------------------------------
+13:gi|284010683|dbj|BAI66821.1                                                                          ------------------------------------------------------------
+14:gi|284010759|dbj|BAI66859.1                                                                          ------------------------------------------------------------
+15:gi|284010547|dbj|BAI66753.1                                                                          ------------------------------------------------------------
+16:gi|284010557|dbj|BAI66758.1                                                                          ------------------------------------------------------------
+17:gi|284010755|dbj|BAI66857.1                                                                          ------------------------------------------------------------
+18:gi|284010525|dbj|BAI66742.1                                                                          ------------------------------------------------------------
+19:gi|78100438|gb|ABB21042.1                                                                            ------------------------------------------------------------
+20:gi|81175463|gb|ABB59069.1                                                                            ------------------------------------------------------------
+21:gi|284010691|dbj|BAI66825.1                                                                          ------------------------------------------------------------
+22:gi|2331240|gb|AAC53320.1                                                                             ------------------------------------------------------------
+23:gi|284010713|dbj|BAI66836.1                                                                          ------------------------------------------------------------
+24:gi|284010809|dbj|BAI66884.1                                                                          ------------------------------------------------------------
+25:gi|284010801|dbj|BAI66880.1                                                                          ------------------------------------------------------------
+26:gi|284010785|dbj|BAI66872.1                                                                          ------------------------------------------------------------
+27:gi|284010701|dbj|BAI66830.1                                                                          ------------------------------------------------------------
+28:gi|78100426|gb|ABB21036.1                                                                            ------------------------------------------------------------
+29:gi|78100697|gb|ABB21169.1                                                                            ------------------------------------------------------------
+30:gi|78100458|gb|ABB21052.1                                                                            ------------------------------------------------------------
+31:gi|284010685|dbj|BAI66822.1                                                                          ------------------------------------------------------------
+32:gi|284010797|dbj|BAI66878.1                                                                          ------------------------------------------------------------
+33:gi|284010599|dbj|BAI66779.1                                                                          ------------------------------------------------------------
+34:gi|119911833|ref|XP_581184.3                                                                         ------------------------------------------------------------
+35:gi|78100552|gb|ABB21098.1                                                                            ------------------------------------------------------------
+36:gi|157820841|ref|NP_001103124.1                                                                      ------------------------------------------------------------
+37:gi|78100432|gb|ABB21039.1                                                                            ------------------------------------------------------------
+38:gi|78100512|gb|ABB21079.1                                                                            ------------------------------------------------------------
+39:gi|284010813|dbj|BAI66886.1                                                                          ------------------------------------------------------------
+40:gi|81175453|gb|ABB59064.1                                                                            ------------------------------------------------------------
+41:gi|284010549|dbj|BAI66754.1                                                                          ------------------------------------------------------------
+42:gi|284010717|dbj|BAI66838.1                                                                          ------------------------------------------------------------
+43:gi|284010645|dbj|BAI66802.1                                                                          ------------------------------------------------------------
+44:gi|311268241|ref|XP_003131967.1                                                                      ------------------------------------------------------------
+45:gi|126570666|gb|ABO21267.1                                                                           ------------------------------------------------------------
+46:gi|284010715|dbj|BAI66837.1                                                                          ------------------------------------------------------------
+47:gi|284010529|dbj|BAI66744.1                                                                          ------------------------------------------------------------
+48:gi|284010777|dbj|BAI66868.1                                                                          ------------------------------------------------------------
+49:gi|284010611|dbj|BAI66785.1                                                                          ------------------------------------------------------------
+50:gi|78100703|gb|ABB21172.1                                                                            ------------------------------------------------------------
+51:gi|284010627|dbj|BAI66793.1                                                                          ------------------------------------------------------------
+52:gi|348560878|ref|XP_003466240.1                                                                      ------------------------------------------------------------
+53:gi|284010605|dbj|BAI66782.1                                                                          ------------------------------------------------------------
+54:gi|344290101|ref|XP_003416777.1                                                                      ------------------------------------------------------------
+55:gi|284010661|dbj|BAI66810.1                                                                          ------------------------------------------------------------
+56:gi|284010555|dbj|BAI66757.1                                                                          ------------------------------------------------------------
+57:gi|284010721|dbj|BAI66840.1                                                                          ------------------------------------------------------------
+58:gi|78100687|gb|ABB21164.1                                                                            ------------------------------------------------------------
+59:gi|284010689|dbj|BAI66824.1                                                                          ------------------------------------------------------------
+60:gi|284010601|dbj|BAI66780.1                                                                          ------------------------------------------------------------
+61:gi|284010635|dbj|BAI66797.1                                                                          ------------------------------------------------------------
+62:gi|70955601|gb|AAZ16362.1                                                                            ------------------------------------------------------------
+63:gi|78100578|gb|ABB21111.1                                                                            ------------------------------------------------------------
+64:gi|78100572|gb|ABB21108.1                                                                            ------------------------------------------------------------
+65:gi|78100684|gb|ABB21163.1                                                                            ------------------------------------------------------------
+66:gi|284010743|dbj|BAI66851.1                                                                          ------------------------------------------------------------
+67:gi|126570333|gb|ABO21143.1                                                                           ------------------------------------------------------------
+68:gi|284010539|dbj|BAI66749.1                                                                          ------------------------------------------------------------
+69:gi|78100408|gb|ABB21027.1                                                                            ------------------------------------------------------------
+70:gi|284010565|dbj|BAI66762.1                                                                          ------------------------------------------------------------
+71:gi|126570576|gb|ABO21230.1                                                                           ------------------------------------------------------------
+72:gi|78100689|gb|ABB21165.1                                                                            ------------------------------------------------------------
+73:gi|284010655|dbj|BAI66807.1                                                                          ------------------------------------------------------------
+74:gi|126570440|gb|ABO21185.1                                                                           ------------------------------------------------------------
+75:gi|284010613|dbj|BAI66786.1                                                                          ------------------------------------------------------------
+76:gi|284010657|dbj|BAI66808.1                                                                          ------------------------------------------------------------
+77:gi|299856771|pdb|3M18|A                                                                              ------------------------------------------------------------
+78:gi|284010553|dbj|BAI66756.1                                                                          ------------------------------------------------------------
+79:gi|284010699|dbj|BAI66829.1                                                                          ------------------------------------------------------------
+80:gi|284010523|dbj|BAI66741.1                                                                          ------------------------------------------------------------
+81:gi|78100518|gb|ABB21082.1                                                                            ------------------------------------------------------------
+82:gi|78100592|gb|ABB21118.1                                                                            ------------------------------------------------------------
+83:gi|126570750|gb|ABO21309.1                                                                           ------------------------------------------------------------
+84:gi|78100707|gb|ABB21174.1                                                                            ------------------------------------------------------------
+85:gi|78100418|gb|ABB21032.1                                                                            ------------------------------------------------------------
+86:gi|126570464|gb|ABO21193.1                                                                           ------------------------------------------------------------
+87:gi|284010579|dbj|BAI66769.1                                                                          ------------------------------------------------------------
+88:gi|284010723|dbj|BAI66841.1                                                                          ------------------------------------------------------------
+89:gi|78100714|gb|ABB21177.1                                                                            ------------------------------------------------------------
+90:gi|284010513|dbj|BAI66736.1                                                                          ------------------------------------------------------------
+91:gi|78100444|gb|ABB21045.1                                                                            ------------------------------------------------------------
+92:gi|284010609|dbj|BAI66784.1                                                                          ------------------------------------------------------------
+93:gi|78100635|gb|ABB21139.1                                                                            ------------------------------------------------------------
+94:gi|50086941|gb|AAT70351.1                                                                            ------------------------------------------------------------
+95:gi|284010815|dbj|BAI66887.1                                                                          ------------------------------------------------------------
+96:gi|78100652|gb|ABB21147.1                                                                            ------------------------------------------------------------
+97:gi|78100724|gb|ABB21182.1                                                                            ------------------------------------------------------------
+98:gi|126570372|gb|ABO21156.1                                                                           ------------------------------------------------------------
+99:gi|284010519|dbj|BAI66739.1                                                                          ------------------------------------------------------------
+100:gi|78100456|gb|ABB21051.1                                                                           ------------------------------------------------------------
+                                                                                                                                                                    
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 KPQALDSGQGAALTTATQTTHLELQRGRQVTVPRAWLLFLRGSLPTFRSSLFLWVRPNGR 600
+1:gi|146272050|emb|CAM97225.1                                                                           KPQALDSGQGAALTTATQTTHLELQRGRQVTVPRAWLLFLRGSLPTFRSSLFLWVRPNGR 587
+2:gi|304434468|dbj|BAJ15417.1                                                                           KPQALDSGQGAALTTATQTTHLELQRGRQVTVPRAWLLFLRGSLPTFRSSLFLWVRPNGR 600
+3:gi|297271666|ref|XP_001117767.2                                                                       ------------------------------------------------------------
+4:gi|355568123|gb|EHH24404.1                                                                            ------------------------------------------------------------
+5:gi|212727030|gb|ACJ38405.1                                                                            ------------------------------------------------------------
+6:gi|296202296|ref|XP_002748337.1                                                                       ------------------------------------------------------------
+7:gi|281343331|gb|EFB18915.1                                                                            ------------------------------------------------------------
+8:gi|351710638|gb|EHB13557.1                                                                            ------------------------------------------------------------
+9:gi|50978762|ref|NP_001003083.1                                                                        ------------------------------------------------------------
+10:gi|291405213|ref|XP_002719050.1                                                                      ------------------------------------------------------------
+11:gi|78100448|gb|ABB21047.1                                                                            ------------------------------------------------------------
+12:gi|284010625|dbj|BAI66792.1                                                                          ------------------------------------------------------------
+13:gi|284010683|dbj|BAI66821.1                                                                          ------------------------------------------------------------
+14:gi|284010759|dbj|BAI66859.1                                                                          ------------------------------------------------------------
+15:gi|284010547|dbj|BAI66753.1                                                                          ------------------------------------------------------------
+16:gi|284010557|dbj|BAI66758.1                                                                          ------------------------------------------------------------
+17:gi|284010755|dbj|BAI66857.1                                                                          ------------------------------------------------------------
+18:gi|284010525|dbj|BAI66742.1                                                                          ------------------------------------------------------------
+19:gi|78100438|gb|ABB21042.1                                                                            ------------------------------------------------------------
+20:gi|81175463|gb|ABB59069.1                                                                            ------------------------------------------------------------
+21:gi|284010691|dbj|BAI66825.1                                                                          ------------------------------------------------------------
+22:gi|2331240|gb|AAC53320.1                                                                             ------------------------------------------------------------
+23:gi|284010713|dbj|BAI66836.1                                                                          ------------------------------------------------------------
+24:gi|284010809|dbj|BAI66884.1                                                                          ------------------------------------------------------------
+25:gi|284010801|dbj|BAI66880.1                                                                          ------------------------------------------------------------
+26:gi|284010785|dbj|BAI66872.1                                                                          ------------------------------------------------------------
+27:gi|284010701|dbj|BAI66830.1                                                                          ------------------------------------------------------------
+28:gi|78100426|gb|ABB21036.1                                                                            ------------------------------------------------------------
+29:gi|78100697|gb|ABB21169.1                                                                            ------------------------------------------------------------
+30:gi|78100458|gb|ABB21052.1                                                                            ------------------------------------------------------------
+31:gi|284010685|dbj|BAI66822.1                                                                          ------------------------------------------------------------
+32:gi|284010797|dbj|BAI66878.1                                                                          ------------------------------------------------------------
+33:gi|284010599|dbj|BAI66779.1                                                                          ------------------------------------------------------------
+34:gi|119911833|ref|XP_581184.3                                                                         ------------------------------------------------------------
+35:gi|78100552|gb|ABB21098.1                                                                            ------------------------------------------------------------
+36:gi|157820841|ref|NP_001103124.1                                                                      ------------------------------------------------------------
+37:gi|78100432|gb|ABB21039.1                                                                            ------------------------------------------------------------
+38:gi|78100512|gb|ABB21079.1                                                                            ------------------------------------------------------------
+39:gi|284010813|dbj|BAI66886.1                                                                          ------------------------------------------------------------
+40:gi|81175453|gb|ABB59064.1                                                                            ------------------------------------------------------------
+41:gi|284010549|dbj|BAI66754.1                                                                          ------------------------------------------------------------
+42:gi|284010717|dbj|BAI66838.1                                                                          ------------------------------------------------------------
+43:gi|284010645|dbj|BAI66802.1                                                                          ------------------------------------------------------------
+44:gi|311268241|ref|XP_003131967.1                                                                      ------------------------------------------------------------
+45:gi|126570666|gb|ABO21267.1                                                                           ------------------------------------------------------------
+46:gi|284010715|dbj|BAI66837.1                                                                          ------------------------------------------------------------
+47:gi|284010529|dbj|BAI66744.1                                                                          ------------------------------------------------------------
+48:gi|284010777|dbj|BAI66868.1                                                                          ------------------------------------------------------------
+49:gi|284010611|dbj|BAI66785.1                                                                          ------------------------------------------------------------
+50:gi|78100703|gb|ABB21172.1                                                                            ------------------------------------------------------------
+51:gi|284010627|dbj|BAI66793.1                                                                          ------------------------------------------------------------
+52:gi|348560878|ref|XP_003466240.1                                                                      ------------------------------------------------------------
+53:gi|284010605|dbj|BAI66782.1                                                                          ------------------------------------------------------------
+54:gi|344290101|ref|XP_003416777.1                                                                      ------------------------------------------------------------
+55:gi|284010661|dbj|BAI66810.1                                                                          ------------------------------------------------------------
+56:gi|284010555|dbj|BAI66757.1                                                                          ------------------------------------------------------------
+57:gi|284010721|dbj|BAI66840.1                                                                          ------------------------------------------------------------
+58:gi|78100687|gb|ABB21164.1                                                                            ------------------------------------------------------------
+59:gi|284010689|dbj|BAI66824.1                                                                          ------------------------------------------------------------
+60:gi|284010601|dbj|BAI66780.1                                                                          ------------------------------------------------------------
+61:gi|284010635|dbj|BAI66797.1                                                                          ------------------------------------------------------------
+62:gi|70955601|gb|AAZ16362.1                                                                            ------------------------------------------------------------
+63:gi|78100578|gb|ABB21111.1                                                                            ------------------------------------------------------------
+64:gi|78100572|gb|ABB21108.1                                                                            ------------------------------------------------------------
+65:gi|78100684|gb|ABB21163.1                                                                            ------------------------------------------------------------
+66:gi|284010743|dbj|BAI66851.1                                                                          ------------------------------------------------------------
+67:gi|126570333|gb|ABO21143.1                                                                           ------------------------------------------------------------
+68:gi|284010539|dbj|BAI66749.1                                                                          ------------------------------------------------------------
+69:gi|78100408|gb|ABB21027.1                                                                            ------------------------------------------------------------
+70:gi|284010565|dbj|BAI66762.1                                                                          ------------------------------------------------------------
+71:gi|126570576|gb|ABO21230.1                                                                           ------------------------------------------------------------
+72:gi|78100689|gb|ABB21165.1                                                                            ------------------------------------------------------------
+73:gi|284010655|dbj|BAI66807.1                                                                          ------------------------------------------------------------
+74:gi|126570440|gb|ABO21185.1                                                                           ------------------------------------------------------------
+75:gi|284010613|dbj|BAI66786.1                                                                          ------------------------------------------------------------
+76:gi|284010657|dbj|BAI66808.1                                                                          ------------------------------------------------------------
+77:gi|299856771|pdb|3M18|A                                                                              ------------------------------------------------------------
+78:gi|284010553|dbj|BAI66756.1                                                                          ------------------------------------------------------------
+79:gi|284010699|dbj|BAI66829.1                                                                          ------------------------------------------------------------
+80:gi|284010523|dbj|BAI66741.1                                                                          ------------------------------------------------------------
+81:gi|78100518|gb|ABB21082.1                                                                            ------------------------------------------------------------
+82:gi|78100592|gb|ABB21118.1                                                                            ------------------------------------------------------------
+83:gi|126570750|gb|ABO21309.1                                                                           ------------------------------------------------------------
+84:gi|78100707|gb|ABB21174.1                                                                            ------------------------------------------------------------
+85:gi|78100418|gb|ABB21032.1                                                                            ------------------------------------------------------------
+86:gi|126570464|gb|ABO21193.1                                                                           ------------------------------------------------------------
+87:gi|284010579|dbj|BAI66769.1                                                                          ------------------------------------------------------------
+88:gi|284010723|dbj|BAI66841.1                                                                          ------------------------------------------------------------
+89:gi|78100714|gb|ABB21177.1                                                                            ------------------------------------------------------------
+90:gi|284010513|dbj|BAI66736.1                                                                          ------------------------------------------------------------
+91:gi|78100444|gb|ABB21045.1                                                                            ------------------------------------------------------------
+92:gi|284010609|dbj|BAI66784.1                                                                          ------------------------------------------------------------
+93:gi|78100635|gb|ABB21139.1                                                                            ------------------------------------------------------------
+94:gi|50086941|gb|AAT70351.1                                                                            ------------------------------------------------------------
+95:gi|284010815|dbj|BAI66887.1                                                                          ------------------------------------------------------------
+96:gi|78100652|gb|ABB21147.1                                                                            ------------------------------------------------------------
+97:gi|78100724|gb|ABB21182.1                                                                            ------------------------------------------------------------
+98:gi|126570372|gb|ABO21156.1                                                                           ------------------------------------------------------------
+99:gi|284010519|dbj|BAI66739.1                                                                          ------------------------------------------------------------
+100:gi|78100456|gb|ABB21051.1                                                                           ------------------------------------------------------------
+                                                                                                                                                                    
+
+0:sp|P07359|GP1BA_HUMAN Platelet glycoprotein Ib alpha chain OS=Homo sapiens OX=9606 GN=GP1BA PE=1 SV=2 VGPLVAGRRPSALSQGRGQDLLSTVSIRYSGHSL 634
+1:gi|146272050|emb|CAM97225.1                                                                           VGPLVAGRRPSALSQGRGQDLLSTVSIRYSGHSL 621
+2:gi|304434468|dbj|BAJ15417.1                                                                           VGPLVAGRRPSALSQGRGQDLLSTVSIRYSGHSL 634
+3:gi|297271666|ref|XP_001117767.2                                                                       ----------------------------------
+4:gi|355568123|gb|EHH24404.1                                                                            ----------------------------------
+5:gi|212727030|gb|ACJ38405.1                                                                            ----------------------------------
+6:gi|296202296|ref|XP_002748337.1                                                                       ----------------------------------
+7:gi|281343331|gb|EFB18915.1                                                                            ----------------------------------
+8:gi|351710638|gb|EHB13557.1                                                                            ----------------------------------
+9:gi|50978762|ref|NP_001003083.1                                                                        ----------------------------------
+10:gi|291405213|ref|XP_002719050.1                                                                      ----------------------------------
+11:gi|78100448|gb|ABB21047.1                                                                            ----------------------------------
+12:gi|284010625|dbj|BAI66792.1                                                                          ----------------------------------
+13:gi|284010683|dbj|BAI66821.1                                                                          ----------------------------------
+14:gi|284010759|dbj|BAI66859.1                                                                          ----------------------------------
+15:gi|284010547|dbj|BAI66753.1                                                                          ----------------------------------
+16:gi|284010557|dbj|BAI66758.1                                                                          ----------------------------------
+17:gi|284010755|dbj|BAI66857.1                                                                          ----------------------------------
+18:gi|284010525|dbj|BAI66742.1                                                                          ----------------------------------
+19:gi|78100438|gb|ABB21042.1                                                                            ----------------------------------
+20:gi|81175463|gb|ABB59069.1                                                                            ----------------------------------
+21:gi|284010691|dbj|BAI66825.1                                                                          ----------------------------------
+22:gi|2331240|gb|AAC53320.1                                                                             ----------------------------------
+23:gi|284010713|dbj|BAI66836.1                                                                          ----------------------------------
+24:gi|284010809|dbj|BAI66884.1                                                                          ----------------------------------
+25:gi|284010801|dbj|BAI66880.1                                                                          ----------------------------------
+26:gi|284010785|dbj|BAI66872.1                                                                          ----------------------------------
+27:gi|284010701|dbj|BAI66830.1                                                                          ----------------------------------
+28:gi|78100426|gb|ABB21036.1                                                                            ----------------------------------
+29:gi|78100697|gb|ABB21169.1                                                                            ----------------------------------
+30:gi|78100458|gb|ABB21052.1                                                                            ----------------------------------
+31:gi|284010685|dbj|BAI66822.1                                                                          ----------------------------------
+32:gi|284010797|dbj|BAI66878.1                                                                          ----------------------------------
+33:gi|284010599|dbj|BAI66779.1                                                                          ----------------------------------
+34:gi|119911833|ref|XP_581184.3                                                                         ----------------------------------
+35:gi|78100552|gb|ABB21098.1                                                                            ----------------------------------
+36:gi|157820841|ref|NP_001103124.1                                                                      ----------------------------------
+37:gi|78100432|gb|ABB21039.1                                                                            ----------------------------------
+38:gi|78100512|gb|ABB21079.1                                                                            ----------------------------------
+39:gi|284010813|dbj|BAI66886.1                                                                          ----------------------------------
+40:gi|81175453|gb|ABB59064.1                                                                            ----------------------------------
+41:gi|284010549|dbj|BAI66754.1                                                                          ----------------------------------
+42:gi|284010717|dbj|BAI66838.1                                                                          ----------------------------------
+43:gi|284010645|dbj|BAI66802.1                                                                          ----------------------------------
+44:gi|311268241|ref|XP_003131967.1                                                                      ----------------------------------
+45:gi|126570666|gb|ABO21267.1                                                                           ----------------------------------
+46:gi|284010715|dbj|BAI66837.1                                                                          ----------------------------------
+47:gi|284010529|dbj|BAI66744.1                                                                          ----------------------------------
+48:gi|284010777|dbj|BAI66868.1                                                                          ----------------------------------
+49:gi|284010611|dbj|BAI66785.1                                                                          ----------------------------------
+50:gi|78100703|gb|ABB21172.1                                                                            ----------------------------------
+51:gi|284010627|dbj|BAI66793.1                                                                          ----------------------------------
+52:gi|348560878|ref|XP_003466240.1                                                                      ----------------------------------
+53:gi|284010605|dbj|BAI66782.1                                                                          ----------------------------------
+54:gi|344290101|ref|XP_003416777.1                                                                      ----------------------------------
+55:gi|284010661|dbj|BAI66810.1                                                                          ----------------------------------
+56:gi|284010555|dbj|BAI66757.1                                                                          ----------------------------------
+57:gi|284010721|dbj|BAI66840.1                                                                          ----------------------------------
+58:gi|78100687|gb|ABB21164.1                                                                            ----------------------------------
+59:gi|284010689|dbj|BAI66824.1                                                                          ----------------------------------
+60:gi|284010601|dbj|BAI66780.1                                                                          ----------------------------------
+61:gi|284010635|dbj|BAI66797.1                                                                          ----------------------------------
+62:gi|70955601|gb|AAZ16362.1                                                                            ----------------------------------
+63:gi|78100578|gb|ABB21111.1                                                                            ----------------------------------
+64:gi|78100572|gb|ABB21108.1                                                                            ----------------------------------
+65:gi|78100684|gb|ABB21163.1                                                                            ----------------------------------
+66:gi|284010743|dbj|BAI66851.1                                                                          ----------------------------------
+67:gi|126570333|gb|ABO21143.1                                                                           ----------------------------------
+68:gi|284010539|dbj|BAI66749.1                                                                          ----------------------------------
+69:gi|78100408|gb|ABB21027.1                                                                            ----------------------------------
+70:gi|284010565|dbj|BAI66762.1                                                                          ----------------------------------
+71:gi|126570576|gb|ABO21230.1                                                                           ----------------------------------
+72:gi|78100689|gb|ABB21165.1                                                                            ----------------------------------
+73:gi|284010655|dbj|BAI66807.1                                                                          ----------------------------------
+74:gi|126570440|gb|ABO21185.1                                                                           ----------------------------------
+75:gi|284010613|dbj|BAI66786.1                                                                          ----------------------------------
+76:gi|284010657|dbj|BAI66808.1                                                                          ----------------------------------
+77:gi|299856771|pdb|3M18|A                                                                              ----------------------------------
+78:gi|284010553|dbj|BAI66756.1                                                                          ----------------------------------
+79:gi|284010699|dbj|BAI66829.1                                                                          ----------------------------------
+80:gi|284010523|dbj|BAI66741.1                                                                          ----------------------------------
+81:gi|78100518|gb|ABB21082.1                                                                            ----------------------------------
+82:gi|78100592|gb|ABB21118.1                                                                            ----------------------------------
+83:gi|126570750|gb|ABO21309.1                                                                           ----------------------------------
+84:gi|78100707|gb|ABB21174.1                                                                            ----------------------------------
+85:gi|78100418|gb|ABB21032.1                                                                            ----------------------------------
+86:gi|126570464|gb|ABO21193.1                                                                           ----------------------------------
+87:gi|284010579|dbj|BAI66769.1                                                                          ----------------------------------
+88:gi|284010723|dbj|BAI66841.1                                                                          ----------------------------------
+89:gi|78100714|gb|ABB21177.1                                                                            ----------------------------------
+90:gi|284010513|dbj|BAI66736.1                                                                          ----------------------------------
+91:gi|78100444|gb|ABB21045.1                                                                            ----------------------------------
+92:gi|284010609|dbj|BAI66784.1                                                                          ----------------------------------
+93:gi|78100635|gb|ABB21139.1                                                                            ----------------------------------
+94:gi|50086941|gb|AAT70351.1                                                                            ----------------------------------
+95:gi|284010815|dbj|BAI66887.1                                                                          ----------------------------------
+96:gi|78100652|gb|ABB21147.1                                                                            ----------------------------------
+97:gi|78100724|gb|ABB21182.1                                                                            ----------------------------------
+98:gi|126570372|gb|ABO21156.1                                                                           ----------------------------------
+99:gi|284010519|dbj|BAI66739.1                                                                          ----------------------------------
+100:gi|78100456|gb|ABB21051.1                                                                           ----------------------------------
+                                                                                                                                          
+

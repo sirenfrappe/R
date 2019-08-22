@@ -1,0 +1,518 @@
+CLUSTAL 2.1 multiple sequence alignment (MView)
+
+
+0:sp|Q8TDQ1|CLM1_HUMAN CMRF35-like molecule 1 OS=Homo sapiens OX=9606 GN=CD300LF PE=1 SV=3 MPLLTLYLLLFWLSGYSIVTQITGPTTVNGLERGSLTVQCVYRSGWETYLKWWCRGAIWR 60
+1:gi|30962591|gb|AAP42152.1|AF375480_1                                                     --------------GYSIATQITGPTTVNGLERGSLTVQCVYRSGWETYLKWWCRGAIWR 46
+2:gi|297701711|ref|XP_002827847.1                                                          MPLLTLYPLLFWLSGYSIATQITGPTTVNGLERGSLTVQCVYSSGWETYLKWWCRGAIWH 60
+3:gi|297273542|ref|XP_002800635.1                                                          -------------SGYSIATDISGPMTVNGPERGSLMVQCVYNSGWETYLKWWCRGATWY 47
+4:gi|296203108|ref|XP_002748755.1                                                          MPLLMLFSLFFWISGYPIATEITGPTTVNGLERGSLTVRCAYGSQWETYLKWWCRGAIWS 60
+5:gi|301768907|ref|XP_002919915.1                                                          ----------------AGSSDITGPEAVRGPVGGSLTVQCRYGPKWKAYIKWWCRGARWS 44
+6:gi|291414768|ref|XP_002723630.1                                                          -------------SGSSVAEeiSSLTTVSGPEQGLLSVKCHYAPGWQLYKKYWCQGKAWS 47
+7:gi|345804781|ref|XP_540416.3                                                             ---------------VAGSYEITGPNAVRGLVGGSLTVECCYASTWKTYSKWWCRGSIWR 45
+8:gi|332266192|ref|XP_003282097.1                                                          MPLLTLYPLLFWLSGYSIATEITGPTTVNGLERGSLTVRCVYSSHWETYLKWWCRGAVWR 60
+9:gi|261854604|gb|ACY00701.1                                                               ---------------FTAQDPVTGPEEVSGYEQGSLTVWCRYGSWWKDYSKYWCRGPKRS 45
+10:gi|351701679|gb|EHB04598.1                                                              -------------SGFSAAwdITGPETVSGLERGSLTVQCRYTSMWKTYTKWWCRGAVWS 47
+11:gi|74178443|dbj|BAE32481.1                                                              ---------------ITGCcpVTGPEEVSGQEQGSLTVQCRYTSGWKDYKKYWCQGVPQR 45
+12:gi|281332121|ref|NP_001162624.1                                                         ---------------ITGCcpVTGPEEVSGQEQGSLTVQCRYTSGWKDYKKYWCQGVPQR 45
+13:gi|68341985|ref|NP_001020282.1                                                          ---------------FTAQDPVTGPEEVSGYEQGSLTVWCRYGSWWKDYSKYWCRGPKRS 45
+14:gi|296476056|gb|DAA18171.1                                                              ---------------LSGSSAISGPRAVRGVEQGSLTVQCQYDPGYEHYVKWWCRGAAWN 45
+15:gi|354466587|ref|XP_003495755.1                                                         ---------------ISGCsaITGPSMVRGQERGSLTVRCRYKSKWKDYKKYWCQGADWR 45
+16:gi|148702514|gb|EDL34461.1                                                              ---------------ITGCcpVTGPEEVSGQEQGSLTVQCRYTSGWKDYKKYWCQGVPQR 45
+17:gi|329112553|ref|NP_001192277.1                                                         ---------------VPGCVPLRGPSSVTGTVGESLNVTCQYEERFKMNKKYWCRGSLVL 45
+18:gi|296203096|ref|XP_002748749.1                                                         ---------------VPGCFALSGPHTVAGPLGGSLSVQCGYEEEHRTLNKYWCRAPWTI 45
+19:gi|332260440|ref|XP_003279297.1                                                         ---------------VPGCFALSGPSTVAGPVGGSLSVQCRYEQEHETLNKYWCRPPQIL 45
+20:gi|20330544|gb|AAM19096.1|AF251703_1                                                    ---------------ITGCcpVTGPEEVSGQEQGSVTVQCRYTSGWKDYKKYWCQGVPQR 45
+21:gi|297273533|ref|XP_001090848.2                                                         ---------------VPGCFALRgpSTVDGPVGGSLSVQCRYEEKHKTFNKYWCRPPRVL 45
+22:gi|114670314|ref|XP_523707.2                                                            ---------------FPGCFAPSDRRTVAGPVGGSLRVQCRYEEAHRTLNKYWCRPPQIF 45
+23:gi|345804793|ref|XP_540408.3                                                            ---------------VPGCSSLRGPDSVLGTVGGSLSVRCQYKEGFRDHDKYWCKSPCV- 44
+24:gi|348558202|ref|XP_003464907.1                                                         -------------------CLLSGSLTVNGTVGGSLSVQCQYEERYEKLGKYWCRDSVL- 40
+25:gi|345326504|ref|XP_001513631.2                                                         ---------------------LRGSGTVTGLVGGSLTVWCRYQEGWESSEKYWCRGKVWE 39
+26:gi|354466529|ref|XP_003495726.1                                                         ---------------LPGCVLLRGPSSMTGTVGESLRVQCQYEEKHKAYSKYWCRVSRLR 45
+27:gi|338711343|ref|XP_001492936.2                                                         -----------------GSLSLSGPRTVTGTIGGSLSVQCRYDEEYREHKKYWCRNSKWP 43
+28:gi|21751430|dbj|BAC03966.1                                                              MPLLTLYLLLFWLSGYSIATQITGPTTVNGLERGSLTVQCVYRSGWETYLKWWCRGAIWR 60
+29:gi|25092741|ref|NP_739564.1                                                             -----------------GCVPLHGPSTMSGSVGESLSVSCRYEEKFKTKDKYWCRVSLKI 43
+30:gi|300794437|ref|NP_001179385.1                                                         ---------------VPGCLSLSGPHRVRGIVGGSLSVECRYQEKFRNNNKYWCKNSCLL 45
+31:gi|20380183|gb|AAH28199.1                                                               --------------GYSIATQITGPTTVNGLERGSLTVQCVYRSGWETYLKWWCRGAIWR 46
+32:gi|297487467|ref|XP_002696260.1                                                         ---------------FQRSSAISGPRAVRGVEQGSLTVRCQYDPRYERYVKWWCRGAAWN 45
+33:gi|73698041|gb|AAZ81566.1                                                               --------------GYSIATQITGPTTVNGLERGSLAVQCVYRSGWETYLKWWCRGAIWR 46
+34:gi|351701676|gb|EHB04595.1                                                              ---------------------------MTGTVGGSLRVQCQYEEEDKAHDKYWCRGSLAV 33
+35:gi|149723588|ref|XP_001497357.1                                                         ----------------PGSFDIRGPKVMRGPERGSLTVRCRYGQGWKTHRKWWCRGVDWA 44
+36:gi|61887403|ref|XP_586941.1                                                             ---------------IPGSSAISGPRAVRGVERGSLTVRCRYDPGYECYVKWWCRGAAWN 45
+37:gi|297273536|ref|XP_001091451.2                                                         -------------AGYSIATEITGPTTVNGLEWGSLTVQCAYGSGWETYLKWWCRGADWN 47
+38:gi|20381405|gb|AAH28091.1                                                               -----------------GCFSIQGPESVRAPEQGSLTVQCHYKQGWETYIKWWCRGVRWD 43
+39:gi|281345546|gb|EFB21130.1                                                              ---------------FPGSWSLSGPNSMTGTVGRSLSVQCRYEEKYRENAKYWCKNRCVW 45
+40:gi|320498033|ref|NP_001189392.1                                                         ---------------LPGcdPVTGPEEVSGHEQGSLTVQCRYASGWEDYRKYWCRGSGWR 45
+41:gi|281345547|gb|EFB21131.1                                                              ----------------PGCFSLQGPESVRGLVGGSVTMQCYYTPGWKAYEKWWCRGAEWN 44
+42:gi|21703872|ref|NP_663412.1                                                             ---------------LPGCcsVTGPEEVSGQEQGSLTVQCRYSSYWKGYKKYWCRGVPQR 45
+43:gi|344291031|ref|XP_003417240.1                                                         --------------SFPGCFSLQGPESVSGSEEGSVTVQCHYDTGWETHRKWWCQGKIWN 46
+44:gi|119609575|gb|EAW89169.1                                                              -----------------GCFSIQGPESVRAPEQGSLTVQCHYKQGWETYIKWWCRGVRWD 43
+45:gi|344299331|ref|XP_003421339.1                                                         ----------------PGCSTMWGPKVISGPEGSSLTVPCHYDPGWETYYKWWCQGADWG 44
+46:gi|293340555|ref|XP_002724695.1                                                         ---------------FPGCStlTGPKEVSSQEQGSLTVRCQYGSWWKDYRKYWCRGAEWS 45
+47:gi|264681503|ref|NP_001161136.1                                                         --------------SFPGCLSIQGPELVRGPEQGSVTVQCHYSSRWQTNRKWWCRGAHWS 46
+48:gi|194675713|ref|XP_001256397.2                                                         ---------------FQRSSAISGPRAVRGVEQGSLTVRCQYDPRYERYVKWWCRGAAWN 45
+49:gi|335297418|ref|XP_003131286.2                                                         ----------------PGSSPVTGPKAVRGQERGSLAVQCRYTPGWESHGKWWCRGADWD 44
+50:gi|354466591|ref|XP_003495757.1                                                         --------------------AITGPSMVRGQERGSLTVRCRYDSSWKDYNKYWCQGADWR 40
+51:gi|169646348|ref|NP_001108624.1                                                         --------------GYSIAAKITGPTTVNGSEQGSLTVQCAYGSGWETYLKWRCQGADWN 46
+52:gi|344291025|ref|XP_003417237.1                                                         ---------------FPGCSAISGPKAVSGPKRGSLTVRCSYGPGRETYYKWWCRGAVWN 45
+53:gi|86129506|ref|NP_001034384.1                                                          -------------------WAVRGPGTVKGYIGGSLSVSCSYQEEYEMKPKFWCYPGTFK 41
+54:gi|109118212|ref|XP_001090960.1                                                         -----------------GCFSIRGPVSVRGPEKGSVKVQCHYKRGWETHVKWWCRGARWV 43
+55:gi|301787199|ref|XP_002929013.1                                                         ----------------PGCFSLQGPESVRGLVGGSVTMQCYYTPGWKAYEKWWCRGAEWN 44
+56:gi|348558200|ref|XP_003464906.1                                                         ----------------PGCFSLRGPASVRGSEGGSVTVQCHYSSRWKTYNKWWCRGRRRR 44
+57:gi|293340557|ref|XP_002724696.1                                                         ---------------LPGCspVTGPEEVSSQEQGSLIVQCQYASHWKDYRKYWCRGAEWS 45
+58:gi|262205519|ref|NP_001160049.1                                                         ---------------FQGCLSLTGPGSVSGYVGGSLRVQCQYAQSYKGYTKYWCRGPHDK 45
+59:gi|355754352|gb|EHH58317.1                                                              -----------------GCFSIRGPVSVRGPEKGSVKVQCHYKRGWETHVKWWCRGARWV 43
+60:gi|123248343|emb|CAM21176.1                                                             ---------------LPGCcpVTGPEEVSGQEQGSLTVQCRYDSGWKDYKKYWCRGAYWK 45
+61:gi|354466595|ref|XP_003495759.1                                                         -----------------GCsaITGPSIVRGQERGSLTVRCRYDSRWKDNKKYWCRGADLN 43
+62:gi|345804791|ref|XP_003435227.1                                                         -----------------GCVSIQGPESVRGLEGGSVTVQCHYTPGWETYKKWWCRGAYWK 43
+63:gi|74178584|dbj|BAE32536.1                                                              --------------SFPGCLSIQGPALVRGPEQGSVTVQCRYSSRWQTNKKWWCRGASWS 46
+64:gi|345326500|ref|XP_001513603.2                                                         -------------SGVPGVcdIFSPKAVNGQEGQSQSVQCRYEQRYGKNEKSWCRGAQWG 47
+65:gi|351701677|gb|EHB04596.1                                                              ----------------TGCFSLQGPESVRGSAGGSVTVQCHYSPRWKTHNKWWCRGASWY 44
+66:gi|344291023|ref|XP_003417236.1                                                         ---------------FPGCSAISGPKAVSGPKRGSLTVRCSYGPGRETYYKWWCRGAVWN 45
+67:gi|296203104|ref|XP_002748822.1                                                         ----------------PGCFSIYGPGTVWGTEWDSLTVQCHYDQGWETYNKWWCRGSGWK 44
+68:gi|281350011|gb|EFB25595.1                                                              ---------------FSGSSALVAVSdvSGPARGSLTVQCRYEPGWETYSKWWCRGAEWK 45
+69:gi|344236277|gb|EGV92380.1                                                              ---------------------LPGPSMVRGQERGSLTVRCRYDSSWKDYNKYWCQGADWR 39
+70:gi|319428629|gb|ADV56672.1                                                              ---------------FTAQDPVTGPEEVSGYEQGSLTVWCRYGSWWKDYSKYWCRGPKRS 45
+71:gi|149054744|gb|EDM06561.1                                                              ---------------FTAQDPVTGPEEVSGYEQGSLTVWCRYGSWWKDYSKYWCRGPKRS 45
+72:gi|354466527|ref|XP_003495725.1                                                         --------------GFPGCFSIQGPALVRGPENGSVTIRCRYSSRWRTYNKWWCRGADWI 46
+73:gi|269973889|ref|NP_001161757.1                                                         -------------SRVPGCFPLRGPSSVTGTVGESLSVTCQYEERFKMNKKYWCRGSHVL 47
+74:gi|326680687|ref|XP_002664573.2                                                         ----------------------------SGSPGN---IPCLYEEQYKEHQKFWCQGYFWS 29
+75:gi|344291029|ref|XP_003417239.1                                                         ---------------VPGCLMLSGPSTVTGIVGETLSVQCRYEEKFKESDKFWCREPALR 45
+76:gi|63024881|emb|CAH19215.1                                                              ----------------SICTVVVgpVKVTGHTGGRADIRCTYESGYESNSKYLCKGTCNI 44
+77:gi|358417642|ref|XP_603093.4                                                            ----------------PGCWSLTGPSSVAGTMGSSLHVRCQYEKAYKGHNKYWCRGKYGT 44
+78:gi|297273540|ref|XP_001091790.2                                                         ---------------FSGCLSLTGPDSVTGTVGGSLRVWCQYESTYKGYNKYWCRGQYDT 45
+79:gi|157279955|ref|NP_001098493.1                                                         -----------------GCLSIRGPESVWGRERESLSVQCHYDSGWETSKKWWCRGAWWA 43
+80:gi|119609581|gb|EAW89175.1                                                              ---------------FPGCLSLKGPGSVTGTAGDSLTVWCQYESMYKGYNKYWCRGQYDT 45
+81:gi|359077195|ref|XP_002696258.2                                                         ----------------PGCWSLTGPSSVAGTMGSSLHVRCQYEKAYKGHNKYWCRGKYGT 44
+82:gi|338711341|ref|XP_003362514.1                                                         ---------------FPGSLSLSGPRTVTGTIGGSLSVQCRYDEEYREHKKYWCQNSKWP 45
+83:gi|355676908|gb|AER95826.1                                                              -----------------------------------------------ENDKYWCKNLCVW 13
+84:gi|293340561|ref|XP_001081656.2                                                         -------------SQVPGCVPLHGPSSVTGTVGESLSVTCQYEEGFKTNKKYWCRGSLVL 47
+85:gi|293351948|ref|XP_002727884.1                                                         --------------GYSTAQDliGPEKVSGQEQGSLTARCQYASHWKDYSKYWCRGSSWH 46
+86:gi|40353230|ref|NP_954671.1                                                             ---------------LPGCcpVTGPEEVSGQEQGSLTVQCRYDSGWKDYKKYWCRGAYWK 45
+87:gi|326665295|ref|XP_002660996.2                                                         ----------------------------SGSPG---IIPCLYKEQYKEHQKFWCWGTFWS 29
+88:gi|345804656|ref|XP_003435214.1                                                         --------------GSPALMAVS--DAVSGPMRGSLTVQCRYEPGWETYNKWWCQGAEWK 44
+89:gi|281347950|gb|EFB23534.1                                                              ---------------FSGSSVLVapNAVSGPARGSLTVQCRYEPGWETYSKWWCREVESS 45
+90:gi|296203098|ref|XP_002748750.1                                                         ---------------VPGCFALSGPHTVAGPLGGSLSVQCGYEVEHRTLNKYWCRAPWTI 45
+91:gi|326665297|ref|XP_002660997.2                                                         -----------------------------GVKSGSpiIPCLYEEQYKEHQKYWCRGYIWS 31
+92:gi|338711338|ref|XP_001492807.3                                                         ----------------------TGPSYVMGTTGGSLSVQCHYEEMYKGYNKYWCRGQYDT 38
+93:gi|269973887|ref|NP_001161756.1                                                         -------------SGVPGCFPLRGPSSVTGTVGESLSVTCQYEERFKMNKKHWCRRSHVL 47
+94:gi|149632638|ref|XP_001510720.1                                                         ---------------FPGCVLARNFTEVKGIVGEPLSVQCPYKEEYKMYGKYWCRGNFWV 45
+95:gi|355732039|gb|AES10574.1                                                              -------------------------SAVSGPLQGSLTVQCRYEPGWETYHKWWCQGAKWS 35
+96:gi|348558198|ref|XP_003464905.1                                                         ---------------VPGCLLLTGPRTVNGTVGGSLSVQCQYEERYEKHGKYWFRDSVLL 45
+97:gi|345804783|ref|XP_003435224.1                                                         ----------------------TGPDSVMGTLGGSLSVQCQYEKKYQEYNKYWCRGNYDI 38
+98:gi|354466589|ref|XP_003495756.1                                                         -----------------GCSSLTGPGSVSGYVGGTVHVQCQYGKSYKDHVKYWCRGKSDT 43
+99:gi|301792260|ref|XP_002931097.1                                                         --------------SVPGSLSLSGPSTVMGTVGGSLGVQCRYEEKYKTFTKYWCRQPCLP 46
+100:gi|293340564|ref|XP_002724698.1                                                        ----------------PGCVPLRGPSSVTGTEGESLSVTCPYEERFKSTIKYWCRGSLIL 44
+                                                                                                                                             *         
+
+0:sp|Q8TDQ1|CLM1_HUMAN CMRF35-like molecule 1 OS=Homo sapiens OX=9606 GN=CD300LF PE=1 SV=3 DCKILVKTSGSEQEVKRDRVSIKDNQKNRTFTVTMEDLMKTDADTYWCGIEKTGNDLGVT 120
+1:gi|30962591|gb|AAP42152.1|AF375480_1                                                     DCKILVKTSGSEQEVKRDRVSIKDNQKNRTFTVTMEDLMKTDADTYWCGIEKTGNDLGVT 106
+2:gi|297701711|ref|XP_002827847.1                                                          DCKILVKTTRSEQEVKRDRVSIKDNRKNHTFTVTMEDLMKTDADIYWCGIEKTGTDLGVP 120
+3:gi|297273542|ref|XP_002800635.1                                                          GCKILVKTTGSEQEVKRDRVSIKDNQKNHTFTVTMEDLMQTDADTYWCGIERTGTDLGVT 107
+4:gi|296203108|ref|XP_002748755.1                                                          NCEILVKTTGSEQEVKGDRLSIRDDQKNHTFTVTMKDLRRDDADTYWCGIERTGTDLGVK 120
+5:gi|301768907|ref|XP_002919915.1                                                          GCHILIQTSGSEQEVKGDRTSIQDDQKSFTFTVTMEELRWNDADTYWCGIERTGTDLGVK 104
+6:gi|291414768|ref|XP_002723630.1                                                          NCKILVITDGSEREAKNGRVAIRDDQSSRVFTVTVQQLRQDDAGIYWCGIERIWADPGFR 107
+7:gi|345804781|ref|XP_540416.3                                                             RCNILVQTTGSEQKVKKNKVSIRDNQKNFTFSVTMEELTETDTDIYWCGIEKSGTDLGVE 105
+8:gi|332266192|ref|XP_003282097.1                                                          DCKILVKTNGSEQEVKRDRVSIKDNQKNRTFTVTMEDLMKTDADTYWCGIERTGSDFGVP 120
+9:gi|261854604|gb|ACY00701.1                                                               SCEIRVETDASERLVKENHVSIRDDQTNFTFTVTMEDLRMSDAGIYWCGITKAGYDHMFK 105
+10:gi|351701679|gb|EHB04598.1                                                              SCRILIKTNGSEKEVKEERLFIRDYQKNLMFSVTMEDLRGDDADGYWCGIERTGSDLGVQ 107
+11:gi|74178443|dbj|BAE32481.1                                                              SCKTLVETDASEQLVKKNRVSIRDNQRDFIFTVTMEDLRMSDAGIYWCGITKGGLDPMFK 105
+12:gi|281332121|ref|NP_001162624.1                                                         SCKTLVETDASEQLVKKNRVSIRDNQRDFIFTVTMEDLRMSDAGIYWCGITKGGLDPMFK 105
+13:gi|68341985|ref|NP_001020282.1                                                          SCEIRVETDASERLVKENHVSIRDDQTNFTFTVTMEDLRMSDAGIYWCGITKAGYDHMFK 105
+14:gi|296476056|gb|DAA18171.1                                                              NCRFVVKTTGSEKEVKAGRVSIRDNQKDRSFTVTMEELRLDDSDTYWCGIERTGTDLGNK 105
+15:gi|354466587|ref|XP_003495755.1                                                         TCETLVKTDASEKLVKKNRVSIRDNQTDLIFTVTLEDLRISDAGVYWCGIDRVGYDHMFK 105
+16:gi|148702514|gb|EDL34461.1                                                              SCKTLVETDASEQLVKKNRVSIRDNQRDFIFTVTMEDLRMSDAGIYWCGITKGGLDPMFK 105
+17:gi|329112553|ref|NP_001192277.1                                                         LCKDIVKTGGSE-EARNGRVSIRDDRDNLTFTVTLQNLTLEDAGTYMCAVDIPLIDHSFK 104
+18:gi|296203096|ref|XP_002748749.1                                                         RCTKIVETRGSAEKVGNSRVSIKDHPANLSFTVTLENLTEDDAGTYWCGVDTplRDPFIK 105
+19:gi|332260440|ref|XP_003279297.1                                                         RCNKIVETKGPAG-TRKGRVSIRDSPANLSFTVTLENLTEEDAGTYWCGVDTPwhDPYFQ 104
+20:gi|20330544|gb|AAM19096.1|AF251703_1                                                    SCKTLVETDASEQLVKKNRVSIRDNQRDFIFTVTMEDLRMSDAGIYWCGITKGGLDPMFK 105
+21:gi|297273533|ref|XP_001090848.2                                                         RCAKIVETEGPAGKM-NGRVSIMDCPQNLSFTVTLENLTEEDAGTYWCGVDTPWhdPYAQ 104
+22:gi|114670314|ref|XP_523707.2                                                            LCDKIVETKGSARK-RNGRVSIRDSPANLSFTVTLENLTEEDAGTYWCGVDTPwhDPVVE 104
+23:gi|345804793|ref|XP_540408.3                                                            -WKKIVETTKSQREVTKGRVSIRDHPADLTFTVTLKNLTEGDAGTYKCGIDILWVDPTFS 103
+24:gi|348558202|ref|XP_003464907.1                                                         LCDKIVETTASSREARKGRVTIRDHPANLSFTVTLENLTLQDADSYWCGINVPwqDPDFK 100
+25:gi|345326504|ref|XP_001513631.2                                                         SCTIIISTSKSGGERRNDRVSIKDNHQGHIFTVTMNRLQEGDAGIYWCGMKSIWLDPKHL 99
+26:gi|354466529|ref|XP_003495726.1                                                         SCQNTVKTRAS-KEARNGRVSIRDDPATLTFTVTLDNLTLEDAGTYMCGVDIPLINESVE 104
+27:gi|338711343|ref|XP_001492936.2                                                         PwkKIVETTESEREVSRGRVSIRDHPANLTFTVTLENLTEADTGSYCCGIDTSwrEPTFQ 103
+28:gi|21751430|dbj|BAC03966.1                                                              DCKILVKTSGSEQEVKRDRVSIKDNQKNRTFTVTMEDLMKTDADTYWCGIEKTGNDLGVT 120
+29:gi|25092741|ref|NP_739564.1                                                             LCKDIVKTSSSE-EARSGRVTIRDHPDNLTFTVTYESLTLEDADTYMCAVDIsgFDKYFK 102
+30:gi|300794437|ref|NP_001179385.1                                                         S-PNIVATTESKTEVTQGHVSIRDHPANLTFTVTLESLREEDAGTYRCGIDVskFDPTFE 104
+31:gi|20380183|gb|AAH28199.1                                                               DCKILVKTSGSEQEVKRDRVSIKDNQKNRTFTVTMEDLMKTDADTYWCGIEKTGNDLGVT 106
+32:gi|297487467|ref|XP_002696260.1                                                         NCRFVVKTTGSEKEVKEGRVSIRDNQKDRSFTVTMKELRLDDSDTYWCGIEIPGPDLGNP 105
+33:gi|73698041|gb|AAZ81566.1                                                               DCKVLVKTSGSEQEVKRDRVSIKDNQKNRTFTVTMEDLMKTDADTYWCGIEKTGNDLGVT 106
+34:gi|351701676|gb|EHB04595.1                                                              LCDKIVETKDSVREVRSGRVTIRDHPANLSFTVTLESLSLQDTGSYWCGVDAPWqdPAVK 93
+35:gi|149723588|ref|XP_001497357.1                                                         SCKILVITTGSEQEVKRDRVSIRDDQRNLTFTVTMEELRRDDEDTYWCGIERTGTDPGFQ 104
+36:gi|61887403|ref|XP_586941.1                                                             NCHFVIKTTGSEKEVKKGRVSIRDNQKDRLFTVTMEELRLDDSDTYWCRIERTGPDLGNP 105
+37:gi|297273536|ref|XP_001091451.2                                                         GCNILVRTNGSEQEVKKNRVSIRDNQKNRIFTVTMENLKRDDADSYWCGIEKTGIDLGVN 107
+38:gi|20381405|gb|AAH28091.1                                                               TCKILIETRGSEQGEKSDRVSIKDNQKDRTFTVTMEGLRRDDADVYWCGIERRGPDLGTQ 103
+39:gi|281345546|gb|EFB21130.1                                                              ---KIVETKAADREVRKNRVSIRDHRANLTFTVTLESLTKGDAGTYWCGIDTSwrDPTLR 102
+40:gi|320498033|ref|NP_001189392.1                                                         SCEILVETDASERLAKKNRVSIRDDQTNFIFTVTMEDLRMSDADVYWCGITKVGRDPMFE 105
+41:gi|281345547|gb|EFB21131.1                                                              SCQILVQTNGSEQEVKGDRVSIRDNQRHGLLTVTMEEVRRDDTDTYWCGISRNGPDLGAS 104
+42:gi|21703872|ref|NP_663412.1                                                             SCDILVETDKSEQLVKKNRVSIRDNQRDFIFTVTMEDLRMSDAGIYWCGITKGGPDPMFK 105
+43:gi|344291031|ref|XP_003417240.1                                                         FCKILIQSRGSEQEVKKDRMSIRDNHRNRSFTVTMEKLSREDADTYWCGIEKKGSDLGVQ 106
+44:gi|119609575|gb|EAW89169.1                                                              TCKILIETRGSEQGEKSDRVSIKDNQKDRTFTVTMEGLRRDDADVYWCGIERRGPDLGTQ 103
+45:gi|344299331|ref|XP_003421339.1                                                         SCKILVKTTGTEQEVKKGRVSIRDNHTEHIFTITIKKLREDDEDFYWCGIERFLTDLGVQ 104
+46:gi|293340555|ref|XP_002724695.1                                                         SCKILVETDASECLVKKNRVSMRDNQTNFIFTVTMEDLRMSDAGIYWCGITKAGYDPMFK 105
+47:gi|264681503|ref|NP_001161136.1                                                         TCRILIRTTGSEKEMKSGRLSIRDNQKNNSFQVTMEMLKQNDTDTYWCGIEKFGTDRGTR 106
+48:gi|194675713|ref|XP_001256397.2                                                         NCRFVVKTTGSEKEVKEGRVSIRDNQKDRSFTVTMKELRLDDSDTYWCGIEIPGPDLGNP 105
+49:gi|335297418|ref|XP_003131286.2                                                         SCKILVQTTASEPEVKRDRVSIRDDRENRTFTVTTEELRLDDAGVYWCGIERVGHDHGTQ 104
+50:gi|354466591|ref|XP_003495757.1                                                         TCETLVKTDASEKLVKKNRVSIRDDQTDLIFTVTLEDLRISDAGVYWCGIDRIGYDPNFE 100
+51:gi|169646348|ref|NP_001108624.1                                                         YCNILVKTNGSEQEVKKNRVSIRDNQKNHVFTVTMENLKRDDADSYWCGTERPGIDLGVK 106
+52:gi|344291025|ref|XP_003417237.1                                                         SCKILVKTTGSEKEVKEVRMSIRDSQKNHTFIVTMEKLREDYAGFHWCGIERTGIDLGAQ 105
+53:gi|86129506|ref|NP_001034384.1                                                          SCsdIVITSEKEPGAKQGRTSIWDNRTQRVFTVTMKDLTARDHGTYRCGVRTDlwDVTDT 101
+54:gi|109118212|ref|XP_001090960.1                                                         SCEILIQTRGSEQEEKKDLVSIKDSHTDCTFTVTMEGLRQNDSNIYWCGIQRRGPDLGTQ 103
+55:gi|301787199|ref|XP_002929013.1                                                         SCQILVQTNGSEQEVKGDRVSIRDNQRHGLLTVTMEEVRRDDTDTYWCGISRNGPDLGAS 104
+56:gi|348558200|ref|XP_003464906.1                                                         VCSVLVKTRGSEQEEKSGRVSIRDNQTYWSFKVTMEGLRQDDAGTYWCGIERSFTDPGVP 104
+57:gi|293340557|ref|XP_002724696.1                                                         SCKILVETDASECLVKENRVSIRDDQRNFIFTVTMEDLRMSDAGIYWCGIVKSGYDPMFK 105
+58:gi|262205519|ref|NP_001160049.1                                                         GCKSIVETDGSEREKKNGRVSIRDHAGNSTITVTMENLSEDDAGSYWCKIQtlSRDPSVR 105
+59:gi|355754352|gb|EHH58317.1                                                              SCEILIQTRGSEQEEKKDLVSIKDSHTDCTFTVTMEGLRQNDSNIYWCGIQRRGPDLGTQ 103
+60:gi|123248343|emb|CAM21176.1                                                             SCEILVETDASEQLVKENRVSIRDDQTDFIFTVTMEDLRMSDADIYWCGITKSGYDPMFK 105
+61:gi|354466595|ref|XP_003495759.1                                                         ACEILVKTNTSEKLVK-NRVSIRDDQIDLIFTVTMEDLRISDAGIYWCGIDRVGYDPSFK 102
+62:gi|345804791|ref|XP_003435227.1                                                         SCDILVQTEGSEQEVKRDHVSIRDNQRQHLLTVTMKEVRQSDTDTYWCGISKPGPDLGAP 103
+63:gi|74178584|dbj|BAE32536.1                                                              TCRVLIRSTGSEKETKSGRLSIRDNQKNHSFQVTMEMLRQNDTDTYWCGIEKFGTDRGTR 106
+64:gi|345326500|ref|XP_001513603.2                                                         KCRPIVSTGYHKNEGRNGSVSISDCPDNDTFTVTMENLSTGDADTYWcgIEVSGLEIPNP 107
+65:gi|351701677|gb|EHB04596.1                                                              VCEILVKTRGSEKEEKNGRVSIRDNQRAQAFQVTMEGLRQDDSDTYWCGIQRSGTDQGIP 104
+66:gi|344291023|ref|XP_003417236.1                                                         SCKILVKTTGSEKEVKEVRMSIRDSQKNHTFIVTMEKLREDYAGFHWCGIERTGIDLGAQ 105
+67:gi|296203104|ref|XP_002748822.1                                                         SCEILVITAGSGHTVERDRVSISDDQKNRVFTVTMKNLWRSDTDTYWCGIERTGTDLGVQ 104
+68:gi|281350011|gb|EFB25595.1                                                              DCHILVQTNGSEQEVKSDRTSIQDDQKSFTFTVTMEELRWNDADTYWCGIERTGADLGVE 105
+69:gi|344236277|gb|EGV92380.1                                                              TCETLVKTDASEKLVKKNRVSIRDDQTDLIFTVTLEDLRISDAGVYWCGIDRIGYDPNFE 99
+70:gi|319428629|gb|ADV56672.1                                                              SCEIRVETDASERLVKENHVSIRDDQTNFTFTVTMEDLRMSDAGIYWCGITKAGYDHMFK 105
+71:gi|149054744|gb|EDM06561.1                                                              SCEIRVETDASERLVKENHVSIRDDQTNFTFTVTMEDLRMSDAGIYWCGITKAGYDHMFK 105
+72:gi|354466527|ref|XP_003495725.1                                                         TCRVLIRTKGSEEEKKSGRLSIRDNWRDNSLLVTMEMLTQNDTDTYWCGIEKFGTDRGTR 106
+73:gi|269973889|ref|NP_001161757.1                                                         LCKDIVKTGGSE-EARNGRVSVRDDPDNLTFTVTLESLILEDAGTYMCGVDIpgIDEFFK 106
+74:gi|326680687|ref|XP_002664573.2                                                         TCAILTFVNET-----RNKFSITDYPAQSIFTVEWQNLQPSDSGYYWCAVEIGglDAGYY 84
+75:gi|344291029|ref|XP_003417239.1                                                         PCYKIVETSGSEREKRRGRVSISDHPAQLSFTVTMTKLTVEDAGKYWCGIDITwfDPTFQ 105
+76:gi|63024881|emb|CAH19215.1                                                              GNKVIMVKSGSPAEDQ--RFSLSDDRTARVFTVTITDLRQEDAGQYWCGVKRSLSDVYSE 102
+77:gi|358417642|ref|XP_603093.4                                                            VCRKIVETKGEEKERRNGRVSIRDQADNLTFTVIMENLSTNDAGSYWCRIQTVwwDPSVQ 104
+78:gi|297273540|ref|XP_001091790.2                                                         SCESIVETKGEEKVERNGRVSIRDHPEALAFTVTMQNLNEDDAGSYWCKIQtwSRDPSAL 105
+79:gi|157279955|ref|NP_001098493.1                                                         SCRILVETQGLEREEKGARVSIKDNQRNRSFTVTMQELRPDDADTYWCGIENPGANLGTQ 103
+80:gi|119609581|gb|EAW89175.1                                                              SCESIVETKGEEKVERNGRVSIRDHPEALAFTVTMQNLNEDDAGSYWCKIQtwSRDPSDL 105
+81:gi|359077195|ref|XP_002696258.2                                                         VCRKIVETKGEEKERRNGRVSIRDQADNLTFTVIMENLSTNDAGSYWCRIQTVwwDPSVQ 104
+82:gi|338711341|ref|XP_003362514.1                                                         PWrkIVETTESEREASRGRVSIRDHPANLTFTVTLESLTEADTGTYCCGIDTRwrDSTFQ 105
+83:gi|355676908|gb|AER95826.1                                                              ---KMVKTEGANREVRSGRVSIRDHPANLTFTVTLERLTEDDAGTYRCGIDSSgfDRTFP 70
+84:gi|293340561|ref|XP_001081656.2                                                         LCEDIVMTGGSE-EDRNGRVSIRDDPDNLIFTVTLESLTMEDAGTYMCAVDIpgIDKFFK 106
+85:gi|293351948|ref|XP_002727884.1                                                         LCGILVETDASERLVKKNRVSIRDNQTHFIFTVTMEDLRMSDADIYWCGITKVGYDLMSK 106
+86:gi|40353230|ref|NP_954671.1                                                             SCEILVETDASEQLVKENRVSIRDDQTDFIFTVTMEDLRMSDADIYWCGITKAGTDPMFK 105
+87:gi|326665295|ref|XP_002660996.2                                                         TCSILAYVNGT-----RNKFSITDYPAQSIFTVEWQNLQPSDSAYYWCAVEIGGpdAGYF 84
+88:gi|345804656|ref|XP_003435214.1                                                         SCHILVQTDGSEREARGDRVSIKDNQKLRVFTVTMEELRWNNADTYWCGIERSGTDLGVE 104
+89:gi|281347950|gb|EFB23534.1                                                              KCYILVQTNGSEQEVKDDRVSIKDDQKLRTFTVTMEELRWNDADTYWCGIERSGPNPAAK 105
+90:gi|296203098|ref|XP_002748750.1                                                         RCAKIVETRGSAGKLRNGRVSIMDHPANLSFTVTLENLTEDDAGTYWCGVDLPwhDPFIK 105
+91:gi|326665297|ref|XP_002660997.2                                                         SCSILAYVNET-----RNKFSITDYPAQSIFTVEWQNLQESNSSYYWCAVEIGGpdAGYY 86
+92:gi|338711338|ref|XP_001492807.3                                                         ACNIIVETKGEEREERNGRVSIRDCADKLTFTVTMENLNADDAGTYWCRIQtwSYDPSVQ 98
+93:gi|269973887|ref|NP_001161756.1                                                         LCEDIVMTRGSE-EARNGRVTIRDHPDNLTFTVTLQSLTLEDAGTYMCGVgrFWNKESFR 106
+94:gi|149632638|ref|XP_001510720.1                                                         SCSIIIKTESKEGEVKSGRVAISDSHRNLTFTVTMENLTADDAGSYACGINKGLIISWFR 105
+95:gi|355732039|gb|AES10574.1                                                              DCHILVQTDGSEQEVKGDRVSIKDNWKSRTFTVTMEDLRWNSADTYWCGIEKSGTDLGVD 95
+96:gi|348558198|ref|XP_003464905.1                                                         Y-GKIVETTASSREARKGRVTIRDHPANLSFTVTLENLTLQDAGSYWCGINVPWrdPDFE 104
+97:gi|345804783|ref|XP_003435224.1                                                         TCENIVETKGKEKEERSGRVTIRDHAVNLTFIVTMENLTADDAGSYWCKIQkwSYDPSVQ 98
+98:gi|354466589|ref|XP_003495756.1                                                         KCKTIVEIKGNGEVKKSGRVSMRDHAGNFSMTVTMENLSEDDAGSYWCKIQtwSRDPAVL 103
+99:gi|301792260|ref|XP_002931097.1                                                         LWNQLVATGQSEEEMRSGRVSIVDHSGDLTFTVTLENLTAADAGKYRCGIAtfLPDLFFQ 106
+100:gi|293340564|ref|XP_002724698.1                                                        LCEDIVMTRGSE-EARNGRVSIRDDPDNLTFTVTLQSLTLEDTGTYMCGVGTpgNKMSFR 103
+                                                                                                                : *      : :    :       : *            
+
+0:sp|Q8TDQ1|CLM1_HUMAN CMRF35-like molecule 1 OS=Homo sapiens OX=9606 GN=CD300LF PE=1 SV=3 VQVTIDPAPVTQEETSSSPTLTGHHLDNRHKLLKLSVLLPLIFTILLLLLVAASLLAWRM 180
+1:gi|30962591|gb|AAP42152.1|AF375480_1                                                     VQVTIDPAPVTQEEISSSPTLTGHHLDNRHKLLKLSVLLPLIFTILLLLLVAASLLAWRM 166
+2:gi|297701711|ref|XP_002827847.1                                                          VQVTIDpaPVTQEETSSSPTLTGHHLDNRHNLLKLSVLLPLIFTILLLLSVAASLLAWRM 180
+3:gi|297273542|ref|XP_002800635.1                                                          VQVIIDpaPVTPEETSNSPTLTGHHLDKRHNLLKLSVLLPLIFTILLLLLVAASLLAWRI 167
+4:gi|296203108|ref|XP_002748755.1                                                          VQVTIDPAsvTLEETSSSPTLNSYHLDNRYKLLKLRVLLPLVFSILLLLLVAASLLVWRT 180
+5:gi|301768907|ref|XP_002919915.1                                                          VKVTIDPAPTtpAETKGPPTETSHHSRGSTNSLKLSILIPLILAVLLLLLVMASLLALRR 164
+6:gi|291414768|ref|XP_002723630.1                                                          IAVTVGPAPATQEKTEGSPTVSSHHLGARPK-MKLSTLLPLLFAVLLLLLVVASLLAWRM 166
+7:gi|345804781|ref|XP_540416.3                                                             VKVTIDPAptAPAETKDPPTVTSSHSNDRDNAMTLSVLIPTILAVLLLLLVAASLLTLRI 165
+8:gi|332266192|ref|XP_003282097.1                                                          VRVTIDPAPVTPEETSSSPTLTGHHLDNRHNLLKLSVLLPLIFTILLLLSVAASLLAWRM 180
+9:gi|261854604|gb|ACY00701.1                                                               VHVSINPVTTTVKETSTLSTQTSHYSDNRYdfLDLSVLLPVISAALLLLLLVVSLIAWRM 165
+10:gi|351701679|gb|EHB04598.1                                                              VKVTIDPVPTTAPTTSVstPTNSYHSSDRYSIIDLRVLLPLIFAVLLLVLVAASLLAWRM 167
+11:gi|74178443|dbj|BAE32481.1                                                              VTVNIGPGKRHGGGDSGGGEDGV-----GDGFLDLSVLLPVISAVLLLLLLVASLFAWRM 160
+12:gi|281332121|ref|NP_001162624.1                                                         VTVNIGPAIQVpkETSMFPTLTSYYsgVGDGFLDLSVLLPVISAVLLLLLLVASLFAWRM 165
+13:gi|68341985|ref|NP_001020282.1                                                          VHVSINPVPTTPteTSTLSTQTSHYSDNRYdfLDLSVLLPVISAALLLLLLVVSLIAWRM 165
+14:gi|296476056|gb|DAA18171.1                                                              VEVTIDPA------------ATGHHS-NDSDGLKLSVLLPLIFAVLLLLFMVASLVAWRM 152
+15:gi|354466587|ref|XP_003495755.1                                                         VNVNIDPApgAVNGTSSFPQRSSPYStgGSGLLDLSVLLPVISAVLLLLLLVASLFAWRM 165
+16:gi|148702514|gb|EDL34461.1                                                              VTVNIGPAIQVPITVPTMPPITSTTTIFTVTTTVKETSMFP------------------- 146
+17:gi|329112553|ref|NP_001192277.1                                                         VELSVVPgpGTTRETTVVPtiPEGHHEHYEPQGLSLPVLLSVLALLLLLLVGTSLLAWRM 164
+18:gi|296203096|ref|XP_002748749.1                                                         VEVSVFPapSTTLLTVSATHSTSIQGDNEEVVNLQLPLLLSLLALLLILLVGASLLVWRM 165
+19:gi|332260440|ref|XP_003279297.1                                                         VEVSVFPASTSMTPTSvfPPVSSTMleNEAVVNSQFPLLLSLLVLLLLLLIGASLLAWRM 164
+20:gi|20330544|gb|AAM19096.1|AF251703_1                                                    VTVNIGPAIQVPITVPTMPPITSTTTIFTVTTTVKETSMFPT-----------------L 148
+21:gi|297273533|ref|XP_001090848.2                                                         VEVSVFPASTSMTPTssATHSTSNWGENEEVVSSQLPLLLSLLALLLLLLMGASLLAWRM 164
+22:gi|114670314|ref|XP_523707.2                                                            VEVSVFPASTSMTptTAFPPVSSTTleNEEVVNSQLPLLLSLLALLLLLLVGASLLAWRM 164
+23:gi|345804793|ref|XP_540408.3                                                            VVVSVNPATMStsSSSPAPTTTghSASSQEeqSLGLQVLLSLLALLLLLLGGSSLLAWRM 163
+24:gi|348558202|ref|XP_003464907.1                                                         VKVSVLPGESTTAAYLAGGTHTFSSQEnqHVQDSWLSVLLFLLGVLLLLLVGLSLLAWRI 160
+25:gi|345326504|ref|XP_001513631.2                                                         VNVTISPGLRAGGQGRS-PSFSGLPLLSRFDLSRLEVLLPLVFVVLLAVLLGVSLLAWGM 158
+26:gi|354466529|ref|XP_003495726.1                                                         isVVLFPGSVsaTEGPTEGSTMKEHLEHSEPTGLSLPVLLSVLALLLFLLAGASLLVWRM 164
+27:gi|338711343|ref|XP_001492936.2                                                         VEVSVVPAAPTstPATVSATLSGSSQEgqQNQGWGLQVLLSLLAVLLLLLAGTSLLAWRM 163
+28:gi|21751430|dbj|BAC03966.1                                                              VQVTIDPAPVTQEETSSSPTLTGHHLDNRSE----------------------------- 151
+29:gi|25092741|ref|NP_739564.1                                                             IELSvsPGPttPVVSTSLPtnTEGHREHDYSQGLRLPALLSVLALLLFLLVGTSLLAWRM 162
+30:gi|300794437|ref|NP_001179385.1                                                         VEVSVTPAPRPTRPTVTVKTstTHSTSSQEeqTWRLHALLISLALLLLLLGGISLLAWRM 164
+31:gi|20380183|gb|AAH28199.1                                                               VQVTIDPAPVTQEETSSSPTLTGHHLDNSS------------------------------ 136
+32:gi|297487467|ref|XP_002696260.1                                                         VEVTIDPgpTTNANMFTAPVAPEGHLSGGQSLRSSVHFLLLVFLKVPLFLGMLGAVLW-- 163
+33:gi|73698041|gb|AAZ81566.1                                                               VQVTIdtAPVTQEETSSSPTLTGHHLDNRHKLLKLSVLLPLIFTILLLLLVAASLLAWRM 166
+34:gi|351701676|gb|EHB04595.1                                                              VMVSEstAPSSKPPTSVAVARTSTtqENQQnqDSRLLVLLSLLAVLLLLLVGLSLLAWQI 153
+35:gi|149723588|ref|XP_001497357.1                                                         VKVTIDPAPttPEETRVSPTVTSHHSESRS------------------------------ 134
+36:gi|61887403|ref|XP_586941.1                                                             VEVTIDPAPTVSISTLATS----------------------------------------- 124
+37:gi|297273536|ref|XP_001091451.2                                                         VQVTIKPDTQTPVLEWTTATAS-------------------------------------- 129
+38:gi|20381405|gb|AAH28091.1                                                               VKVIVDPEGAAST-TASSPTNS-------------------------------------- 124
+39:gi|281345546|gb|EFB21130.1                                                              VVVSVSPAKTTAPpsSTAPTTMghSASSQEeqGLGLQILLSLLALLLLLLGGSSLLAWRM 162
+40:gi|320498033|ref|NP_001189392.1                                                         VRVSIDPAP--------------------------------------------------- 114
+41:gi|281345547|gb|EFB21131.1                                                              VKVTIDPapASPRSTTTTSGRAGASSDS-------------------------------- 132
+42:gi|21703872|ref|NP_663412.1                                                             VNVNIDQAPKSSMMTTTATVLKS------------------------------------- 128
+43:gi|344291031|ref|XP_003417240.1                                                         VKVTVGPAktTPTNLSSKPLAMSST----------------------------------- 131
+44:gi|119609575|gb|EAW89169.1                                                              VKVIVDPGS--------------------------------------------------- 112
+45:gi|344299331|ref|XP_003421339.1                                                         VKVSLDPALPEPEQGppAPPIS-------------------------------------- 126
+46:gi|293340555|ref|XP_002724695.1                                                         VHVSIDPG---------------------------------------------------- 113
+47:gi|264681503|ref|NP_001161136.1                                                         VKVIVYSGKAT---MSTSKQLSWPTVDSRAD----------------------------- 134
+48:gi|194675713|ref|XP_001256397.2                                                         VEVTIDPGKSTCvrVSSGPALS-------------------------------------- 127
+49:gi|335297418|ref|XP_003131286.2                                                         VRVTVdpTTTSAINTFTAPVTSGDDSLN-------------------------------- 132
+50:gi|354466591|ref|XP_003495757.1                                                         VNVNIDPEVSTVIMTTTAPFLTSTPS---------------------------------- 126
+51:gi|169646348|ref|NP_001108624.1                                                         VQVTINPGTQtsEWTTTTASL--------------------------------------- 127
+52:gi|344291025|ref|XP_003417237.1                                                         LKVSFGPapATPEEITASPSTTAQCSNDRQE----------------------------- 136
+53:gi|86129506|ref|NP_001034384.1                                                          VRVIVSSGptVPPDPISGPTWTSPQQE-----------------------------TAKQ 132
+54:gi|109118212|ref|XP_001090960.1                                                         VQLTVDPEGAASAPANSS------------------------------------------ 121
+55:gi|301787199|ref|XP_002929013.1                                                         VKVTIDPG---------------------------------------------------- 112
+56:gi|348558200|ref|XP_003464906.1                                                         VKLIIDPA---------------------------------------------------- 112
+57:gi|293340557|ref|XP_002724696.1                                                         VRVGIEPG---------------------------------------------------- 113
+58:gi|262205519|ref|NP_001160049.1                                                         VKVHVFPATTPMETTLPAIT---------------------------------------- 125
+59:gi|355754352|gb|EHH58317.1                                                              VQLTVDPGKNFLIYTTRPWSSGGSE----------------------------------- 128
+60:gi|123248343|emb|CAM21176.1                                                             VNVNIDP----------------------------------------------------- 112
+61:gi|354466595|ref|XP_003495759.1                                                         VNVNIDPEVSTVIMTTMAPVLT-------------------------------------- 124
+62:gi|345804791|ref|XP_003435227.1                                                         IKVTIDPVALSST----------------------------------------------- 116
+63:gi|74178584|dbj|BAE32536.1                                                              VKVNVYSVGKDTMSTspWPTVDGST----------------------------------- 131
+64:gi|345326500|ref|XP_001513603.2                                                         LDLSldQTKTRGLGTSGIPGTmvYWSSQLFDLFRLEFLLPLVFGVLLVVLVGVSILAWRM 167
+65:gi|351701677|gb|EHB04596.1                                                              VKVAIDPDCTLTCgtTSSKPLTESSDES-------------------------------- 132
+66:gi|344291023|ref|XP_003417236.1                                                         LKVSFGPGQGTAFSPGSEP----------------------------------------- 124
+67:gi|296203104|ref|XP_002748822.1                                                         VQVTVYPAEVTVYPVEVT------------------------------------------ 122
+68:gi|281350011|gb|EFB25595.1                                                              VQVTIDPGKS-------------------------------------------------- 115
+69:gi|344236277|gb|EGV92380.1                                                              VNVNIDPGSS-------------------------------------------------- 109
+70:gi|319428629|gb|ADV56672.1                                                              VHVSINPGMTVVVSATV------------------------------------------- 122
+71:gi|149054744|gb|EDM06561.1                                                              VHVSINPatTTVKETSTLSTQTSHYSDNS------------------------------- 134
+72:gi|354466527|ref|XP_003495725.1                                                         VKVTVYSVGKDSMSSNGLSTMS-------------------------------------- 128
+73:gi|269973889|ref|NP_001161757.1                                                         VELSVVPGSSLWSSTTVPETIRSS------------------------------------ 130
+74:gi|326680687|ref|XP_002664573.2                                                         VHLTVRSAPDVSVMNSS---VSGHEGGNVSVQCFYSSGYKAYNKQ------------WCR 129
+75:gi|344291029|ref|XP_003417239.1                                                         VVVSVSPapHPHTSTRTAGTSSGPGLMDK------------------------------- 134
+76:gi|63024881|emb|CAH19215.1                                                              IVLLVKQapSYFSTTETNPQSTSITVSDQNKSTDLVPVAGGLGSVLLVLVLCSGTFLILK 162
+77:gi|358417642|ref|XP_603093.4                                                            VEVSVSPAPSTTPGSTACLAV--------------------------------------- 125
+78:gi|297273540|ref|XP_001091790.2                                                         VRVYVSPA---------------------------------------------------- 113
+79:gi|157279955|ref|NP_001098493.1                                                         IKVTVGPSKS-------------------------------------------------- 113
+80:gi|119609581|gb|EAW89175.1                                                              VRVYVSPAITTPRRTTHPAT---------------------------------------- 125
+81:gi|359077195|ref|XP_002696258.2                                                         VEVSVSPAPSTTPGSTACLAV--------------------------------------- 125
+82:gi|338711341|ref|XP_003362514.1                                                         VEVSVLPAAPTPKIFTSTP----------------------------------------- 124
+83:gi|355676908|gb|AER95826.1                                                              VLVSVDPATMPAPRVspSPPSSGasASSQEeqGPGLQVLLSLLALLLLLLGGSSLLAWRM 130
+84:gi|293340561|ref|XP_001081656.2                                                         VELFMVPGLRPGSSTKIPEPTRSSPADPQPS----------------------------- 137
+85:gi|293351948|ref|XP_002727884.1                                                         IHLSIDPVMTT------------------------------------------------- 117
+86:gi|40353230|ref|NP_954671.1                                                             VNVNIDPepSTVLTSTVLTSTVLTPTTPTTESIGTENIGQVTQNSLFIWSLLssAVLWVN 165
+87:gi|326665295|ref|XP_002660996.2                                                         LYLTVQSAPDVSVKSS---SVSGHEGGNVSVQCLYRSGYKTYNKQ------------WCR 129
+88:gi|345804656|ref|XP_003435214.1                                                         VKVTIDP----------------------------------------------------- 111
+89:gi|281347950|gb|EFB23534.1                                                              VKVTVDPGKS-------------------------------------------------- 115
+90:gi|296203098|ref|XP_002748750.1                                                         VEVSVFPALTT---TASSPQSSMGT----------------------------------- 127
+91:gi|326665297|ref|XP_002660997.2                                                         LYLTVQSDPALSVLNSS---VSGHEGGNVSVQCFYSSGYKAKTKQ------------WCR 131
+92:gi|338711338|ref|XP_001492807.3                                                         VKVFVFPAITTTGRTTRPAA---------------------------------------- 118
+93:gi|269973887|ref|NP_001161756.1                                                         VEVSVIPGSSLWSSTTVPETIRSS------------------------------------ 130
+94:gi|149632638|ref|XP_001510720.1                                                         VSISQEAAVKRSKPTTSTAEITNATQD--------------------------------- 132
+95:gi|355732039|gb|AES10574.1                                                              VKVTIDP----------------------------------------------------- 102
+96:gi|348558198|ref|XP_003464905.1                                                         LKVSVLPAPNSHLNVVTST----------------------------------------- 123
+97:gi|345804783|ref|XP_003435224.1                                                         VKVYLSPAPSKTTERTTCRAASAGFLG--------------------------------- 125
+98:gi|354466589|ref|XP_003495756.1                                                         VKVHVLPATTPMATTLAVTTAS-------------------------------------- 125
+99:gi|301792260|ref|XP_002931097.1                                                         VQVFVSP----------------------------------------------------- 113
+100:gi|293340564|ref|XP_002724698.1                                                        VEVSVVPGSSPGSS---------------------------------------------- 117
+                                                                                           : :                                                         
+
+0:sp|Q8TDQ1|CLM1_HUMAN CMRF35-like molecule 1 OS=Homo sapiens OX=9606 GN=CD300LF PE=1 SV=3 MKYQQKAAGMSPEQVLQPLEGDLCYADLTLQLAGTSPQKATTKLSSAQVDQVEVEYVTMA 240
+1:gi|30962591|gb|AAP42152.1|AF375480_1                                                     MKYQQKAAGMSPEQVLQPLEGDLCYADLTLQQAGTSPRKATTKLSSAQVDQVEVEYVTMA 226
+2:gi|297701711|ref|XP_002827847.1                                                          MKRQQKVAGMSPEQVPQPLEGDLCYADLTLQLAGTSPQKATTKLssAQADQVEVEYVTMA 240
+3:gi|297273542|ref|XP_002800635.1                                                          MKCQQKAAGMSPEQVPQPLEGDLCYADLTQQLTRTSPQKATTKLssAQADQVEVEYVAMA 227
+4:gi|296203108|ref|XP_002748755.1                                                          MKRQKKAAGMSSEQVLQSPESDLCYANLTLQQTRASPKKATTksSSVQADQVDVEYVTMA 240
+5:gi|301768907|ref|XP_002919915.1                                                          MKRQERAAGTSPEQVLQPPEGDLCYANLALQSTGTSHDPSQRKasSALDDQREVEYVTMA 224
+6:gi|291414768|ref|XP_002723630.1                                                          MKRQDHAAGTRPEQTLQSLESDLCYVNLTLPQTGSSPgkAPRRSASAQAGQEEVEYVTMA 226
+7:gi|345804781|ref|XP_540416.3                                                             MKQQKKAAEMSPEQVLQPQEGDLCYANLTLQPTQISRNSSKKKAcsVLDDQLEVEYVTMA 225
+8:gi|332266192|ref|XP_003282097.1                                                          MKRQQKAAGMSPEQGL-----------------------GAEGLETARGTRAEGYGSLRS 217
+9:gi|261854604|gb|ACY00701.1                                                               VRRQKKAAGPPSGQ---PLEDDLCYANLSLQQPRTSPlkGSSMSSSGKDHQEEVEYVTMA 222
+10:gi|351701679|gb|EHB04598.1                                                              MKGDSSLCSH-----LQPVEGDLCYANLSMHQPGTSWQKPSTKSSSAQANQGEVECVIMA 222
+11:gi|74178443|dbj|BAE32481.1                                                              VRRQKKAAGPPSEQA-QSLEGDLCYADLSLKQPRTSPgkGSSMSSSGKDHQEEVEYVTMA 219
+12:gi|281332121|ref|NP_001162624.1                                                         VRRQKKAAGPPSEQA-QSLEGDLCYADLSLKQPRTSPgkGSSMSSSGKDHQEEVEYVTMA 224
+13:gi|68341985|ref|NP_001020282.1                                                          VRRQKKAAGppPKPHVQPLEDDLCYANLSLQQPRTSPlkGSSMSSSGKDHQEEVEYVTMA 225
+14:gi|296476056|gb|DAA18171.1                                                              AKRPKKASGTSPVQVLQPLGSDICYADLNLQqaPSSPQAYsdYANTADVFRDNIPYTPLT 212
+15:gi|354466587|ref|XP_003495755.1                                                         VRRQNKAAGPHSEQV-SSLEGDVCYANLSLQQPRPSHgkGSSMSSSGKAHQEEVEYVTMA 224
+16:gi|148702514|gb|EDL34461.1                                                              -----TLTSYYSDNGAQSLEGDLCYADLSLKQPRTSPGSSWKKGSSMsdHQEEVEYVTMA 201
+17:gi|329112553|ref|NP_001192277.1                                                         FQKRSVKADKHPenLRQAEesESQYVNLQLHTLPL-------REEPVPPSQVEVEYSTLA 217
+18:gi|296203096|ref|XP_002748749.1                                                         FQKWVKAGEhsQNHRQAAEESEQHYANLELLTWPLQE-------EPTPPTQVEVEYSTVA 218
+19:gi|332260440|ref|XP_003279297.1                                                         FQKRIKasELSQNPKQAAKQSELHYTNLELLMWPLQEK-------PAPPREVEVEYSTVA 217
+20:gi|20330544|gb|AAM19096.1|AF251703_1                                                    TSYYSDNGHGGGDSGGGEDGVGDGFLDLslPVISAVLLLLLLVASSGKDHQEEVEYVTMA 208
+21:gi|297273533|ref|XP_001090848.2                                                         FWKRIKAGEhsQNPKQAAEQSELHYANLELLSWPLQE-------EPAPPREVQVEYSTVA 217
+22:gi|114670314|ref|XP_523707.2                                                            FQKWIKAGDhsQNPKQAAKQSELHYANLELLMRPLQEK-------PAPPREVEVEYSTVA 217
+23:gi|345804793|ref|XP_540408.3                                                            IRRHRrkAGENSEPLRTpqQGELCYANLELPMWPL-------RAEPVQPRQVEVEYSTVQ 216
+24:gi|348558202|ref|XP_003464907.1                                                         FQKRVKGGEHSgnPRKAVERCELSYASLQLPTWSL-------KEEPEMPRQVEVEYSTVA 213
+25:gi|345326504|ref|XP_001513631.2                                                         VRRQRKVTGRSAtqGLKPSNSALSHTdlTDQRTPTTpdPYGDKVTSALPSleEMEYVTMV 218
+26:gi|354466529|ref|XP_003495726.1                                                         FQKRQVKAAKYPenLRQAAEQSEcyVNLQLHTWPL-------REEPEPPSQVEVEYSTVM 217
+27:gi|338711343|ref|XP_001492936.2                                                         VQRRAKAGETpqTPSQAAPQSEPCYENLELQMCPL-------REEPMRPRQPEVVYSTLA 216
+28:gi|21751430|dbj|BAC03966.1                                                              ------------------------------------------------------------
+29:gi|25092741|ref|NP_739564.1                                                             FQKRLVKADRHPenLRQASEQNEcyVNLQLHTWSL-------REEPVLPSQVevEYSTLA 215
+30:gi|300794437|ref|NP_001179385.1                                                         VQRWVK-AGEKPEPpqAAEQTELCYANLELQTWPLS-------GKPVQPTQAEVEYSTVG 216
+31:gi|20380183|gb|AAH28199.1                                                               ------------------------------------------------------------
+32:gi|297487467|ref|XP_002696260.1                                                         VNRPLRSSGGKPQEHQQPPCSSTFPEQKTLEQKKKAFFSGNDSVSPFPA----------- 212
+33:gi|73698041|gb|AAZ81566.1                                                               MKYQQKGTAAP------------------------------------------------- 177
+34:gi|351701676|gb|EHB04595.1                                                              WQRWVKGGEHSGLSQNSSQASEQcyANLQLLPWSL-------REEPVTPRQVEVEYSTVA 206
+35:gi|149723588|ref|XP_001497357.1                                                         ------------------------------------------------------------
+36:gi|61887403|ref|XP_586941.1                                                             ------------------------------------------------------------
+37:gi|297273536|ref|XP_001091451.2                                                         ------------------------------------------------------------
+38:gi|20381405|gb|AAH28091.1                                                               ------------------------------------------------------------
+39:gi|281345546|gb|EFB21130.1                                                              VRRRVK-SGKNPEPLRTpqQGEPHYANLELQMWPL-------RGEPVHPRQAEVEYSTVV 214
+40:gi|320498033|ref|NP_001189392.1                                                         ------------------------------------------------------------
+41:gi|281345547|gb|EFB21131.1                                                              ------------------------------------------------------------
+42:gi|21703872|ref|NP_663412.1                                                             ------------------------------------------------------------
+43:gi|344291031|ref|XP_003417240.1                                                         ------------------------------------------------------------
+44:gi|119609575|gb|EAW89169.1                                                              ------------------------------------------------------------
+45:gi|344299331|ref|XP_003421339.1                                                         ------------------------------------------------------------
+46:gi|293340555|ref|XP_002724695.1                                                         ------------------------------------------------------------
+47:gi|264681503|ref|NP_001161136.1                                                         ------------------------------------------------------------
+48:gi|194675713|ref|XP_001256397.2                                                         ------------------------------------------------------------
+49:gi|335297418|ref|XP_003131286.2                                                         ------------------------------------------------------------
+50:gi|354466591|ref|XP_003495757.1                                                         ------------------------------------------------------------
+51:gi|169646348|ref|NP_001108624.1                                                         ------------------------------------------------------------
+52:gi|344291025|ref|XP_003417237.1                                                         ------------------------------------------------------------
+53:gi|86129506|ref|NP_001034384.1                                                          TARPTSPEDLSEEQllIPCIAVVLF-FLALAAAVLVILSWKRKKALAGAP-IEM-GSTRG 189
+54:gi|109118212|ref|XP_001090960.1                                                         ------------------------------------------------------------
+55:gi|301787199|ref|XP_002929013.1                                                         ------------------------------------------------------------
+56:gi|348558200|ref|XP_003464906.1                                                         ------------------------------------------------------------
+57:gi|293340557|ref|XP_002724696.1                                                         ------------------------------------------------------------
+58:gi|262205519|ref|NP_001160049.1                                                         ------------------------------------------------------------
+59:gi|355754352|gb|EHH58317.1                                                              ------------------------------------------------------------
+60:gi|123248343|emb|CAM21176.1                                                             ------------------------------------------------------------
+61:gi|354466595|ref|XP_003495759.1                                                         ------------------------------------------------------------
+62:gi|345804791|ref|XP_003435227.1                                                         ------------------------------------------------------------
+63:gi|74178584|dbj|BAE32536.1                                                              ------------------------------------------------------------
+64:gi|345326500|ref|XP_001513603.2                                                         VRRQREAAGKSANPllELPATEACYADLSIHHWTNdpGKSAPLAHTRSAHQ-DVEYATLG 226
+65:gi|351701677|gb|EHB04596.1                                                              ------------------------------------------------------------
+66:gi|344291023|ref|XP_003417236.1                                                         ------------------------------------------------------------
+67:gi|296203104|ref|XP_002748822.1                                                         ------------------------------------------------------------
+68:gi|281350011|gb|EFB25595.1                                                              ------------------------------------------------------------
+69:gi|344236277|gb|EGV92380.1                                                              ------------------------------------------------------------
+70:gi|319428629|gb|ADV56672.1                                                              ------------------------------------------------------------
+71:gi|149054744|gb|EDM06561.1                                                              ------------------------------------------------------------
+72:gi|354466527|ref|XP_003495725.1                                                         ------------------------------------------------------------
+73:gi|269973889|ref|NP_001161757.1                                                         ------------------------------------------------------------
+74:gi|326680687|ref|XP_002664573.2                                                         VKDKSCFTEEktSQNLSVQISDDGKSFFTVLMTGLNLSDSGWYFCSVGNLKVPVQLTVTK 189
+75:gi|344291029|ref|XP_003417239.1                                                         ------------------------------------------------------------
+76:gi|63024881|emb|CAH19215.1                                                              KRKRKSGTALVQQNVPHNTESVHMYNIANSDPGPSDVIVAASSANQTPapQVPVVYATVt 222
+77:gi|358417642|ref|XP_603093.4                                                            ------------------------------------------------------------
+78:gi|297273540|ref|XP_001091790.2                                                         ------------------------------------------------------------
+79:gi|157279955|ref|NP_001098493.1                                                         ------------------------------------------------------------
+80:gi|119609581|gb|EAW89175.1                                                              ------------------------------------------------------------
+81:gi|359077195|ref|XP_002696258.2                                                         ------------------------------------------------------------
+82:gi|338711341|ref|XP_003362514.1                                                         ------------------------------------------------------------
+83:gi|355676908|gb|AER95826.1                                                              VRRRLK-SGENPKQLRSpqQGEPHYANLELQTWPL-------REEPMHPRQPEVEYSTVK 182
+84:gi|293340561|ref|XP_001081656.2                                                         ------------------------------------------------------------
+85:gi|293351948|ref|XP_002727884.1                                                         ------------------------------------------------------------
+86:gi|40353230|ref|NP_954671.1                                                             RPQRHYGGGE-------------------------------------------------- 175
+87:gi|326665295|ref|XP_002660996.2                                                         VKDKSCFTEEKTdqNLSVQISDDGKSFFTVLMTGLNLSDSGWYFCSVGDLQVPVQLTVTK 189
+88:gi|345804656|ref|XP_003435214.1                                                         ------------------------------------------------------------
+89:gi|281347950|gb|EFB23534.1                                                              ------------------------------------------------------------
+90:gi|296203098|ref|XP_002748750.1                                                         ------------------------------------------------------------
+91:gi|326665297|ref|XP_002660997.2                                                         FKDKSCFTEKKTdqNPSVQISDDGKSSFTVLMTGLRLSDSGWYFCSVGDLQVPVQLTVTK 191
+92:gi|338711338|ref|XP_001492807.3                                                         ------------------------------------------------------------
+93:gi|269973887|ref|NP_001161756.1                                                         ------------------------------------------------------------
+94:gi|149632638|ref|XP_001510720.1                                                         ------------------------------------------------------------
+95:gi|355732039|gb|AES10574.1                                                              ------------------------------------------------------------
+96:gi|348558198|ref|XP_003464905.1                                                         ------------------------------------------------------------
+97:gi|345804783|ref|XP_003435224.1                                                         ------------------------------------------------------------
+98:gi|354466589|ref|XP_003495756.1                                                         ------------------------------------------------------------
+99:gi|301792260|ref|XP_002931097.1                                                         ------------------------------------------------------------
+100:gi|293340564|ref|XP_002724698.1                                                        ------------------------------------------------------------
+                                                                                                                                                       
+
+0:sp|Q8TDQ1|CLM1_HUMAN CMRF35-like molecule 1 OS=Homo sapiens OX=9606 GN=CD300LF PE=1 SV=3 SLPKEDISYASLTLGAEDQEPTYCNMGHLSSHLPGRGPEEPTEYSTISRP 290
+1:gi|30962591|gb|AAP42152.1|AF375480_1                                                     SLPKEDISYASLTLGAEDQEPTYCNMGHLSSHLPGRGPEEPTEYSTISRP 276
+2:gi|297701711|ref|XP_002827847.1                                                          PLPKEDISYASLTLGAEDQEPTYCNMGHLSSHIPGGGPEEPTEYSTISRP 290
+3:gi|297273542|ref|XP_002800635.1                                                          PFPKEDISYASLTLAAEDQEPTYCNMGPLSSHIPSGGPEDPTEYSIIRRP 277
+4:gi|296203108|ref|XP_002748755.1                                                          PVLREDISYASLTLAAEDQEPTYCNTGQLTSPIPSGGPEESLEYSTIRRP 290
+5:gi|301768907|ref|XP_002919915.1                                                          PFPKEDISYAALSWELLNQEPTYCNMNYHVARVPSRSHEESMEYSSIRRP 274
+6:gi|291414768|ref|XP_002723630.1                                                          PVPRGEISYASLSLGILDQEPTYSNASHFISHGAGRGHEESTEYSIIRKP 276
+7:gi|345804781|ref|XP_540416.3                                                             PLSKEDISYAALSWELSNQEPTYCNMGHPDTHVPSRSQQEHMEYSTIKRP 275
+8:gi|332266192|ref|XP_003282097.1                                                          SLAEGEHFYASLTFGAEHQEPXYCNMGHLSGHIPSGGPEVPMEYSTIRR- 266
+9:gi|261854604|gb|ACY00701.1                                                               PFPREEISYAALSLASLGQEPTYSNTACLVTHGPRTNleETTEYSSIRRP 272
+10:gi|351701679|gb|EHB04598.1                                                              PFPREEISYASLCLDILDQEPTYSNTD----HTPSRAYEESTEYTSIRRP 268
+11:gi|74178443|dbj|BAE32481.1                                                              PFPREEVSYAALTLAGLGQEPTYGNTGCPITHVPRTgeEETTEYSSIRRP 269
+12:gi|281332121|ref|NP_001162624.1                                                         PFPREEVSYAALTLAGLGQEPTYGNTGCPITHVPRTgeEETTEYSSIRRP 274
+13:gi|68341985|ref|NP_001020282.1                                                          PFPREEISYAALSLASLGQEPTYSNTACLVTHGPRTNleETTEYSSIRRP 275
+14:gi|296476056|gb|DAA18171.1                                                              pvSRDSITYAALSLDTSDEQPTYSNMEHLNNPPPSRILEKSTVYSTIRKP 262
+15:gi|354466587|ref|XP_003495755.1                                                         PFPREEISYAALTLAALGQEPIYNNTgsLVTHIPSTTFEESTQYCSIKRP 274
+16:gi|148702514|gb|EDL34461.1                                                              PFPREEVSYAALTLAGLGQEPTYGNTGCPITHVPRTgeEETTEYSSIRRP 251
+17:gi|329112553|ref|NP_001192277.1                                                         -LPQEELHYTSVVFDSQRQN------SHANGDPPCQSPDQKTEYSEIRKP 260
+18:gi|296203096|ref|XP_002748749.1                                                         A-PREELHYASVVFDSRTQN---SEANRIAAQRP-REEEPDSNYSVIRK- 262
+19:gi|332260440|ref|XP_003279297.1                                                         A-PREELHYASVVFD--------SNTNRIAAQRP-REEEPGSDYSVIRK- 256
+20:gi|20330544|gb|AAM19096.1|AF251703_1                                                    PFPREEVSYAALTLAGLGQEPTYGNTGCPITHVPRTgeEETTEYSSIRRP 258
+21:gi|297273533|ref|XP_001090848.2                                                         A-PREELHYASVVFD--------SNTNRIAAQRP-REKEPDSHYSVIKK- 256
+22:gi|114670314|ref|XP_523707.2                                                            S-PREELHYASVVFD--------SNTNRIAAQRP-REEEQDSDYSVIRK- 256
+23:gi|345804793|ref|XP_540408.3                                                            KASREEPYYSSVVFDFQSED------SKANRIRSQRTLEQETQYSMIK-- 258
+24:gi|348558202|ref|XP_003464907.1                                                         -FAREDLHYSSVVFDSQMQD---SNADGDFSQRP----KEETEYSEVRKP 255
+25:gi|345326504|ref|XP_001513631.2                                                         SFRREDVPGAPGS--TSDQAPIYGNVGPLTHFAHPRNAAGEAEYTFVRK- 265
+26:gi|354466529|ref|XP_003495726.1                                                         -FPKEELHYASVAFDSQRQ------GSHANGNSPCLPQDQKAEYSEVRKP 260
+27:gi|338711343|ref|XP_001492936.2                                                         T-SGGELHYSSVVFDG-------WSRGSEAHRIPcrSPEKEPEYSVIKK- 257
+28:gi|21751430|dbj|BAC03966.1                                                              --------------------------------------------------
+29:gi|25092741|ref|NP_739564.1                                                             -LPQEELHYSSVAFNSQRQD-SHANGDSL--HQPQ---DQKAEYSEIQKP 258
+30:gi|300794437|ref|NP_001179385.1                                                         P-PSGDLHYSSIVFDPRSQDS-----------KADRIPSEMPVYSMVKK- 253
+31:gi|20380183|gb|AAH28199.1                                                               --------------------------------------------------
+32:gi|297487467|ref|XP_002696260.1                                                         --------------------------------------------------
+33:gi|73698041|gb|AAZ81566.1                                                               --------------------------------------------------
+34:gi|351701676|gb|EHB04595.1                                                              -IGGEDLHYTSVVFHSQKQE---SNANGAPSQGPQK---EEPEYSVVKKP 249
+35:gi|149723588|ref|XP_001497357.1                                                         --------------------------------------------------
+36:gi|61887403|ref|XP_586941.1                                                             --------------------------------------------------
+37:gi|297273536|ref|XP_001091451.2                                                         --------------------------------------------------
+38:gi|20381405|gb|AAH28091.1                                                               --------------------------------------------------
+39:gi|281345546|gb|EFB21130.1                                                              SA------------------------------------------------ 216
+40:gi|320498033|ref|NP_001189392.1                                                         --------------------------------------------------
+41:gi|281345547|gb|EFB21131.1                                                              --------------------------------------------------
+42:gi|21703872|ref|NP_663412.1                                                             --------------------------------------------------
+43:gi|344291031|ref|XP_003417240.1                                                         --------------------------------------------------
+44:gi|119609575|gb|EAW89169.1                                                              --------------------------------------------------
+45:gi|344299331|ref|XP_003421339.1                                                         --------------------------------------------------
+46:gi|293340555|ref|XP_002724695.1                                                         --------------------------------------------------
+47:gi|264681503|ref|NP_001161136.1                                                         --------------------------------------------------
+48:gi|194675713|ref|XP_001256397.2                                                         --------------------------------------------------
+49:gi|335297418|ref|XP_003131286.2                                                         --------------------------------------------------
+50:gi|354466591|ref|XP_003495757.1                                                         --------------------------------------------------
+51:gi|169646348|ref|NP_001108624.1                                                         --------------------------------------------------
+52:gi|344291025|ref|XP_003417237.1                                                         --------------------------------------------------
+53:gi|86129506|ref|NP_001034384.1                                                          TANAEVLQYADISHAGEEQSHLYSNIG-----AAPVSPQAATEYSEVKKP 234
+54:gi|109118212|ref|XP_001090960.1                                                         --------------------------------------------------
+55:gi|301787199|ref|XP_002929013.1                                                         --------------------------------------------------
+56:gi|348558200|ref|XP_003464906.1                                                         --------------------------------------------------
+57:gi|293340557|ref|XP_002724696.1                                                         --------------------------------------------------
+58:gi|262205519|ref|NP_001160049.1                                                         --------------------------------------------------
+59:gi|355754352|gb|EHH58317.1                                                              --------------------------------------------------
+60:gi|123248343|emb|CAM21176.1                                                             --------------------------------------------------
+61:gi|354466595|ref|XP_003495759.1                                                         --------------------------------------------------
+62:gi|345804791|ref|XP_003435227.1                                                         --------------------------------------------------
+63:gi|74178584|dbj|BAE32536.1                                                              --------------------------------------------------
+64:gi|345326500|ref|XP_001513603.2                                                         SAKTKdiTYATVRRPRPAENPTYGNVE--LHRSPRRNNreANELVMIKR- 273
+65:gi|351701677|gb|EHB04596.1                                                              --------------------------------------------------
+66:gi|344291023|ref|XP_003417236.1                                                         --------------------------------------------------
+67:gi|296203104|ref|XP_002748822.1                                                         --------------------------------------------------
+68:gi|281350011|gb|EFB25595.1                                                              --------------------------------------------------
+69:gi|344236277|gb|EGV92380.1                                                              --------------------------------------------------
+70:gi|319428629|gb|ADV56672.1                                                              --------------------------------------------------
+71:gi|149054744|gb|EDM06561.1                                                              --------------------------------------------------
+72:gi|354466527|ref|XP_003495725.1                                                         --------------------------------------------------
+73:gi|269973889|ref|NP_001161757.1                                                         --------------------------------------------------
+74:gi|326680687|ref|XP_002664573.2                                                         PEPKE---------GEQIKKEERVDSSTMNTRLSSVDPEPDVLYSAVMK- 229
+75:gi|344291029|ref|XP_003417239.1                                                         --------------------------------------------------
+76:gi|63024881|emb|CAH19215.1                                                              sNPRHTHsyANIKF----PEPTTDNRTELitHPQNIKTNDGPIYSVIK-- 266
+77:gi|358417642|ref|XP_603093.4                                                            --------------------------------------------------
+78:gi|297273540|ref|XP_001091790.2                                                         --------------------------------------------------
+79:gi|157279955|ref|NP_001098493.1                                                         --------------------------------------------------
+80:gi|119609581|gb|EAW89175.1                                                              --------------------------------------------------
+81:gi|359077195|ref|XP_002696258.2                                                         --------------------------------------------------
+82:gi|338711341|ref|XP_003362514.1                                                         --------------------------------------------------
+83:gi|355676908|gb|AER95826.1                                                              A-PREEPYYSTVIFDFQ------SGGSEANSIRSQRTRDEETQYSVIKK- 224
+84:gi|293340561|ref|XP_001081656.2                                                         --------------------------------------------------
+85:gi|293351948|ref|XP_002727884.1                                                         --------------------------------------------------
+86:gi|40353230|ref|NP_954671.1                                                             --------------------------------------------------
+87:gi|326665295|ref|XP_002660996.2                                                         PEPKE---------GEQIKKEERVDSSTMNTRLSSVDPEPDVVYSTVMK- 229
+88:gi|345804656|ref|XP_003435214.1                                                         --------------------------------------------------
+89:gi|281347950|gb|EFB23534.1                                                              --------------------------------------------------
+90:gi|296203098|ref|XP_002748750.1                                                         --------------------------------------------------
+91:gi|326665297|ref|XP_002660997.2                                                         PVPKE---------GEQIKKEERVDSSTMKTMPpsVDPEPDVLYSTVMK- 231
+92:gi|338711338|ref|XP_001492807.3                                                         --------------------------------------------------
+93:gi|269973887|ref|NP_001161756.1                                                         --------------------------------------------------
+94:gi|149632638|ref|XP_001510720.1                                                         --------------------------------------------------
+95:gi|355732039|gb|AES10574.1                                                              --------------------------------------------------
+96:gi|348558198|ref|XP_003464905.1                                                         --------------------------------------------------
+97:gi|345804783|ref|XP_003435224.1                                                         --------------------------------------------------
+98:gi|354466589|ref|XP_003495756.1                                                         --------------------------------------------------
+99:gi|301792260|ref|XP_002931097.1                                                         --------------------------------------------------
+100:gi|293340564|ref|XP_002724698.1                                                        --------------------------------------------------
+                                                                                                                                             
+

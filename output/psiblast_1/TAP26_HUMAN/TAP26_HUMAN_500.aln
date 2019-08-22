@@ -1,0 +1,188 @@
+CLUSTAL 2.1 multiple sequence alignment (MView)
+
+
+0:sp|Q9P031|TAP26_HUMAN Thyroid transcription factor 1-associated protein 26 OS=Homo sapiens OX=9606 GN=CCDC59 PE=1 SV=2 MAPVRRSAKWRPGGIEARGEGVSTVGYRNKNVRQKTWRPNHPQAFVGSVREGQGFAFRRK 60
+1:gi|156142178|ref|NP_054886.2                                                                                           MAPVRRSAKWRPGGIEARGEGVSTVGYRNKNVRQKTWRPNHPQAFVGSVREGQGFAFRRK 60
+2:gi|332212938|ref|XP_003255577.1                                                                                        MAPVRRAAKWRPGGFEVRGEGVSMVGYRNKNVKQKTWRPNHPQAFVGSVREGQGFAFRRK 60
+3:gi|348580369|ref|XP_003475951.1                                                                                        MAPVSPAARWRTSGLGVRDEGVSSVGLKNKNVKRRSWWPNHPQAFAGSVREGQGFAFRRK 60
+4:gi|194226619|ref|XP_001493329.2                                                                                        MAPVRPTARWRPGSLGPRGEGVSPVGLRNKNVKQRRWRPSHPQAFVGSVREGQGFAFRRK 60
+5:gi|296212473|ref|XP_002752841.1                                                                                        MAPVRRAGKWRLGRFEARSEGLSPVEYGNKNMKQKTWRPNHPQTFVGSVREGQGFAFRRK 60
+6:gi|345110606|ref|NP_001230788.1                                                                                        MAPVRPAPRWRTGSFGTRGEGVSRVGFTNKNVKQRRWRPNHPQAFAGSVREGQGFAFRRK 60
+7:gi|344267592|ref|XP_003405650.1                                                                                        MAPVRLGGSWYAGSLGPRGEEGSSVEFKKKNVKQKKWRANYPKAFVGSIREGQGFALRRK 60
+8:gi|157821509|ref|NP_001101560.1                                                                                        MAPGRPSSRLRTGGFAARGEGTPQVRFGNQNGKRRTWRPNHQQAFLGSVREGQGFAFRRK 60
+9:gi|291389661|ref|XP_002711314.1                                                                                        MAPVRPAARWQFDGVGTRGEGVSPVGFRKKNGKQRTWWPSHTQGFAGSVRQGQGFAFRRK 60
+10:gi|198282087|ref|NP_001092860.1                                                                                       MAPVWPAAR-GRTGGLGTRGRVSPVEFRNKNVKRKTWRPNHLQAFAGSVREGQGFAFRRK 59
+11:gi|73978157|ref|XP_854361.1                                                                                           MAPVGPAAGWPPGGLGTRSARASSAGFRSKDAKQRTWRSNHPQAFQGSVREGQGFAFRRK 60
+12:gi|13385058|ref|NP_079878.1                                                                                           MAPSRPSSKWRTGGFAARGEGISQVRFGNQNGKRRTWRPNPQQAFRGSVRKGQGFAFRRK 60
+13:gi|354496496|ref|XP_003510362.1                                                                                       MAPVRPSSKWRAGGFAAREEGTPQVASKNHSGKRRTWRPSHQQAFPGSVREGQGFAFRRK 60
+14:gi|301769223|ref|XP_002920029.1                                                                                       MAPVRPIAGWSAGDLESRSQGVSSVGFKN-NVKQRKWRPNHPHAFVGSLREGQGFAFRRK 59
+15:gi|355676011|gb|AER95669.1                                                                                            ---------------GMRSQGVSSVGFKNKNVKQRTWRSNHPQAFVGSVREGQGFAFRRK 45
+16:gi|351696191|gb|EHA99109.1                                                                                            MAPVRPEAKLRNRGLDSRGEGASQVGFKNKNVQRRTWWPNHPQAFVGSVREGQGFAFRRK 60
+17:gi|148689736|gb|EDL21683.1                                                                                            MAPSRPSSKWRTGGFAARGEGISQVRFGNQNGKRRTWRPNPQQAFRGSVRKGQGFAFRRK 60
+18:gi|359075767|ref|XP_003587337.1                                                                                       -----------------RGEGVSSVGFRNKNVKQRTWQCNNHLQPSGSILKGRGFPFQRK 43
+19:gi|221220464|gb|ACM08893.1                                                                                            ------------------GKRANRNQPYNRPGGKKKWVSEH-KVFDGSIGEGQGFAFKRK 41
+20:gi|149632143|ref|XP_001505730.1                                                                                       ---------------------------------KRPWRPGPQNPFQGSVREGQGFAFRRK 27
+21:gi|126339477|ref|XP_001372697.1                                                                                       MAPAKRSRVVRpgGAQPQGGPAGSPEFKKKKKKlrMWRANTQKAFSGSVREGQGFAFQRK 60
+22:gi|225715462|gb|ACO13577.1                                                                                            --------------------------QKRLNKYKRKWVPEH-KVFDGSIAEGQGFAFKRK 33
+23:gi|113677204|ref|NP_001038519.1                                                                                       MAPFKQNAKNKGPIRGKqnNKFQRGGLSHNAKRKRKWVPE-DKVFDGSLKEGQGFAFKRK 59
+24:gi|47218387|emb|CAG01908.1                                                                                            --------------VKVKTDTSETTKHKAQGVKKKRKWIPEHKMFKGSLKEGQGFAFKRK 46
+25:gi|308321143|gb|ADO27725.1                                                                                            MAPVNPHFKGTASFKGRNTERNYADSysAVNKKKKTWNPAN-KVFQGSLQEGKGFAFQRK 59
+26:gi|348515033|ref|XP_003445044.1                                                                                       --------KTKNEKFAGKEGDLAKTKNGAKGVKKKRKWISDHKLFKGSVKEGQGFAFNRK 52
+27:gi|54038128|gb|AAH84425.1                                                                                             ---FERQSGGVGGKKASRGGGQPDGGQRKSAMkkKHWRPYKQSVMAGSQKEGKGFSLWRK 57
+28:gi|166157973|ref|NP_001107396.1                                                                                       ---------------------------KGSGKAKKHWRPQKQSVMAGSQKEGKGFSLWRK 33
+29:gi|363727600|ref|XP_416121.3                                                                                          -----------------------------------------------SVQQGRGFAFRRK 13
+30:gi|327272794|ref|XP_003221169.1                                                                                       MAPVTksSGWKGNGESEKP--------KARLGQKRPWRRD-PRQVKGSVQEGKGFAYWRK 51
+31:gi|224094150|ref|XP_002192142.1                                                                                       ----------------------------------------------------RGFAFRRK 8
+32:gi|326912593|ref|XP_003202633.1                                                                                       -----------------------------------------------------------K 1
+33:gi|90084355|dbj|BAE91019.1                                                                                            MAPVRRAGKWWPGGFEARSEGVSAVEYRNKNVKQKTWRPNHPQAFVGSVREG-------- 52
+34:gi|349803305|gb|AEQ17125.1                                                                                            ------------------------------------------------QKEGKGFALW-K 11
+                                                                                                                                                                                     
+
+0:sp|Q9P031|TAP26_HUMAN Thyroid transcription factor 1-associated protein 26 OS=Homo sapiens OX=9606 GN=CCDC59 PE=1 SV=2 LKIQQSYKKLLRKEKKAQTSLESQFTDRYPDNLKHLYLAEEERHRKQARKVDHPLSEQVH 120
+1:gi|156142178|ref|NP_054886.2                                                                                           LKIQQSYKKLLRKEKKAQTSLESQFTDRYPDNLKHLYLAEEERHRKQARKVDHPLSEQVH 120
+2:gi|332212938|ref|XP_003255577.1                                                                                        LRIQQSYKKFLWKEKKAQMSLESHFTDRNPDNLKHLYFQIEERLRKQPKKVDHPLSEQVH 120
+3:gi|348580369|ref|XP_003475951.1                                                                                        LKIQQNYKKLLWKEKKARTSQESQFTDQYPDHLKHLYLAEEERLRKQLKKAEQPLSEevN 120
+4:gi|194226619|ref|XP_001493329.2                                                                                        LKIQQNYQKLLWKEKKAQTSQESQFTDRYPDHLKHLYLAEEERLRKQRRKVDQPLseQVD 120
+5:gi|296212473|ref|XP_002752841.1                                                                                        LRIQKSYKKLLRKEKKPQTSLESQFTDRYPDNLKHLYLAEEERLKKQPRKDDHPLSEQVD 120
+6:gi|345110606|ref|NP_001230788.1                                                                                        LKIQQNYKKLLWRKKATQTSQDSQFTDKYPDHLKHLYLAEEERLRKQLKKVHPSleEQVD 120
+7:gi|344267592|ref|XP_003405650.1                                                                                        LKIQQSYKKLAWKEKKAQTSRESQFTDRYPDHLKHLYLAEEERLRKQLRKVHQSleEQVE 120
+8:gi|157821509|ref|NP_001101560.1                                                                                        LKIQQNYKKLLWKVKKAPASQGSQFEDHYPEHLKHLYLAEEERLRKQQRKVDLALSeqLD 120
+9:gi|291389661|ref|XP_002711314.1                                                                                        LKIQQNYKKLQRREKKAQTSQESQFTDRYPDHLKHLYLAEEERLKKQLRKADRPLSeqAD 120
+10:gi|198282087|ref|NP_001092860.1                                                                                       LKIQQTYKKLLRREKKSQTPSESPFTDWYPDHLKHLYLAEEERLKKQLRKADQPLSeqVD 119
+11:gi|73978157|ref|XP_854361.1                                                                                           LKIQQHYKKLQWREKKGQTPQESQFTDRYPDHLKHLYLAEEERLRKQVRKVEQPLseQTD 120
+12:gi|13385058|ref|NP_079878.1                                                                                           LKIQQNYKKLLWKVKEAPASQESQFTDRYPEHLKHLYLAEEERLRKQQRKAGLALseQVD 120
+13:gi|354496496|ref|XP_003510362.1                                                                                       LKIQQNYKKLLWKVKKASTSQESQFTDHYPDHLKHLYLAEEERLKKQRRKVGLPPseQVD 120
+14:gi|301769223|ref|XP_002920029.1                                                                                       LKIQQNYRKLLWREKKAQTLQESQFTDRYPEHLKHLYLAEEKRLRKPLRKVEQPLSKeaD 119
+15:gi|355676011|gb|AER95669.1                                                                                            LKIQQNYKKLLWKEKKAQTSQESQFTDRYPEHLKHLYLAEEKRLRKQLRKVEQPLseEAD 105
+16:gi|351696191|gb|EHA99109.1                                                                                            LKIQQNYKKLLWKEKKAGTSQESQFTDHYPDHLKHLYLAEEERLRKQLKKRKQPLSEevN 120
+17:gi|148689736|gb|EDL21683.1                                                                                            LKIQQNYKKLLWKVKEAPASQESQFTDRYPEHLKHLYLAEEERLRKQQRKAGLALseQVD 120
+18:gi|359075767|ref|XP_003587337.1                                                                                       LKIQQTSKILLWREKKAQTSGKSQCRDH---HRNHLYLAGEERLSKQLRKADQSWLEQAL 100
+19:gi|221220464|gb|ACM08893.1                                                                                            EKVKHEYNKLLRKERRKNTEFKTQYTEQYPEHLRHLYEAEAEKLRNEVkrTKARMAGGGG 101
+20:gi|149632143|ref|XP_001505730.1                                                                                       QKIQQKYTKFLRKKRESPVPSEAQFTETYPEHLRHLYVAEEATLGARRRR---------- 77
+21:gi|126339477|ref|XP_001372697.1                                                                                       QKIQQEYKKLLRKEKKAQISQESQFTEKYPEHLKHLYLAEEemLRKQDKKEKQPLPEEK- 119
+22:gi|225715462|gb|ACO13577.1                                                                                            EKVKHEYNKLLRKERRKNAEVKTQYKEEFPEHLRHLYEAEAEQLMNEAkgGGGGAVEEKA 93
+23:gi|113677204|ref|NP_001038519.1                                                                                       EKVKHEYNKLLRKERKRKQESKVQLQEEYPEHLKHLYLAERERlrCKGRAVEEDIEEDDD 119
+24:gi|47218387|emb|CAG01908.1                                                                                            QKIKHDYNKLLHKERKKKNQPESktEERYPEHLRHLYVAEAEKlrSKQRMRAHEGAEDEG 106
+25:gi|308321143|gb|ADO27725.1                                                                                            QKVQQEYKKILRKEKWRMKDSKPKLEEEYPEHLRHLYLAEQQRlrRKGRSVDAGEEEESV 119
+26:gi|348515033|ref|XP_003445044.1                                                                                       QKVKYEYNKLLRKEKKKNPGSKNLYKEEYPEHLRHLYEAEAEKLKKEagEEEDDNEAQQT 112
+27:gi|54038128|gb|AAH84425.1                                                                                             QKIQLEYKKLLRKQKKPSTVNEDLYKDNYPEHLKHLYLAEEEMLKKQ------------- 104
+28:gi|166157973|ref|NP_001107396.1                                                                                       QKIQLEYKKLLRKQKKASTVNEDRYKDNYPEHLKHLYLAEEEMLKKQEKSKKQRANVNPE 93
+29:gi|363727600|ref|XP_416121.3                                                                                          QKIERKYRKLLKKEQKICSPQADQFTDTYPEHLKHLYLAEEERLKKQHKSPNHSVL---- 69
+30:gi|327272794|ref|XP_003221169.1                                                                                       QKIRHDYKKLLKKESNVN-SKKIEYTEDYPEHLKHLYLAEEEMLKKQQK------PRKIS 104
+31:gi|224094150|ref|XP_002192142.1                                                                                       QKIEQQYRKLLKKRRQVHSQQDDQFTDTYPEHLKHLYLAEEEKLKKRRRTPNDSVS---- 64
+32:gi|326912593|ref|XP_003202633.1                                                                                       QKIERKYRKLLKKEQKVCSPRADQFTDTYPEHLKHLYVAEEERLKKQHKSPNDSVL---- 57
+33:gi|90084355|dbj|BAE91019.1                                                                                            ------------------------------------------------------------
+34:gi|349803305|gb|AEQ17125.1                                                                                            QKIQQEYKKLLKKAKKPSNNKEVLYEDHYPEHLKHLYLAEEEMLK--------------- 56
+                                                                                                                                                                                     
+
+0:sp|Q9P031|TAP26_HUMAN Thyroid transcription factor 1-associated protein 26 OS=Homo sapiens OX=9606 GN=CCDC59 PE=1 SV=2 QPLLEEQCSIDEPLFEDQCSFDQPQPEEQCIKTVNSFTIPKKNKKKTSNQKAQEEYEQIQ 180
+1:gi|156142178|ref|NP_054886.2                                                                                           QPLLEEQCSIDEPLFEDQCSFDQPQPEEQCIKTVNSFTIPKKNKKKTSNQKAQEEYEQIQ 180
+2:gi|332212938|ref|XP_003255577.1                                                                                        QPLLEKQCSIDQALFEDQCSFDQPQPEEQCSKTVNSFTIPKKNKKKTSNQKAQEEYEQVQ 180
+3:gi|348580369|ref|XP_003475951.1                                                                                        QPFPGEQCIVEGALSEDQ---DQPHP-EQCSKTVSSMTVPKKKKKKTSNQKAQDEYEQIQ 176
+4:gi|194226619|ref|XP_001493329.2                                                                                        QPLPEEQCSIDQALSKEHCSIQQPQLEEQCSLRVNSVTIP-KKNKKTSNQKAQEEYGRVQ 179
+5:gi|296212473|ref|XP_002752841.1                                                                                        QPLLEEQCSIHHASFEDQRSFDQSQPEEQCSKTVNSFTVPKKNKKKTSNQKAQEEYEQIQ 180
+6:gi|345110606|ref|NP_001230788.1                                                                                        RPLPEEPCSTDQALSEEQCSVEQPQPEEQSNLRVNSITISKKNKKKTSNQKAQEEYERIQ 180
+7:gi|344267592|ref|XP_003405650.1                                                                                        EPLPEEQCSIDQALSEENRSTDQPLPVEKSSKTVSSFATRNKNKKKTSNQKAQEEYAQIQ 180
+8:gi|157821509|ref|NP_001101560.1                                                                                        QPLPEEEGNTEQAVSEEQSSVFQPQPEE--PSTVNSVTFPKKKRKKTSNQKAQEEYERVQ 178
+9:gi|291389661|ref|XP_002711314.1                                                                                        QPLPEEQYSIDQALSEDQRTVRLPEPEEQHTRTVNSITVPKKNKKKTSNQKAQEEYEQIQ 180
+10:gi|198282087|ref|NP_001092860.1                                                                                       QPLPEDQGSSDQALSEERCSIEQPQPAEPCSIRINSINIPKKNKKKTSNQKAQEEYEQIQ 179
+11:gi|73978157|ref|XP_854361.1                                                                                           QPLPQEQCDIEKASSEEHCSFEQPQSAEQGSIRVNSFTVSKKNKKKTSNQKAREAYEQVQ 180
+12:gi|13385058|ref|NP_079878.1                                                                                           RPLPEEEGSTEQTSSEEPPGGHQPQPEE--LNTGSSVTFPKNKKKKTSNQKAQEEYERVQ 178
+13:gi|354496496|ref|XP_003510362.1                                                                                       QPVPEEECNTEQTLSEKQSSDHQSQPEQLC--TPNSVTVP--KKKKTSNQKAQEEYERIQ 176
+14:gi|301769223|ref|XP_002920029.1                                                                                       QPLPKEQCDIDQALSEEHCSFEQPQSAEQCSIRIKKNKKK------TSNQKAQEEYEQVQ 173
+15:gi|355676011|gb|AER95669.1                                                                                            QPLGKEQCGINQALSE-YCSFEQPQSAEQCNIRMNSITVSKKNKKKTSNQKAQEEYEQIQ 164
+16:gi|351696191|gb|EHA99109.1                                                                                            QALPEEQCRVDHALSEEQC--HQPQPEEQRSKTLNSMTVP--KKKKTSNQKAQEEYEQVQ 176
+17:gi|148689736|gb|EDL21683.1                                                                                            RPLPEEEGSTEQTSSEEPPGGHQPQPEE-------------------------------- 148
+18:gi|359075767|ref|XP_003587337.1                                                                                       NGFCQKGTAARE---------------------YTLWNIP--KQKKTSNQKAQAEYE--Q 135
+19:gi|221220464|gb|ACM08893.1                                                                                            GPVEEEAAPMDPATSTDPasASQPTPAVAASKnpMSNRSKKKMLRKTSYQKTKEEFESVK 161
+20:gi|149632143|ref|XP_001505730.1                                                                                       ---------------ERQLSSGQSSP------AVSSVTPPKKNKKKTSNQKAKEEYDMIV 116
+21:gi|126339477|ref|XP_001372697.1                                                                                       ------------------------SSVEQVSSKDCPVATPRRNKKKTSNQKAKEEYEKVQ 155
+22:gi|225715462|gb|ACO13577.1                                                                                            APMEVNEAssTEPAADAGICTNQTDSSAQLPSATgsNRSKKKMLRKTSYQKTKEEFESIK 153
+23:gi|113677204|ref|NP_001038519.1                                                                                       KLNKDLGSSSSEktSTDQTIAPASSNEPAQPESSHKTTFFQRKQNISSYQKTKQEYERIK 179
+24:gi|47218387|emb|CAG01908.1                                                                                            ENADEdeASGGSELADSVAGNQEPAAASLKESLPISNRMRRKQLKKTSYERTKEAFEMAR 166
+25:gi|308321143|gb|ADO27725.1                                                                                            FPSSVTMISETGSPEKSTASLIDGPQTSQIESSGQDQLRKKKWKKMSSNQKMIKEYKKKK 179
+26:gi|348515033|ref|XP_003445044.1                                                                                       EAAGEEEVSGGSELKESVSGNqePTSASQSESLPMSNRMRKKMEKKNSYQKTKEEFERIQ 172
+27:gi|54038128|gb|AAH84425.1                                                                                             ----------------EESRKPRANVNPEVLEEEPVVMPKRKQKKKTSNQKAKEEYEKVQ 148
+28:gi|166157973|ref|NP_001107396.1                                                                                       VLEEEPVVVSRRKLKKK-----------------------------TSNQKAKEEYEKVQ 124
+29:gi|363727600|ref|XP_416121.3                                                                                          -------------------------SEERLNKAVEPVTTEGKFKKKTSNQKAKEEYEKIQ 104
+30:gi|327272794|ref|XP_003221169.1                                                                                       EGIQEGKDSITPKFS----------------------RVGRQLKIKTANQKAKEDYEKIK 142
+31:gi|224094150|ref|XP_002192142.1                                                                                       -------------------------SEEKLNKAAESVGTQEKVKNKTSNQKAKEEYEKIK 99
+32:gi|326912593|ref|XP_003202633.1                                                                                       -------------------------SEEKLNKAIEPVTTEGKFKKKTSNQKAKEEYEKIQ 92
+33:gi|90084355|dbj|BAE91019.1                                                                                            ------------------------------------------------------------
+34:gi|349803305|gb|AEQ17125.1                                                                                            ------------------------------------------------------------
+                                                                                                                                                                                     
+
+0:sp|Q9P031|TAP26_HUMAN Thyroid transcription factor 1-associated protein 26 OS=Homo sapiens OX=9606 GN=CCDC59 PE=1 SV=2 AKRAAKKQEFERRKQEREEAQRQYKKKKMEVFKILNKKTKKGQPNLNVQMEYLLQKIQEK 240
+1:gi|156142178|ref|NP_054886.2                                                                                           AKRAAKKQEFERRKQEREEAQRQYKKKKMEVFKILNKKTKKGQPNLNVQMEYLLQKIQEK 240
+2:gi|332212938|ref|XP_003255577.1                                                                                        AKRAAKKQEFERRKQEREAQRQYKKKKMKVF-KIWHKKTKKGQPNVNVQIEYLLQKIQEK 239
+3:gi|348580369|ref|XP_003475951.1                                                                                        AKRAAKKQEFERRKQQREEAQRLYKKKKMEVFKILSKRTKKGQPNLNLQMEYLLKKIQEK 236
+4:gi|194226619|ref|XP_001493329.2                                                                                        AERAAKKQEFERRKQEREEAQRLYKKKKMEVFKILSKKTKKGQPNLNLQMEYLLKKIQEQ 239
+5:gi|296212473|ref|XP_002752841.1                                                                                        AKRAAKKKEVERRKQEREEAQRRYKKKKMEVFKILNKKTKKGQPNLNLLMEYLLQKIQEK 240
+6:gi|345110606|ref|NP_001230788.1                                                                                        AKRAAKKQEFERRKQEREEAQRLYKKKKMEVFKILSKKTKKGQPNLNLQMEYLLKKIQEK 240
+7:gi|344267592|ref|XP_003405650.1                                                                                        AKRAAKKQEFERRKREREEAQRLYKKKKMEVFKILSKKTKKGQPNLNLQMEYLLQKIQEK 240
+8:gi|157821509|ref|NP_001101560.1                                                                                        AKRAAKKFEFEMRKQEREEAQRLYKKKKMEAFKILSKKTKKGQPNLNLQMEYLLQKIQEN 238
+9:gi|291389661|ref|XP_002711314.1                                                                                        AVRAAKKQEFERRKQEREAAQRLYKKKKMEVFKILSKKTKKGQPNLNLQMEYLLQKIQEK 240
+10:gi|198282087|ref|NP_001092860.1                                                                                       AKRAAKKQEFERRKQEREEAQRLYKKKKMEVFKILSKKTKKGQPNLNLQMEYLLKKIQEN 239
+11:gi|73978157|ref|XP_854361.1                                                                                           AERAAKRQEFEKRKREREEAQRLYKKKKMEVFKILSKKTKKGQPNLNLQMEYLLKKIQEN 240
+12:gi|13385058|ref|NP_079878.1                                                                                           AKRAAKKFEFEMRKQEREEAQRLYKKKKMEAFKILSKKTKKGQPNLNLQMEYLLQKIQEN 238
+13:gi|354496496|ref|XP_003510362.1                                                                                       AKRAAKKFEFEMRKREREEAQRLYKKKKMEAFKVLSKKTRKGQPNLNLQMEYLLQKIQET 236
+14:gi|301769223|ref|XP_002920029.1                                                                                       AERAAKKQEFEKRKQEREEAQRLYKKKKMETFKILSKKTKKGQPNLNLQMEYLLKKIQEK 233
+15:gi|355676011|gb|AER95669.1                                                                                            AERAAKKQEFEKRRREREEAQRLYKKKKMEAFKILSKKTKKGQPNFNLQMEYLLKKIQGK 224
+16:gi|351696191|gb|EHA99109.1                                                                                            AKRAAKKQEFEKRKQEREEAQRLHKKKKMEVFKILSKKTKKGQPNLNLQMEYLLKKIQEK 236
+17:gi|148689736|gb|EDL21683.1                                                                                            ------------------------------------------------------------
+18:gi|359075767|ref|XP_003587337.1                                                                                       ATRAVKKQEFERQKQERGEAPRLYQHKKMQVFKMRSQKTLKMEPGQNIEMEYLLLPAPHE 195
+19:gi|221220464|gb|ACM08893.1                                                                                            EKQKNKKEEFLKNKEQKEEAIKKYKQKKMETFQILSKKTKKGQPNLNLQMEYLLQKIQ-- 219
+20:gi|149632143|ref|XP_001505730.1                                                                                       AERAARKQEAEVRKQEREEARKLYQKRKMEAFKILSQRTRKGQPKLNVQMEYLLQKIQEK 176
+21:gi|126339477|ref|XP_001372697.1                                                                                       AKRAAKKQEFEKRKQEREEAQQRYKKKKMEAYKILSKKTKKGQPNLNLQMEYLLKKIQER 215
+22:gi|225715462|gb|ACO13577.1                                                                                            IKKQKKKEEFLKNKQQKEEAIKKYKQKKSETFQMLSKKTKKGQPNLNLQMDYLLQKIQE- 212
+23:gi|113677204|ref|NP_001038519.1                                                                                       EERARKREEILKDKAQREEALKKYKEKKIATYQLLKRKTKKGQPNLNLQMELLLQKIQ-- 237
+24:gi|47218387|emb|CAG01908.1                                                                                            EKRRRKKEEYLKNKQQREEAIQRYKKKKMESFQILSKKTKKGQPNLNLQMEYLLQKIQ-- 224
+25:gi|308321143|gb|ADO27725.1                                                                                            EEREQKREEYLKDKAQREEALKRYKEKKIATYQLLKKKTKKGQPNLNLQMELLLQKIQ-- 237
+26:gi|348515033|ref|XP_003445044.1                                                                                       EKRRKKKEEYLKNKQQREEAIQKYKQKKMETFQILNKKTKKGQPNLNLQMEYLLQKIQ-- 230
+27:gi|54038128|gb|AAH84425.1                                                                                             LERARKREEAEKRRKQREEAKELYKKKKMESYKVLSTKTKKGQPNFNVQMEYLLQKIQEN 208
+28:gi|166157973|ref|NP_001107396.1                                                                                       LERARKRAEAEKRRKQREEAQELYRKRKMESYKVLSTKTKKGQPNFNVQMEYLLQKIQKK 184
+29:gi|363727600|ref|XP_416121.3                                                                                          AERAKKREEAEKRRQQKEAAQRLYKKKKMEAYKVLSKKTKKGQPNLNAQMEFLLQKIQQK 164
+30:gi|327272794|ref|XP_003221169.1                                                                                       AERDRKKEAARQRKEEREKAQELYKKKKMEVYKILSKRTKKGQPNLNIQMEYLLQKIQQN 202
+31:gi|224094150|ref|XP_002192142.1                                                                                       AEHARKKEEAEKRKEQREEAQRLYKKKKMEAYKILSKKTKKGQPNLNLQVEFLLQKIQQN 159
+32:gi|326912593|ref|XP_003202633.1                                                                                       AERAKKREEAEKRKQQREAAQRLYKQKKMEAYKILSRKTKKGQPNLNAQMEFLLQKIQQK 152
+33:gi|90084355|dbj|BAE91019.1                                                                                            ------------------------------------------------------------
+34:gi|349803305|gb|AEQ17125.1                                                                                            ------------------------------------------------------------
+                                                                                                                                                                                     
+
+0:sp|Q9P031|TAP26_HUMAN Thyroid transcription factor 1-associated protein 26 OS=Homo sapiens OX=9606 GN=CCDC59 PE=1 SV=2 C 241
+1:gi|156142178|ref|NP_054886.2                                                                                           C 241
+2:gi|332212938|ref|XP_003255577.1                                                                                        S 240
+3:gi|348580369|ref|XP_003475951.1                                                                                        S 237
+4:gi|194226619|ref|XP_001493329.2                                                                                        -
+5:gi|296212473|ref|XP_002752841.1                                                                                        S 241
+6:gi|345110606|ref|NP_001230788.1                                                                                        -
+7:gi|344267592|ref|XP_003405650.1                                                                                        -
+8:gi|157821509|ref|NP_001101560.1                                                                                        S 239
+9:gi|291389661|ref|XP_002711314.1                                                                                        -
+10:gi|198282087|ref|NP_001092860.1                                                                                       -
+11:gi|73978157|ref|XP_854361.1                                                                                           -
+12:gi|13385058|ref|NP_079878.1                                                                                           S 239
+13:gi|354496496|ref|XP_003510362.1                                                                                       S 237
+14:gi|301769223|ref|XP_002920029.1                                                                                       -
+15:gi|355676011|gb|AER95669.1                                                                                            -
+16:gi|351696191|gb|EHA99109.1                                                                                            S 237
+17:gi|148689736|gb|EDL21683.1                                                                                            -
+18:gi|359075767|ref|XP_003587337.1                                                                                       C 196
+19:gi|221220464|gb|ACM08893.1                                                                                            -
+20:gi|149632143|ref|XP_001505730.1                                                                                       -
+21:gi|126339477|ref|XP_001372697.1                                                                                       T 216
+22:gi|225715462|gb|ACO13577.1                                                                                            -
+23:gi|113677204|ref|NP_001038519.1                                                                                       -
+24:gi|47218387|emb|CAG01908.1                                                                                            -
+25:gi|308321143|gb|ADO27725.1                                                                                            -
+26:gi|348515033|ref|XP_003445044.1                                                                                       -
+27:gi|54038128|gb|AAH84425.1                                                                                             A 209
+28:gi|166157973|ref|NP_001107396.1                                                                                       S 185
+29:gi|363727600|ref|XP_416121.3                                                                                          T 165
+30:gi|327272794|ref|XP_003221169.1                                                                                       -
+31:gi|224094150|ref|XP_002192142.1                                                                                       T 160
+32:gi|326912593|ref|XP_003202633.1                                                                                       T 153
+33:gi|90084355|dbj|BAE91019.1                                                                                            -
+34:gi|349803305|gb|AEQ17125.1                                                                                            -
+                                                                                                                          
+

@@ -1,0 +1,543 @@
+CLUSTAL 2.1 multiple sequence alignment (MView)
+
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 MTHGEELGSDVHQDSIVLTYLEGLLMHQAAGGSGTAVDKKSAGHNEEDQNFNISGSAFPT 60
+1:gi|60811768|gb|AAX36184.1                                                                               MTHGEELGSDVHQDSIVLTYLEGLLMHQAAGGSGTAVDKKSAGHNEEDQNFNISGSAFPT 60
+2:gi|344277172|ref|XP_003410378.1                                                                         MTHGEELGSDVHQDSIVLTYLEGLLMHQAAGGSGTVVDKKSAGHDEEDQNFNISGSVFPT 60
+3:gi|301757284|ref|XP_002914490.1                                                                         MTHGEELGSDVHQDSIVLTYLEGLLMHQAAEGSGTAVDKKSAGHNEEDQNFTISGNAFPT 60
+4:gi|348567168|ref|XP_003469373.1                                                                         MTHGEELGSDVHQDSIVLTYLEGLLMHQAAGGSGTAIDKKSAGHNEEDQNFKISGSTFPT 60
+5:gi|291400897|ref|XP_002716812.1                                                                         MTHGEELGSDVHQDSIVLTYLEGLLMHQAAGGSGTAVDKKSADRNEEDQNFTISGSAFPT 60
+6:gi|358410112|ref|XP_603300.4                                                                            MTHGEELGSDVHQDSIVLTYLEGLLMHQAAEGSGTAVDKASAGRNEDDQNFNISGSAFPT 60
+7:gi|335300538|ref|XP_003358931.1                                                                         MTHGEELGSDVHQDSIVLTYLEGLLMHQAAEGSGTAVDKKSAGRNEEDQNFNISGNAFPT 60
+8:gi|281371427|ref|NP_001094030.1                                                                         MTHGEELGSDVHPDSIVLTYLEGLLMHQAAGGSGTAVDKKSAGHSEEDQNFNLSGSAFPT 60
+9:gi|354474134|ref|XP_003499286.1                                                                         MTHGEELGSDVHQDSIVLTYLEGLLMHQAAGGSGTAVDKKSAGHSEEEQNFNLPGGAFPT 60
+10:gi|74001306|ref|XP_535560.2                                                                            MTHGEELGSDVHQDSIVLTYLEGLLMHQAAEGSGTAVDKKSAGHNEEDQNFNISGNAFPA 60
+11:gi|224044278|ref|XP_002196009.1                                                                        MTHGEELGSEMHQDSVVLTYLEGLLMHQAAGGSGTAVDKKSTGHSGEDQNFKISGNIFPS 60
+12:gi|149637067|ref|XP_001510924.1                                                                        MTHGEELGSDMHQDSIVLTYLEGLLMHQATGGSSPAVDHTSTGPSGDDQNFKISGNLFPT 60
+13:gi|327278661|ref|XP_003224079.1                                                                        MTHGEELVSEMHQDSVVLTYLEGLLMHQAAGGSGSMVDKNPIGPVAEDQNCKVSGNTSPS 60
+14:gi|147899732|ref|NP_001090752.1                                                                        MTYGEELSSEMQQDSVVLTYLEGLLMHQAAGGSGTAVDKLSVSRAKSDENFKNSGNIFSN 60
+15:gi|148236005|ref|NP_001083707.1                                                                        MTYGEELSSEMQQDSVVLTYLEGLLMHQAAGGSGTAVDKLSVSRAKSNDNFKNSGNIFSN 60
+16:gi|126325183|ref|XP_001366289.1                                                                        MTHGEELGSDMHQDPVVLTYLEGLRMHQAAARPAPVVDRKPSGLGDEGQSFKISGRAVPG 60
+17:gi|125838185|ref|XP_001336737.1                                                                        MTHGEEPGPETHQDSAVLTYLEGLLMHQVAGGQGAAATQSG---SQEQRNKDGTGHAQPN 57
+18:gi|348524743|ref|XP_003449882.1                                                                        MTHGEEPGPETHKDSAVLTYLEGLLMHPVVAGPgtASGRSEAAHSNQEQGDKVGGptAPK 60
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             MTHGEDPGPETREDSAVLTYLEGLLMHPVEAGPGATAGQEQAEQAGAVFQHHSRQVAAPE 60
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------------------------------------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 CQSNGPVLNTHTYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIMNLNVKKEALLAGMV 120
+1:gi|60811768|gb|AAX36184.1                                                                               CQSNGPVLNTHTYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIMNLNVKKEALLAGMV 120
+2:gi|344277172|ref|XP_003410378.1                                                                         CQSNGPVLNTHTYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIVNLNVKKEALLAGMV 120
+3:gi|301757284|ref|XP_002914490.1                                                                         CQSNGPVLNTHSYPGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIVNLNVKKEALLAGMV 120
+4:gi|348567168|ref|XP_003469373.1                                                                         CQSNGPVLSTHTYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIVNLNVKKEALLAGMV 120
+5:gi|291400897|ref|XP_002716812.1                                                                         CQSNGPVLNTHTYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIVNLNVKKEALLAGMV 120
+6:gi|358410112|ref|XP_603300.4                                                                            CQRNGPVLSTHTYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIVNLNVKKEALLAGMA 120
+7:gi|335300538|ref|XP_003358931.1                                                                         CQSNGPVLNTHTYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIVNLNVKKEALLAGMV 120
+8:gi|281371427|ref|NP_001094030.1                                                                         CQSNGPTLSTQTYQGSGMLHLKKARLLQSSEDWNAAQRKRLSDSIVNLNVKKEALLVGMV 120
+9:gi|354474134|ref|XP_003499286.1                                                                         CQSNGPTLSTHTYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIVNLNVKKEALLAGMV 120
+10:gi|74001306|ref|XP_535560.2                                                                            CQSNGPVLNTHSYQGSGMLHLKKARLLQSSEDWNAAKRKRLSDSIVNLNVKKEALLAGMV 120
+11:gi|224044278|ref|XP_002196009.1                                                                        CQSNGPVLNTSTYRGSGMLHLKKARLLQSSEDWNAAKRRRLSDSIVDLDGKKEALLAGMV 120
+12:gi|149637067|ref|XP_001510924.1                                                                        CQSNGPSPntSSYQGSGMLHLKKARLLQSSEDWNAAKRRRLSDSIVDLNVKKEALLAGMV 120
+13:gi|327278661|ref|XP_003224079.1                                                                        CQRDGPVPNTNIYRSSGMLHHKKARLLQSSEDWNAAKRRRLSDSIVDLNGKKEALLAGMV 120
+14:gi|147899732|ref|NP_001090752.1                                                                        CESNAPIRNNSscQGSGMLHLKKARLLQSSEDWNAAKRRRLSDSVPGVNGKNETFLAGMV 120
+15:gi|148236005|ref|NP_001083707.1                                                                        CESNVPLRNNSscQGSGMLHLKKARLLQSSEDWNASKRRRLSDSIPGINGKNETFLAGMV 120
+16:gi|126325183|ref|XP_001366289.1                                                                        GQSNGPSVRPSTCQGSGVLHLKKARLLQSSEDWDTPKRRRLSDSLVDLDVKPEALLAGMV 120
+17:gi|125838185|ref|XP_001336737.1                                                                        HGIRQEQNRTYSHCGASQ-HFRKARLL-NSEAWTESETQRRSVPSVALNGQHEDHHSGQN 115
+18:gi|348524743|ref|XP_003449882.1                                                                        GGTNGPTLGSSQ-------HLKKARLLRSGA-WNDPGNQRMSSPPAELNGQAGGMQNGAL 112
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             AGANGPALGSSQ-------HLKKARLLQSGA-WNHSLTQPSNPPALDLKGRSQHLHNG-- 110
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------------------------------------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 DSVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALSHDSLKVEKDLRCYGV 180
+1:gi|60811768|gb|AAX36184.1                                                                               DSVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALSHDSLKVEKDLRCYGV 180
+2:gi|344277172|ref|XP_003410378.1                                                                         DSVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALSHDSLKVEKDLRCYGV 180
+3:gi|301757284|ref|XP_002914490.1                                                                         DNVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALGHDSLKVEKDLRCYGV 180
+4:gi|348567168|ref|XP_003469373.1                                                                         DNVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALSHDSLKVEKDLRCYGV 180
+5:gi|291400897|ref|XP_002716812.1                                                                         DNVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALNHDSLKVEKDLRCYGV 180
+6:gi|358410112|ref|XP_603300.4                                                                            DSAPKGKQDSKVLASLLQSFSSRLQTVALSQQIRQSLKEQGYALSHNSLKVEKDLRCYGV 180
+7:gi|335300538|ref|XP_003358931.1                                                                         DNVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALSHDSLKVEKDLRCYGV 180
+8:gi|281371427|ref|NP_001094030.1                                                                         DSVPKGKQDSTVLASLLQSFSSRLQTVALSQQIRQSLKEQGYALSHESLKVEKDLRCYGV 180
+9:gi|354474134|ref|XP_003499286.1                                                                         DNVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALSHDSLKVEKDLRCYGV 180
+10:gi|74001306|ref|XP_535560.2                                                                            DNVPKGKQDSTLLASLLQSFSSRLQTVALSQQIRQSLKEQGYALGHDSLKVEKDLRCYGV 180
+11:gi|224044278|ref|XP_002196009.1                                                                        ENVPKGKQDSTLLASLLQSFSSRLQSVALSQQIRQSLKEQGYSLSHDSLQVEKDLRCYGV 180
+12:gi|149637067|ref|XP_001510924.1                                                                        ENVPKGKQDSTLLASLLQSFSSRLQSVALSQQIRQSLREQGYSLSHDPLKVEKDLRCYGV 180
+13:gi|327278661|ref|XP_003224079.1                                                                        ENVPKGKQDSTLLASLLQSFSSRLQSVALSQQIRQSLKEQGYSLSHDSLQVEKDLRCYGV 180
+14:gi|147899732|ref|NP_001090752.1                                                                        ANAPKGKQDSTLLASLLQSFSSRLQSVALSQQLKQSLEEQGFSLGQETVHEEKNNQCLGL 180
+15:gi|148236005|ref|NP_001083707.1                                                                        ANAPKGKQDSTLLASLLQSFSSRLQNVALSQQLKQSLKEQGFSLSPETVQEEKNNQCVGM 180
+16:gi|126325183|ref|XP_001366289.1                                                                        GEAPKGKQDSTLLASLLQSFSSRLQSVALSQQIRQSLKEQGC-----PLKADTDARCYGL 175
+17:gi|125838185|ref|XP_001336737.1                                                                        GSS-QDKGESTLLASLLQSFSSRLQNVSLPQQIIQGLrdTSCQISKPAQEEKADVPCHRP 174
+18:gi|348524743|ref|XP_003449882.1                                                                        EGSPHA-GESTLLASLLQSFSSRLQSVAMSQHSNKPPSE-CSSPSKAPPADKEPLPVYGT 170
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             ---------SPEVPAVLSARASRAPPCRSRLPRLRRPTRTPWGATPSAAGQLKGLS---- 157
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------------------------------------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 ASSHLKTLLKKSKVKDQKPDTNLPDVTKNLIRDRFAESPHHVGQSGTKVMSEPLSCAARL 240
+1:gi|60811768|gb|AAX36184.1                                                                               ASSHLKTLLKKSKVKDQKPDTNLPDVTKNLIRDRFAESPHHVGQSGTKVMSEPLSCAARL 240
+2:gi|344277172|ref|XP_003410378.1                                                                         ASSHLKTLLKKSKAKDQKPDTNLPDVTKNLIRDRFVESPHPVGQSGTKVMSEPLSCAARL 240
+3:gi|301757284|ref|XP_002914490.1                                                                         ASSHLKTLLKKSKAKDQKPDTNLPDVTKNLIRDRFVESPHHVGQSGTKVMSEPLSCAARL 240
+4:gi|348567168|ref|XP_003469373.1                                                                         ASSHLKTLLKKNKAKDQKPDTSLPDVTKNLIRDRFVESPQCVGQSGAKVMSEPLSCAARL 240
+5:gi|291400897|ref|XP_002716812.1                                                                         ASSHLKTLLKKSKAKDQKPDTNLPDVTKNLIRDRFVESPHHVGQSGTKVMSEPLSCAARL 240
+6:gi|358410112|ref|XP_603300.4                                                                            ASSHLKTLLKKSKAKDQKPDTSIPDVTKTLIRDRFIESPHHVGQSGTKVVSEPLSCAARL 240
+7:gi|335300538|ref|XP_003358931.1                                                                         ASSHLKTLLKKSKAKDQKPDTNLPDVTKNLIRERFVESPHHVGQSGTKVLSEPLSCAARL 240
+8:gi|281371427|ref|NP_001094030.1                                                                         ASSHLKTLLKKSKTKDQKSGTTLPDVTPNLIRDSFVEspHHVGQSGTKVMSEPLSCAARL 240
+9:gi|354474134|ref|XP_003499286.1                                                                         ASSHLKTLLKKSKTKDQKSGTTLPDVTNNLIRDSFVESPH-VGQSGAKVMSEPLSCAARL 239
+10:gi|74001306|ref|XP_535560.2                                                                            ASSHLKTLLKKSKAKDQKPDTNLPDVSKNLIRDRFVESPHHVGQSGTKVMSEPLSCAARL 240
+11:gi|224044278|ref|XP_002196009.1                                                                        ASSHLKTLLKKSKAKDQKLDSSLPDITKNLPKERFIESPHAV-QSSPKVMNEPLSCAARL 239
+12:gi|149637067|ref|XP_001510924.1                                                                        ASSHLKTLLKKSKAKDQKPEAQLSDITKTLVKDRFIEAPH-PGQNGAKVMNEPLSCAARL 239
+13:gi|327278661|ref|XP_003224079.1                                                                        ASSHLKTLLKKSKAKDEKLETGLPEVTANVVKDRFIESSHTAQSSGPKVMNESLSCAARL 240
+14:gi|147899732|ref|NP_001090752.1                                                                        ASNHLKTLLNKSRSKEKVTDS------KMTAKASIQEKSSHSGQSSTKaaAEPISCAARL 234
+15:gi|148236005|ref|NP_001083707.1                                                                        ASSHLKTLLNKNRSKEKITDSN--KTTKASIQGKYTESSHSGQSSTKGVAAEPISCAARL 238
+16:gi|126325183|ref|XP_001366289.1                                                                        ASTHLKTLLRRSKTKEPEPAADPPD-------------------GAAEATGEPLSCAARL 216
+17:gi|125838185|ref|XP_001336737.1                                                                        ASSHLQELVSKSKLQNH--SNSVPYQQRRSSHESFSQSPKALQSSTPSPSPESLSCTERL 232
+18:gi|348524743|ref|XP_003449882.1                                                                        ASSRLKGLMRKSKLQ---NHSNTPYSRRGHSQDRPPESphSATPPAAPTAADSVSCAERL 227
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------NHNTVPYC-RQSNQNRGSDSPRSSQNSAQPTSSESMSCTERL 41
+20:gi|47206707|emb|CAF90378.1                                                                             ------------RPSKHSNRSGAPYGQRGRGQDRASESPKssTPPSASSAGESVSCAERL 205
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------------------------------------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNANQAASERLAA 300
+1:gi|60811768|gb|AAX36184.1                                                                               QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNANQAASERLAA 300
+2:gi|344277172|ref|XP_003410378.1                                                                         QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNANQVASERLAA 300
+3:gi|301757284|ref|XP_002914490.1                                                                         QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNANQAASERLAA 300
+4:gi|348567168|ref|XP_003469373.1                                                                         QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKSQNANQAASERLAA 300
+5:gi|291400897|ref|XP_002716812.1                                                                         QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNANQVASERLAA 300
+6:gi|358410112|ref|XP_603300.4                                                                            QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNANQAASERLAA 300
+7:gi|335300538|ref|XP_003358931.1                                                                         QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNANQAASERLAA 300
+8:gi|281371427|ref|NP_001094030.1                                                                         QAVASMVEKRASPAASPKPSVACSQLALLLSSEAHLQQYSREHALKTQSAHQAASERLAA 300
+9:gi|354474134|ref|XP_003499286.1                                                                         QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNAHQAASERLAA 299
+10:gi|74001306|ref|XP_535560.2                                                                            QAVASMVEKRASPATSPKPSVACSQLALLLSSEAHLQQYSREHALKTQNANQAASERLAA 300
+11:gi|224044278|ref|XP_002196009.1                                                                        QAVASMVEKRSSPAASPKPSVACSQLALLLSSEAHLQQYSREHALKAQNANQIASERLAA 299
+12:gi|149637067|ref|XP_001510924.1                                                                        QAVASMVEKRASPTPSPKPSVACSQLALLLSSEAHLQQYSREHALKAQNANQVASERLAA 299
+13:gi|327278661|ref|XP_003224079.1                                                                        QAVASMVEKRSSPATSPKPSVACSQLALLLSSEAHLQQYSREHALKAQNASQVASERLAA 300
+14:gi|147899732|ref|NP_001090752.1                                                                        QAVASMVEKRSSPTVSPKPSVACSQLALLLSSEAHLQQYSREHAVKAQSASQLASERLAA 294
+15:gi|148236005|ref|NP_001083707.1                                                                        QAVACMVEKRSSPTVSPKPSVACSQLALLLSSEAHLQQYSREHAVKAQSANQLASERLAA 298
+16:gi|126325183|ref|XP_001366289.1                                                                        QAVASMVEKRSSPAASPKPSVACSQLALLLSSEAHLQQYSREHALKAQNAHQVASERLAA 276
+17:gi|125838185|ref|XP_001336737.1                                                                        KAVASLVNIRSSPAPSPKPSVACSQLALLLSSEAHLQQYSREHALKAKLSGRSASERLSA 292
+18:gi|348524743|ref|XP_003449882.1                                                                        KAVANMVKIRSSPAPSPKPSVACSQLALLLSSEAHLQQYSREHALKAQLSGRSASERLAA 287
+19:gi|326671381|ref|XP_003199421.1                                                                        KAVASMVRTRSSPAPSPKPSVACSQLALLLSSEAHLQQYSREQALKAQLTSRSASERLAA 101
+20:gi|47206707|emb|CAF90378.1                                                                             KAVASMARTRCSPAASPKPSVACSQLALLLSSEAHFQQYSQGHALRARFPARCASQRLAA 265
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------------------------------------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 MARLQENGQKDVGSYQLPKGMSSHLNGQARTSSSKLMASKSSATVFQNPMGIIPSSPKNA 360
+1:gi|60811768|gb|AAX36184.1                                                                               MARLQENGQKDVGSYQLPKGMSSHLNGQARTSSSKLMASKSSATVFQNPMGIIPSSPKNA 360
+2:gi|344277172|ref|XP_003410378.1                                                                         MARLQENGQKDAGSFQLSKGMSSHLNGQARTSSSKPVTSKSNATTFQSPMGIVPSSPKNS 360
+3:gi|301757284|ref|XP_002914490.1                                                                         MARLQENGQKDVGSFQLSKGMSSHLNGQARTSSSKLMVSKN--TNFQNPMGVIPSSPKNA 358
+4:gi|348567168|ref|XP_003469373.1                                                                         MARLQENGQKDVGSFQLSKGMLGHLNGQARTSSGKVISSRNSAAAFQNPMGIVPSSPKNS 360
+5:gi|291400897|ref|XP_002716812.1                                                                         MARLQENGQKDVGGFQLSKGMPTHLNGQARTSSSKLMTSKSNATAFQNPMGIVPSSPKNA 360
+6:gi|358410112|ref|XP_603300.4                                                                            MARLQENGQKDMGSFQLSKGISGHLNGQARTSSNKLMASKS--TAFQNPVGIVPSSPKNA 358
+7:gi|335300538|ref|XP_003358931.1                                                                         MARLQENGQKDVGSFQVSKGVSGHLNGQARTSSNKLMASKS--TTFQSPMGLVPSSPKNA 358
+8:gi|281371427|ref|NP_001094030.1                                                                         MARLQENGQKDMSSFQLSKGVSGHLDGQARTLPQSSKLAASKnaVFQNPMCGVPSSPKNT 360
+9:gi|354474134|ref|XP_003499286.1                                                                         MARLQENGQKDISSFQLPKGLSGHLNGQARPSSSSSKPVASKntTFQNPMGVVPSSPKNT 359
+10:gi|74001306|ref|XP_535560.2                                                                            MARLQENGQKEVGSFQLSKGMSSHLNGQARTSSSKLMASKN--TAFQNPMGVVPSSPKNA 358
+11:gi|224044278|ref|XP_002196009.1                                                                        MARLQESAQKDMGQFGLAKGMTSHLNGQAGS-SPKTAASKGNMAPFQSSVGIVHSPPKTV 358
+12:gi|149637067|ref|XP_001510924.1                                                                        MARLQESGQKEQSPFPIAKGMPGHLNGHPRTPPSKAVPGKISAAPFPNPVGVLHSPPKSG 359
+13:gi|327278661|ref|XP_003224079.1                                                                        MARLKESVPKDVGHFKLSKGMESHLNGQVRS-STKSVPNKSNMTHFQSSVGITHSPPRSI 359
+14:gi|147899732|ref|NP_001090752.1                                                                        MARLKETSEKDHGHFPMSTNLPTPLNSPARTTISNGISNIGNISPFSSPLSVPHSPLKSV 354
+15:gi|148236005|ref|NP_001083707.1                                                                        MARLKETSEKDLGHFPLSTSLPTALNSPARTTISNGIGNIGNISPFSSPLSVPHSPHKSV 358
+16:gi|126325183|ref|XP_001366289.1                                                                        MARLQESGLRDRPHFPSSRALASPAHGPARP-------------SSSESGAALPSPPRSA 323
+17:gi|125838185|ref|XP_001336737.1                                                                        MATQQtdKQPTTSSQTHGLSLLQTKNGISSQMSTSSSRKSPSQISGQRRTESSMRTGHRF 352
+18:gi|348524743|ref|XP_003449882.1                                                                        MANQQHNQDKRPPSLPGAPDTLSSLTTQNGMTTTTTVTTTLPRMALSNpqSSPPTPPRAP 347
+19:gi|326671381|ref|XP_003199421.1                                                                        MATqqDNRPPSMGQPTTTPDMLSSLNAQNGTIPPLVVNSSKSSPSLSSPSTRPPKERRPF 161
+20:gi|47206707|emb|CAF90378.1                                                                             IANQQQG----------------------------------------------------- 272
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        -----EPTPSETPEEPIPTDTPSDEPTPsePTPSDEPTPSDEPTPSDEPtsETPEEPIPT 55
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 GYKNSLERNNIKQAANNSLLLHLLKSQTIPKPMNGHSHSERGSIFEESSTPTTIDEYSDN 420
+1:gi|60811768|gb|AAX36184.1                                                                               GYKNSLERNNIKQAANNSLLLHLLKSQTIPKPMNGHSHSERGSIFEESSTPTTIDEYSDN 420
+2:gi|344277172|ref|XP_003410378.1                                                                         GYKNSLERNNVKQAASNSLLLHLLKSQTIPKPMNGHSHSERGSIFEDSSTPTTIDDYSDN 420
+3:gi|301757284|ref|XP_002914490.1                                                                         GYKNSLERNNIKQAANNSLLLHLLKSQTIPKPMNGQNHSERGSIFEDSSTPTTIDEYSDN 418
+4:gi|348567168|ref|XP_003469373.1                                                                         AYKNSLERNSIKQATSNSLLLHLLKSQTTPKPMNGHNENERGSIFEDSSTPTTIDEYSDN 420
+5:gi|291400897|ref|XP_002716812.1                                                                         GYKNSLERNSLKQAANNSLLLHLLKSQTIPKPMNGHSHSERGSIFEDSSTPTTIDEYSDN 420
+6:gi|358410112|ref|XP_603300.4                                                                            GYKNSLERNNIKQAANNSLLLHLLKSQTIPKPMNGHSHSERGSIFEESSTPTTIDDYSDP 418
+7:gi|335300538|ref|XP_003358931.1                                                                         GYKNSLERNNIKQAANNSLLLHLLKSQTIPKPMNGHSHSERGSIFEESSTPTTIDDYSDN 418
+8:gi|281371427|ref|NP_001094030.1                                                                         SYKNSLERNNIKQAANNSLLLHLLKSQTIPTPMNGHSQHERGSSFE-SSTPTTIDEYSDN 419
+9:gi|354474134|ref|XP_003499286.1                                                                         GYKTSMERNNIKQAANNSLLLHLLKSQTIPTPMNGHSQNERGSSFEESSTPTTIDDYSDN 419
+10:gi|74001306|ref|XP_535560.2                                                                            GYKNSLERNHLKQAANNSLLLHLLKSQTIPKPMNGHNHSERGSIFEDSSTPTTIDEYSDN 418
+11:gi|224044278|ref|XP_002196009.1                                                                        GYKSTVERSNLKTSPSNSLLLHLLKSQNTTKHVKGREQSERASIFEDSSTPTTVDEYSDN 418
+12:gi|149637067|ref|XP_001510924.1                                                                        GYKSPLERNHLKQPANNSLLLHLLKSQSVAKPTNGHDQAERSSMFEDGSTPTTLDECSDH 419
+13:gi|327278661|ref|XP_003224079.1                                                                        SYKGTMEKNHFKPPTNSSLLLHLLKNHNATKQVKGYEHNDRSSVFEEGSTPTTVDEYSDN 419
+14:gi|147899732|ref|NP_001090752.1                                                                        GYKTHSEKNHLKPSPNNSLLLHLLKSQNATNMNKCNLQSEKIPVFEESATPTTTDDFSDN 414
+15:gi|148236005|ref|NP_001083707.1                                                                        GYKNHSEKNHLKPSPNNSLLLHLLKSQNATNVNKCNLQSDKIPAFEESATPTTTDDFSDN 418
+16:gi|126325183|ref|XP_001366289.1                                                                        DCGSGL-----RQASSHSLLLHLLKSQSAAGPAGGPEQPERGSAFEGSSASTT-DDGSDP 377
+17:gi|125838185|ref|XP_001336737.1                                                                        RERRPFEKQGRPSQNCSSLLLQLLNSHNTSQRINGQGHLKDDFifGPLASPLFSdeHSNP 412
+18:gi|348524743|ref|XP_003449882.1                                                                        SHTHSQprPARPPQTCSSLLLLLLNNHNNQKQLTKNGHLEDSCGILpsSSVTSDSECSTQ 407
+19:gi|326671381|ref|XP_003199421.1                                                                        DRHGRPPQNCSSLLLLLLNNHN--SQQQLTR--NGHLEEDCGILPSCASSLQSDSEYSNP 217
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        DTPSDEPTPSDEPTPSDE-----------PTPSDEPTPSDEPTPSETPEEPIPTDTPSdp 104
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------EPTPSETPEEPIPTDTPSDEPTPSDEPtsD 30
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 NPSFTDDSSGDESSYSNCVPIDLSCKHRTEKSESDQPVSLDNFTQSLLNTWDPKVPDVDI 480
+1:gi|60811768|gb|AAX36184.1                                                                               NPSFTDDSSGDESSYSNCVPIDLSCKHRTEKSESDQPVSLDNFTQSLLNTWDPKVPDVDI 480
+2:gi|344277172|ref|XP_003410378.1                                                                         NPSFTDDSSGDESSYSNCVPIDLSCKHRIEKPESDQPVSLDNLTESLLNTWDPKVPDVDI 480
+3:gi|301757284|ref|XP_002914490.1                                                                         NPSFTDDSSGDEGSYSNCVPIDLSCKHRIEKPEPDQPVSLDNLTQSLLNTWDPKVPTVDI 478
+4:gi|348567168|ref|XP_003469373.1                                                                         NPSFTDDSSGDESSYSNCVPIDLSCKHRTEKPECDQPVSLDNLTQSLLNTWDPKVPDVDI 480
+5:gi|291400897|ref|XP_002716812.1                                                                         NPSFTDDSSGDESSYSNCVPIDLSCKHRIEKVESDQPVSLDNLTQSLLNTWDPKVPEVDI 480
+6:gi|358410112|ref|XP_603300.4                                                                            NPSFTDESSGDESSYSNCVPIDLSCKHRIEKPEPDQPVSLDNLTQSLLNTWDPKVPEVDV 478
+7:gi|335300538|ref|XP_003358931.1                                                                         NPSFTDDSSGDESSYSNCVPIDLSCKHRTEKPEPDQPVSLDNLTQSLLNTWDPKVPEVDN 478
+8:gi|281371427|ref|NP_001094030.1                                                                         NPSFTDDSSGDESSYSNCVPIDLSCKHRTEKPETERPVSLENLTQSLLNTWDPKVPGVDI 479
+9:gi|354474134|ref|XP_003499286.1                                                                         NPSFTDDSSGDESSYSNCVPIDLSCKHRIHKPEADRPVSLENLTQSLLNTWDPKVPGVDI 479
+10:gi|74001306|ref|XP_535560.2                                                                            NPSFTDDSSGDESSYSNCVPIDLSCKHRIEKPEPDQPVSLDNLTQSLLNTWDPKVPTVDV 478
+11:gi|224044278|ref|XP_002196009.1                                                                        NPSFTEDSSDDESSHSNCLPIDLSFKQRTDKPDAGPPASLDNLTQSLLRNWDPKVSCPEN 478
+12:gi|149637067|ref|XP_001510924.1                                                                        NPSFtdDSSGDESSHSNCVPIDLSFKHRVEKPDSAQATSLENLTQSLLNTWDPKVPGLEI 479
+13:gi|327278661|ref|XP_003224079.1                                                                        NPSFtdDSSDDESSHSTCLPIDLSFKQKNSASDSGPPSSLDNLTQSLIHNWDSKVPGLEN 479
+14:gi|147899732|ref|NP_001090752.1                                                                        NPSFtdETSDDESSHSNCAPIDLSFKNRVDKPEVLNTASIDNLTESLLKNWDPKVEGLVI 474
+15:gi|148236005|ref|NP_001083707.1                                                                        NPSFtdETSDDESSHSNCAPIDLSFKNRVDKPEVLNTASIDNLTESLLKNWDPKVEGLDI 478
+16:gi|126325183|ref|XP_001366289.1                                                                        NPSFtdDSSGDESSHSNCGPIDLSFKQRVQRPEAGRPASLDSLTQSLLHTWDPRGPGL-- 435
+17:gi|125838185|ref|XP_001336737.1                                                                        DSSLTKDSSDAESSYSSCSPIDLSLKGRTNVQTPVSTSslDRLPESSFNMWKPESSPLKV 472
+18:gi|348524743|ref|XP_003449882.1                                                                        ERSLTKDSSDAESSYSSCSPIDLSMRSRVSMqsCISTSSLDKLTESLINKWKPEPSGSKV 467
+19:gi|326671381|ref|XP_003199421.1                                                                        DNSLTKDSSDAE-SLSSCSPIDLSMKSRTsePCYSLPPLMDKLTESLVNKWKPETSVPKV 276
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        TPSDEPTPSDEPTPSDEPTPSDEPTPSEteEPIPTDTPSDEPTPSDEPTPSDEPTPSDEP 164
+24:gi|281416568|ref|ZP_06247588.1                                                                         EPTPSDEPTPSETPEEP-IPTDTPSDEPTPSDEpdEPTPSDEPTPSET----PEEPIPTD 85
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 KEDQDTSKNSKLNSHQKVTLLQLLLGHKNEENVEKNTSPQGVHNDVSKFNTQNYARTSVI 540
+1:gi|60811768|gb|AAX36184.1                                                                               KEDQDTSKNSKLNSHQKVTLLQLLLGHKNEENVEKNTSPQGVHNDVSKFNTQNYARTSVI 540
+2:gi|344277172|ref|XP_003410378.1                                                                         KEDQDTSKNSKLNSHQKVTLLQLLLGHKNEENVEKNASPQGIPSDVTKFSSQSYTRTSVI 540
+3:gi|301757284|ref|XP_002914490.1                                                                         KEDQDTSKSSKLNSHQKVTLLQLLLGHKSEENIERNSSPQEVHSDVTKFSTQSYTRTSVI 538
+4:gi|348567168|ref|XP_003469373.1                                                                         KEEQDTSKNSKLNSHQKVTLLQLLLGHKNEENGEKNTSPQGTHSDVTKFNTQTYTRTSVI 540
+5:gi|291400897|ref|XP_002716812.1                                                                         KEDQDTSKNSKLNSHQKVTLLQLLLGHKNEENVEKTTSTQGVHSDVTKFSPQNYTRTSVI 540
+6:gi|358410112|ref|XP_603300.4                                                                            KEDQDTSKNSKLNSHQKVTLLQLLLGHKNEENMERNGSPQEAHSDETKFSTQNYTRTSVI 538
+7:gi|335300538|ref|XP_003358931.1                                                                         KEDQDTSKNSRLNSHQKVTLLQLLLGHKNEENVERNNSPQEVHSDVTKFSTQNYARTSVI 538
+8:gi|281371427|ref|NP_001094030.1                                                                         KEDQDTSTNSKLNSHQKVTLLQLLLGHKTEESVERNASPQEVHSDVTKFSPQNYTRTSVI 539
+9:gi|354474134|ref|XP_003499286.1                                                                         KEDQDTSKNPKLDSHQKVTLLQLLLGHKSEDNAERNASPQEVHCDVTKFSPQNYTRTSVI 539
+10:gi|74001306|ref|XP_535560.2                                                                            KEDQDTSKNSRLNSHQKVTLLQLLLGHKNEESVERNSSPQEVHGDVTKFGSQNFARTSVI 538
+11:gi|224044278|ref|XP_002196009.1                                                                        KEEKDTPKASKLNPHQKVTLLQLLLGHKSEEQVDKSNDPQGPHsdVAKFTVQTGKRTPVT 538
+12:gi|149637067|ref|XP_001510924.1                                                                        KEDRDPAKNAKLNPHQKVTLLQLLLGHKTEESPERKADPQGSpaDLPKFSVPT-KRTPVT 538
+13:gi|327278661|ref|XP_003224079.1                                                                        TEEKDPPKTAKLNPHQKVTLLQLLLGHKNEDTIEKLPETEgvTTDVAKFNLPAGNRTPVT 539
+14:gi|147899732|ref|NP_001090752.1                                                                        NKdrDPSLDSTLKPHQKVTLLQLLLGHKADENPEKMEDLQGsrSDLTKFNLP--IQRHGS 532
+15:gi|148236005|ref|NP_001083707.1                                                                        NknRESSLVSTLKPHQKVTLLQLLLGHKADENPEKMEDLQAPQ---TKFSLP--IQRHVS 533
+16:gi|126325183|ref|XP_001366289.1                                                                        RTEEEAPRGARLNPHQKVTLLQLLLGHKHEERPEQAAAAQG---------SPGSAPGSQR 486
+17:gi|125838185|ref|XP_001336737.1                                                                        SAdrEMDSCSEMKPHHKVTLLQLLLDHKNNERVNKSLdpDLLRAVIPKVTSASTSSQSVF 532
+18:gi|348524743|ref|XP_003449882.1                                                                        SKGKDPEMSPDLKSHPKVTLMQLLLERRNNEMVKKNVGNQDSPLDVTVATMSRNQPKGLV 527
+19:gi|326671381|ref|XP_003199421.1                                                                        HEAVDLDTSPDIKSQDKVTLMQLLLDRRNNEKVNKSSDHPGLRSD------------SVI 324
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        TPSDEPTPSDEPTPSDEPT---------PSETPEE-PIPTDTPSDEP---TPSDEPTPSD 211
+24:gi|281416568|ref|ZP_06247588.1                                                                         TPSDEPTPSDEPTPSDEPT---------PSDEPTPSETPEEPIPTDTPSDEPTPSDEPTP 136
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 ESPSTNRTTPVSTPPLLTSSKAGSPINLSQHSLVIKWNSPPYVCSTQSEKLTNTASNHSM 600
+1:gi|60811768|gb|AAX36184.1                                                                               ESPSTNRTTPVSTPPLLTSSKAGSPINLSQHSLVIKWNSPPYVCSTQSEKLTNTASNHSM 600
+2:gi|344277172|ref|XP_003410378.1                                                                         ESPSTNRTATPASTPPLLTskAESPINLSQQSLVIRWNSPPYACNTQSEKLMNTASNHLI 600
+3:gi|301757284|ref|XP_002914490.1                                                                         ESPSTNRTTPVSTPPLPGSTKAESPINLSQHSLVIKWNSPPYACGAQSEKPANSASSHLM 598
+4:gi|348567168|ref|XP_003469373.1                                                                         ESPSTNRTTPVSTPPLLTSTKAESPINLSQHSMVIKWNSPPYACSTQSEKLTNPASNHLM 600
+5:gi|291400897|ref|XP_002716812.1                                                                         ESPSTNRTTPVSTPPLLASTKADSPINLSQNSLVIKWNSTPYACSTQSEKLMNAASNHLM 600
+6:gi|358410112|ref|XP_603300.4                                                                            ESPSTNRTTPVSTPPLLASTKADSPINLSQHSLVIKWNSPPYACGPQPEKPANTASNHLM 598
+7:gi|335300538|ref|XP_003358931.1                                                                         ESPGTNRTTPVSTPPLLASAKAESPINLSQHSLVIRWNSPPYACGPPSEKPTNATSNRLM 598
+8:gi|281371427|ref|NP_001094030.1                                                                         ESPSTNRTTPVSTPPLHTSSQGESPINLSQHSLVIKWNSPPYACSTPASKLTNTVTGHLM 599
+9:gi|354474134|ref|XP_003499286.1                                                                         ESPSTNRTTPVSTPPLLHPskAESPINLSQHSLVIKWNSPPYACSTPTSKLTNAMTGHLM 599
+10:gi|74001306|ref|XP_535560.2                                                                            ESPSTSRTTPVSTPPLLSSTKAESPINLSQHSLVIKWNPPPFACGSQAEKPATSASNPLM 598
+11:gi|224044278|ref|XP_002196009.1                                                                        DSPSANRMTPLSTPPLLASTKADSPINLSHQSLAVKRSSPPYACSIQPDRLMNSASKHLI 598
+12:gi|149637067|ref|XP_001510924.1                                                                        ESPSVHRATPLNTPPLLTSPSPGSPINLSQHSFVTKRNSPPYTCHIQPERLMTPASKHLV 598
+13:gi|327278661|ref|XP_003224079.1                                                                        DCINTSRNTPVNTPPLLASTKADSPINLSHhpLLIKHNSSPYTCIIQPERVINPASKHLM 599
+14:gi|147899732|ref|NP_001090752.1                                                                        ENTHVHNSASLNTLPINNSLKSDSPVNLSQ-PFPPKNTFTSYISNIQSERHVNAASKHLI 591
+15:gi|148236005|ref|NP_001083707.1                                                                        ENTHVHNSALLNALPVNHCSKSDSPVNLTQ-AFSPKNTYTSYISSIQSERHTNAASKHLI 592
+16:gi|126325183|ref|XP_001366289.1                                                                        ESPGVPRAAPRSTPPSLACAAADSPLNLSQQPLG-RRASPQYLCAVQPQPLASPAARHLV 545
+17:gi|125838185|ref|XP_001336737.1                                                                        STS-----------------RCKDPSDLSGH-CGLSCKSPKLLPTLSQSRDSNCSASppL 574
+18:gi|348524743|ref|XP_003449882.1                                                                        PWEEA---------------RTKSPIDRsaQPLYSLGRDPSGALSPYSYPSPNVQSSPL- 571
+19:gi|326671381|ref|XP_003199421.1                                                                        SCLTAGS-----------LKRIGTPEDSRTQSPQDRQVASFSSVSPSYSFPSPVAQSSPL 373
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        etPSDEPTPSDEPTPSDEPTPSDEPTPSETPEEPIPTDTPSDEPTPSDEPTPSDEPTPSD 271
+24:gi|281416568|ref|ZP_06247588.1                                                                         SDEPTPSDEPTPSETPEEPIPTDTPSD-----------EPTPSDEPTPSDEPTPSDEPTP 185
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 DLTKSKDPPGEKPAQNEGAQNSATFSASKLLQNLAQCGMQSSMSVEEQRPSKQLLTGNTD 660
+1:gi|60811768|gb|AAX36184.1                                                                               DLTKSKDPPGEKPAQNEGAQNSATFSASKLLQNLAQCGMQSSMSVEEQRPSKQLLTGNTD 660
+2:gi|344277172|ref|XP_003410378.1                                                                         DLTKHKESQAEKPVQNEDAQNSATFSASKLLQNLAQCGMQSSMLVEEQRPSKQLLTVKAD 660
+3:gi|301757284|ref|XP_002914490.1                                                                         DLTKSKELQGEKPVQNEGAQNSATFSASKLLQNLAQCGMQSSASGEEQRPSKQLLSVNTD 658
+4:gi|348567168|ref|XP_003469373.1                                                                         DLTKHKELQGEKTTQNEGVQTSTTFSASKLLQNLAQCGMQSSVSVEEQRPSKQLLSVNTD 660
+5:gi|291400897|ref|XP_002716812.1                                                                         DLTKSKESQGEKPAQNEGAPNSATFSASKLLQNLAQCGMQSSVSADEQRPSKQLLSVNPD 660
+6:gi|358410112|ref|XP_603300.4                                                                            DLTKSKESQGEKAIHNEGAQNSATFSASKLLQNLAQCGMQSSVSGEEQRPSKQLLSVNTD 658
+7:gi|335300538|ref|XP_003358931.1                                                                         DLTKSKDLQGEKPVQNEGAQNSATFSASKLLKNLAQCGMQSSMSGEEQRPSKQLLSVNTD 658
+8:gi|281371427|ref|NP_001094030.1                                                                         DLTKGKESQAEKPAPSEGAQNSATFSASKLLQNLAQCGMQSSVPGEEQRPSKQLLSGHTD 659
+9:gi|354474134|ref|XP_003499286.1                                                                         DLTKSKESPAEKPAPSEGAQNSATFSASKLLQNLAQCGMQSSMPAEEQRPSKPLLSGNPE 659
+10:gi|74001306|ref|XP_535560.2                                                                            DLTKSKDPLGEKPAHSEGAQNSATFSASKLLQNLAQCGVQASAPGEEQRPSKQLLSVNAD 658
+11:gi|224044278|ref|XP_002196009.1                                                                        DLSKSKEIQGAKLSRTDSPQNPSAFSASKLLQNLAQCGMQSSMSSEEQRASKQLLAGNMD 658
+12:gi|149637067|ref|XP_001510924.1                                                                        DLTKSKELQGTKPIRNESSPNPATFSASKLLQNLAQCGMQSSMSGEEQRTSKQLLNVNAD 658
+13:gi|327278661|ref|XP_003224079.1                                                                        DLTIQKELQGSKQNRKETPQASSSFSASKLLQNLAQCGMQSSVSVDEQrsSKQVMTLNTE 659
+14:gi|147899732|ref|NP_001090752.1                                                                        ELTRNKSFHNPTPVVNESAQCNAAFSASKLLQNLAQCGLQTAAP-DEQKVQKTVSAPN-G 649
+15:gi|148236005|ref|NP_001083707.1                                                                        ELTRKKSFHNPIPLINESAPNNAAFSASKLLQNLAQCGKQTPAP-DEQIAQKPVSAPN-G 650
+16:gi|126325183|ref|XP_001366289.1                                                                        DRSPGRELPAASPPSAAAFSAS------KLLQNLA--------------------AGAAD 579
+17:gi|125838185|ref|XP_001336737.1                                                                        DLCKVKQPTSDVRVKE------PAFSASKLLQNLAQCGKQtsPPTKAHLPPVKLMTQevN 628
+18:gi|348524743|ref|XP_003449882.1                                                                        DLCKSKTFPAEKA-------SEPAFSASKLLQNLAQCGTASSPPTPTGKGLGQ--EHDAS 622
+19:gi|326671381|ref|XP_003199421.1                                                                        DLCKSKAHSSEKMEP--------PFSASKLLQNLAQSGIKNLSPSPPPLHPHKLTslELG 425
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        EPTPSDEptPEEPIPTDTPSDEPTPSDE-------PTPSDEPTPSDEPTPsePTPSETPE 324
+24:gi|281416568|ref|ZP_06247588.1                                                                         SETPEEPIPTDTPSDEPTPSDEPTPS-------------DEPTPSDEPTPsePTPSETPE 232
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 KPIGMIDRLNSPLLSNKTNAVEENKAFSSQPTGPEPGLSGSEIENLLERRTVLQLLLGNP 720
+1:gi|60811768|gb|AAX36184.1                                                                               KPIGMIDRLNSPLLSNKTNAVEENKAFSSQPTGPEPGLSGSEIENLLERRTVLQLLLGNP 720
+2:gi|344277172|ref|XP_003410378.1                                                                         QPIGMIDGLSSPLLSNKTNAVEENKAFGSQSAAPEPGLCGSEIENLLERRTVLQLLLGNP 720
+3:gi|301757284|ref|XP_002914490.1                                                                         RPVgvVDRLNSPLLSNKTNAVEENKAFSSQATGPESGLSGSEIENLLERRTVLQLLLGNP 718
+4:gi|348567168|ref|XP_003469373.1                                                                         KHIGMIDRLNSPLLTNKTNAVEENKAFSGQPAGPEPEFSGSEIENLLERRTVLQLLLGNS 720
+5:gi|291400897|ref|XP_002716812.1                                                                         KPLGMMERLNSPLLANKTNAAEDSKAFSSQSAAPEPGLSSSEIENLLERRTVLQLLLGNT 720
+6:gi|358410112|ref|XP_603300.4                                                                            KPPGMIDRLNSPLLANKTSAVEEKKAFGSHTIGPEPGLSGSEIENLLERRTVLQLLLGNP 718
+7:gi|335300538|ref|XP_003358931.1                                                                         KPTGVMERLGSPLLANKTNPAEENKAFGSHSAGPEPGLSGSEIENLLERRTVLQLLLGNS 718
+8:gi|281371427|ref|NP_001094030.1                                                                         KPLGLIDRLNSPLLSNKANAAEENKAFSSQPAGPEPGLPGCEIENLLERRTVLQLLLGNS 719
+9:gi|354474134|ref|XP_003499286.1                                                                         KPLGMIDRLNSPLLSNKTNAGEENKAFSSQPVGPESALPGCEIENLLERRTVLQLLLGNS 719
+10:gi|74001306|ref|XP_535560.2                                                                            RPLGMVERLSSPLLSNKTHAAEDNRAFGSPAAGPEAGLSGSEIENLLERRPVLQLLLGNP 718
+11:gi|224044278|ref|XP_002196009.1                                                                        KPVGLIDRLNSPLLTNKLSMHEenKLFSCQPSPAEQGLPGSEIENLLERRTVLQLLLGTP 718
+12:gi|149637067|ref|XP_001510924.1                                                                        KPVGLIDRLNSPLLPNKS-LEEAGKVFNSQLASSEPGLSGSEIENLLERRTVLQLLLGNS 717
+13:gi|327278661|ref|XP_003224079.1                                                                        KPIGLIDGLNSSMLTNTSSTFEENTIVSNQPLPAEQKIPSSEIQNLLERRTVLQLLLGTS 719
+14:gi|147899732|ref|NP_001090752.1                                                                        KTLGLIDRLSSPLITNQSHAFEEDTSFSSPPTPSDSRFPGSEIENLLERRTVLQLLLGTP 709
+15:gi|148236005|ref|NP_001083707.1                                                                        KTLGLIDRLNSPLMTNQSHTFEVEKSFSSPPTPTDSTFPGSEIENLLERRTVLQLLLGTP 710
+16:gi|126325183|ref|XP_001366289.1                                                                        EP-----RACRP--PPKPRRGSPQQAFRSP---PEPGLSGSEIENLLERRTVLQLLLGHG 629
+17:gi|125838185|ref|XP_001336737.1                                                                        HPPTLIEKLTAPVQKN-TPLWEEATAK--PSNVPEATQQVSEIENLLERRTVLQLLLGnp 685
+18:gi|348524743|ref|XP_003449882.1                                                                        RPLALLERLNAPitTTTTPLSDGASGSGTPFSRKEASPPSSQIENLLERRTVLQLLLGTN 682
+19:gi|326671381|ref|XP_003199421.1                                                                        KPQAFLNRLVTPAKQNSPPVLDEGSPKCEQSLS-----SSLQIENLLEKRTVLQLLLGts 480
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        EPIPTDTPSDEPTPSDEPTPSDEPTPSDEPTPSDEPTPSETPEEPIPTDTPSDEP---TP 381
+24:gi|281416568|ref|ZP_06247588.1                                                                         EPIPTDTPSDEPTPSDEPTPSDEPTPSDEPTPSDEPTPSETPEEPIPTDTPSDEP---TP 289
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 NKGKSEKKEKTPLRDESTQEHSERALSEQILMVKIKSEPCDDLQIPNTNVHLSHDAKSAP 780
+1:gi|60811768|gb|AAX36184.1                                                                               NKGKSEKKEKTPLRDESTQEHSERALSEQILMVKIKSEPCDDLQIPNTNVHLSHDAKSAP 780
+2:gi|344277172|ref|XP_003410378.1                                                                         NKGKSEKKEKIPLRDEITQEHADRALSEQILMVKIKSEPCDDLHSHSTNVHLSHDAKGGP 780
+3:gi|301757284|ref|XP_002914490.1                                                                         NKGKSEKKEKISLRDESTQEHSDRALSEQILMVKIKSEPCDDLHIHRSDAHLSHDAKGAP 778
+4:gi|348567168|ref|XP_003469373.1                                                                         NKGKSEKREKITSRDESTQEHTERPLSEQILMVKIKSEPCDDLHIHNTDLHLSHDAKSSP 780
+5:gi|291400897|ref|XP_002716812.1                                                                         NKGKSEKKEKIPIRDESTQGHSERALSEQILMVKIKSEPCDDLHIHNTNLHLNHDTKSAP 780
+6:gi|358410112|ref|XP_603300.4                                                                            NKGKTEKKEKMPLRDESTQEHTDRALSEQILMVKIKSEPCDDLHPHATGTHLSHEAPGAP 778
+7:gi|335300538|ref|XP_003358931.1                                                                         NKGKMEKKEKIPLREGSTQEHTDRALSEQILMVKIKSEPCDDFHAHTPDVHSSPDAQGAP 778
+8:gi|281371427|ref|NP_001094030.1                                                                         NKGKSEKKERAPALDEARQEHSERPGNEQILMVKIKSEPCDDFQTHNTNVHLNHDAKSTP 779
+9:gi|354474134|ref|XP_003499286.1                                                                         NKGKSERKEKMTSRDEGPQEHSERPGSEQILMVKVKSEPCDDVQIHNTNVHLNHDPKSAP 779
+10:gi|74001306|ref|XP_535560.2                                                                            HKGKGDKKDKTPLRDESAQEHADRALSEQILTVKIKSEPCDDSRSPSPSVRLSPDARGAP 778
+11:gi|224044278|ref|XP_002196009.1                                                                        NKGKSEKKERMLLRDESSQEQTDKALNEQILTVKIKSEPSDESNVpnSNAQQVRECKGNK 778
+12:gi|149637067|ref|XP_001510924.1                                                                        NKGKNEKKERisSRAESPPEPTDRPLSEQILTVKIKTEPGEDLhiHPAPAHPVRDGPTNT 777
+13:gi|327278661|ref|XP_003224079.1                                                                        NKGMSETKETMLSKEEGLQNPTEKTLNEQILTVKVKSEPSEELnlQNTNAQQTRGNVHKK 779
+14:gi|147899732|ref|NP_001090752.1                                                                        NKGKLEKSPNITIKDENQQDRVEKNASEHIVSFKIKSEPEDAY----STQHLRDTGIPSP 765
+15:gi|148236005|ref|NP_001083707.1                                                                        NKGKLEKNPNITIKDENQQDRVEKKTSEQIVAFKIKTEPEDSY----STQHLRDTEIPSP 766
+16:gi|126325183|ref|XP_001366289.1                                                                        SRNRSEKQDRAP--DESCREQAE------ILAVQIKSEPCDDPPVLPSGHRPTHG----- 676
+17:gi|125838185|ref|XP_001336737.1                                                                        QKEKVGNKRK---REHSKTNSGEKPMHQTtlDVTIKTEPTEEGQTNDYN-KMSQQCQNSV 741
+18:gi|348524743|ref|XP_003449882.1                                                                        SATVTVSRKDRPSGseAAGGCSEKNPGAHvlDVKVKSELMEDV---GPSSAMSEDVIGRK 739
+19:gi|326671381|ref|XP_003199421.1                                                                        QKEKN------------------------------------------------------- 485
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        SDEPTPSDEPTPSDEPTPSD--EPTPSET---------PEEPIPTDTPSDEPTPSDEPTP 430
+24:gi|281416568|ref|ZP_06247588.1                                                                         SDEPTPSDEPTPSDEPTPSD--EPTPSET---------PEEPIPTDTPSDEPTPSDEPTP 338
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 FLGMAPAVQRSAPALPVSEDFKSEPVSPQDFSFSKNGLLSRLLRQNQDSYLADDSDRSHR 840
+1:gi|60811768|gb|AAX36184.1                                                                               FLGMAPAVQRSAPALPVSEDFKSEPVSPQDFSFSKNGLLSRLLRQNQDSYLADDSDRSHR 840
+2:gi|344277172|ref|XP_003410378.1                                                                         FLGMTPATQRSAAALPASEDFKSEPTSPQDFSFSNNGLLSRLLRQNQESYLTDELDKSHR 840
+3:gi|301757284|ref|XP_002914490.1                                                                         FLGMAPPVQRSAAALPVSEDFKSEPVSPQDFSFSKNGLLSRLLRQNQESYLADDLDNSHR 838
+4:gi|348567168|ref|XP_003469373.1                                                                         FFGMAPSLQRSTPALPVSEDLKSEPASPQDFSFSKNGLLSRLLRQNQEGYLTDDPDKSHR 840
+5:gi|291400897|ref|XP_002716812.1                                                                         LLGTAPTMQRNAAALPASEDLKSEPVSPQDFSFSKNGLLSRLLRQNHESYLADDPDKSYR 840
+6:gi|358410112|ref|XP_603300.4                                                                            FLGMAPPMQRSAPALPTSEDLKPEPGSPQDFSFSKNGLLSRLLRQNQDSHLADELDSSHR 838
+7:gi|335300538|ref|XP_003358931.1                                                                         FLGMAPPVQRGAAALPAPEDLKSEPASPQDFSFSKNGLLSRLLRQNQESYPADDLDGSHR 838
+8:gi|281371427|ref|NP_001094030.1                                                                         FLGGTPTIQRSSAALPVSEDLKSEPASPQDFSFSKNGLLSRLLRQNQESYPADDQDKSHR 839
+9:gi|354474134|ref|XP_003499286.1                                                                         FLGVTPAMQRSTAALPGSEDFKSEPASPQDFSFSKNGLLSRLLRQNQESYPTDDSDRNHR 839
+10:gi|74001306|ref|XP_535560.2                                                                            FPGAAPPAQRSAP-----DGLKAEPVSPQDFSFSKNGLLSRLLRQNQESYLAEEGDGSRR 833
+11:gi|224044278|ref|XP_002196009.1                                                                        FQGFVHSLQRNTAASPASEEVKSEPISPQDFSFSKNGLLSRLLRQNQDNYPADELDRSHR 838
+12:gi|149637067|ref|XP_001510924.1                                                                        FLGMAPAVQRSAAASPASEDFKLEPLSPQDFSFSKNGLLSRLLRQNQDSYASDDLDRSHR 837
+13:gi|327278661|ref|XP_003224079.1                                                                        IHGLGRSLERNTPTSPTSEEPRPNPLLPQDFSFSKNGLLSRLLRQNQDNYSVDDVDRNHR 839
+14:gi|147899732|ref|NP_001090752.1                                                                        LAMSFHGFSRSTP-----EGMKSPNLTPQDFSVSRNGLLSRLLTQNHNGYEISDPDFTNR 820
+15:gi|148236005|ref|NP_001083707.1                                                                        LAMSIHSFSRSP-----SEGMKSPNLTPHEFSVSRNGLLSHLLTQNHNGYEISDPAKTNR 821
+16:gi|126325183|ref|XP_001366289.1                                                                        LLGALPALHRGAAASP-SEDLKAEPPSPQDF--SRNGLLSRLLRQNQEAPLTDGQ----- 728
+17:gi|125838185|ref|XP_001336737.1                                                                        L------EQRSSSAslFQENIKQEPLSPE--ASTRDGLLCHLLKKRPKALQreDLNKSCV 793
+18:gi|348524743|ref|XP_003449882.1                                                                        RLS---CYEKNSLVSDSQQDLKAEPRPAE--VIAKYGLLSQLLKQQTATYYTsdTQPRQV 794
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             -------------------------LTPHDFSVSRNGLLSRLLTQNHNGYEMSDPGITNR 35
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        SDEPTPSDEPTPSDEPTPSETPEEPIppSdpTPSDEPTPSDEPTPSDEPTPSDEPTPSET 490
+24:gi|281416568|ref|ZP_06247588.1                                                                         SDEPTPSDEPTPSDEPTPSETPEEPIPTDTPSDEP--------TPSDEPTPSDEPTPS-- 388
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 NNEMALLESKNLCMVPKKRKLYTEPLENPFKKMKNNIVDAANNHSAPEVLYGSLLNQEEL 900
+1:gi|60811768|gb|AAX36184.1                                                                               NNEMALLESKNLCMVPKKRKLYTEPLENPFKKMKNNIVDAANNHSAPEVLYGSLLNQEEL 900
+2:gi|344277172|ref|XP_003410378.1                                                                         NSERTLVESKNLCMVPKKRKLYTEPLENPFKKMKTNIVDAANNHSAPEVLYGSWLNQQEL 900
+3:gi|301757284|ref|XP_002914490.1                                                                         NSELTILESKNLCMVPKKRKLYTEPLENPFKKMKNNLVDAANSHSAPEGLYGSLLNQQEL 898
+4:gi|348567168|ref|XP_003469373.1                                                                         NSELTPLESKNLCMVPKKRKLYTESLENSFKKMKSNIVEAANNHSTPEVLYGSLLNQEEL 900
+5:gi|291400897|ref|XP_002716812.1                                                                         SSELTLLESKNLCMVPKKRKLYSEPLENPFKKMKNNIVDAANNHSAPEVLYGSLINQEEL 900
+6:gi|358410112|ref|XP_603300.4                                                                            NSELTLVESKNLCMVPKKRKLYTEPLENPFKKMKNNIVDAANSHSAPEVLYGSLLNQQEL 898
+7:gi|335300538|ref|XP_003358931.1                                                                         NSELTLLESKNLCMVPKKRKLYTEPLENPFKKMKNNIVDAAGSHSAPEVLYGSLLNQQEL 898
+8:gi|281371427|ref|NP_001094030.1                                                                         NSELTPLESKNFCMVPKKRKLYTEPLENPFKKMKNSAVDNANNHGGPEVLYGSLLNQEEL 899
+9:gi|354474134|ref|XP_003499286.1                                                                         nsELTPLESKSFCMVPKKRKLYTEPLENPLKKMKNSAIETLGNHSTPEVLYGSLLNQEEL 899
+10:gi|74001306|ref|XP_535560.2                                                                            SGELALLEARTLCVVPKKRKLYSEPLENPFKRMRNSVADAADSHGAPEGLYGPPLSQQEL 893
+11:gi|224044278|ref|XP_002196009.1                                                                        NNELTHLESKSLCTVPKKRKLHAEPLESPLKKMKSNVSDAGNNHASpeALYGPLLNQQEL 898
+12:gi|149637067|ref|XP_001510924.1                                                                        PGELTLLEPRSLCTVPKKRKLQPEPGESPLRKTKGPTSDV-TNHPRPSthYGPTSHQDEV 896
+13:gi|327278661|ref|XP_003224079.1                                                                        NNEQTSVDSKSHSTIPKKRKLHCEPCESPLKIVksNVSETAGNhsSPDVMYGTALKQKEL 899
+14:gi|147899732|ref|NP_001090752.1                                                                        NGESRQTETKIHCTVPKKRKMHqePLESQVKLAKLSPSESGHYYSPPP-LSGPMFLQDET 879
+15:gi|148236005|ref|NP_001083707.1                                                                        NSGPRQTETKTPCTVPKKRKMhnEHVESQVKFAKLSPSESGQYCSSPS-LSGPMFHQNGM 880
+16:gi|126325183|ref|XP_001366289.1                                                                        -----LLEPQGRAVAPKKRKLPGEPAQSLFKkmKSQPC---------------PEEPRGA 768
+17:gi|125838185|ref|XP_001336737.1                                                                        KEDSAETQGP---TIPKKRKFSIesLIQPTSKLEHSCSIKEDNGS---YFATEGLETREA 847
+18:gi|348524743|ref|XP_003449882.1                                                                        KEEQREYPSPS----PKKRRLCSDRTDNLSNISSPRAVDSGdnIFASSAVPVEPEQQRTL 850
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             NSEPRQTEKKIPCTVPKKRKMhnEPLESQVKFAKLSPSESGQYCSS-QSLSGPMFHQDEM 94
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------------------------------------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        PEEPIPTDTPSDEPTPSDEPTPSdpSDEPTPSDEPTPSdtPSDEPTPSETPEEPIPTDTP 550
+24:gi|281416568|ref|ZP_06247588.1                                                                         -DEPTPSDEPTPSETPEEPIPTDTPSDEPTPSDEPTPSDEPTPSETPEepSDEPTPSDEP 447
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 KFSRNDLEFKYPAGHGSASESEHRSWARESKSFNVLKQLLLSENCVRDLSPHRSNSVADS 960
+1:gi|60811768|gb|AAX36184.1                                                                               KFSRNDLEFKYPAGHGSASESEHRSWARESKSFNVLKQLLLSENCVRDLSPHRINSVADS 960
+2:gi|344277172|ref|XP_003410378.1                                                                         KFSRSDLEFKYPTGLGPSSDSEHRSWARDSKSFNVLKQLLLSENCVRDLSQHRGNSAIDS 960
+3:gi|301757284|ref|XP_002914490.1                                                                         KFSKNDLEFKYPASHGAANESEHRSWARESKSFNVLKQLLLSENCVRDLSQHRSSSVIES 958
+4:gi|348567168|ref|XP_003469373.1                                                                         KFSRNDLEFRYPAGHGSVSESEHRGWARESKSFNVLKQLLLSENCVRDLSPHknNSVVEN 960
+5:gi|291400897|ref|XP_002716812.1                                                                         KFSRNDLEFKYPAGSGSANENEHRSWARESKSFNVLKQLLLSENCVRDLSPHRSNSVVDS 960
+6:gi|358410112|ref|XP_603300.4                                                                            KLSRSDLEFKHPASHGSASESEPRNWTRESKSFNVLKQLLLSENCVRDLSQHRSNSVADS 958
+7:gi|335300538|ref|XP_003358931.1                                                                         KLSRNELDLKYPGSHSSPSESEHRSWARESKSFNVLKQLLLSENCVRDLSQHRSNSVGDS 958
+8:gi|281371427|ref|NP_001094030.1                                                                         KFSRNDLDYKYSAGHSSASDGEHRSWARESKSFNVLKQLLLSENCVRDLSPHRSNSVTDN 959
+9:gi|354474134|ref|XP_003499286.1                                                                         KVSRNDLEYKYPAGHSSTSDSEHRSWARESKSFNVLKQLLLSENCVRDLSPHRSNSVIDN 959
+10:gi|74001306|ref|XP_535560.2                                                                            KCSRSDLEFKFPGSQGPAGDAEHRAWARESKSFNVLKQLLLSENCVRDLSQHRSGSAGEG 953
+11:gi|224044278|ref|XP_002196009.1                                                                        KFSRSDAEFKYAVSHGSNSETENRSWSRDSKGFNVLKQLLLSENCERDLSQHRNNILTEG 958
+12:gi|149637067|ref|XP_001510924.1                                                                        KLSRSELEPKYLAAPGSSTESDNRSWPRDSKGFNVLKQLLLSENCVRDLSQPRGGAVPEG 956
+13:gi|327278661|ref|XP_003224079.1                                                                        KFSRTDLELKYSSGYGSNNESESRSWSRESKGFNVLKQLLLSENCEKDMSQRRNNSAVID 959
+14:gi|147899732|ref|NP_001090752.1                                                                        YSNKSGMDPRCNLTQNSLNEGKHLGWSRESKGFNVLKQLLLSENCVRDLSQHRNNILVDD 939
+15:gi|148236005|ref|NP_001083707.1                                                                        QSNKSDY-PRCNVSQNSFNEGKHLGWSRESKGFNVLKQLLLSENCVRDLSQHRNNVSVDD 939
+16:gi|126325183|ref|XP_001366289.1                                                                        KWGGSDLQLGPSAGRDPGSEPPGGHWHRESQGFNVLKQLLLSENCVRDLSGHRKSTASEG 828
+17:gi|125838185|ref|XP_001336737.1                                                                        RDPSSPPEADSPPARFPPYESN------ENRSFNVLKQLLLSDNCLKELSQPRS------ 895
+18:gi|348524743|ref|XP_003449882.1                                                                        KEEEVPP-------KSPPSET----LTRESRGFNVLKQLLLSDNCLKELSQqpSPSVLQT 899
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             HTNKSD-DPRCNVSPNSFNEDKHLGWSRESKGFNVLKQLLLSENCMRDLSQHRNNVSVDD 153
+22:gi|47190238|emb|CAF87039.1                                                                             -------------------------------GFNVLKQLLLSDNCLKELSQDAASPSASG 29
+23:gi|125975557|ref|YP_001039467.1                                                                        SDEPTPSDEPTPSDEPTPSDEPTPS----------------------------------- 575
+24:gi|281416568|ref|ZP_06247588.1                                                                         TPSETPEEPTPSDEPTPSDEPTPSETPEE------------------------------- 476
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 KKKGHKNNVTNSKPEFSISSLNGLMYSSTQPSSCMDNRTFSYPGVVKTPVSPTFPEHLGC 1020
+1:gi|60811768|gb|AAX36184.1                                                                               KKKGHKNNVTNSKPEFSISSLNGLMYSSTQPSSCMDNRTFSYPGVVKTPVSPTFPEHLGC 1020
+2:gi|344277172|ref|XP_003410378.1                                                                         KKKGLKNNVMGSKPEFSISSLNGLMYNTTPPNSCIDNRTFSYPGVVKMPVSPLFPEHLGY 1020
+3:gi|301757284|ref|XP_002914490.1                                                                         KKKGHKNNVTNSKPEFRISSLNGLMYSSTQLGSCMENRTFPYSGVVKAPMSPPFAEHLGC 1018
+4:gi|348567168|ref|XP_003469373.1                                                                         KKKGHKNNVTNSKPDFTMSSLNGLMYGSTQTNSSMDNRTFSYPGVVKTPVSPPFPEHMGC 1020
+5:gi|291400897|ref|XP_002716812.1                                                                         KRKGHKNNVTSSKPEFSISSLNGLMYSSSQPSSCVDNRTFSYPGVVKTPVTPPFSEHMSC 1020
+6:gi|358410112|ref|XP_603300.4                                                                            KKKGHRNSVTNSKPEFSIASLNGLMCGATQPGSCMVSRTFPYPGVGKAPRSPPFPEHLGC 1018
+7:gi|335300538|ref|XP_003358931.1                                                                         KKKGCKNSVTNSKPEFSISSLNGLMYSAAQPSSCMDSRTFPYPGGVKTPLSPPFPEHLGC 1018
+8:gi|281371427|ref|NP_001094030.1                                                                         KKKGHKNNVPNSKPEFSISSLNGLMYGSPQPGSCVDHRTFSYPGMVKTPLSSPFPEHLGC 1019
+9:gi|354474134|ref|XP_003499286.1                                                                         KKKGHKNNVPNNKPEFSISSLNGLMYSSPQPGSCVDNRTFSYPGVLKTPLSPPFSEHLGC 1019
+10:gi|74001306|ref|XP_535560.2                                                                            RRKGHRGAAGGGKPELSIPALDGLLYGPAQPGGCGDSRtrTCPCPARAPSSPPFPEPGGC 1013
+11:gi|224044278|ref|XP_002196009.1                                                                        KKKGNKTSATINKPEFTISSVRSLVGSPVQQNNCVDHRTFQYPVAVKSPASSPFPEHLGS 1018
+12:gi|149637067|ref|XP_001510924.1                                                                        KRKGARSGGPNGKPEFSMAPLNGLMGAPPQANSCVENRTFQYPVAVQSPASLPFHEHLGC 1016
+13:gi|327278661|ref|XP_003224079.1                                                                        GRKKANKNNITNNneSSVSSLHTLVGNPGQQTNCLDHQAFQYSVAVKSPASSPFSDQlgT 1019
+14:gi|147899732|ref|NP_001090752.1                                                                        MVKGNRSHLAGSS-DFVTPPLNVHMGKMSNQTNSLGQMTFQCPSTLKNSPHPP-SDSLIH 997
+15:gi|148236005|ref|NP_001083707.1                                                                        MVKWNRSHVAGSS-DFVTPSLNVHMGKMSNHTNSLGQMPFQCPSSFKSSPHSP-SDSLIH 997
+16:gi|126325183|ref|XP_001366289.1                                                                        RKRGGRNHVLHGGPDLSLCSLNG------QLASCLGSRTFPYAGAGPGSPYQGSPEPLAS 882
+17:gi|125838185|ref|XP_001336737.1                                                                        ---------TFSSPSHTV--LNG--NTIKQPCNGGehRSLSPSSASSKKTSGHRPESPQV 942
+18:gi|348524743|ref|XP_003449882.1                                                                        NGKANGSILTQPAQNHSFLQLPshPHGSLNSGFPSNLRPLPTPPPGDSSLRSPWSRHPsi 959
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             MVRGN------------------------------------------------------- 158
+22:gi|47190238|emb|CAF87039.1                                                                             APGAsrASLTSGPPSQLAPPLPGHVLRP-QHKADLGAVVKQEPGSAE------------- 75
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------------------------------------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 AGSRPESGLLNGCSMPSEKGPIKWVITDAEKNEYEKDSPRLTKTNPILYYMLQKGGNSVT 1080
+1:gi|60811768|gb|AAX36184.1                                                                               AGSRPESGLLNGCSMPSEKGPIKWVITDAEKNEYEKDSPRLTKTNPILYYMLQKGGNSVT 1080
+2:gi|344277172|ref|XP_003410378.1                                                                         AGSRPESGLLNGCSVPSEKGPIKWVITDVDKNEYEKDSPRLTKTNPILYYMLQKGGNSVT 1080
+3:gi|301757284|ref|XP_002914490.1                                                                         AGSRPEPGLLNGCSVTSEKGPIKWVITDADKNECEKDCPRLTKTNPILYYMLQKGGSAVT 1078
+4:gi|348567168|ref|XP_003469373.1                                                                         --SRPEPGLLNGCSMPSEKGPIKWVITDVDKNEYEKDSPRLTKTNPILYYMLQKGGNAVP 1078
+5:gi|291400897|ref|XP_002716812.1                                                                         AGSRPETGPLSGCPGPSEKGPIKWVITDVDKSEYEKDSPRLTKTNPILYYMLQKGGTSVT 1080
+6:gi|358410112|ref|XP_603300.4                                                                            TGSRPEAGLVNGCSMPSEKGPIKWVITDVDKNEYEKDSPRLTKTNPILYYMLQKGGSSVT 1078
+7:gi|335300538|ref|XP_003358931.1                                                                         TGSRPESGLVNGCSMPSEKRPIKWVITDAEKNEYEKDSPRLTKTNPILYYMLQKGGNSVT 1078
+8:gi|281371427|ref|NP_001094030.1                                                                         VGSRPEPGLLNGcpVPGEKGPIKWVITDVEKNEYEKDSPRLTKTNPILYYMLQKGGNSVT 1079
+9:gi|354474134|ref|XP_003499286.1                                                                         VGSRPEPGLLNGcpMPNEKGPIKWVITDMDKNEYEKDSPRLTKTNPILYYMLQKGGNSVT 1079
+10:gi|74001306|ref|XP_535560.2                                                                            AGSRPEPGPANGCAGggDKGPIKWVIADADRNGYERDCPRLTKTNPILYYMLQKGGGPVA 1073
+11:gi|224044278|ref|XP_002196009.1                                                                        TVSRLESDQFSMCSVPSEKGPIRWVITGMDKNDYEKDSPRLTKTNPILYYMLQKGGSSVS 1078
+12:gi|149637067|ref|XP_001510924.1                                                                        SAPRQESGQLSVCPVPGDKGPIRWVITGVDKSDYEKDSPRLTKTNPILYYMLQKGGNSTC 1076
+13:gi|327278661|ref|XP_003224079.1                                                                        VSSHPECDQYSVCPVPNERGPIKWIITDSDKNEHGRDSPRLTKTNPILYYMLQKGGSSVN 1079
+14:gi|147899732|ref|NP_001090752.1                                                                        KTSRTESGQINMCPVPNDKGPIKWVITGMEKNDVGKDSPRLTKTNPILYYMLQKGAHSAG 1057
+15:gi|148236005|ref|NP_001083707.1                                                                        KTSRTESGQINMAPISNDKGPIKWVITGMEKDDVAKDSPRLTKTNPILYYMLQKGAHSAG 1057
+16:gi|126325183|ref|XP_001366289.1                                                                        GASTQEAGPLSVCPIPGERGPIKWVIAGLEKSECARDSPRLTKTNPILYYMLQKGASSGG 942
+17:gi|125838185|ref|XP_001336737.1                                                                        TQQEPAKSKIDYSTMKDLKVPTRMLNGDDQTQKYGLDSPRFTKTNPILYYMLQRSNAQL- 1001
+18:gi|348524743|ref|XP_003449882.1                                                                        TQKRETPTLVKQEP----ESPVRWSSQENEEEDEgpDSPRLSRSNPILYYMLQKGSIQL- 1014
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ----------------------RWAGQEAEHRE-ALDSPQLSRSNPILYYMLQKGSIHL- 111
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------------------------------------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 SRETQDKDIWREASSAESVSQVTAKEELLPTAETKASFFNLRSPYNSHMGNNASRPHSAN 1140
+1:gi|60811768|gb|AAX36184.1                                                                               SRETQDKDIWREASSAESVSQVTAKEELLPTAETKASFFNLRSPYNSHMGNNASRPHSAN 1140
+2:gi|344277172|ref|XP_003410378.1                                                                         SRETQDKDIWRGPSCAESVSQITVKEELLPTAETKASFFNLRSPYDSHRGNNASGPHSAN 1140
+3:gi|301757284|ref|XP_002914490.1                                                                         SRETQDKDMWREPSSAESVSQVTIKEELLPAAETKASFFNLRSPYNSHMGSNASRPHSAN 1138
+4:gi|348567168|ref|XP_003469373.1                                                                         SKESQDKDIWRESSSAESVSQVAVKEELLPAAETKASFFNLRSPYNSHMGNNTSCPHRAN 1138
+5:gi|291400897|ref|XP_002716812.1                                                                         SRETQDKDIWREPSS-ESVSQVPVKEELLPAAEPKAAFINLRSPYNSHMGNNASRPHSAN 1139
+6:gi|358410112|ref|XP_603300.4                                                                            SRETQDRDIWREPSSAESISQVTIKEELLPPAETKASFFNLRSTYNSHMGNNASRPHSAN 1138
+7:gi|335300538|ref|XP_003358931.1                                                                         SRETQDKDVWREPSSAENISQVTIKEELLPAAETKASFFNLRSPYNSHMGNNASRPHSAN 1138
+8:gi|281371427|ref|NP_001094030.1                                                                         TQETQDKDIWGEPSSAESLSQVTVKEEMLPAAETKAAFFNLRSPYNSHMGNNASRPHSTN 1139
+9:gi|354474134|ref|XP_003499286.1                                                                         TRETQDKEIWREPSSAEGASQVTVKEELLPVAETKGSFFNLRSPYSSHMGNNAPRPHSTN 1139
+10:gi|74001306|ref|XP_535560.2                                                                            GRDTQDKDAWGEPSSAESVAQVTVKEEFVPAAETRAAGFSLRGPYSSPPGRSAPRPHSAN 1133
+11:gi|224044278|ref|XP_002196009.1                                                                        SQEAHDKEIWNEPSFTESSTRVTIKEELTSDTELKTPFSNLRSPYNSHMGSNTSHQHGgn 1138
+12:gi|149637067|ref|XP_001510924.1                                                                        SQEVPDKDMWNESPFAESPAQMAIKEEFLPGAETKAPFLNLRGPYGSPLGSKAPRPHNTN 1136
+13:gi|327278661|ref|XP_003224079.1                                                                        IQEAHSKDSWSETSFTENSSAATIKRELSPVVECRMPFHAVRHAYNNHSSNRVSLQHNVN 1139
+14:gi|147899732|ref|NP_001090752.1                                                                        GQELRDRGSWT-ASLLGNATEMTLKREMV---NCRGTTPNGSGMMKTTTPVVNKTLHNSS 1113
+15:gi|148236005|ref|NP_001083707.1                                                                        SQELRDRDSWTE-SLLGNASEVAFRREMV---NCRGTTPNGSVVTKTTTPVVNKTWHNSN 1113
+16:gi|126325183|ref|XP_001366289.1                                                                        LR-----DAWSE-SPARSTARVAVKEELSSPCESP------------------SHGRNAS 978
+17:gi|125838185|ref|XP_001336737.1                                                                        ------------------------------------------------------------
+18:gi|348524743|ref|XP_003449882.1                                                                        RKEVRDQ-------AEGAHSVVRVKEE--PISDMHAYERSLSSTPQSP-AHNDKHSHESQ 1064
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------------------------------------------------
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------------------------------------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------------------------------------------------
+22:gi|47190238|emb|CAF87039.1                                                                             SRKLQEPGAAPERSIKEEAA---------------------------------------- 131
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------------------------------------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------------------------------------------------
+                                                                                                                                                                      
+
+0:sp|P48552|NRIP1_HUMAN Nuclear receptor-interacting protein 1 OS=Homo sapiens OX=9606 GN=NRIP1 PE=1 SV=2 GEVYGLLGSVLTIKKESE 1158
+1:gi|60811768|gb|AAX36184.1                                                                               GEVYGLLGSVLTIKKESE 1158
+2:gi|344277172|ref|XP_003410378.1                                                                         GDVYGLLGNVLTIKKESD 1158
+3:gi|301757284|ref|XP_002914490.1                                                                         GEVYGLLGNVLTIKKESE 1156
+4:gi|348567168|ref|XP_003469373.1                                                                         GEAYGPMGNVLTIKKESE 1156
+5:gi|291400897|ref|XP_002716812.1                                                                         GDVYGLLGNMLTIKKESE 1157
+6:gi|358410112|ref|XP_603300.4                                                                            GEVYGLLGNMLTIKKESE 1156
+7:gi|335300538|ref|XP_003358931.1                                                                         GEVYGLLGNMLTIKKESE 1156
+8:gi|281371427|ref|NP_001094030.1                                                                         GEAYGPLGNVLTIKKECE 1157
+9:gi|354474134|ref|XP_003499286.1                                                                         GEIYGLLGNVLSIKKESE 1157
+10:gi|74001306|ref|XP_535560.2                                                                            GEGYGLLGNVLAIKKEAE 1151
+11:gi|224044278|ref|XP_002196009.1                                                                        GEVHGLLEKVRTIKKEPE 1156
+12:gi|149637067|ref|XP_001510924.1                                                                        GEIYGLLEKVLTIKKEAE 1154
+13:gi|327278661|ref|XP_003224079.1                                                                        GDVYGLLEKVLTIKKEPE 1157
+14:gi|147899732|ref|NP_001090752.1                                                                        GNKYGLL-DILAIKKEPE 1130
+15:gi|148236005|ref|NP_001083707.1                                                                        GNKYGLF-DILTIKKEPE 1130
+16:gi|126325183|ref|XP_001366289.1                                                                        GEAYGLLQRVLTIKKEAE 996
+17:gi|125838185|ref|XP_001336737.1                                                                        ------------------
+18:gi|348524743|ref|XP_003449882.1                                                                        G----------------- 1065
+19:gi|326671381|ref|XP_003199421.1                                                                        ------------------
+20:gi|47206707|emb|CAF90378.1                                                                             ------------------
+21:gi|347808810|gb|AEP24779.1                                                                             ------------------
+22:gi|47190238|emb|CAF87039.1                                                                             ------------------
+23:gi|125975557|ref|YP_001039467.1                                                                        ------------------
+24:gi|281416568|ref|ZP_06247588.1                                                                         ------------------
+                                                                                                                            
+

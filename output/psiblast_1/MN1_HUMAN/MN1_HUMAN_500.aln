@@ -1,0 +1,509 @@
+CLUSTAL 2.1 multiple sequence alignment (MView)
+
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 MFGLDQFEPQVNSRNAGQGERNFNETGLSMNTHFKAPAFHTGGPPGPVDPAMSALGEPPI 60
+1:gi|332859393|ref|XP_515048.3                                                               -----QFEPQINSRNAGQGERNFNETGLSMNTHFKAPAFHTGGPPGPVDPAMSALGEPPI 55
+2:gi|338727553|ref|XP_001916239.2                                                            MFGLDQFEPQINSRNAGQGERNFNEAGLSMNAHFKAPAFHAGGPPGPVDPAMSALGEPPM 60
+3:gi|300794118|ref|NP_001178857.1                                                            MFGLDQFEPQINSRHAGQGEGNFNEAGLSMNAHFKAPAFHAGPPPGPVDPAISALGEPPI 60
+4:gi|345791006|ref|XP_543461.3                                                               MFGLDQFEPQINSRNAGQGERNFNEAGLSMNAHFKAPAFHAGGPPGPVDPAMSALGEPPI 60
+5:gi|154147694|ref|NP_001093672.1                                                            MFGLEQFEPQINSRSAGQGERNFTQPGMNMSSHFKNAAFHSAGAPGAVDSAMGALNEPSM 60
+6:gi|348516210|ref|XP_003445632.1                                                            MFGLEQFGSQINSRNPGQSERNINQQRLNMGSHYKGPGFHAGGPPGAVEPGMGPLSEPQM 60
+7:gi|126324927|ref|XP_001379860.1                                                            MFGLDQFEPPINSRNAGQGERNFGEPGLSMNGHFKAPAFHAGGP---ADPAISALGEPPL 57
+8:gi|326668257|ref|XP_001919775.2                                                            MFELEQFGPQINNRNFGHTEKNFNKPKVSMNSHYKSPGFHTGGSQNTAEPGMGPLNETPV 60
+9:gi|47212493|emb|CAF95058.1                                                                 MFGLEQFGSHINSRNPGQSERKINQPRLNMGSHYKSPGFHAGSLSGAVEPSMGPLGEPQM 60
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           -------------RNAGQGERNFNEAGVSMNAHFKAPAFHAGGPPGPVDPAMSGLGEPPI 47
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------NAHFKAPAFHAGGPPGPVDPAMSGLGEPPI 30
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           MFGLDQFEPPIHGRPAGPGERNLHESGLSMNAHFKAPAFHAGGPAGPVDPalGALGDGPM 60
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 LGMNMEPYGFHARGHSELHAGGLQAQPVHGFFGGQQPHHGHPGSHHPHQHHPHFGGNFGG 120
+1:gi|332859393|ref|XP_515048.3                                                               LGMNMEPYGFHARGHSELHAGGLQAQPVHGFFGGQQPHHGHPGSHHPHQHHPHFGGNFGG 115
+2:gi|338727553|ref|XP_001916239.2                                                            LGMNMEPYGFHARGHSELHAGGLQAQPVHGFFGGQQPHHGHPGVHHPHQHHSHFGGNFGG 120
+3:gi|300794118|ref|NP_001178857.1                                                            LGLNMEPYGFHARGHSELHAGGLQAQPVHGFFGGQQPHHSHPGGHHPHQHHPHFGGNFGG 120
+4:gi|345791006|ref|XP_543461.3                                                               LSMNMEPYGFHARGHSELHAGGLQAQPVHGFFGGQQPHHGHPGGHHPHQHHPHFGGNFGG 120
+5:gi|154147694|ref|NP_001093672.1                                                            LGMNlePYGYHARGQSDIHPGGMQPQPVHGFFNNQHNPHHGHPNSHQHHPHFSGNFNGPD 120
+6:gi|348516210|ref|XP_003445632.1                                                            LGLNmeQYgfHPRGHSDMHAGSGLQQQQGQGPMHGFFNNQQPHQGHPHGHQPHPHQHHPH 120
+7:gi|126324927|ref|XP_001379860.1                                                            LGMNmePYGFHGRGHSELHAGGLQPQPVHGFFGSQQPHHGHPGGHHPHQHHPHFGGNFAG 117
+8:gi|326668257|ref|XP_001919775.2                                                            IEMNieQYGGFQRGHSELHTGNLQQQP--SMHGFFNPQQPHNHSHGHQTHPHQHFGGNFG 118
+9:gi|47212493|emb|CAF95058.1                                                                 LGLNmeQYgfHPRGHADMHAGgqQQGPMHGFFNNQQPHQGHPHSHQAHSHQPHPHFSGTF 120
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           LGMNMEPYGFHARSHSELHAGGLQAQPVHGFFGGQQPHHGHPGGHHPHQHHPHFGGNFGG 107
+12:gi|297484933|ref|XP_002694665.1                                                           LGMNMEPYGFHARSHSELHAGGLQAQPVHGFFGGQQPHHGHPGGHHPHQHHPHFGGNFGG 90
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           LGMNmePYGYHprGHAELHAGAMQPVP-------GFFGGQQPHHGHPGPHHPHFGGGFGG 113
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 PDPGASCLHGGRLLGYGGAAGGLGSQPPFAEGYEHMAESQGPESFGPQRPGNLPDFHSSG 180
+1:gi|332859393|ref|XP_515048.3                                                               PDPGASCLHGGRLLGYGGAAGGLGSQPPFAEGYEHMAESQGPESFGPQRPGNLPDFHSSG 175
+2:gi|338727553|ref|XP_001916239.2                                                            PDPGASCLHGGRLLGYGGAGGGLGSQPPFAEGYDHMAESQGPESFGPQRPGNLPDFHSSG 180
+3:gi|300794118|ref|NP_001178857.1                                                            PDPGASCLHGGRLLGYGGAASGLGSQPPFAESYEHMAESQGPEGFGPQRPGNLPDFHSSG 180
+4:gi|345791006|ref|XP_543461.3                                                               PDPGASCLHGGRLLGYGGAAGGLGSQPPFAEGYDHMAESQGPESFGPQRPGNLPDFHSSG 180
+5:gi|154147694|ref|NP_001093672.1                                                            AT--ASCLHGGRFMGYNNNIG---NQQAFGEGYEQIAENPSGEGFVQQRSGNISEFQhsT 175
+6:gi|348516210|ref|XP_003445632.1                                                            FGGngSSCLHGGRLMGYNNNNGMGPQQGFGEGFDPLAEGQTGDGFPQqrPGNMPDFQHHg 180
+7:gi|126324927|ref|XP_001379860.1                                                            PDPGASCLHGGRLLGYGGGGGGLGNQPGFAEGYEHMAETQGGEGFGQQRPGNIPEFQHhg 177
+8:gi|326668257|ref|XP_001919775.2                                                            PEPGSSCLHSGRVMGYNSSMGL---QQGFTEGFDSLSEGqgGFSQQQQRTSSMSDFQHHg 175
+9:gi|47212493|emb|CAF95058.1                                                                 GGPEPGSSCLHGGRLMGYNNNGMGPQQGFGEGFDPLTDGQAGDGfqQQRPGNMPDFQHhp 180
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           PDPGASCLHGGRLLGYGGAAGGLGSQPPFTEGYDHMAESQGPESFGPQRPGNLPDFHSSG 167
+12:gi|297484933|ref|XP_002694665.1                                                           PDPGASCLHGGRLLGYGGAAGGLGSQPPFTEGYDHMAESQGPESFGPQRPGNLPDFHSSG 150
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           PDPGASCLHGGRLLGYGGGG----GQPAFAEGYEPLAENPGGEGFGQQRPGNLPDFQPQQ 169
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 ASSHAVPAPCLPLDQSPNRAASFHGLPSSSGSDSHSLEPRRVTNQGAVDSLEYNYPGEAP 240
+1:gi|332859393|ref|XP_515048.3                                                               ASGHAVPAPCLPLDQSPNRAASFHGLPSSSGSDSHSLEPRRVTNQGAVDSLEYNYPGEAP 235
+2:gi|338727553|ref|XP_001916239.2                                                            ASGHAVPAPCLPLDQSPNRAASFHGLPASSGSDSHSLEPRRVANQGAVDSLEYNYPGEAP 240
+3:gi|300794118|ref|NP_001178857.1                                                            TSGHAVPAPCLPLDQSPNRAASFHGLSASSGSDSHSLEPRRVTNQGAVDSLEYNYPSEPP 240
+4:gi|345791006|ref|XP_543461.3                                                               ASGHAVPAPCLPLDQSPNRAASFHGLPAPSGSDSHSLEPRRVANQGAVDSLEYNYPGEAP 240
+5:gi|154147694|ref|NP_001093672.1                                                            ASNHAVPAPCLPLDQSPNRASSFHGLPTSSTSDSHNQEQRRIHNQGGVEPLEYNYPSDNP 235
+6:gi|348516210|ref|XP_003445632.1                                                            sGNHAVPAPCLPLDQSPNRAASFHGLPSSSSSSSEShePRRLPNQGAVEGLEYNFPSEPP 240
+7:gi|126324927|ref|XP_001379860.1                                                            PSGHAVPAPCLPLDQSPNRAASFHGLPASSSSDSHSLEARRMANQGGVESLEYNYPGDGP 237
+8:gi|326668257|ref|XP_001919775.2                                                            sGNHPVPAPCLPLDQSPNRAafHGLSSSSSSSESHNLEPRRMPPPAAVEGLDYSFPNEPS 235
+9:gi|47212493|emb|CAF95058.1                                                                 SGSHAVPAPCLPLDQSPNRAASFHGLPSSSSSSSEShePRRMNNQGAVEGLDYNFPNEPP 240
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           ASGHAVPAPCLPLDQSPNRAASFHGLPASGGSDSHSLEPRRVANQGAVDSLEYNYPGEPP 227
+12:gi|297484933|ref|XP_002694665.1                                                           ASGHAVPAPCLPLDQSPNRAASFHGLPASGGSDSHSLEPRRVANQGAVDSLEYNYPGEPP 210
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           QQQqaVPAPCLPLDQSPNRAASFHGLPASGSSDPHSLEPRRISNPGGVDSLEYNYPGDGP 229
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 SGHFDMFSPSDSEGQLPHYAAGRQVPGGAFPGASAMPRAAGMVGLSKMHAQPPQQQPQQQ 300
+1:gi|332859393|ref|XP_515048.3                                                               SGHFDMFSPSDSEGQLPHYAAGRQVPGGAFPGASAMPRAAGMVGLSKMHAQPPQQQPQQQ 295
+2:gi|338727553|ref|XP_001916239.2                                                            SGHFDMFSPSDSEGQLPHYAAGRQVPGGSFPGASSMPRAAGMVGLSKMHA----QQQQQQ 296
+3:gi|300794118|ref|NP_001178857.1                                                            SGHFDMFSPSDSEGQLPHYAAGRQVPGGAFPGASAMPRASGMVGLSKMHG------QPPQ 294
+4:gi|345791006|ref|XP_543461.3                                                               SGHFDMFSPSDSEGQLPHYAAGRQVPGGSFPGASAMPRAAGMVGLSKMHaqQQQQQQQQQ 300
+5:gi|154147694|ref|NP_001093672.1                                                            SGHFEvfSPSDSDG---HYGAGRQVPSGSFPGTSVLPRPPGLVGMGKVHPQQQ------- 285
+6:gi|348516210|ref|XP_003445632.1                                                            SGHFDvfSPSESESQLPHFGPGRPVPGGNFPGNAGMPRTPGMQGISKGHPPPPQPQQPQ- 299
+7:gi|126324927|ref|XP_001379860.1                                                            SGHFdvFSPSETEGQLPHYGTGRQVPGGAFPGAPALPRAPGMVAMSKIHPQQQQQQQQQQ 297
+8:gi|326668257|ref|XP_001919775.2                                                            SRHFdvYSPSESDSQLSHFGTGRQVPGSNFPGNTGLSRAPGMQGIAKEHP-------HAP 288
+9:gi|47212493|emb|CAF95058.1                                                                 SGHFDVHNQNLS---YPITGQEGQFPVGIFLATPGMPRTPGMQGISKGHQAAPQPQQSQ- 296
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           SGHFDMFSPSDSEGQLPHYAAGRQVPGGSFPGASAMPRAAGMVGLSKMHA-QQQQQQQQQ 286
+12:gi|297484933|ref|XP_002694665.1                                                           SGHFDMFSPSDSEGQLPHYAAGRQVPGGSFPGASAMPRAAGMVGLSKMHA-QQQQQQQQQ 269
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           AGHFdvFSPSEADGQLPHYGAGRQMPAGAFPGPNSMPRAPAMGGMAkpPPPQQQQHGQQQ 289
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 QQPQQQQQQHGVFFERFSGARKMPVGLEPSVGSRHPLMQPPQQAPPPPQQQPPQQPPQQQ 360
+1:gi|332859393|ref|XP_515048.3                                                               QQQQQQPQqhGVFFERFGGARKMPVGLEPSVGSRHPLMQPPQQAPPPPQQQPPQQPPQQQ 355
+2:gi|338727553|ref|XP_001916239.2                                                            QQQQQQQQQHGVFFERFGGARKMPVSLEPGVGSRHPLmpQQAPPPPQQPPPQQPQQPQQP 356
+3:gi|300794118|ref|NP_001178857.1                                                            PPPPQQQPQHGVFFERFGGARKMPVGLEPAVGSRHPLM----QPPQQAPPPPQQQPQQQQ 350
+4:gi|345791006|ref|XP_543461.3                                                               QQQQQQQQQHGVFFERFGGARKMPVGLEPGVGSRHPLmpPPPPQQPPQQPPQPQQQQQPP 360
+5:gi|154147694|ref|NP_001093672.1                                                            ---------HGVFFERFNNARKMSVGMDPAVNARHP----------------------LL 314
+6:gi|348516210|ref|XP_003445632.1                                                            ---------HGVFFERFGNGRKVPVGMEPGVNPRHPLMQQQQQA---------------- 334
+7:gi|126324927|ref|XP_001379860.1                                                            HGGSGG----GVFFERFGGARKMAVGMEPGVnaRHPLmpPPQPQPQPPPPQQQQPQQQQQ 353
+8:gi|326668257|ref|XP_001919775.2                                                            PQQQQPSAQHSVFFERFGGGRKIPVGIEPG--ARHPLM---------------------- 324
+9:gi|47212493|emb|CAF95058.1                                                                 ---------HGMFFERFGNGRKAPMGMEPGVNTRHPLMQQQQQS---------------- 331
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           QQQQQQQQQHGVFFERFGGTRKMPVGLEPGVGSRHPLmpPPQQPPPQQAPPPPQQPPPQQ 346
+12:gi|297484933|ref|XP_002694665.1                                                           QQQQQQQQQHGVFFERFGGTRKMPVGLEPGVGSRHPLmpPPQQPPPQQAPPPPQQPPPQQ 329
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           PPPPPPQQQHGVFFERFGAGRKMSVGMETGVNARHPLmqQQAAQQQQQQQQQQAAQQQQQ 349
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 PPPPPGLLVRQNSCPPALPRPQQGEAGTPSGGLQDGGPMLPSQHAQFEYPIHRLENRSMH 420
+1:gi|332859393|ref|XP_515048.3                                                               PPPPPGLLVRQNSCPPALPRPQQGEAGTPSGGLQDGGPMLPSQHAQFEYPIHRLENRSMH 415
+2:gi|338727553|ref|XP_001916239.2                                                            QPPPPGLLVRQNSCPPALPRPQQGEAGTPSGGLQDGGPMLPSQHAQFEYPIHRLENRSMH 416
+3:gi|300794118|ref|NP_001178857.1                                                            PPPPPGLLVRQNSCPPALPRPQQGEAGTPSGGLQDGGPMLPSQHAQFEYPIHRLENRSMH 410
+4:gi|345791006|ref|XP_543461.3                                                               APPPPGLLVRQNSCPPALPRPQQGEAGTPSGGLQDGGPMLPSQHAQFEYPIHRLENRSMH 420
+5:gi|154147694|ref|NP_001093672.1                                                            QQQQTGLLARQNSCPPAITRQQQTEANTSNPNLQDNGPVMQSQHAQFEYPIHRLENRNMH 374
+6:gi|348516210|ref|XP_003445632.1                                                            -----GLIARQNSCPPGLPRPPQAEPGTTNPNILDGGVMMPGQHNQFEYPIHRLENRGLH 389
+7:gi|126324927|ref|XP_001379860.1                                                            QQQPPGLLARQNSCPPALPRQPQAEANPASGSLQDGGPLLPTQHAQFEYPIHRLENRSMH 413
+8:gi|326668257|ref|XP_001919775.2                                                            QQQQPGLIGRQNTCPPSLPQPPLSETASANVGMQEGGVMMPGQHNQFEYPIHRPENRRIH 384
+9:gi|47212493|emb|CAF95058.1                                                                 -----GLIARQNSCPPGLPRPPQAEPGSANPNILDGRVMMPGQHNQFEYPIHRLENRGLN 386
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           PPPPPGLLVRQNSCPPALPRPQQGEAGTPSGGLQDGGPMLPNQHAQFEYPIHRLENRSMH 406
+12:gi|297484933|ref|XP_002694665.1                                                           PPPPPGLLVRQNSCPPALPRPQQGEAGTPSGGLQDGGPMLPNQHAQFEYPIHRLENRSMH 389
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           PPPPPGLLSRQNSCPPAIPRPQPTDAGPPNPSlqDPGPILQNQHAQFEYPIHRLENRNMH 409
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 PYSEPVFSMQHPPPQQAPNQRLQHFDAPPYMNVAKRPRFDFPGSAGVDRCASWNGSMHNG 480
+1:gi|332859393|ref|XP_515048.3                                                               PYSEPVFSMQHPPPQQAPNQRLQHFDAPPYMNVAKRPRFDFPGSAGVDRCASWNGSMHNG 475
+2:gi|338727553|ref|XP_001916239.2                                                            PYSEAVFNMQHPAPQQAPNQRLQHFDAPPYMNVAKRPRFDFPGSAGVDRCASWNGSMHNG 476
+3:gi|300794118|ref|NP_001178857.1                                                            PYSEPVFSMQHPPPQQAPNQRLQHFDAPPYMNVAKRPRFDFPGSTGVDRCASWNGSMHNG 470
+4:gi|345791006|ref|XP_543461.3                                                               PYSEPVFNMQHPPPQQAPNQRLQHFDAPPYMNVAKRPRFDFPGSAGVDRCASWNGNMHNG 480
+5:gi|154147694|ref|NP_001093672.1                                                            PYSESVFSMQQAPPQQPPNQRLQHFDA-PYMNVTKRPRFDFPNNHNVDNCAAWNNsiHNA 433
+6:gi|348516210|ref|XP_003445632.1                                                            PYGDPMFNMQQPAPPPSqnQRLQHFDS-PYMNMAKRPRFDFPNAHGGE---GWCGSM--- 442
+7:gi|126324927|ref|XP_001379860.1                                                            PYSDAVFTMQhqQQPPAPNQRLQHFDA-PYMNVAKRARFDFPGTPGVDRCASWNGGLHSG 472
+8:gi|326668257|ref|XP_001919775.2                                                            SYGDPIFNmqPPPPQQPPNQRLQHFDS-PYLNMGKRPRFDFPNahGRESCGSW-----NS 438
+9:gi|47212493|emb|CAF95058.1                                                                 PYGDPMFNMQQPAPPPSQQprLQHFDS-PYMNMAKRPRFDFPHAQGGE---GWCGGM--- 439
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           PYSEPVFNM-----QQAPNQRLQHFDAPPYMNVAKRPRFDFPGSAGVDRCASWNGSMHNG 461
+12:gi|297484933|ref|XP_002694665.1                                                           PYSEPVFNM-----QQAPNQRLQHFDAPPYMNVAKRPRFDFPGSAGVDRCASWNGSMHNG 444
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------MNVAKRPRFDFPGSAGVDRCASWNGSMHNG 30
+18:gi|345323850|ref|XP_001508854.2                                                           PYGDPVFN-LQHPPPQPPNQRLQHYDA-PYLSVAKRPRFDFATNPAVDRCASWSGA---- 463
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 ALDNHLSPSAYPGLPGEFTPPVPDSFPSGPPLQHPAPDHQSLQQQQQQQQQQQQQQQQQQ 540
+1:gi|332859393|ref|XP_515048.3                                                               ALDNHLSPSAYPGLPGEFTPPVPDSFPSGPPLQHPAPDHQSLQQQQQQQQQQQQQQQQQQ 535
+2:gi|338727553|ref|XP_001916239.2                                                            ALDNHLSPSAYSGLPGEFTPPVPDSFPSGPPLQHPAPDHQSLQQQQQQQQQQQQQQQR-- 534
+3:gi|300794118|ref|NP_001178857.1                                                            TLDNQLSPSAYPGLPGEFTPPVPDSFPSGPPLQHPGPDHQSlqQQQQQQQQQQQQQQQQQ 530
+4:gi|345791006|ref|XP_543461.3                                                               ALDNHLSPSAYSGLPGEFTPPVPDSFPSGPPLQHPAPDHQSLQQQQQQQQQQQQQQQQQQ 540
+5:gi|154147694|ref|NP_001093672.1                                                            AIESHLSPSTYPGLPGDYNPQVPESFPPGPALQHPGSDHQSLQQ---------------- 477
+6:gi|348516210|ref|XP_003445632.1                                                            --DNHLSPSAYPGLPGEFTPPVNEGFGPGP-LQHPGPEQQSLQQ---------------- 483
+7:gi|126324927|ref|XP_001379860.1                                                            ALDNHLSPSAYPGLPGDFTPPVPDSFPPGPALQHPGPDPQALQQQQQQHQQQQQQQQQQR 532
+8:gi|326668257|ref|XP_001919775.2                                                            AMENNLSPAAYPGLPGEFTPPVTDGFSTGPSLQLTGSEQQSMQQQ--------------- 483
+9:gi|47212493|emb|CAF95058.1                                                                 --DNHLSPSAYPGLPGDFTPP------------HPGPAQQSLQQ---------------- 469
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           ALDNHLSPSAYSGLPGEFTPPVPDSFPSGPPLQHPAPDHPSLQQQQQQQQQQQQQR---- 517
+12:gi|297484933|ref|XP_002694665.1                                                           ALDNHLSPSAYSGLPGEFTPPVPDSFPSGPPLQHPAPDHPSLQQQQQQQQQQQQQR---- 500
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           ALDNHLSPSAYPGLPGEFTPPVPDSFPSGPPLQHPAPDHQSLQQQQQQQQQQQQQQQQQQ 90
+18:gi|345323850|ref|XP_001508854.2                                                           GLDSHLSPSAYPGLPGDFTPPGPEGFAPGPPLQHPAQDPQTL-----------QQQQHQQ 512
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 QQQQQQQQQQRQNAALMIKQMASRNQQQRLRQPNLAQLGHPGDVGQGGLVHGGPVGGLAQ 600
+1:gi|332859393|ref|XP_515048.3                                                               QQQQQQQQQqrQNAALMIKQMASRNQQQRLRQPNLAQLGHPGDVGQGGLVHGGPVGGLAQ 595
+2:gi|338727553|ref|XP_001916239.2                                                            -----------QNAALMIKQMASRNQQQRLRQPSLAQLGHPGDVGQGSLVHGGPVGGLAQ 583
+3:gi|300794118|ref|NP_001178857.1                                                            QQQQQQQQQQRQNAALMIKQMASRNQHQRLRQPNLAQLGHPGDVGQGGLVHGGSVSGLAQ 590
+4:gi|345791006|ref|XP_543461.3                                                               QQQQQQXHP--HNADLTIKQTASRNQQQRMCQSNLAQLGHPGDVGQGGMVHSGPVGGLAQ 598
+5:gi|154147694|ref|NP_001093672.1                                                            ----------RQNAAMMIKQMASRNQQQRMRQANIQQLGHHGDVNQSSIVHGGQVGGMQQ 527
+6:gi|348516210|ref|XP_003445632.1                                                            ----------RQNAAMMIKQMASRNQQQRMRQPSLQQLGHHGDVPPGPMVHGGPVGNMPH 533
+7:gi|126324927|ref|XP_001379860.1                                                            -----------QNAALMMKQMAsqQQQQRLRQPGLPPLSHpeVGPGSGLVHGGPVAGLAQ 581
+8:gi|326668257|ref|XP_001919775.2                                                            -----------QNAAMMIKQMASRSQQQRMRQPSLQQLGHHNDVSQGPLGPGGPVGGMPQ 532
+9:gi|47212493|emb|CAF95058.1                                                                 ----------RQNAAMMIKQMASRNQQQRMRQPSLQQLGHHGDVPPAPMAHGGPGGSMPQ 519
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           -----------QNAALMIKQMASRNQQQRLRQPNLAQLGHPGDVGQGGLVHSGPVGGLGQ 566
+12:gi|297484933|ref|XP_002694665.1                                                           -----------QNAALMIKQMASRNQQQRLRQPNLAQLGHPGDVGQGGLVHSGPVGGLGQ 549
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           QQQQQQQ---RQNAALMIKQMASRNQQQRLRQPNLAQLGHPGDVSQGGLVHGGPVGGLAQ 147
+18:gi|345323850|ref|XP_001508854.2                                                           QQHQQHQQQQRQNAALMMKQMAS-RTQQRLRPPTLPQLGHP---GDVGPVHGGPPAGLPQ 568
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 PNFEREGGSTGAGRLGTFEQQAPHLAQESAWFSGPHPPPGDLLPRRMGGSGLPADCGPHD 660
+1:gi|332859393|ref|XP_515048.3                                                               PNFEREGGSTGAGRLGTFEQQAPHLAQESAWFSGPHPPPGDLLPRRMGGSGLPADCGPHD 655
+2:gi|338727553|ref|XP_001916239.2                                                            PNFERDSGGAGAGRLGTFEQQAPHLAQESAWFPGPHPSPGDLLPRRMGGSGLPADCGPHD 643
+3:gi|300794118|ref|NP_001178857.1                                                            TNFEREGGSTGAGRLGGFEQQAPHLAQESAWFPGPH-PPGDLLPRRMGSAGLPADCGPHD 649
+4:gi|345791006|ref|XP_543461.3                                                               PNFEREG--AGAGRLGAFEPQAPHLAQESAWfpHPPPPPGDLLPRRMGGSGLPADCGPHD 656
+5:gi|154147694|ref|NP_001093672.1                                                            PNFDREG-----GRIGTFDPQNPHVAQENAWFPGPH-PPGDILQRRMGGSNLPADPSSHD 581
+6:gi|348516210|ref|XP_003445632.1                                                            PGFDRENG----GRMPNIDGQNPHVTQENSWFQGSH-PPGEMMSRRMGGAGNESGPHDMG 588
+7:gi|126324927|ref|XP_001379860.1                                                            ANFEREsgGGGAGRLGNFDPQNPHLAPESAWfhPPPPPPGDLLPRRLGGSGLPPD----G 637
+8:gi|326668257|ref|XP_001919775.2                                                            SSFERENG----GRMVNFDGRSPHMTMESGWFPGPH-PPGEMLGHRMGSSGEMGD----- 582
+9:gi|47212493|emb|CAF95058.1                                                                 PNFDREN----SGRIPNMDGQNPHVPQENSWFQGSH-PPGEMMSRRIGGAGSEAGPHDMG 574
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           PNFERDSGGAGAGRLGTFEPQAQHLAQESAWFPGPHPPPGDLLPRRMGGSGLPSDCGPHD 626
+12:gi|297484933|ref|XP_002694665.1                                                           PNFERDSGGAGAGRLGTFEPQAQHLAQESAWFPGPHPPPGDLLPRRMGGSGLPSDCGPHD 609
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           PNFEREGGSTGAGRLGTFEQQAPHLAQESAWFSGPHPPPGDLLPRRMGGSGLPADCGPHD 207
+18:gi|345323850|ref|XP_001508854.2                                                           PTFERdgPGPGGGRLAGFEAQASHLGPESAWFPGPPPPGDL-LPRRLGGPPLPAD---GG 624
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 PSLAPPPPPGGSGVLFRGPLQEPMRMPGEGHVPALPSPGLQFGGSLGGLGQLQSPGAGVG 720
+1:gi|332859393|ref|XP_515048.3                                                               PSLAPPPPPGGSGVLFRGPLQEPMRMPGEGHVPALPSPGLQFGGSLGGLGQLQSPGAGVG 715
+2:gi|338727553|ref|XP_001916239.2                                                            PGLAPPPPPGGSGVLFRGPLQEPLRMPGEGHVPALPSPGLQFGGSLASLGQLQSPGAGVG 703
+3:gi|300794118|ref|NP_001178857.1                                                            PGLAPPPAPGGSGVLFRGSLQEPLRMPGEGHVPALASPGLQFGSSLAGLGQLQSPGAGVG 709
+4:gi|345791006|ref|XP_543461.3                                                               PGLAPPPPPGGSGVLFRGPLQEPLRMPGEGHVPALPSPGLQFGGSLAGLGQLQSPGAGVG 716
+5:gi|154147694|ref|NP_001093672.1                                                            MNLQQNGSNLLFRpvNRMGIQEPLGIPGEGHVQALHSPGMHSQFGSNMANLSQMQSPGGG 641
+6:gi|348516210|ref|XP_003445632.1                                                            LQQNGAG------IMFriGMQEPMRIPGDGHVQNLHSPGMHSQFSGNMGNLTQMQSPGAG 642
+7:gi|126324927|ref|XP_001379860.1                                                            SPHELGLAQGGSGMLFRGplQESLRMPGEGHVPALHSPGLHSQFGGSLGGLGQLQSpgVG 697
+8:gi|326668257|ref|XP_001919775.2                                                            ----RDIQQNGPGMMFrmGMQESMRVPGEGHVQPLLSPNIHSQFNSGMGSLSQMQSPSAG 638
+9:gi|47212493|emb|CAF95058.1                                                                 LQQNGAG------MMFrmAMQEPMRMPGDGHVQALHSPGMHSQFSGNMGNLSQMQSPGAG 628
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           PGLAPPPPPGGSGVLFRGSLQEPLRMPGEGHVPGLPSPGLQFGGSLASLGQLQSPGAGVG 686
+12:gi|297484933|ref|XP_002694665.1                                                           PGLAPPPPPGGSGVLFRGSLQEPLRMPGEGHVPGLPSPGLQFGGSLASLGQLQSPGAGVG 669
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           PSLAPPPPPGGSGVLFRGPLQDPMRMPGEGHVPALPSPGLQFGGSLGGLGQLQSPGAGVG 267
+18:gi|345323850|ref|XP_001508854.2                                                           PHELGLPPGGGSGMLFRGplQEPLRLAGEGHVPGLHSPAGLHAQFGGGLAQLQSPGGGVG 684
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 LPSAASERRPPPPDFATSALGGQPGFPFGAAGRQSTPHSGPGVNSPPSAGGGGGSSGGGG 780
+1:gi|332859393|ref|XP_515048.3                                                               LPSAASERRPPPPDFATSALGGQPGFPFGAAGRQATPHSGPGVNSPPSAGGGGGSSGGGG 775
+2:gi|338727553|ref|XP_001916239.2                                                            LPSAPSERGPPPPNFSXRP-----RAKFGRRTRSGTDhtSYPSISPPRQRCRSALLRSLL 758
+3:gi|300794118|ref|NP_001178857.1                                                            LPNAPSERRPPPPDFPAPALGGQPGFPFGSGSRQATPH--SAPGVNSPPSAGAGSGSSGA 767
+4:gi|345791006|ref|XP_543461.3                                                               LPSAPSERRPPPPDFTApaLGGQPGFPFGAATRQATPHSGPGVNSPPSAGGGAGGGGGGG 776
+5:gi|154147694|ref|NP_001093672.1                                                            VGLSSTPADRRGpdFTASSIGGQAGFPFVGSNRQSTPHNPPGVNSSPSSYPP-------- 693
+6:gi|348516210|ref|XP_003445632.1                                                            AGHPNAPAERRPADFPAPSMGAQPAFPYGGANRQGPAHSAPQGVSTSPGNYPP------- 695
+7:gi|126324927|ref|XP_001379860.1                                                            LPSAPSDRRAPPPDFAAPPLGGQPAFPFGGPGRQATP-LSNPGVSSSPGGAGGAGGGAGG 756
+8:gi|326668257|ref|XP_001919775.2                                                            VGLPNTPSERRSNDFPGPPMGGPSQFQYGGSNRQGASH--------------GNSQGVNT 684
+9:gi|47212493|emb|CAF95058.1                                                                 TGHPNAPADRRPADFPAPPMGAQPTFPYGGASRAGPAHGAPQGVSTSPGTYQS------- 681
+10:gi|344246318|gb|EGW02422.1                                                                ------------------------------------------------------------
+11:gi|119909485|ref|XP_001254018.1                                                           LPSAPSERRPQPPDFTAPALGGQPGFPFGAANRQATPH---------------------- 724
+12:gi|297484933|ref|XP_002694665.1                                                           LPSAPSERRPQPPDFTAPALGGQPGFPFGAANRQATPhgVNSPPSAGGGGGSTGGGGGAG 729
+13:gi|301781794|ref|XP_002926314.1                                                           ------------------------------------------------------------
+14:gi|354479134|ref|XP_003501768.1                                                           ------------------------------------------------------------
+15:gi|351696182|gb|EHA99100.1                                                                ------------------------------------------------------------
+16:gi|291409829|ref|XP_002721220.1                                                           ------------------------------------------------------------
+17:gi|297260783|ref|XP_002798365.1                                                           LPGAASERRPPPPDFATSALGGQPGFPFGAASRQATPHSGPGVNSPPSAGGGGGSSGGGG 327
+18:gi|345323850|ref|XP_001508854.2                                                           maPSDRRPPPPPPDFAGPALGGQPAFPFGPGSRQATPH---------------------- 722
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              ------------------------------------------------------------
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 GGGAYPPQPDFQPSQRTSASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 840
+1:gi|332859393|ref|XP_515048.3                                                               GGGAYPPQPDFQPSQRTSASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 835
+2:gi|338727553|ref|XP_001916239.2                                                            WGLAYAPHXDFQPSQRSSASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 818
+3:gi|300794118|ref|NP_001178857.1                                                            AGGAYPPQPDFQSSQRNSASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 827
+4:gi|345791006|ref|XP_543461.3                                                               GGGAYPPQPDFQPSQRASASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 836
+5:gi|154147694|ref|NP_001093672.1                                                            -------QSDFQANQRSAASKLGALSLGSFSKSSAKESMFGQSCLAALSTACQNMIASLG 746
+6:gi|348516210|ref|XP_003445632.1                                                            -------QSEFPPGQRSSVSKLGNLSLGNFSKTSSKDSVFGQSCLAALSTACQNMIASLG 748
+7:gi|126324927|ref|XP_001379860.1                                                            GGSGYPPQADFQPSQRASGSKLGALSLGSFNKPNSKDNLFGQSCLAALSTACQNMIASLG 816
+8:gi|326668257|ref|XP_001919775.2                                                            SPGSFTCQSDFPTSQRSSVSKLGGLSLGNFSKTNGKDNVFGQSCLAALSTACQNMIASLG 744
+9:gi|47212493|emb|CAF95058.1                                                                 -------QSEFPSGQRSSVSKLGALSLGNFSKTSAKDSVFGQSCLAALSTACQNMIASLG 734
+10:gi|344246318|gb|EGW02422.1                                                                --------PDFQPSQRNSASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 52
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           GGGAYPPQPDFQPSQRTSASKLGALSLGSFNKPSSR------------------------ 765
+13:gi|301781794|ref|XP_002926314.1                                                           -------QPDFQPSQRTSASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 53
+14:gi|354479134|ref|XP_003501768.1                                                           -------QPDFQPSQRNSASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 53
+15:gi|351696182|gb|EHA99100.1                                                                -----------------------------FNKPSSKDNLFGQSCLAALSTACQNMIASLG 31
+16:gi|291409829|ref|XP_002721220.1                                                           -------QPDFQPSQRASASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 53
+17:gi|297260783|ref|XP_002798365.1                                                           GGGAYPPQPDFQPSQRTSASKLGALSLGSFNKPSSKDNLFGQSCLAALSTACQNMIASLG 387
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              -------HPEYLSSQHLSVNKLGALSLGNLNKASTKDSVFGQSCLAALSTACQNMIASLG 53
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 APNLNVTFNKKNPPEGKRKLSQNETDGAAVAGNPGSDYFPGGTAPGAPGPGGPSGTSSSG 900
+1:gi|332859393|ref|XP_515048.3                                                               APNLNVTFNKKNPPEGKRKLSQNETDGAAVAGNPGSDYFPGGTAPGAPGPGGPSGTSSSG 895
+2:gi|338727553|ref|XP_001916239.2                                                            APNLNVTFNKKNPPEGKRKLSQNETEGATVAGNPGSDYFPGGAAPGAPGPGGPSGTSSSG 878
+3:gi|300794118|ref|NP_001178857.1                                                            APNLNVTFNKKNPPEGKRKLSQNEPDSAVAAGNPGSDYFPGGTTPGAPGPGGPSGTSGGG 887
+4:gi|345791006|ref|XP_543461.3                                                               APNLNVTFNKKNPPEGKRKLSQNEADGAAAAGNPGSDYFPGGAAPGAPGPGGPPGTGSGG 896
+5:gi|154147694|ref|NP_001093672.1                                                            APNLNVTFNKKSQTEGKRKLSQTETdnSNSGNNNGSDYFPGATSQSNQVSGSSNANNKST 806
+6:gi|348516210|ref|XP_003445632.1                                                            APNLNVTFNKKNQNEGKRKLSQTEQdtSNGTGSAGPEYF-----QSSTSQNSQMPGTGNS 803
+7:gi|126324927|ref|XP_001379860.1                                                            APNLNVTFNKKNQPEGKRKLSQTDPDGAGTGGSGGPDYF-----PSGAAPGGPGGTGGGG 871
+8:gi|326668257|ref|XP_001919775.2                                                            APNLNVTFNKKTQAEGKRKLSQTEQdaVNGTGNTGTEYF----PSLTAPQNGQMPPAGNS 800
+9:gi|47212493|emb|CAF95058.1                                                                 APNLNVTFNKKNQNEGKRKLSQTEQdtSNGTGSAGPEYF-----QSSTSQNSQMPGTGNS 789
+10:gi|344246318|gb|EGW02422.1                                                                APNLNVTFNKKNPPEGKRKLSQNEPDSAAAAGNPGSDYFPGGTTGAPGPGGPSGASGGGS 112
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------------------------------------
+13:gi|301781794|ref|XP_002926314.1                                                           APNLNVTFNKKNPPEGKRKLSQNETDG--VAGNPGSDYFPGGTAPGAPGPGGPSGTSNSG 111
+14:gi|354479134|ref|XP_003501768.1                                                           APNLNVTFNKKNPPEGKRKLSQNEPDSAAAAGNPGSDYFPGGTTGAPGPGGPSGASGGGS 113
+15:gi|351696182|gb|EHA99100.1                                                                APNLNVTFNKKNPPEGKRKLSQNDTDGAAVAGNPGSDYFPGGPAPGAPGPGGPAGTSSSG 91
+16:gi|291409829|ref|XP_002721220.1                                                           APNLNVTFNKKNPPEGKRKLSQNEADGSagAGNPGSDYFPGGTAPGAPGPGGPSGTSQGG 113
+17:gi|297260783|ref|XP_002798365.1                                                           APNLNVTFNKKNPPEGKRKLSQNETDGAAVAGNPGSDYFPGGTAPGAPGTGGPSGTSSSG 447
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              APNLNVTFNKKSQNEAKRKAGQVEQdnSSGSSGPGAEYFQSNASQNSQTPCSGNNNNTMV 113
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 SKASGPPNPPAQGDGTSLSPNYTLESTSGNDGKPVSGGGGRGRGRRKRDSGHVSPGTFFD 960
+1:gi|332859393|ref|XP_515048.3                                                               SKASGPPNPSAQGDGTSLSPNYTLESTSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 955
+2:gi|338727553|ref|XP_001916239.2                                                            SKASGPPNPPAPGDGTSLSPNYTLESTSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 938
+3:gi|300794118|ref|NP_001178857.1                                                            SKASGPPNPPIQGDSTSLSPNYTLESTSGSDGKPVPGGSGRGRGRRKRDSGHVSPGTFFD 947
+4:gi|345791006|ref|XP_543461.3                                                               SKASGPPNPPAQGDGTSLSPNYTLESTSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 956
+5:gi|154147694|ref|NP_001093672.1                                                            GQVGASQPT--QGE-TSLSPNYNIEVTPGNDGKPVTAGGRGRGRR-KRDSGHVSPGNYFE 862
+6:gi|348516210|ref|XP_003445632.1                                                            NSKPASQSQTVQGEASALSPNYNMDATPCSEGKATTGSGRGRGRRKR-DSGHVSPGIFFS 862
+7:gi|126324927|ref|XP_001379860.1                                                            GKAPGPPNPPVPGDGTSLSPNYTIEATSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 931
+8:gi|326668257|ref|XP_001919775.2                                                            NAKPLSQNQTVQGEASALSPNFNMDTTPCSEGKAATGSGRGRGRRKR-DSGHVSPGIFFP 859
+9:gi|47212493|emb|CAF95058.1                                                                 NSKPASQSQTVQGEASALSPNYNMDATPCSEGKTTTGSGRGRGRRKR-DSGHVSPGIFFS 848
+10:gi|344246318|gb|EGW02422.1                                                                KSSGPPNPPI-QGDGTSLSPNYTLESTSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 171
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------------------------------------
+13:gi|301781794|ref|XP_002926314.1                                                           SKASGPPNPPAQGDGTSLSPNYTLESTSGNDGKPVPGGRGRGRR--KRDSGHVSPGTFFD 169
+14:gi|354479134|ref|XP_003501768.1                                                           KSSGPPNPPI-QGDGTSLSPNYTLESTSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 172
+15:gi|351696182|gb|EHA99100.1                                                                SKASGPSNPPNQGDGTSLSPNYTLESTSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 151
+16:gi|291409829|ref|XP_002721220.1                                                           SSKAAGPPNPpqGDGTSLSPNYTLESTSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 173
+17:gi|297260783|ref|XP_002798365.1                                                           SKASGPPNPPAQGDGTSLSPNYTLESTSGNDGKPVPGGGGRGRGRRKRDSGHVSPGTFFD 507
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           ------------------------------------------------------------
+20:gi|326670950|ref|XP_700922.4                                                              GQSGTGQMV--KREASTLSPNDSMES--GCEGK-MATGNGKGRGKKRRDSGHISPGNF-- 166
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 KYSAAPDSGGAPGVSPGQQQASGAAVGGSSAGETRGAPTPHEKALTSPSWGKGAELLLGD 1020
+1:gi|332859393|ref|XP_515048.3                                                               KYSAAPDSGGAPGVSPGQQQASGAAVGGSSAGETRGAPTPHEKALTSPSWGKGAELLLGE 1015
+2:gi|338727553|ref|XP_001916239.2                                                            KYSAAPDSGGAPGVSPGQQQAPGAAVGGSSTGEARGAPTPHEKALTSPSWGKGAELLLGD 998
+3:gi|300794118|ref|NP_001178857.1                                                            KYSAAPDSGGAPGVSPGQQQAPGSAAGGSSVNEARG-PTPHEKALTSPSWGKGAELLLGD 1006
+4:gi|345791006|ref|XP_543461.3                                                               KYPAAPDSGGasPGQQQPAQGAAVGGSSASAGEARGAPTPHEKALTSPSWGKGAELLLGD 1016
+5:gi|154147694|ref|NP_001093672.1                                                            KFSA--DSGGAVVSPGQQGPSAN---------SGESGGAPHDKPLTSPSWGKGGELLLGD 911
+6:gi|348516210|ref|XP_003445632.1                                                            SDNSNPVVSPG-------------QQTPSAGVGERGGGTPHEKQLQSPSWGKGGDLMLGD 909
+7:gi|126324927|ref|XP_001379860.1                                                            KFSASAADGGG-PGVSPGQQVAPGPPGGSASGEPRGAPTPHEKALTSPSWAKGAELLLGD 990
+8:gi|326668257|ref|XP_001919775.2                                                            SENSNP----------------VVSPSQQVSSAERSTGTPHEKPHTSPSWGKGGDLLLGD 903
+9:gi|47212493|emb|CAF95058.1                                                                 SDNGNP-------------VVSPSQQTSSAGIGERGGSTPHEKHLQSPSWGKGGELMLGD 895
+10:gi|344246318|gb|EGW02422.1                                                                KYSAAPDSGGAPGVSPGQQQAPSSAAGGSSVNEARG-PTPHEKALTSPSWGKGAELLLGD 230
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------------------------------------
+13:gi|301781794|ref|XP_002926314.1                                                           KYSAAPDSGGAPGVSPGQQQAPGAAVGGSSTSEARGAPTPHEKALTSPSWGKGAELLLGD 229
+14:gi|354479134|ref|XP_003501768.1                                                           KYSAAPDSGGAPGVSPGQQQAPSSAAGGSSVNEARG-PTPHEKALTSPSWGKGAELLLGD 231
+15:gi|351696182|gb|EHA99100.1                                                                KYSVAPDSGGAPGVSPGQQSAPGAAVVGGSSveARGAPTPHEKTLTSPSWGKGAELLLGD 211
+16:gi|291409829|ref|XP_002721220.1                                                           KFSAAPDSGGAPGVSPGQQPPPPPPPPPPPPpeARGAPTPHEKALTSPSWGKGADLLLGD 233
+17:gi|297260783|ref|XP_002798365.1                                                           KYSAAPDSGGAPGVSPGQQQASGAAVGGSSAGETRGAPTPHEKALTSPSWGKGAELLLGD 567
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           ----------------------------------------------NPNLQDNGPIMQNQ 14
+20:gi|326670950|ref|XP_700922.4                                                              ----SPPSGGNPVVSPGQQGSNLSMGM-----ESRGK-TP-ERTLVSPSFGK-------- 207
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 QPDLIGSLDGGAKSDSSSPNVGEFASDEVSTSYANEDEVSSSSDNPQALVKASRSPLVTG 1080
+1:gi|332859393|ref|XP_515048.3                                                               QPDLIGSLNGGAKSDSSSPKRGXVASDEGAR----------------------------- 1046
+2:gi|338727553|ref|XP_001916239.2                                                            QPDLMASLDGGAKSDSSSPHVGEFASDEVSTSYANEDEVSSSSDNPPALAKASRSPLVTG 1058
+3:gi|300794118|ref|NP_001178857.1                                                            QPDLMASLDSTAKSDGSSPHVGEFASDEVSTSYANEDEVSSSSDNTTALAKASRSPLVTS 1066
+4:gi|345791006|ref|XP_543461.3                                                               QPDLMASLDGGAKSDGSSPHVGEFASDEVSTSYANEDEVSSSSDNPPALAKASRSPLVTG 1076
+5:gi|154147694|ref|NP_001093672.1                                                            QPDLMSSLDSgtKSDSSSPDVDF--GEDVNTTYGNEDEVSSSSDN--NIAKPNSCPMVTG 967
+6:gi|348516210|ref|XP_003445632.1                                                            QADLMSSLDSgaKSDSSSPRVDF--SEDVSTHYGNEDEVSSSSDTGGASakPNRSPIITG 967
+7:gi|126324927|ref|XP_001379860.1                                                            QADLMSSLdsGAKSAGSSPHVGDFA-DDVGAAYANEDEVSSSSDnaTGLAKAGRSPLLGG 1049
+8:gi|326668257|ref|XP_001919775.2                                                            QSDLMSSLDSgsKSEVCSPRM-DFTDDAVVTHYSNEDEVSSSS-DAQSSVKPGCSPLL-G 960
+9:gi|47212493|emb|CAF95058.1                                                                 QADLMSSLDSgaKSDSSSPRVDF--PDDVSTHFGNEDEVSSSSDTGGAVanPSRSPIISG 953
+10:gi|344246318|gb|EGW02422.1                                                                QPDLMASLDSTAKSDGSSPHVGEFASDEVSTSYANEDEVSSSSDNTTALAKASRSPLVTS 290
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------------------------------------
+13:gi|301781794|ref|XP_002926314.1                                                           QPDLMASLDGGAKSDGSSPHVGEFASDEVSTSYANEDEVSSSSDNPPALAKASRSPLVTG 289
+14:gi|354479134|ref|XP_003501768.1                                                           QPDLMASLDSTAKSDGSSPHVGEFASDEVSTSYANEDEVSSSSDNTTALAKASRSPLVTS 291
+15:gi|351696182|gb|EHA99100.1                                                                QPDLMASLDGGAKSNGSSPHVGEFTSDEVSTSYTNEDEVSSSSDNPPVLAKASRSPLVTG 271
+16:gi|291409829|ref|XP_002721220.1                                                           QPDLMASLDGGAKGAGSSPHVGEFASDEVSTSYANEDEVSSSSDNPPALAKASRSPLVTG 293
+17:gi|297260783|ref|XP_002798365.1                                                           QPDLIGSLDGGAKSDSSSPHVGEFASDEVSTSYANEDEVSSSSDNPQALVKASRSPLVTG 627
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           HPDLMSSLDSgtKSDGSSPHVDF--ADEVSTSYGNEDEVSSSSDN--AGPKPTRSPLLGG 70
+20:gi|326670950|ref|XP_700922.4                                                              -PDLATSMDSggKSDGVSPCMDYL--DDASPNYSTED----------------------- 241
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 SPKLPPRGVGAGEHGPKAPPPALGLGIMSNSTSTPDSYGGGGGPGHPGTPGLEQVRTPTS 1140
+1:gi|332859393|ref|XP_515048.3                                                               SPKLPPRGVGAGEHGPKAPPPALGLGIMSNSTSTPDSYGGGGGPGHPGTPGLEQVRTPTS 1106
+2:gi|338727553|ref|XP_001916239.2                                                            SPKLPPRGVVAGEH--GPKAPPLGLGIMSTSTSTPDSYGGGGGAGHPGTPGLEQVRTPTS 1116
+3:gi|300794118|ref|NP_001178857.1                                                            SPKLPPRGVGAGEH--TPKASALGLGILSTSTSTPDSYGGGVGTGHPGTPGLEQVRTPTS 1124
+4:gi|345791006|ref|XP_543461.3                                                               SPKLPPRGVGAGEhkAPPPPPPLGLGIMSTSTSTPDSY-GGGGAGHPGTPGLEQVRTPTS 1135
+5:gi|154147694|ref|NP_001093672.1                                                            SPKIQ-----RGEHGLLNGQKSMGLNLLNNTTSLPDSYGLSSTGGGHPGTpmEQVRTPTS 1022
+6:gi|348516210|ref|XP_003445632.1                                                            SPKMQ-----RSDHGLINGQKPLGMGINNHTTSTPDTytGASGVSHPGTPGVEQVRTPSS 1022
+7:gi|126324927|ref|XP_001379860.1                                                            SPKI-PRGPG-GEH--GQKAAPGLGGLLTTSTSTPDSY-GGGGAAPPGTPGLEQVRTPTS 1104
+8:gi|326668257|ref|XP_001919775.2                                                            SPKM-PNGLMSGQK---------GQGLSNQTTSTSDGF---GGAGHPGTPGMEQVRTPSS 1007
+9:gi|47212493|emb|CAF95058.1                                                                 SPKMQ-----RSEHGLINGQNPLSMGINNHTTSTPDSytGGSGVSHPSTPGTEQVRTPSS 1008
+10:gi|344246318|gb|EGW02422.1                                                                SPKLPPRGVGAGEHAPKAPALGLG--ILSTSSSTPDSYGGGVGTGHPGTPGLEQVRTPTS 348
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------------------------------------
+13:gi|301781794|ref|XP_002926314.1                                                           SPKLPPRGVGAGEHGPKAPPPPLGLGIMSTSTNTPDSYGGGGTGHPGTPG-LEQVRTPTS 348
+14:gi|354479134|ref|XP_003501768.1                                                           SPKLPPRGVGAGEHAPKAPALGLG--ILSTSSSTPDSYGGGVGTGHPGTPGLEQVRTPTS 349
+15:gi|351696182|gb|EHA99100.1                                                                SPKLPPRGVGT-EHGPKAPPPPLGLGIMSTSTSTPDSYGGGGGSGHPGTPGLEQVRTPTS 330
+16:gi|291409829|ref|XP_002721220.1                                                           SPKLPPRGVGAGEHGPKAPPPALGLGILSTSTSTPDSYGAGGGAGHPGTPGLEQVRTPTS 353
+17:gi|297260783|ref|XP_002798365.1                                                           SPKLPPR-VGAGEH---------------------------------------------- 640
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           SPKLP-----RGEHALLNGQKPLALGLLNTSTSTPDSYGLSSTAGAHPGTpmEQVRTPTS 125
+20:gi|326670950|ref|XP_700922.4                                                              -----PRPCRAG--------------VKCNSENRAS---------YADASCMEQVRTPLS 273
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 SSGAPPPDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGGKKGECAVGASGAQNGDSELG 1200
+1:gi|332859393|ref|XP_515048.3                                                               SSGAPPPDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGGKKGECAVGASGAQNGDSELG 1166
+2:gi|338727553|ref|XP_001916239.2                                                            SSGAPPPDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGGKKGECAVGASGAQNGDSELS 1176
+3:gi|300794118|ref|NP_001178857.1                                                            SSGAPPPDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGSKKTECAVGASGAQNGDSELG 1184
+4:gi|345791006|ref|XP_543461.3                                                               SSGAPPPDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGGKKGECAVGSSGAQNGDSELG 1195
+5:gi|154147694|ref|NP_001093672.1                                                            TSTQ---DEIHPLEILQAQIQLQRQQFSISEDQPLGMK-NKKNDCT-----AQSVDSELN 1073
+6:gi|348516210|ref|XP_003445632.1                                                            TSGQ---EEIHPLEILQAQIQLQRQQFSISEDQPLAMKTGKKN----GDCPSQNGDNELA 1075
+7:gi|126324927|ref|XP_001379860.1                                                            STA--PQDEIHPLEILQAQIQLQRQQFSISEDQPLgsGSGKKAECAGG--GGQNGDSELA 1160
+8:gi|326668257|ref|XP_001919775.2                                                            TSGQ---DEIHPLEILQAQIQLQRQQFSISEDQPLAVNNNKK--------SSELGDGELA 1056
+9:gi|47212493|emb|CAF95058.1                                                                 TSGQ---EEIHPLEILQAQIQLQRQQFSISEDQPLAMKNSKKndCP-----SQNGDNELA 1060
+10:gi|344246318|gb|EGW02422.1                                                                SSGAPPPDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGGKKVECAVGASGAQNGDNELG 408
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------------------------------------
+13:gi|301781794|ref|XP_002926314.1                                                           SSGAPPPDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGGKKGECAVGSSGAQNGDSELG 408
+14:gi|354479134|ref|XP_003501768.1                                                           SSGAPPPDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGGKKVECAVGASGAQNGDNELG 409
+15:gi|351696182|gb|EHA99100.1                                                                SSGAPPQDEIHPLEILQAQIQLQRQQFSISEDQPLGLKGGKKGECPVGAAGTQNGDSELG 390
+16:gi|291409829|ref|XP_002721220.1                                                           SSGAPPpdEIHPLEILQAQIQLQRQQFSISEDQPLGLTGGRKGECAVEASGARNGDSELG 413
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           TSAQ---DEIHPLEILQAQIQLQRQQFSISEDQPLGLK-SKKGECA-----GQNGDSDLG 176
+20:gi|326670950|ref|XP_700922.4                                                              NTGQ---DEVHPLEILQAQIQLQRQQFSISEDQPMGGKTSKKADCQA----SLNGECTLA 326
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 SCCSEAVKSAMSTIDLDSLMAEHSAAWYMPADKALVDSADDDKTLAPWEKAKPQNPNSKE 1260
+1:gi|332859393|ref|XP_515048.3                                                               SCCSEAVKSAMSTIDLDSLMAEHSAAWYMPADKALVDSADDDKTLAPWEKAKPQNPNSKE 1226
+2:gi|338727553|ref|XP_001916239.2                                                            SCCSEAVKSAMSTIDLDSLMAEHSATWYMPADKALVDGADDDKTLAPWEKAKPQNPNSKE 1236
+3:gi|300794118|ref|NP_001178857.1                                                            SCCSEAVKSAMSTIDLDSLMAEHSTTWYMPPDKALVDGGDDDKTLAPWEKAKSQNPNNKE 1244
+4:gi|345791006|ref|XP_543461.3                                                               SCCSEAVKSAMSTIDLDSLMAEHSATWYMPADKALVDGADDDKTLAPWEKAKPQNPNSKE 1255
+5:gi|154147694|ref|NP_001093672.1                                                            SCCSDNVKNSMSTIDLDSLMAEHNSTWYMPNEKSLMEGDEEDKSITPWEKSKSQQTN-KE 1132
+6:gi|348516210|ref|XP_003445632.1                                                            SCSPDAGKGSMGTIDLDTLMAEQHATWYVPSDKVMMDGSEDDKATGPWEKNKSQN-SSKE 1134
+7:gi|126324927|ref|XP_001379860.1                                                            ACCPEAVKSAMSTIDLDSLMAEHSSTWYMPGEKALLDGPEDDKTLAPWEKAKAQNPVSKE 1220
+8:gi|326668257|ref|XP_001919775.2                                                            SCGPDAEKSSVGTIDLDTLMAEQHATWYVPSDKCLLEDSEEEKST--WEKNKAQ-ATIKE 1113
+9:gi|47212493|emb|CAF95058.1                                                                 GCSPEAGKSSMGTIDLDTLMAEQHATWYVPNDKAMMDGSEDDKAIGQWEKNKSQN-SSKE 1119
+10:gi|344246318|gb|EGW02422.1                                                                SCCSEAVKSAMSTIDLDSLMAEHSTTWYMPPDKALVDGGDEDKTLAPWEKAKPQNPNNKE 468
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------------------------------------
+13:gi|301781794|ref|XP_002926314.1                                                           SCCSEAVKSAMSTIDLDSLMAEHSATWYMPSDKALVDGTDDDKTLAPWEKAKPQNPNSKE 468
+14:gi|354479134|ref|XP_003501768.1                                                           SCCSEAVKSAMSTIDLDSLMAEHSTTWYMPPDKALVDGGDEDKTLAPWEKAKPQNPNNKE 469
+15:gi|351696182|gb|EHA99100.1                                                                SCCSEAVKSAMSTIDLDSLMAEHSATWYMPADKALVDGSEDDKTLAPWEKGKPQNPNSKE 450
+16:gi|291409829|ref|XP_002721220.1                                                           SCCSEAVKSAMSTIDLDSLMAEHSATWYMPTDKALVDGADDDKTLAPWEKAKPQNPNSKE 473
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           GCCPEGVKNTMSTIDLDSLMAEHNSTWYLPGEKALMEGQEEDKPMAPWEKPKPPNP-SKE 235
+20:gi|326670950|ref|XP_700922.4                                                              NSSPVTGKSSVNTIDLDSLMTEQHATWYVPGNKALIEDPSNDKCLGYWERARGQSDN-KE 385
+                                                                                                                                                         
+
+0:sp|Q10571|MN1_HUMAN Transcriptional activator MN1 OS=Homo sapiens OX=9606 GN=MN1 PE=1 SV=3 AHDLPANKASASQPGSHLQCLSVHCTDDVGDAKARASVPTWRSLHSDISNRFGTFVAALT 1320
+1:gi|332859393|ref|XP_515048.3                                                               AHDLPANKASATQPGSHLQCLSVHCTDDVGDAKARASVPTWRSLHSDISNRFGTFVAALT 1286
+2:gi|338727553|ref|XP_001916239.2                                                            AHDLPTNKASAAQPGSHLQCLAVHCTDDVGDAKARASVPTWRSLHSDISNRFGTFVAALT 1296
+3:gi|300794118|ref|NP_001178857.1                                                            VHDHPTNKASATQPGSHLQCLTVHCTD--GDPKARTSVPTWRSLHSDISNRFGTFVAALT 1302
+4:gi|345791006|ref|XP_543461.3                                                               AHDLPANKASATQPGSHLQCLSVHCTDDVGDAKARASVPTWRSLHSDISNRFGTFVAALT 1315
+5:gi|154147694|ref|NP_001093672.1                                                            ALDLPQNKTSAaqNGSHLQCLSVHCTDDIGETKGRTPVPTWRSLHSDISNRFGTFVAALT 1192
+6:gi|348516210|ref|XP_003445632.1                                                            ESELTQSkgGGSSGGNHLQCLSVHCTDELGDSKGRGgvSSWRSLHSDISNRFGTFVAALT 1194
+7:gi|126324927|ref|XP_001379860.1                                                            G----------------------------------------------------------- 1221
+8:gi|326668257|ref|XP_001919775.2                                                            EADLTQNKSGGGAggSHLQCLSVHCTDELGESKGRGgvPSWRSLHSDISNRFGTFVAALT 1173
+9:gi|47212493|emb|CAF95058.1                                                                 GKKL-------------------------------------------------------- 1123
+10:gi|344246318|gb|EGW02422.1                                                                AHDLPTNKASATQPGSHLQCLTVHCTD--GDPKARASVPTWRSLHSDISNRFGTFVAALT 526
+11:gi|119909485|ref|XP_001254018.1                                                           ------------------------------------------------------------
+12:gi|297484933|ref|XP_002694665.1                                                           ------------------------------------------------------------
+13:gi|301781794|ref|XP_002926314.1                                                           AHDLPANKASATQPGSHLQCLSVHCTDDVGDAKARASVPTWRSLHSDISNRFGTFVAALT 528
+14:gi|354479134|ref|XP_003501768.1                                                           AHDLPTNKASATQPGSHLQCLTVHCTD--GDPKARASVPTWRSLHSDISNRFGTFVAALT 527
+15:gi|351696182|gb|EHA99100.1                                                                ALDLPASKASATQPGSHLQCLSVHCTDDVGDAKARASVPAWRSLHSDISNRFGTFVAALT 510
+16:gi|291409829|ref|XP_002721220.1                                                           AHDLPASKGSASQPGSHLQCLSVHCTDDVGDAKARASVPTWRSLHSDISNRFGTFVAALT 533
+17:gi|297260783|ref|XP_002798365.1                                                           ------------------------------------------------------------
+18:gi|345323850|ref|XP_001508854.2                                                           ------------------------------------------------------------
+19:gi|363740003|ref|XP_003642254.1                                                           AHDLPPSKTSAtqTGSHLQCLSVHCTDDVGEAKGRTAVPTWRSLHSDISNRFGTFVAALT 295
+20:gi|326670950|ref|XP_700922.4                                                              GH---------------------------------------------------------- 387
+                                                                                                                                                         
+

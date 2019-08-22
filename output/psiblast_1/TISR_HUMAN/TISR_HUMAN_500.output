@@ -1,0 +1,17 @@
+# PSIBLAST 2.2.25+
+# Iteration: 1
+# Query: sp|Q9Y5M6|TISR_HUMAN Oculomedin OS=Homo sapiens OX=9606 GN=OCLM PE=2 SV=1
+# Database: /mnt/d/DNCON2/databases/nr90-2012/nr90
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query seq, subject seq
+# 1 hits found
+sp|Q9Y5M6|TISR_HUMAN	gi|11693180|ref|NP_071770.1|	100.00	44	0	0	1	44	1	44	1e-14	82.4	MGMYPPLLLKIYLSRHISILFYLKILYKSGIIWLSWYSFILLVL	MGMYPPLLLKIYLSRHISILFYLKILYKSGIIWLSWYSFILLVL
+# PSIBLAST 2.2.25+
+# Iteration: 2
+# Query: sp|Q9Y5M6|TISR_HUMAN Oculomedin OS=Homo sapiens OX=9606 GN=OCLM PE=2 SV=1
+# Database: /mnt/d/DNCON2/databases/nr90-2012/nr90
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query seq, subject seq
+# 1 hits found
+sp|Q9Y5M6|TISR_HUMAN	gi|11693180|ref|NP_071770.1|	100.00	44	0	0	1	44	1	44	2e-04	48.7	MGMYPPLLLKIYLSRHISILFYLKILYKSGIIWLSWYSFILLVL	MGMYPPLLLKIYLSRHISILFYLKILYKSGIIWLSWYSFILLVL
+
+Search has CONVERGED!
+# BLAST processed 2 queries
