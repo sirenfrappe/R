@@ -159,3 +159,19 @@ rownames(kafang.dataframe) <- c("nor","dise")
 chisq.test(kafang.dataframe)
 #p = 0.9629
 
+##########PTM类型统计
+library(tidyverse)
+
+PTMS <- group_by(alldata,Modification) %>%
+  summarize(count=n()) 
+  
+ggplot(data=PTMS,aes(y=Modification,x=count))+
+  geom_point()+
+  geom_text(label=PTMS$count,hjust=1.5)
+
+
+PTMS.disease <- group_by(alldata.diease,Modification) %>%
+  summarise(count=n())
+ggplot(data = PTMS.disease,aes(y=Modification,x=count))+
+  geom_point()+
+  geom_text(label=PTMS.disease$count,hjust=1.5)
