@@ -55,12 +55,12 @@ if (is.na(match("tidyverse",(.packages())))) {
        library(tidyverse)
     }
 
-path <- "/mnt/d/DNCON2/protein" 
-fileNames <- dir(path)
-filePath <- sapply(fileNames,function(x){
-    str_c(path,x,sep='/')
-})
-for (i in 124:143) {
-   blast_output2aln_Fasta(protein_file = filePath[[i]] , protein_id = str_split(names(filePath[i]),"\\.")[[1]][1] )
-}
-#blast_output2aln_Fasta(protein_file="/mnt/d/DNCON2/protein/1A03_HUMAN.fasta",protein_id="1A03_HUMAN")
+#path <- "/mnt/d/DNCON2/protein" 
+#fileNames <- dir(path)
+#filePath <- sapply(fileNames,function(x){
+ #   str_c(path,x,sep='/')
+#})
+#for (i in 124:143) {
+#   blast_output2aln_Fasta(protein_file = filePath[[i]] , protein_id = str_split(names(filePath[i]),"\\.")[[1]][1] )
+#}
+#blast_output2aln_Fasta(protein_file="/mnt/d/DNCON2/protein/NUCB2_HUMAN.fasta",protein_id="NUCB2_HUMAN")
