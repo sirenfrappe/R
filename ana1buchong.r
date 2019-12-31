@@ -18,11 +18,11 @@ a <- lapply(data.disorder, function(x){
   dim(x)[1]
 })
 sum <- 0
-for (i in 1:143) {
+for (i in 1:122) {
   sum <- sum+a[[i]]
 }
 sum
-#23775
+#15247
 ##########所有PTM位点中无序的占比
 data.PTM <- data.diease <- lapply(data, function(x){
   subset(x,x$Modification!=0)
@@ -50,7 +50,7 @@ c <- lapply(data.disease.disorder, function(x){
   dim(x)[1]
 })
 sum <- 0
-for (i in 1:143) {
+for (i in 1:122) {
   sum <- sum+c[[i]]
 }
 sum

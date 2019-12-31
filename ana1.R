@@ -36,7 +36,7 @@ numofS <- 0
 numofC <- 0
 numofD <- 0
 numofNA <- 0
-for (i in 1:143) {
+for (i in 1:122) {
   numofS <- numofS+dim(data.disorder.s[i][[1]])[1]
   numofC <- numofC+dim(data.disorder.C[i][[1]])[1]
   numofD <- numofD+dim(data.disorder.D[i][[1]])[1]
@@ -44,7 +44,7 @@ for (i in 1:143) {
 }
 
 sum <- 0
-for (i in 1:143) {
+for (i in 1:122) {
   #cat(data.diease[i][[1]]$mobidb.disorder.full.regions,"\n")
   sum <- sum+length(data.diease[i][[1]]$mobidb.disorder.full.regions)
 }
@@ -57,7 +57,7 @@ data.PTM <- data.diease <- lapply(data, function(x){
 })
 alldata <- data.frame( data.diease[[1]])
 alldata <- cbind(data.frame("ProID"=rep("1A01_HUMAN",24)),alldata)
-for (i in 2:143) {
+for (i in 2:122) {
   temdata <- data.frame(data.diease[[i]])
   proid <- strsplit(names(data.diease)[i],".txt")[[1]]
   temdata <- cbind(data.frame("ProID"=rep(proid,dim(temdata)[1])),temdata)
@@ -66,6 +66,8 @@ for (i in 2:143) {
 #alldata
 alldata.diease <- subset(alldata,alldata$RelatedDisease!=0)
 alldata.normal <- subset(alldata,alldata$RelatedDisease==0)
+#dim( filter(alldata.diease,mobidb.disorder.predictors.mobidb.lite.score>0.74)) 疾病相关中无序的数量
+#dim(alldata)总PTM位点个数
 #正态性检验
 shapiro.test(alldata.normal[,22])
 #p-value < 2.2e-16
@@ -73,25 +75,22 @@ shapiro.test(alldata.normal[,22])
 #p-value < 2.2e-16
 
 #方差齐性检验
-a <- factor(c(rep(1,4568),rep(2,312)))
+a <- factor(c(rep(1,2704),rep(2,261)))
 x <- c(alldata.normal[,22],alldata.diease[,22])
 bartlett.test(x~a)
-predict.score <- data.frame(A=c(rep("normal",4568),rep("diease",312)),rates=x)
-#p=0.5957,方差有差异
+predict.score <- data.frame(A=c(rep("normal",2704),rep("diease",261)),rates=x)
+#p=0.9159,方差有差异
 
-ks.test(alldata.normal[,22],alldata.diease[,22])
-#p=0.318,服从提一个分布
 
 wilcox.test(alldata.diease[,22],alldata.normal[,22])
-# p-value = 0.5543,接受原假设，两样本有显著性差异
+# p-value = 0.3675,接受原假设，两样本有显著性差异
 
 
 # 
 boxplot(alldata.diease[,22],alldata.normal[,22])
 library(ggplot2)
 ggplot(predict.score,aes(x=A,y=rates))+
-  geom_boxplot()+
-  geom_point()
+  geom_boxplot()
 
 #D、C、S分类计数
 alldata.s <- lapply(data, function(x) {
@@ -119,7 +118,7 @@ numofS <- 0
 numofC <- 0
 numofD <- 0
 numofNA <- 0
-for (i in 1:143) {
+for (i in 1:122) {
   numofS <- numofS+dim(alldata.s[i][[1]])[1]
   numofC <- numofC+dim(alldata.C[i][[1]])[1]
   numofD <- numofD+dim(alldata.D[i][[1]])[1]
@@ -135,7 +134,6 @@ library(ggplot2)
 ggplot(alldata.factor.count,aes(x=alldata.factor.count$x,y=alldata.factor.count$freq))+
   geom_point()+
   geom_text(label=alldata.factor.count$freq,vjust=-0.5)+
-  theme(axis.text.x = element_text(angle = 30))+
   xlab("mobidb score")+
   ylab("counts")
 
@@ -144,7 +142,6 @@ alldata.diease.factor.count <- count(factor(alldata.diease[,22]))
 ggplot(alldata.diease.factor.count,aes(x=alldata.diease.factor.count$x,y=alldata.diease.factor.count$freq))+
   geom_point()+
   geom_text(label=alldata.diease.factor.count$freq,vjust=-0.5)+
-  theme(axis.text.x = element_text(angle = 30))+
   xlab("mobidb score")+
   ylab("counts")
 
@@ -157,7 +154,7 @@ num.data.dise.stru <- dim(subset(alldata,alldata$RelatedDisease != 0 & alldata$m
 kafang.dataframe <- data.frame(stru=c(num.data.normal.stru,num.data.dise.stru),diso=c(num.data.normal.diso,num.data.dise.diso))
 rownames(kafang.dataframe) <- c("nor","dise")
 chisq.test(kafang.dataframe)
-#p = 0.9629
+#p = 0.3423
 
 ##########PTM类型统计
 library(tidyverse)

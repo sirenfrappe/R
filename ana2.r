@@ -23,9 +23,9 @@ data.disease <- lapply(data, function(x) {
 ################################
 
 #蛋白长度与PTM个数关系图
-data.lengthANDPTM <- data.frame(matrix(NA, 143, 2))
+data.lengthANDPTM <- data.frame(matrix(NA, 122, 2))
 colnames(data.lengthANDPTM) <- c("length", "num")
-for (i in 1:143) {
+for (i in 1:122) {
   data.lengthANDPTM[i, 1] <- dim(data[[i]])[1]
   data.lengthANDPTM[i, 2] <-
     dim(subset(data[[i]], data[[i]]$Modification != 0))[[1]]
@@ -40,10 +40,10 @@ ggplot(data.lengthANDPTM,
   geom_smooth(method = 'auto')
 
 #去除蛋白长度对位点个数的影响
-data.rate.normaldisease <- data.frame(matrix(NA, 143, 2))
+data.rate.normaldisease <- data.frame(matrix(NA, 122, 2))
 colnames(data.rate.normaldisease) <- c("normal", "disease")
 #分母：PTM个数*蛋白长度
-for (i in 1:143) {
+for (i in 1:122) {
   data.rate.normaldisease[i, 2] <-
     dim(data.disease[[i]])[1] / (dim(data[[i]])[1] *
                                    dim(subset(data[[i]],
@@ -57,20 +57,16 @@ for (i in 1:143) {
                     0))[1])
 }
 
-#差异性检验
+#正态性检验
 shapiro.test(data.rate.normaldisease[, 1])
-#p-value = 9.919e-12
+#p-value = 1.253e-09
 shapiro.test(data.rate.normaldisease[, 2])
 #p-value < 2.2e-16
-#方差齐性检验
-bartlett.test(c(data.rate.normaldisease[, 1], data.rate.normaldisease[, 2]) ~
-                factor(c(rep(1, 143), rep(2, 143))))
-#p=1.817e-09
 
-#远小于0.05，采用非参数检验
-wilcox.test(data.rate.normaldisease[, 1], data.rate.normaldisease[, 2], paired =
-              TRUE)
-#p-value < 2.2e-16
+
+#采用wilcox非参数检验
+wilcox.test(data.rate.normaldisease[, 1], data.rate.normaldisease[, 2], paired =TRUE)
+#p-value = 6.675e-15
 #单边
 wilcox.test(data.rate.normaldisease[,2],data.rate.normaldisease[,1],paired=TRUE,alternative = "less")
 #疾病相关PTM位点数量<疾病无关PTM位点数量
@@ -79,10 +75,10 @@ wilcox.test(data.rate.normaldisease[,2],data.rate.normaldisease[,1],paired=TRUE,
 #boxplot
 
 library(ggplot2)
+library(reshape2)
 meltdata <- melt(data.rate.normaldisease)
 ggplot(meltdata, aes(x = variable, y = value)) +
   geom_boxplot() +
-  geom_point() +
   xlab("") +
   ylab("")
 
@@ -111,11 +107,11 @@ data.normal.diso <- lapply(data.normal, function(x) {
   subset(x, x$mobidb.disorder.predictors.mobidb.lite.score > 0.501)
 })
 #疾病不相关PTM位点无序与否差异性检测
-data.rate.NPTM <- data.frame(matrix(NA, 143, 2))
+data.rate.NPTM <- data.frame(matrix(NA, 122, 2))
 colnames(data.rate.NPTM) <- c("stru", "diso")
 #疾病无关
 #分母：PTM个数*蛋白长度
-for (i in 1:143) {
+for (i in 1:122) {
   data.rate.NPTM[i, 1] <-
     dim(data.normal.stru[[i]])[1] / (dim(data[[i]])[1] *
                                        dim(subset(data[[i]],
@@ -130,28 +126,28 @@ for (i in 1:143) {
 shapiro.test(data.rate.NPTM[, 1])
 shapiro.test(data.rate.NPTM[, 2])
 #p<0.05
-bartlett.test(c(data.rate.NPTM[, 1], data.rate.NPTM[, 2]) ~ factor(c(rep(1, 143), rep(2, 143))))
-#p-value = 1.043e-08
+bartlett.test(c(data.rate.NPTM[, 1], data.rate.NPTM[, 2]) ~ factor(c(rep(1, 122), rep(2, 122))))
+#p-value =7.056e-11
 wilcox.test(data.rate.NPTM[, 1], data.rate.NPTM[, 2], paired = TRUE)
-#p-value = 6.57e-10，差异性显著
+#p-value =  2.15e-09，差异性显著
 
 wilcox.test(data.rate.NPTM[, 2], data.rate.NPTM[, 1], paired = TRUE,alternative = "less")
 #p<0.05,疾病无关无序数量＜疾病无关有序数量
 
 library(ggplot2)
+library(reshape2)
 meltdata <- melt(data.rate.NPTM)
 ggplot(meltdata, aes(x = variable, y = value)) +
   geom_boxplot() +
-  geom_point() +
   xlab("") +
   ylab("")
 
 
 
 #疾病相关
-data.rate.DPTM <- data.frame(matrix(NA, 143, 2))
+data.rate.DPTM <- data.frame(matrix(NA, 122, 2))
 colnames(data.rate.DPTM) <- c("stru", "diso")
-for (i in 1:143) {
+for (i in 1:122) {
   data.rate.DPTM[i, 1] <-
     dim(data.disease.stru[[i]])[1] / (dim(data[[i]])[1] *
                                         dim(subset(data[[i]],
@@ -166,17 +162,16 @@ for (i in 1:143) {
 shapiro.test(data.rate.DPTM[, 1])
 shapiro.test(data.rate.DPTM[, 2])
 #p<0.05
-bartlett.test(c(data.rate.DPTM[, 1], data.rate.DPTM[, 2]) ~ factor(c(rep(1, 143), rep(2, 143))))
+bartlett.test(c(data.rate.DPTM[, 1], data.rate.DPTM[, 2]) ~ factor(c(rep(1, 122), rep(2, 122))))
 # p-value < 2.2e-16
 wilcox.test(data.rate.DPTM[, 1], data.rate.DPTM[, 2], paired = TRUE)
-#p-value = 5.421e-07，差异性显著
+#p-value = 3.857e-07，差异性显著
 wilcox.test(data.rate.DPTM[, 2], data.rate.DPTM[, 1], paired = TRUE,alternative = "less")
 #p<0.05,疾病相关无序数量＜疾病相关有序数量
 library(ggplot2)
 meltdata <- melt(data.rate.DPTM)
 ggplot(meltdata, aes(x = variable, y = value)) +
   geom_boxplot() +
-  geom_point() +
   xlab("") +
   ylab("")
 
@@ -186,7 +181,7 @@ ggplot(meltdata, aes(x = variable, y = value)) +
 shapiro.test(data.rate.DPTM[, 2])
 shapiro.test(data.rate.NPTM[, 2])
 #p<0.05
-bartlett.test(c(data.rate.DPTM[, 2], data.rate.NPTM[, 2]) ~ factor(c(rep(1, 143), rep(2, 143))))
+bartlett.test(c(data.rate.DPTM[, 2], data.rate.NPTM[, 2]) ~ factor(c(rep(1, 122), rep(2, 122))))
 #p-value = 0.01032
 wilcox.test(data.rate.DPTM[, 2], data.rate.NPTM[, 2], paired = TRUE)
 
@@ -198,6 +193,5 @@ meltdata <-
                     data.rate.NPTM[, 2]))
 ggplot(meltdata, aes(x = variable, y = value)) +
   geom_boxplot() +
-  geom_point() +
   xlab("") +
   ylab("")

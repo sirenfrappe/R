@@ -45,7 +45,7 @@ for (i in 1:15) {
 #去除ID不存在的蛋白信息
 #读取之前处理过的ID信息
 UniID <-
-  readLines("D:/idps/srcipt/output/UniIDofDieaseassociated.txt")
+  readLines("D:/idps/script/output/pro122.txt")
 UniID <- as.character(strsplit(UniID, " ")[[1]])
 data <-  subset(data, is.na(match(data$ID, UniID)) == F)
 #去除重复行
@@ -60,7 +60,7 @@ data1 <- count(data$Related.Disease)
 data1 <- data1[order(data1[, 2], decreasing = T), ]
 write.table(
   data1,
-  "D:/idps/srcipt/output/geshuweidian.txt",
+  "D:/idps/script/output/geshuweidian.txt",
   quote = FALSE,
   row.names = FALSE,
   sep = "\t"

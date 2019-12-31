@@ -1,189 +1,174 @@
 x	freq
-Immature fraction of reticulocytes	20
-Blood protein levels	18
-High light scatter reticulocyte count	17
-Coronary artery disease	14
-Fibrinogen levels	13
-Height	13
-Mean corpuscular volume	13
-HDL cholesterol	12
-Intraocular pressure	12
-Cholesterol, total	10
-High light scatter reticulocyte percentage of red cells	10
-GIP levels in response to oral glucose tolerance test (120 minutes)	9
-Lifespan	8
-Mean corpuscular hemoglobin concentration	8
-Mean platelet volume	8
-Alcohol dependence	7
-Body mass index	7
-Idiopathic intracranial hypertension	7
-Platelet count	7
-Plateletcrit	7
-Alzheimer's disease (late onset)	6
-C-reactive protein	6
-C-reactive protein levels	6
-Obesity-related traits	6
-Type 2 diabetes	6
-Alanine aminotransferase (ALT) levels after remission induction therapy in actute lymphoblastic leukemia (ALL)	5
-B-type natriuretic peptide to N-terminal pro B-type natriuretic peptide ratio	5
-Basophil percentage of granulocytes	5
-Behavioural disinhibition (generation interaction)	5
-Breast cancer	5
-Fasting blood insulin	5
-Fasting blood insulin (BMI interaction)	5
-Hematocrit	5
-Initial pursuit acceleration	5
-Initial pursuit acceleration in psychotic disorders	5
-Lymphocyte counts	5
-N-terminal pro B-type natriuretic peptide levels	5
-Reticulocyte count	5
-Severe malaria	5
-Urinary albumin-to-creatinine ratio	5
-Asparaginase-induced acute pancreatitis in acute lymphoblastic leukemia (onset time)	4
-C-reactive protein levels or HDL-cholesterol levels (pleiotropy)	4
-C-reactive protein levels or LDL-cholesterol levels (pleiotropy)	4
-C-reactive protein levels or total cholesterol levels (pleiotropy)	4
-Chronic obstructive pulmonary disease	4
-Granulocyte count	4
-Inflammatory bowel disease	4
-LDL cholesterol	4
-Lipid metabolism phenotypes	4
-Low density lipoprotein cholesterol	4
-Lung cancer	4
-Lung function (FEV1)	4
-Lung function (FEV1/FVC)	4
-Lung function (FVC)	4
-Major depressive disorder	4
-Pneumonia	4
-Pulmonary function	4
-Pulmonary function (smoking interaction)	4
-Red cell distribution width	4
-Response to antineoplastic agents	4
-Response to statins (LDL cholesterol change)	4
-Schizophrenia	4
-Sum basophil neutrophil counts	4
-Sum neutrophil eosinophil counts	4
-Total cholesterol levels	4
-Ulcerative colitis	4
-Venous thromboembolism	4
-Alcohol consumption (transferrin glycosylation)	3
-Alzheimer's disease (cognitive decline)	3
-Autism spectrum disorder or schizophrenia	3
-Body mass index (joint analysis main effects and physical activity interaction)	3
-Body mass index in physically active individuals	3
-Carotid intima media thickness	3
-Childhood ear infection	3
-Coronary heart disease	3
-Cortical thickness	3
-Hair color	3
-Hip circumference adjusted for BMI	3
-Hypospadias	3
-Obesity	3
-Reticulocyte fraction of red cells	3
-Skin colour saturation	3
-Systemic lupus erythematosus	3
-Waist-to-hip ratio adjusted for body mass index	3
-Waist circumference	3
-Advanced age-related macular degeneration	2
-Anti-thyroid drug induced agranulocytosis	2
-Basal cell carcinoma	2
-Blond vs. brown hair color	2
-Bone properties (heel)	2
-Breast cancer (estrogen-receptor negative)	2
-Cancer	2
-Cardiovascular risk factors	2
-Crohn's disease	2
-Cutaneous squamous cell carcinoma	2
-Freckles	2
-Ideal cardiovascular health (clinical and behavioural)	2
-Itch intensity from mosquito bite adjusted by bite size	2
-LDL cholesterol levels	2
-Lipid traits	2
-Lipoprotein (a) levels	2
-Lipoprotein(a) levels adjusted for apolipoprotein(a) isoforms	2
-Melanoma	2
-Menopause (age at onset)	2
-Metabolite levels (lipoprotein measures)	2
-Non-melanoma skin cancer	2
-Osteoprotegerin levels	2
-Perceived skin darkness	2
-Pulse pressure	2
-Red vs non-red hair color	2
-Serum uric acid levels	2
-Serum vitamin D-binding protein levels	2
-Skin sensitivity to sun	2
-Sunburns	2
-Systolic blood pressure	2
-Tanning	2
-Testosterone levels	2
-Thiopurine methyltransferase activity in acute lymphoblastic leukemia patients treated with mercaptopurines	2
-Vitamin D levels	2
 Acylcarnitine levels	1
+Advanced age-related macular degeneration	2
+Alanine aminotransferase (ALT) levels after remission induction therapy in actute lymphoblastic leukemia (ALL)	5
 Alcohol consumption	1
+Alcohol consumption (transferrin glycosylation)	3
+Alcohol dependence	7
 Alzheimer's disease	1
+Alzheimer's disease (late onset)	5
 Alzheimer's disease biomarkers	1
 Amino acid levels	1
 Amyotrophic lateral sclerosis	1
+Anti-thyroid drug induced agranulocytosis	2
+Asparaginase-induced acute pancreatitis in acute lymphoblastic leukemia (onset time)	3
 Asparaginase hypersensitivity in acute lymphoblastic leukemia	1
 Asthma	1
 Autism	1
+Autism spectrum disorder or schizophrenia	3
+B-type natriuretic peptide to N-terminal pro B-type natriuretic peptide ratio	5
+Basal cell carcinoma	2
+Basophil percentage of granulocytes	5
+Behavioural disinhibition (generation interaction)	5
 Birth weight	1
 Bitter taste perception	1
+Blond vs. brown hair color	2
 Blood metabolite levels	1
 Blood pressure	1
+Blood protein levels	13
+Body mass index	7
+Body mass index (joint analysis main effects and physical activity interaction)	3
+Body mass index in physically active individuals	3
 Bone mineral density	1
 Bone mineral density (hip)	1
+Bone properties (heel)	2
 Brain imaging	1
+Breast cancer	3
+C-reactive protein	6
+C-reactive protein levels	6
+C-reactive protein levels or HDL-cholesterol levels (pleiotropy)	4
+C-reactive protein levels or LDL-cholesterol levels (pleiotropy)	4
+C-reactive protein levels or total cholesterol levels (pleiotropy)	4
+Cardiovascular risk factors	2
+Carotid intima media thickness	3
 Cerebral amyloid deposition (PET imaging)	1
 Cerebral amyloid deposition positivity (PET imaging)	1
 Cerebrospinal AB1-42 levels in Alzheimer's disease dementia	1
 Cerebrospinal fluid biomarker levels	1
+Childhood ear infection	3
+Cholesterol, total	10
+Chronic obstructive pulmonary disease	4
 Cognitive decline (age-related)	1
+Coronary artery disease	14
+Coronary heart disease	3
+Cortical thickness	3
+Crohn's disease	2
+Cutaneous squamous cell carcinoma	2
 Dementia with Lewy bodies	1
 Diastolic blood pressure	1
 Epstein-Barr virus copy number in lymphoblastoid cell lines	1
 Esophageal cancer	1
+Fasting blood insulin	5
+Fasting blood insulin (BMI interaction)	5
+Fibrinogen levels	13
+Freckles	2
 Glaucoma (high intraocular pressure)	1
 GLP-1 levels in response to oral glucose tolerance test (fasting)	1
 Glucagon levels in response to oral glucose tolerance test (120 minutes)	1
 Glucagon levels in response to oral glucose tolerance test (fasting)	1
+Granulocyte count	4
+Hair color	3
+HDL cholesterol	11
+Height	13
+Hematocrit	5
 Hemoglobin levels	1
-High density lipoprotein cholesterol levels	1
+High light scatter reticulocyte count	8
+High light scatter reticulocyte percentage of red cells	10
+Hip circumference adjusted for BMI	3
+Hypospadias	3
+Ideal cardiovascular health (clinical and behavioural)	2
+Idiopathic intracranial hypertension	7
 Idiopathic membranous nephropathy	1
+Immature fraction of reticulocytes	10
+Inflammatory bowel disease	3
+Initial pursuit acceleration	5
+Initial pursuit acceleration in psychotic disorders	5
 Intelligence (MTAG)	1
+Intraocular pressure	12
+LDL cholesterol	4
+LDL cholesterol levels	2
 Lewy body disease	1
+Lifespan	7
+Lipid metabolism phenotypes	4
+Lipid traits	2
+Lipoprotein (a) levels	2
+Lipoprotein(a) levels adjusted for apolipoprotein(a) isoforms	2
 Lobe attachment (rater-scored or self-reported)	1
+Low density lipoprotein cholesterol	4
+Lung cancer	2
+Lung function (FEV1)	4
+Lung function (FEV1/FVC)	4
+Lung function (FVC)	4
+Lymphocyte counts	5
+Mean corpuscular hemoglobin concentration	8
+Mean corpuscular volume	13
+Mean platelet volume	8
+Melanoma	2
+Menopause (age at onset)	2
 Metabolic syndrome	1
 Metabolic traits	1
 Metabolite levels	1
+Metabolite levels (lipoprotein measures)	2
 Metabolite levels (small molecules and protein measures)	1
 Molar-incisor hypomineralization	1
-Moyamoya disease	1
 Multiple sclerosis	1
+N-terminal pro B-type natriuretic peptide levels	5
 Neuritic plaques or cerebral amyloid angiopathy (pleiotropy)	1
 Neuritic plaques or neurofibrillary tangles (pleiotropy)	1
 Neurofibrillary tangles or cerebral amyloid angiopathy (pleiotropy)	1
+Non-melanoma skin cancer	2
 Non-obstructive azoospermia	1
 Nose size	1
+Obesity	3
+Obesity-related traits	5
 Oral cavity and pharyngeal cancer	1
 Oral cavity cancer	1
+Osteoprotegerin levels	2
 Parental lifespan	1
-Parkinson's disease	1
+Perceived skin darkness	2
 Peripheral arterial disease (traffic-related air pollution interaction)	1
 Plasma omega-6 polyunsaturated fatty acid levels (linoleic acid)	1
+Platelet count	7
 Platelet distribution width	1
+Plateletcrit	7
+Pneumonia	4
+Pulmonary function	4
+Pulmonary function (smoking interaction)	4
+Pulse pressure	2
+Red cell distribution width	4
+Red vs non-red hair color	2
 Response to amphetamines	1
+Response to statins (LDL cholesterol change)	4
+Reticulocyte count	5
+Reticulocyte fraction of red cells	3
 Rheumatoid arthritis	1
+Schizophrenia	4
 Serum metabolite ratios in chronic kidney disease	1
+Serum vitamin D-binding protein levels	2
+Severe malaria	5
 Sex hormone-binding globulin levels	1
+Skin colour saturation	3
+Skin sensitivity to sun	2
 Smoking behavior	1
+Sum basophil neutrophil counts	4
+Sum neutrophil eosinophil counts	4
+Sunburns	2
+Systemic lupus erythematosus	3
 Systemic lupus erythematosus or rheumatoid arthritis	1
 Systemic sclerosis	1
-Thrombosis	1
+Systolic blood pressure	2
+Tanning	2
+Testosterone levels	2
+Thiopurine methyltransferase activity in acute lymphoblastic leukemia patients treated with mercaptopurines	2
+Total cholesterol levels	4
 Total cholesterol levels in HDL	1
-Triglyceride levels	1
 Type 1 diabetes	1
-Venous thromboembolism adjusted for sickle cell variant rs77121243-T	1
+Type 2 diabetes	5
+Ulcerative colitis	4
+Urinary albumin-to-creatinine ratio	5
+Vitamin D levels	2
+Waist-to-hip ratio adjusted for body mass index	3
+Waist circumference	3
 Waist circumference adjusted for BMI (joint analysis main effects and physical activity interaction)	1
 Waist circumference adjusted for BMI (joint analysis main effects and smoking interaction)	1
 Waist circumference adjusted for BMI in inactive individuals	1
