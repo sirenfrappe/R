@@ -10,8 +10,8 @@ for (i in dir("D:/idps/igraph_shortest/igraph_out1")) {
 #data1将所有igraph输出结果按照文件名顺序依次排列放入tibble中
 #这里读mobidb下的文件tibble会报错，改用dataframe
 data2 <- data.frame()
-for (i in dir("D:/idps/script/output/mobidb")) {
-  df <- read.table(str_c("D:/idps/script/output/mobidb/",i),header = T,sep = "\t",quote = NULL,stringsAsFactors = F)
+for (i in dir("D:/idps/script/output/Step5_mobidb")) {
+  df <- read.table(str_c("D:/idps/script/output/Step5_mobidb/",i),header = T,sep = "\t",quote = NULL,stringsAsFactors = F)
   data2 <- rbind(data2,df)
 }
 data2 <- data2[,c(3,6,21)]
@@ -108,7 +108,7 @@ D0_D1 <- mutate(parameter,
                       wilcox.test(D0$betweenness,D1$betweenness)$p.value,
                       wilcox.test(D0$page_rank,D1$page_rank)$p.value)
                 )
-write_csv(D0_D1,"./output/igraph_canshujisuan_1/D0_D1.csv")
+write_csv(D0_D1,"./output/Step8_igraph_canshujisuan_1/D0_D1.csv")
 ###############################################################
 D0_N0 <- mutate(parameter,
                 mean_D0 = t(a[3,3:7])[,1],
@@ -119,7 +119,7 @@ D0_N0 <- mutate(parameter,
                       wilcox.test(D0$betweenness,N0$betweenness)$p.value,
                       wilcox.test(D0$page_rank,N0$page_rank)$p.value)
 )
-write_csv(D0_N0,"./output/igraph_canshujisuan_1/D0_N0.csv")
+write_csv(D0_N0,"./output/Step8_igraph_canshujisuan_1/D0_N0.csv")
 ###############################################################
 D0_N1 <- mutate(parameter,
                 mean_D0 = t(a[3,3:7])[,1],
@@ -130,7 +130,7 @@ D0_N1 <- mutate(parameter,
                       wilcox.test(D0$betweenness,N1$betweenness)$p.value,
                       wilcox.test(D0$page_rank,N1$page_rank)$p.value)
 )
-write_csv(D0_N1,"./output/igraph_canshujisuan_1/D0_N1.csv")
+write_csv(D0_N1,"./output/Step8_igraph_canshujisuan_1/D0_N1.csv")
 ###############################################################
 D1_N0 <- mutate(parameter,
                 mean_D1 = t(a[4,3:7])[,1],
@@ -141,7 +141,7 @@ D1_N0 <- mutate(parameter,
                       wilcox.test(D1$betweenness,N0$betweenness)$p.value,
                       wilcox.test(D1$page_rank,N0$page_rank)$p.value)
 )
-write_csv(D1_N0,"./output/igraph_canshujisuan_1/D1_N0.csv")
+write_csv(D1_N0,"./output/Step8_igraph_canshujisuan_1/D1_N0.csv")
 ###############################################################
 D1_N1 <- mutate(parameter,
                 mean_D1 = t(a[4,3:7])[,1],
@@ -152,7 +152,7 @@ D1_N1 <- mutate(parameter,
                       wilcox.test(D1$betweenness,N1$betweenness)$p.value,
                       wilcox.test(D1$page_rank,N1$page_rank)$p.value)
 )
-write_csv(D1_N1,"./output/igraph_canshujisuan_1/D1_N1.csv")
+write_csv(D1_N1,"./output/Step8_igraph_canshujisuan_1/D1_N1.csv")
 ###############################################################
 N0_N1 <- mutate(parameter,
                 mean_N0 = t(a[1,3:7])[,1],
@@ -163,7 +163,7 @@ N0_N1 <- mutate(parameter,
                       wilcox.test(N0$betweenness,N1$betweenness)$p.value,
                       wilcox.test(N0$page_rank,N1$page_rank)$p.value)
 )
-write_csv(N0_N1,"./output/igraph_canshujisuan_1/N0_N1.csv")
+write_csv(N0_N1,"./output/Step8_igraph_canshujisuan_1/N0_N1.csv")
 #################################################################
 data_PTM_draw <- select(data_PTM,-c(position, residue,transitivity,Modification))
 #加入新列class用于画图
@@ -199,7 +199,7 @@ ggplot(data_PTM_draw,aes(x=classification,y=degree))+
               test = wilcox.test,
               step_increase = 0.1
               )+
-  ggsave("./output/igraph_canshujisuan_1/degree.tiff")
+  ggsave("./output/Step8_igraph_canshujisuan_1/degree.tiff")
 ##closeness
 ggplot(data_PTM_draw,aes(x=classification,y=closeness))+
   geom_boxplot()+
@@ -213,7 +213,7 @@ ggplot(data_PTM_draw,aes(x=classification,y=closeness))+
   test = wilcox.test,
   step_increase = 0.1
   )+
-  ggsave("./output/igraph_canshujisuan_1/closeness.tiff")
+  ggsave("./output/Step8_igraph_canshujisuan_1/closeness.tiff")
 ##eigen_centrality
 ggplot(data_PTM_draw,aes(x=classification,y=eigen_centrality))+
   geom_boxplot()+
@@ -227,7 +227,7 @@ ggplot(data_PTM_draw,aes(x=classification,y=eigen_centrality))+
   test = wilcox.test,
   step_increase = 0.1
   )+
-  ggsave("./output/igraph_canshujisuan_1/eigen_centrality.tiff")
+  ggsave("./output/Step8_igraph_canshujisuan_1/eigen_centrality.tiff")
 ##betweenness
 ggplot(data_PTM_draw,aes(x=classification,y=betweenness))+
   geom_boxplot()+
@@ -241,7 +241,7 @@ ggplot(data_PTM_draw,aes(x=classification,y=betweenness))+
   test = wilcox.test,
   step_increase = 0.1
   )+
-  ggsave("./output/igraph_canshujisuan_1/betweenness.tiff")
+  ggsave("./output/Step8_igraph_canshujisuan_1/betweenness.tiff")
 ##page_rank
 ggplot(data_PTM_draw,aes(x=classification,y=page_rank))+
   geom_boxplot()+
@@ -255,4 +255,4 @@ ggplot(data_PTM_draw,aes(x=classification,y=page_rank))+
   test = wilcox.test,
   step_increase = 0.1
   )+
-  ggsave("./output/igraph_canshujisuan_1/page_rank.tiff")
+  ggsave("./output/Step8_igraph_canshujisuan_1/page_rank.tiff")
