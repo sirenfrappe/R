@@ -1,4 +1,4 @@
-path <- "D:/idps/script/output/mobidb"
+path <- "D:/idps/script/output/Step5_mobidb"
 fileName <- dir(path)
 filePath <- sapply(fileName,function(x){
   paste(path,x,sep = "/")
@@ -90,7 +90,9 @@ wilcox.test(alldata.diease[,22],alldata.normal[,22])
 boxplot(alldata.diease[,22],alldata.normal[,22])
 library(ggplot2)
 ggplot(predict.score,aes(x=A,y=rates))+
-  geom_boxplot()
+  geom_boxplot()+
+  xlab("")+
+  ylab("")
 
 #D、C、S分类计数
 alldata.s <- lapply(data, function(x) {
@@ -131,21 +133,23 @@ library("plyr")
 alldata.factor <- factor(alldata[,22])
 alldata.factor.count <- count(alldata.factor)
 library(ggplot2)
-ggplot(alldata.factor.count,aes(x=alldata.factor.count$x,y=alldata.factor.count$freq))+
+p1 <- ggplot(alldata.factor.count,aes(x=alldata.factor.count$x,y=alldata.factor.count$freq))+
   geom_point()+
   geom_text(label=alldata.factor.count$freq,vjust=-0.5)+
-  xlab("mobidb score")+
-  ylab("counts")
+  xlab("Mobi-lite score")+
+  ylab("counts")+
+  ggtitle("A")
 
 
 alldata.diease.factor.count <- count(factor(alldata.diease[,22]))
-ggplot(alldata.diease.factor.count,aes(x=alldata.diease.factor.count$x,y=alldata.diease.factor.count$freq))+
+p2 <- ggplot(alldata.diease.factor.count,aes(x=alldata.diease.factor.count$x,y=alldata.diease.factor.count$freq))+
   geom_point()+
   geom_text(label=alldata.diease.factor.count$freq,vjust=-0.5)+
-  xlab("mobidb score")+
-  ylab("counts")
-
-
+  xlab("Mobi-lite score")+
+  ylab("counts")+
+  ggtitle("B")
+library("patchwork")
+p1+p2
 #卡方检验
 num.data.normal.diso <- dim(subset(alldata,alldata$RelatedDisease == 0 & alldata$mobidb.disorder.predictors.mobidb.lite.score>0.74))[1]
 num.data.normal.stru <- dim(subset(alldata,alldata$RelatedDisease == 0 & alldata$mobidb.disorder.predictors.mobidb.lite.score<0.74))[1]
