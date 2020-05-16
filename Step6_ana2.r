@@ -1,6 +1,6 @@
 #显著性检验与画图
 
-path <- "D:/idps/script/output/mobidb"
+path <- "D:/idps/script/output/Step5_mobidb"
 fileName <- dir(path)
 filePath <- sapply(fileName, function(x) {
   paste(path, x, sep = "/")
@@ -31,13 +31,15 @@ for (i in 1:122) {
     dim(subset(data[[i]], data[[i]]$Modification != 0))[[1]]
 }
 library(ggplot2)
+library(ggpmisc)
 ggplot(data.lengthANDPTM,
        aes(x = data.lengthANDPTM$length, y = data.lengthANDPTM$num)) +
   geom_point() +
   geom_text(label = data.lengthANDPTM$num, vjust = -0.5) +
   xlab("长度") +
   ylab("个数") +
-  geom_smooth(method = 'auto')
+  geom_smooth(method = 'auto')+
+  stat_poly_eq(aes(label = paste(..eq.label.., ..adj.rr.label.., sep = '~~~~')), formula = y ~ x,parse = T)
 
 #去除蛋白长度对位点个数的影响
 data.rate.normaldisease <- data.frame(matrix(NA, 122, 2))
@@ -73,14 +75,17 @@ wilcox.test(data.rate.normaldisease[,2],data.rate.normaldisease[,1],paired=TRUE,
 
 
 #boxplot
-
+library("plyr")
+library("patchwork")
 library(ggplot2)
 library(reshape2)
 meltdata <- melt(data.rate.normaldisease)
-ggplot(meltdata, aes(x = variable, y = value)) +
+p1 <- ggplot(meltdata, aes(x = variable, y = value)) +
   geom_boxplot() +
   xlab("") +
-  ylab("")
+  ylab("")+
+  ggtitle("A")+
+  theme(axis.text.x = element_text(size = 15),axis.text.y = element_text(size = 12))
 
 #####################
 #######################
@@ -137,10 +142,14 @@ wilcox.test(data.rate.NPTM[, 2], data.rate.NPTM[, 1], paired = TRUE,alternative 
 library(ggplot2)
 library(reshape2)
 meltdata <- melt(data.rate.NPTM)
-ggplot(meltdata, aes(x = variable, y = value)) +
+
+p2 <- ggplot(meltdata, aes(x = variable, y = value)) +
   geom_boxplot() +
   xlab("") +
-  ylab("")
+  ylab("")+
+  ggtitle("B")+
+  scale_x_discrete(labels=c("stru"="normal&stru","diso"="normal&diso"))+
+  theme(axis.text.x = element_text(size = 15),axis.text.y = element_text(size = 12))
 
 
 
@@ -170,10 +179,13 @@ wilcox.test(data.rate.DPTM[, 2], data.rate.DPTM[, 1], paired = TRUE,alternative 
 #p<0.05,疾病相关无序数量＜疾病相关有序数量
 library(ggplot2)
 meltdata <- melt(data.rate.DPTM)
-ggplot(meltdata, aes(x = variable, y = value)) +
+p3 <- ggplot(meltdata, aes(x = variable, y = value)) +
   geom_boxplot() +
   xlab("") +
-  ylab("")
+  ylab("")+
+  ggtitle("C")+
+  scale_x_discrete(labels=c("stru"="disease&stru","diso"="disease&diso"))+
+  theme(axis.text.x = element_text(size = 15),axis.text.y = element_text(size = 12))
 
 
 
@@ -191,7 +203,12 @@ library(ggplot2)
 meltdata <-
   melt(data.frame(disease_disorder = data.rate.DPTM[, 2], normal_disorder =
                     data.rate.NPTM[, 2]))
-ggplot(meltdata, aes(x = variable, y = value)) +
+p4 <- ggplot(meltdata, aes(x = variable, y = value)) +
   geom_boxplot() +
   xlab("") +
-  ylab("")
+  ylab("")+
+  ggtitle("D")+
+  scale_x_discrete(labels=c("disease_disorder"="diso&disease","normal_disorder"="diso&normal"))+
+  theme(axis.text.x = element_text(size = 15),axis.text.y = element_text(size = 12))
+
+p1+p2+p3+p4

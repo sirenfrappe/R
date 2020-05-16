@@ -40,6 +40,10 @@ Disorder_PTM <- filter(data_PTM,mobidb.disorder.predictors.mobidb.lite.score > 0
   select(transitivity:page_rank)
 Structure_PTM <- filter(data_PTM,mobidb.disorder.predictors.mobidb.lite.score < 0.501) %>%
   select(transitivity:page_rank)
+Disease_PTM <- filter(data_PTM,RelatedDisease!=F) %>%
+  select(transitivity:page_rank)
+Normal_PTM <- filter(data_PTM,RelatedDisease==0) %>%
+  select(transitivity:page_rank)
 #采用Wilcox秩和检验比较参数之间是否有差别
 #transitivity
 wilcox.test(D$transitivity,N$transitivity)
@@ -166,18 +170,32 @@ Disorder_Structure_PTM <- mutate(parameter,
                                    wilcox.test(Disorder_PTM$page_rank,Structure_PTM$page_rank)$p.value))
 write_csv(Disorder_Structure_PTM,"./output/Step8_igraph_canshujisuan_2/Disorder_Structure_PTM.csv")
 ################################################################
+mean_Disease_PTM <- summarise(Disease_PTM,
+                               transitivity = mean(transitivity,na.rm = T),
+                               degree = mean(degree),
+                               closeness = mean(closeness),
+                               eigen_centrality = mean(eigen_centrality),
+                               betweenness = mean(betweenness),
+                               page_rank = mean(page_rank))
+mean_Normal_PTM <- summarise(Normal_PTM,
+                                transitivity = mean(transitivity,na.rm = T),
+                                degree = mean(degree),
+                                closeness = mean(closeness),
+                                eigen_centrality = mean(eigen_centrality),
+                                betweenness = mean(betweenness),
+                                page_rank = mean(page_rank))
+Disorder_Structure_PTM <- mutate(parameter,
+                                 mean_Disease_PTM = t(mean_Disease_PTM),
+                                 mean_Normal_PTM = t(mean_Normal_PTM),
+                                 p = c(wilcox.test(Disease_PTM$transitivity,Normal_PTM$transitivity)$p.value,
+                                       wilcox.test(Disease_PTM$degree,Normal_PTM$degree)$p.value,
+                                       wilcox.test(Disease_PTM$closeness,Normal_PTM$closeness)$p.value,
+                                       wilcox.test(Disease_PTM$eigen_centrality,Normal_PTM$eigen_centrality)$p.value,
+                                       wilcox.test(Disease_PTM$betweenness,Normal_PTM$betweenness)$p.value,
+                                       wilcox.test(Disease_PTM$page_rank,Normal_PTM$page_rank)$p.value))
+write_csv(Disorder_Structure_PTM,"./output/Step8_igraph_canshujisuan_2/Disease_Normal_PTM.csv")
 ################################################################
-D_N <- mutate(parameter,
-                mean_D = t(a[3,3:8])[,1],
-                mean_N = t(a[4,3:8])[,1],
-                p = c(wilcox.test(D$transitivity,N$transitivity)$p.value,
-                      wilcox.test(D$degree,N$degree)$p.value,
-                      wilcox.test(D$closeness,N$closeness)$p.value,
-                      wilcox.test(D$eigen_centrality,N$eigen_centrality)$p.value,
-                      wilcox.test(D$betweenness,N$betweenness)$p.value,
-                      wilcox.test(D$page_rank,N$page_rank)$p.value)
-)
-write_csv(D_N,"./output/Step8_igraph_canshujisuan_2/D_N.csv")
+#write_csv(D_N,"./output/Step8_igraph_canshujisuan_2/D_N.csv")
 ###############################################################
 D0_D1 <- mutate(parameter,
                 mean_D0 = t(a[3,3:8])[,1],

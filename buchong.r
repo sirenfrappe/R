@@ -1,4 +1,5 @@
 library(tidyverse)
+library(ggpmisc)
 #读取文件
 data <- tibble()
 for (i in dir("D:/idps/igraph_shortest/shortest_path2")) {
@@ -12,4 +13,5 @@ ggplot(data,aes(x=len,y=meanPath))+
   geom_point()+
   geom_smooth(se=FALSE)+
   xlab("网络节点数")+
-  ylab("平均最短路径")
+  ylab("平均最短路径")+
+  stat_poly_eq(aes(label = paste(..eq.label.., ..adj.rr.label.., sep = '~~~~')), formula = y ~ x,parse = T)
