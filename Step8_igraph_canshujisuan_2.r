@@ -104,6 +104,7 @@ wilcox.test(N0$page_rank,N1$page_rank)
 #将data_PTM最后两列整理，方便summarize()使用
 #倒数第二列0表示疾病无关，1表示疾病有关
 #最后一列0表示无序，1表示有序
+data_PTM <- as.data.frame(data_PTM)
 for (i in 1:2933) {
   if(data_PTM[i,10]!=0){
     data_PTM[i,10] <- 1
@@ -114,11 +115,16 @@ for (i in 1:2933) {
     data_PTM[i,11] <- 1
   }
 }
+data_PTM <- as_tibble(data_PTM)
 #分组，均值
 a <- group_by(data_PTM,RelatedDisease,mobidb.disorder.predictors.mobidb.lite.score) %>%
   summarise(mean(transitivity,na.rm = T),mean(degree),mean(closeness),mean(eigen_centrality),mean(betweenness),mean(page_rank))
 #表格第一列为参数
 parameter <- tibble(parameter=c("transitivity","degree","closeness","eigen_centrality","betweenness","page_rank"))
+library("plyr")
+library("patchwork")
+library(ggplot2)
+library(reshape2)
 ################################################################
 mean_Disorder <- summarise(Disorder,
                            transitivity = mean(transitivity,na.rm = T),
@@ -143,6 +149,7 @@ Disorder_Structure <- mutate(parameter,
                                    wilcox.test(Disorder$eigen_centrality,Structure$eigen_centrality)$p.value,
                                    wilcox.test(Disorder$betweenness,Structure$betweenness)$p.value,
                                    wilcox.test(Disorder$page_rank,Structure$page_rank)$p.value))
+data_plot_DN <- select(data,c(-1,-2,-9))
 write_csv(Disorder_Structure,"./output/Step8_igraph_canshujisuan_2/Disorder_Structure.csv")
 ################################################################
 mean_Disorder_PTM <- summarise(Disorder_PTM,
@@ -375,3 +382,45 @@ ggplot(data_PTM_draw,aes(x=classification,y=page_rank))+
   )+
   ggsave("./output/Step8_igraph_canshujisuan_2/page_rank.tiff")
 
+data <- bind_cols(data1,data2)
+data <- select(data,c(-1,-2,-9))
+
+data <- na.omit(data)
+colnames(data)[c(7,8)] <- c("DN","disorderScore")
+#开启进度条
+library(tcltk)
+pb <- tkProgressBar("进度", "已完成 %", 0, 100)
+for (i in 1:dim(data)[1]) {
+  if(data[i,7]=="0"){
+    data[i,7] <- "Normal"
+  }else{
+    data[i,7] <- "Disease"
+  }
+  info <- sprintf("已完成 %d%%", round(i * 100 / length(dim(data)[1])))
+  setTkProgressBar(pb, i * 100 / length(dim(data)[1]), sprintf("进度 (%s)", info), info)
+}
+
+
+data_plot <- as.data.frame(data) %>%
+  na.omit()
+colnames(data_plot)[c(10,11)] <- c("DN","score") 
+data_plot <- data_plot[,c(-1,-2)]
+as.double(data_plot[,9])
+for (i in 1:dim(data_plot)[1]) {
+  if(data_plot[i,8]=="0"){
+    data_plot[i,8] <- "Normal"
+  }else{
+    data_plot[i,8] <- "disease"
+  }
+  if(data_plot[i,9]>0.5){
+    data_plot[i,10] <- "disorder"
+  }else{
+    data_plot[i,10] <- "structure"
+  }
+}
+data_plot <- data_plot[,-9]
+library(reshape2)
+data_plot2 <- melt(data_plot)
+data_plot2[,2:4] <- as.factor(data_plot2[,2:4])
+ggplot(data_plot2)+
+  geom_plot(aes(x=DN,y=value,))
